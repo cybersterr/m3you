@@ -6939,6 +6939,10 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 
 
 
+# ---------------=== FanCode | Sports ===-------------------
+
+
+
 # ---------------=== Other Channels ===-------------------
 
 
@@ -7667,7 +7671,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== FanCode | Sports ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140848_5647_MLC_BU_FC-Web.png" group-title="FanCode | Sports",ENGLISH- Melbourne City Vs Buriram United
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://allinonereborn.online/fctest/playlists/match_140848/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140797_5979_CHN-W_BDW_fc-Web_1772191702160.jpg" group-title="FanCode | Sports",ENGLISH- China Pr Women Vs Bangladesh Women
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://allinonereborn.online/fctest/playlists/match_140797/english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
