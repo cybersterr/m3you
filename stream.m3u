@@ -6938,7 +6938,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015794/177265200486877_Bliga26_MD17_hamburger_SV_vs_Leverkusen_5mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Hamburger SV vs Bayer Leverkusen - MD 17 - 5 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772697413~acl=/*~id=99431213215612718851174865783335~hmac=92aa494b4942f07f188adcddd29d575989124f0408dcb911ddb0a7bf5f6607c0
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772699833~acl=/*~id=35114709328220099658514278607609~hmac=1c4c6283d42169fe7e420a24f4397d3175af3021d769f7518586954a05483511
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7665,13 +7665,13 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015794/177265200486877_Bliga26_MD17_hamburger_SV_vs_Leverkusen_5mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Hamburger SV vs Bayer Leverkusen - MD 17 - 5 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772696808~acl=/*~id=86039929527226123280735636711844~hmac=83f76160bbf2a3d5e2b060c5970de6a01ff5097210ec50ee0027615bd78bc905
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772698623~acl=/*~id=20787325026142181830091127715129~hmac=1cb60aca4227957a67f9f37803cf0072cdb01af711ae0746e7fc45d57c1a44d4
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131055_5427_RVL_RO_FC-Web.png" group-title="FanCode | Sports",undefined- Rayo Vallecano Vs Real Oviedo
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140524_5806_RS_ATH_FC-Web.jpg" group-title="FanCode | Sports",undefined- Real Sociedad Vs Athletic Club
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/131055_english.m3u8
+https://fanco.vodep39240327.workers.dev/140524_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png" group-title="FanCode | Sports",undefined- Luton Town Vs Northampton Town Fc
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140876_english.m3u8
