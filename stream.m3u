@@ -6938,7 +6938,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261403814412_DP_World_Day1_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 1 - 5 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772752504~acl=/*~id=71062286744725291681950677988959~hmac=a3ec6556b5a4ea7b6bd963467699f7059a6323b7725cc4057e07ff60ce5b28a8
+https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772754320~acl=/*~id=44486817317927506777944738071732~hmac=c8e1ef992c135b095e4eb62c0e35604324c1d830c20c9d085e61f0c49d1d9f3a
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7665,13 +7665,25 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261403814412_DP_World_Day1_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 1 - 5 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772751293~acl=/*~id=31743572276965008937714900668713~hmac=b0162f20a8528f6c7d10de35ba5fbd63658b1c706b5ae19e24257140cac6570e
+https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772753715~acl=/*~id=24754724252729911295565826313062~hmac=f95bc1e5699ba2f03c633d0926b43cd821fe0728a9961bc3cf2258937557fdc0
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140801_5979_IRNW_AUS-W_fc-Web_1772191702199.jpg" group-title="FanCode | Sports",undefined- Ir Iran Women Vs Australia Women
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140452_5956_EBFC_FCG_FC-Web_1772449994533.jpg" group-title="FanCode | Sports",undefined- East Bengal Fc Vs Fc Goa
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140801_english.m3u8
+https://fanco.vodep39240327.workers.dev/140452_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140452_5956_EBFC_FCG_FC-Web_1772449994533.jpg" group-title="FanCode | Sports",undefined- East Bengal Fc Vs Fc Goa
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140452_hindi.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140452_5956_EBFC_FCG_FC-Web_1772449994533.jpg" group-title="FanCode | Sports",undefined- East Bengal Fc Vs Fc Goa
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140452_malayalam.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140452_5956_EBFC_FCG_FC-Web_1772449994533.jpg" group-title="FanCode | Sports",undefined- East Bengal Fc Vs Fc Goa
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140452_bengali.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140452_5956_EBFC_FCG_fc-web_1772688816397.jpg" group-title="FanCode | Sports",undefined- East Bengal Fc Vs Fc Goa
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141090_bengali.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
