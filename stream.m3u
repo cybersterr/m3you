@@ -6938,9 +6938,9 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015830/1772732474234235_IFL26_AIZ_vs_RAJ_5mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Aizawl FC vs Rajasthan United FC - 6 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772845691~acl=/*~id=76634320378978493525241350721386~hmac=1ac7eeb006b84f70c5531bdcb950c44f0cb9f5e99f334f0d1050296936579d8f
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772848724~acl=/*~id=64834522343328863333200573984073~hmac=fe67eed25a053a809e8405fbc3750d7e77c53aaac2002fcf8dcdf4d40a776c6f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261405160412_DP_World_Day2_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 2 - 6 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772845691~acl=/*~id=76634320378978493525241350721386~hmac=1ac7eeb006b84f70c5531bdcb950c44f0cb9f5e99f334f0d1050296936579d8f
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772848724~acl=/*~id=64834522343328863333200573984073~hmac=fe67eed25a053a809e8405fbc3750d7e77c53aaac2002fcf8dcdf4d40a776c6f
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7673,30 +7673,27 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015830/1772732474234235_IFL26_AIZ_vs_RAJ_5mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Aizawl FC vs Rajasthan United FC - 6 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772845691~acl=/*~id=76634320378978493525241350721386~hmac=1ac7eeb006b84f70c5531bdcb950c44f0cb9f5e99f334f0d1050296936579d8f
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772846904~acl=/*~id=86937241955654839910500528437096~hmac=6f075ffe5cc542a59d4b8b20e231230ae7b4dba647479fc61ea95999cdf40fbd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261405160412_DP_World_Day2_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 2 - 6 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772845691~acl=/*~id=76634320378978493525241350721386~hmac=1ac7eeb006b84f70c5531bdcb950c44f0cb9f5e99f334f0d1050296936579d8f
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772846904~acl=/*~id=86937241955654839910500528437096~hmac=6f075ffe5cc542a59d4b8b20e231230ae7b4dba647479fc61ea95999cdf40fbd
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg" group-title="FanCode | Sports",ENGLISH- Mohun Bagan Super Giant Vs Odisha Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140454_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg" group-title="FanCode | Sports",HINDI- Mohun Bagan Super Giant Vs Odisha Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140454_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg" group-title="FanCode | Sports",MALAYALAM- Mohun Bagan Super Giant Vs Odisha Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140454_malayalam.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg" group-title="FanCode | Sports",BENGALI- Mohun Bagan Super Giant Vs Odisha Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140454_bengali.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(2).jpg" group-title="FanCode | Sports",BENGALI- Mohun Bagan Super Giant Vs Odisha Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141169_bengali.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",ENGLISH- Main Feed Day 2
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140992_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",ENGLISH- Featured Group Day 2
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140993_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134039_5609_TAS_VCT_FC-Web.png" group-title="FanCode | Sports",BLOODY_SWEET- Victoria Vs Tasmania
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/134039_bloody_sweet.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134040_5609_SAU_NSW_FC-Web.png" group-title="FanCode | Sports",BLOODY_SWEET- New South Wales Vs South Australia
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/134040_bloody_sweet.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png" group-title="FanCode | Sports",BLOODY_SWEET- Western Australia Vs Queensland
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/134038_bloody_sweet.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
