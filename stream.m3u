@@ -6937,10 +6937,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015830/1772732474234235_IFL26_AIZ_vs_RAJ_5mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Aizawl FC vs Rajasthan United FC - 6 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772851761~acl=/*~id=14081860060184417332166120404641~hmac=6b98abd38f501535614916a345e059e9c8616faec9bee8e6950f99713e9e3d1a
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261405160412_DP_World_Day2_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 2 - 6 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772851761~acl=/*~id=14081860060184417332166120404641~hmac=6b98abd38f501535614916a345e059e9c8616faec9bee8e6950f99713e9e3d1a
+
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7673,9 +7670,9 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015830/1772732474234235_IFL26_AIZ_vs_RAJ_5mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Aizawl FC vs Rajasthan United FC - 6 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772849935~acl=/*~id=84943887171794425786794100712046~hmac=cff36c65c96ce5278e3c09a754b8b30812277a0cf2ad3060f84ad26ffb4ef6d6
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772852371~acl=/*~id=43452164772564174942672628844533~hmac=559936bcc7b0cd37d11617553681aaa083e7e3ba0ffce8eac520f95f52a452e0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261405160412_DP_World_Day2_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 2 - 6 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772849935~acl=/*~id=84943887171794425786794100712046~hmac=cff36c65c96ce5278e3c09a754b8b30812277a0cf2ad3060f84ad26ffb4ef6d6
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772852371~acl=/*~id=43452164772564174942672628844533~hmac=559936bcc7b0cd37d11617553681aaa083e7e3ba0ffce8eac520f95f52a452e0
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -7697,6 +7694,9 @@ https://fanco.vodep39240327.workers.dev/140992_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",ENGLISH- Featured Group Day 2
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140993_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",ENGLISH- Marquee Feed Day 2
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140994_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134039_5609_TAS_VCT_FC-Web.png" group-title="FanCode | Sports",BLOODY_SWEET- Victoria Vs Tasmania
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/134039_bloody_sweet.m3u8
