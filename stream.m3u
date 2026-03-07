@@ -6487,8 +6487,16 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd?__hdn
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015889/1772861697625769_UFC326_Holloway_vs_Oliveira_4mar_eng_landscape_thumb.jpg" group-title="SonyLiv | Sports",UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772969845~acl=/*~id=44976640226644160844647507998711~hmac=9a77f43b4acf10ab57bffb33216839a13da3b9f9e23957a58dcaa788bc9b81b1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015889/1772861697625769_UFC326_Holloway_vs_Oliveira_4mar_eng_landscape_thumb.jpg" group-title="SonyLiv | Sports",UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772969845~acl=/*~id=44976640226644160844647507998711~hmac=9a77f43b4acf10ab57bffb33216839a13da3b9f9e23957a58dcaa788bc9b81b1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015889/1772861697625769_UFC326_Holloway_vs_Oliveira_4mar_eng_landscape_thumb.jpg" group-title="SonyLiv | Sports",UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772969845~acl=/*~id=44976640226644160844647507998711~hmac=9a77f43b4acf10ab57bffb33216839a13da3b9f9e23957a58dcaa788bc9b81b1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015889/1772861697625769_UFC326_Holloway_vs_Oliveira_4mar_eng_landscape_thumb.jpg" group-title="SonyLiv | Sports",UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772969845~acl=/*~id=44976640226644160844647507998711~hmac=9a77f43b4acf10ab57bffb33216839a13da3b9f9e23957a58dcaa788bc9b81b1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015888/1772853133611414_NZw_vs_ZIMw_2ODI_landscape_thumb.jpg" group-title="SonyLiv | Sports",2nd ODI - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772968634~acl=/*~id=66014164345970733046892906513525~hmac=c14fddfdc9ab97759a8f3cd8bc0e9e41cdabb8f4150c4cd3ecc9121ab171f0b7
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772969845~acl=/*~id=44976640226644160844647507998711~hmac=9a77f43b4acf10ab57bffb33216839a13da3b9f9e23957a58dcaa788bc9b81b1
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7221,7 +7229,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015888/1772853133611414_NZw_vs_ZIMw_2ODI_landscape_thumb.jpg" group-title="SonyLiv | Sports",2nd ODI - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772967425~acl=/*~id=04455971439642856422579090223221~hmac=74f07fb4a9cd6832dec35415674fdccf6451e6c51bc64c2a7f6e102917715ef2
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772969240~acl=/*~id=39785722241778909835934393448467~hmac=e4b815863c733b8a68b25317c1c77883e77cf3c3f9cfef3681096e0febc5d021
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -7231,9 +7239,6 @@ https://fanco.vodep39240327.workers.dev/140597_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",ENGLISH- Featured Group Day 3
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140997_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",ENGLISH- Marquee Feed Day 3
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140998_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",ENGLISH- World Feed Day 3
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140999_english.m3u8
@@ -7258,9 +7263,6 @@ https://fanco.vodep39240327.workers.dev/141242_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- F Court Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141241_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg" group-title="FanCode | Sports",ENGLISH- Feature Race
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/139707_english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
