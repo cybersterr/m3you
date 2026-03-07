@@ -6488,7 +6488,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd?__hdn
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015888/1772853133611414_NZw_vs_ZIMw_2ODI_landscape_thumb.jpg" group-title="SonyLiv | Sports",2nd ODI - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772966215~acl=/*~id=21852019419034654332970602855543~hmac=1226241abf0945b251f221faf0a23cbe62ebc233aad86413f94d8cdecc0ce6c9
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772967425~acl=/*~id=04455971439642856422579090223221~hmac=74f07fb4a9cd6832dec35415674fdccf6451e6c51bc64c2a7f6e102917715ef2
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7221,16 +7221,13 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015888/1772853133611414_NZw_vs_ZIMw_2ODI_landscape_thumb.jpg" group-title="SonyLiv | Sports",2nd ODI - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772964404~acl=/*~id=04081229192521928743644648368327~hmac=6a08ac642a4359fd62eacf33a00331b8e7769dbd048a073ca40e259f1ad0f334
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772966215~acl=/*~id=21852019419034654332970602855543~hmac=1226241abf0945b251f221faf0a23cbe62ebc233aad86413f94d8cdecc0ce6c9
 
 # ---------------=== FanCode | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg" group-title="FanCode | Sports",ENGLISH- Zimbabwe Women Vs New Zealand Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140597_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1772160982905/140826_CASACARDS_APP.png" group-title="FanCode | Sports",ENGLISH- Málaga Vs Real Valladolid
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140826_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",ENGLISH- Main Feed Day 3
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140996_english.m3u8
@@ -7246,10 +7243,10 @@ https://fanco.vodep39240327.workers.dev/140999_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- B Court Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141015_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- A Court Feed
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Novak-Djokovic-vs-Kamil-Majchrzak_web.jpg" group-title="FanCode | Sports",ENGLISH- A Court Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141014_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- World Feed
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Novak-Djokovic-vs-Kamil-Majchrzak_web.jpg" group-title="FanCode | Sports",ENGLISH- World Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141013_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- C Court Feed
