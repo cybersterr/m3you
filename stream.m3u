@@ -6487,14 +6487,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd?__hdn
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015889/1772861697625769_UFC326_Holloway_vs_Oliveira_4mar_eng_landscape_thumb.jpg" group-title="SonyLiv | Sports",UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772989241~acl=/*~id=26779168460059588231041624957442~hmac=1b4e2042c00b28a09e75a507d9d64dd91ca1f4b07fff7e81ed0e0275a5f51677
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015889/1772861697625769_UFC326_Holloway_vs_Oliveira_4mar_eng_landscape_thumb.jpg" group-title="SonyLiv | Sports",UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772989241~acl=/*~id=26779168460059588231041624957442~hmac=1b4e2042c00b28a09e75a507d9d64dd91ca1f4b07fff7e81ed0e0275a5f51677
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015889/1772861697625769_UFC326_Holloway_vs_Oliveira_4mar_eng_landscape_thumb.jpg" group-title="SonyLiv | Sports",UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772989241~acl=/*~id=26779168460059588231041624957442~hmac=1b4e2042c00b28a09e75a507d9d64dd91ca1f4b07fff7e81ed0e0275a5f51677
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015889/1772861697625769_UFC326_Holloway_vs_Oliveira_4mar_eng_landscape_thumb.jpg" group-title="SonyLiv | Sports",UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772989241~acl=/*~id=26779168460059588231041624957442~hmac=1b4e2042c00b28a09e75a507d9d64dd91ca1f4b07fff7e81ed0e0275a5f51677
+
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7227,49 +7220,16 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015889/1772861697625769_UFC326_Holloway_vs_Oliveira_4mar_eng_landscape_thumb.jpg" group-title="SonyLiv | Sports",UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772986817~acl=/*~id=96317258661919475543833425210868~hmac=a287b912964ef4ff18e66175bbb3a3eeb4c65314518176dea612a90c1fcd7ccd
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772991058~acl=/*~id=08027658868701618190281716727207~hmac=c0793d9b5cbfb09e530f7ef80547546b0a7c5b6be03cfe6d9089507e302928fb
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015889/1772861697625769_UFC326_Holloway_vs_Oliveira_4mar_eng_landscape_thumb.jpg" group-title="SonyLiv | Sports",UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772986817~acl=/*~id=96317258661919475543833425210868~hmac=a287b912964ef4ff18e66175bbb3a3eeb4c65314518176dea612a90c1fcd7ccd
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772991058~acl=/*~id=08027658868701618190281716727207~hmac=c0793d9b5cbfb09e530f7ef80547546b0a7c5b6be03cfe6d9089507e302928fb
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015889/1772861697625769_UFC326_Holloway_vs_Oliveira_4mar_eng_landscape_thumb.jpg" group-title="SonyLiv | Sports",UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772986817~acl=/*~id=96317258661919475543833425210868~hmac=a287b912964ef4ff18e66175bbb3a3eeb4c65314518176dea612a90c1fcd7ccd
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772991058~acl=/*~id=08027658868701618190281716727207~hmac=c0793d9b5cbfb09e530f7ef80547546b0a7c5b6be03cfe6d9089507e302928fb
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015889/1772861697625769_UFC326_Holloway_vs_Oliveira_4mar_eng_landscape_thumb.jpg" group-title="SonyLiv | Sports",UFC 326 - Holloway vs Oliveira 2  - 8 Mar 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772986817~acl=/*~id=96317258661919475543833425210868~hmac=a287b912964ef4ff18e66175bbb3a3eeb4c65314518176dea612a90c1fcd7ccd
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1772991058~acl=/*~id=08027658868701618190281716727207~hmac=c0793d9b5cbfb09e530f7ef80547546b0a7c5b6be03cfe6d9089507e302928fb
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WPL_web_2.jpg" group-title="FanCode | Sports",ENGLISH- Hong Kong Cricket Club Women Vs Lantau Cricket Club Women
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140612_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WPL_web.jpg" group-title="FanCode | Sports",ENGLISH- Craigengower Cricket Club Women Vs Diasqua Little Sai Wan Cricket Club Women
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140611_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" group-title="FanCode | Sports",ENGLISH- Lightning Legends Vs Nexage Hyderabad
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141257_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140910_5802_AFC_PG_fc-web.jpg" group-title="FanCode | Sports",ENGLISH- Auckland Vs Perth Glory
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140910_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png" group-title="FanCode | Sports",ENGLISH- Western Australia Vs Queensland
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/134038_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- B Court Feed
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141015_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- A Court Feed
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141014_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- World Feed
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141013_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- D Court Feed
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141243_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- F Court Feed
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141241_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg" group-title="FanCode | Sports",ENGLISH- Day 2
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140786_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Australia_web.jpg" group-title="FanCode | Sports",ENGLISH- Race
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/139365_english.m3u8
@@ -7279,6 +7239,30 @@ https://fanco.vodep39240327.workers.dev/139365_hindi.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Australia_web.jpg" group-title="FanCode | Sports",TAMIL- Race
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/139365_tamil.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" group-title="FanCode | Sports",ENGLISH- Lightning Legends Vs Nexage Hyderabad
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141257_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/_Premier-League-T20-2026-2nd-old-card-.jpg" group-title="FanCode | Sports",ENGLISH- Hong Kong Cricket Club Vs United Services Recreation Club
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140619_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg" group-title="FanCode | Sports",ENGLISH- Pakistan Association Cricket Club Vs Diasqua Little Sai Wan Cricket Club
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140618_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png" group-title="FanCode | Sports",ENGLISH- Western Australia Vs Queensland
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/134038_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- A Court Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141014_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- World Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141013_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- D Court Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141243_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg" group-title="FanCode | Sports",ENGLISH- Day 2
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140786_english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
