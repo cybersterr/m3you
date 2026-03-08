@@ -6487,8 +6487,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd?__hdn
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772090514000579_FC_Cup_26_RD5_Leeds-United-vs-Norwich-City_landscape_thumb.jpg" group-title="SonyLiv | Sports",Leeds United vs Norwich City - Round 5 - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773029843~acl=/*~id=27753399274941530786577509261896~hmac=a4c633feb5b264e3330cc1ba83a91f0e8b9d6d4968fcd0fd046f8dc61d0e2078
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015704/1772306230761158_bliga26_MD25_St_Pauli_vs_Frankfurt_28feb_landscape_thumb.jpg" group-title="SonyLiv | Sports",St. Pauli vs Eintracht Frankfurt - MD 25 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773028023~acl=/*~id=87570918274810188065976954168720~hmac=b0460ef64839f7aa4994373971db9b059ff828eb59b29f47b9a74ce1318e1360
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773029843~acl=/*~id=27753399274941530786577509261896~hmac=a4c633feb5b264e3330cc1ba83a91f0e8b9d6d4968fcd0fd046f8dc61d0e2078
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015704/1772306769192158_bliga26_MD25_Union_Berlin_vs_Werder_Bremen_28feb_landscape_thumb.jpg" group-title="SonyLiv | Sports",Union Berlin vs Werder Bremen - MD 25 - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773029843~acl=/*~id=27753399274941530786577509261896~hmac=a4c633feb5b264e3330cc1ba83a91f0e8b9d6d4968fcd0fd046f8dc61d0e2078
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7221,41 +7225,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== VT OTT | SonyLiv ===-------------------
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772090514000579_FC_Cup_26_RD5_Leeds-United-vs-Norwich-City_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Leeds United vs Norwich City - Round 5 - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773028628~acl=/*~id=83182814935190653110604386797524~hmac=1017f4744843c4ef02d8c669dfd9e896e0e2c0620b23cf713e455bc90e5f1dd5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015704/1772306230761158_bliga26_MD25_St_Pauli_vs_Frankfurt_28feb_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",St. Pauli vs Eintracht Frankfurt - MD 25 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773027417~acl=/*~id=63857942864054480760646971929544~hmac=18133fe97471e4089c3f4ddab02a2d3018efdfa513eb22c4e9a82c93bc87100c
-
-# ---------------=== VT OTT | FanCode ===-------------------
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140705_5971_CAY_ARG_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Argentina Vs Cayman Islands
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140705_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140457_5956_MCFC_SCD_FC-Web_1772964019881.jpg" group-title="VT OTT | FanCode",ENGLISH - Mumbai City Fc Vs Sporting Club Delhi
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140457_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140457_5956_MCFC_SCD_FC-Web_1772964019881.jpg" group-title="VT OTT | FanCode",HINDI - Mumbai City Fc Vs Sporting Club Delhi
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140457_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140457_5956_MCFC_SCD_FC-Web_1772964019881.jpg" group-title="VT OTT | FanCode",MALAYALAM - Mumbai City Fc Vs Sporting Club Delhi
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140457_malayalam.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140457_5956_MCFC_SCD_FC-Web_1772964019881.jpg" group-title="VT OTT | FanCode",BENGALI - Mumbai City Fc Vs Sporting Club Delhi
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140457_bengali.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131098_5427_GEF_RB_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Getafe Cf Vs Real Betis
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/131098_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Rangers Vs Celtic
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141045_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="VT OTT | FanCode",ENGLISH - Main Feed Day 4
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141000_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="VT OTT | FanCode",ENGLISH - Marquee Feed Day 4
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141002_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="VT OTT | FanCode",ENGLISH - Featured Group Day 4
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141001_english.m3u8
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773028628~acl=/*~id=83182814935190653110604386797524~hmac=1017f4744843c4ef02d8c669dfd9e896e0e2c0620b23cf713e455bc90e5f1dd5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015704/1772306769192158_bliga26_MD25_Union_Berlin_vs_Werder_Bremen_28feb_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Union Berlin vs Werder Bremen - MD 25 - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773028628~acl=/*~id=83182814935190653110604386797524~hmac=1017f4744843c4ef02d8c669dfd9e896e0e2c0620b23cf713e455bc90e5f1dd5
 
 # ---------------=== Other Channels ===-------------------
 
