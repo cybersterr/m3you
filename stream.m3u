@@ -6488,11 +6488,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd?__hdn
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015831/1772735877577842_IFL26_Diamond_Harbour_FC_vs_Dempo_Sports_Club_5mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Diamond Harbour FC vs Dempo Sports Club - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773012247~acl=/*~id=30123785566874557903171920931015~hmac=90b250c2483afcd84390cea6b642ba7ed7bc118baada27fcb1fc51ee59ab15eb
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773013459~acl=/*~id=21322304381010820571753364275723~hmac=13bbe79b493868c2887e5b8fb7eb3e08a0ce35251cab78ec80250d2b6fff519d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772088112000579_FC_Cup_26_RD5_Fulham-vs-Southampton_landscape_thumb.jpg" group-title="SonyLiv | Sports",Fulham vs Southampton - Round 5 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773012247~acl=/*~id=30123785566874557903171920931015~hmac=90b250c2483afcd84390cea6b642ba7ed7bc118baada27fcb1fc51ee59ab15eb
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773013459~acl=/*~id=21322304381010820571753364275723~hmac=13bbe79b493868c2887e5b8fb7eb3e08a0ce35251cab78ec80250d2b6fff519d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261407532912_DP_World_Day4_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 4 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773012247~acl=/*~id=30123785566874557903171920931015~hmac=90b250c2483afcd84390cea6b642ba7ed7bc118baada27fcb1fc51ee59ab15eb
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773013459~acl=/*~id=21322304381010820571753364275723~hmac=13bbe79b493868c2887e5b8fb7eb3e08a0ce35251cab78ec80250d2b6fff519d
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7225,21 +7225,17 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== VT OTT | SonyLiv ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015831/1772735877577842_IFL26_Diamond_Harbour_FC_vs_Dempo_Sports_Club_5mar_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Diamond Harbour FC vs Dempo Sports Club - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773011034~acl=/*~id=22207583577726668423493667608889~hmac=1c7dd1c0c67437c4edb715a60ec3f5183e49c64daff751fa6bb81cf93cff0aca
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773012852~acl=/*~id=31051911831468847463295569839843~hmac=bd57f9bbfa1a19e39b53d255d72c5220cca9fde4fbf1554888d0517be835d27e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772088112000579_FC_Cup_26_RD5_Fulham-vs-Southampton_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Fulham vs Southampton - Round 5 - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773012852~acl=/*~id=31051911831468847463295569839843~hmac=bd57f9bbfa1a19e39b53d255d72c5220cca9fde4fbf1554888d0517be835d27e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261407532912_DP_World_Day4_Joburg-Open_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Joburg Open Day 4 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773011034~acl=/*~id=22207583577726668423493667608889~hmac=1c7dd1c0c67437c4edb715a60ec3f5183e49c64daff751fa6bb81cf93cff0aca
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773012852~acl=/*~id=31051911831468847463295569839843~hmac=bd57f9bbfa1a19e39b53d255d72c5220cca9fde4fbf1554888d0517be835d27e
 
 # ---------------=== VT OTT | FanCode ===-------------------
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" group-title="VT OTT | FanCode",ENGLISH- Jp Sports Noida Vs A&s Kolkata
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141258_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140807_5979_IRNW_PHI-W_fc-Web_1772191702166.jpg" group-title="VT OTT | FanCode",ENGLISH- Ir Iran Women Vs Philippines Women
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140807_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140806_5979_AUS-W_KOR-W_fc-Web_1772191702169.jpg" group-title="VT OTT | FanCode",ENGLISH- Australia Women Vs Korea Republic Women
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140806_english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
