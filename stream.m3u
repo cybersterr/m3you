@@ -6937,8 +6937,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772107094000579_FC_Cup_26_RD5_West-Ham-United-vs-Brentford_landscape_thumb.jpg" group-title="SonyLiv | Sports",West Ham United vs Brentford - Round 5 - 10 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773136924~acl=/*~id=23179209191672493729753496181786~hmac=f9b33e41e3798a4bd1e8f009ae91d3e1ee27b10fb9362e3424c9aee1a32189fa
+
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7669,19 +7668,8 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1773165654~acl=/*~id=074e70fd-239a-4746-b2e8-69a85d62a730~data=hdntl~hmac=f5c2466a484199c7c0b2de33b7f19bdda0e4c3f687f86ef845e7622a1477c071
 
-# ---------------=== VT OTT | SonyLiv ===-------------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772107094000579_FC_Cup_26_RD5_West-Ham-United-vs-Brentford_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",West Ham United vs Brentford - Round 5 - 10 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773136318~acl=/*~id=90347523154885102850875403347486~hmac=e3c3541d37b1e07a00e2ad92ce4d04178c32b45ba16b8b734543ab1e86ef8d6a
-
 # ---------------=== VT OTT | FanCode ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140708_5971_CAY_MEX_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Mexico Vs Cayman Islands
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140708_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131096_5427_ESL_RO_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Rcd Espanyol Vs Real Oviedo
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/131096_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - C Court Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141021_english.m3u8
