@@ -7676,18 +7676,12 @@ https://fanco.vodep39240327.workers.dev/141021_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - D Court Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141020_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - E Court Feed
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141019_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - A Court Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141252_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - B Court Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141251_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - F Court Feed
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141250_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - World Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141249_english.m3u8
@@ -8031,11 +8025,31 @@ https://player.mrfooll.xyz/295582/vt.mkv?hash=AgADyx
 _________VT 🎬 | Tamil Movies_______
 
 
-#EXTINF:-1 group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://marketplace.canva.com/EAGFGXfhSPI/1/0/1131w/canva-red-yellow-creative-movie-night-flyer-QKLXth_cpRw.jpg" ,#AAY
+#EXTINF:-1 group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://marketplace.canva.com/EAGFGXfhSPI/1/0/1131w/canva-red-yellow-creative-movie-night-flyer-QKLXth_cpRw.jpg" ,AAA
 https://tentkotta.short.gy/aaa.mkv
 
-#EXTINF:-1 type="movie" group-logo="https://m.media-amazon.com/images/M/MV5BZGQxMThlNWEtZGE2My00OTVmLTljYjAtZTc2NWRkYzhhNTAxXkEyXkFqcGc@._V1_.jpg" tvg-logo="" group-title="VT 🎬| Tamil Movies",Jockey (𝗜𝗠𝗗𝗕 8.0 2026  ‧ Adventure\Action\Drama ‧  2h 27m ‧  Director Pragabhal | Writers Pragabhal | Stars 
-Yuvan Krishna ‧ Ridhaan Krishnas ‧ Ammu Abhirami)
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/granny-et00483507-1769497836.jpg" group-title="VT 🎬| Tamil Movies",Granny (𝗜𝗠𝗗𝗕 6.6 2026  ‧ Horror  ‧ 2h 4m Director Vijaya Kumaran| Writers Ku. Karthik  ‧ Vijaya Kumaran| Stars Dileepan  ‧ Gajaraj  ‧ Master Ghanshyam)
+https://tentkotta.short.gy/AgAD0h5945.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiOTBmYjctNzY5Mi00ZjAxLWJmZGUtZDk1ZDljZmNjNzhhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VT 🎬| Tamil Movies",Dear Radhi (𝗜𝗠𝗗𝗕 6.3 2026  ‧ Drama\Romance\Thriller  ‧ 2h 10m Director Praveen K Mani| Writer Praveen K Mani| Stars Mano Ve Kannathasan  ‧ Saravana Vickram  ‧ Rajesh Balachandiran)
+https://tentkotta.short.gy/AgAD2h5960.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDgyZWIxNDgtNzI1MS00YzU4LTk3ZTEtZDIyMDdiZDU4NzNjXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",With Love (𝗜𝗠𝗗𝗕 7.6 2026  ‧ Feel-Good Romance\Romantic Comedy\Comedy\Drama\Romance  ‧ 2h 21m Director Madhan| Writer Madhan| Stars Abishan Jeevinth  ‧ Anaswara Rajan  ‧ Saravanan)
+https://tentkotta.short.gy/AgAD7h5950.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzc1NjQ0Y2YtMTNiYS00YzM3LWI3ZTMtMDQwOTgxNmQ2YmE5XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Subedaar (𝗜𝗠𝗗𝗕 6.2 2026  ‧ Action\Drama  ‧ 2h 25m Director Suresh Triveni| Writers Prajwal Chandrashekar  ‧ Suresh Triveni| Stars Khushbu Sundar  ‧ Saurabh Shukla  ‧ Aditya Rawal)
+https://tentkotta.short.gy/AgADVR5958.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/dark-shades-of-a-secret-et00360698-1692339582.jpg" group-title="VT 🎬| Tamil Movies",Dark Shades of a Secret (𝗜𝗠𝗗𝗕 3.8 2023  ‧ Drama  ‧ 1h 33m Director Vidya Mukundan| Writer Vidya Mukundan| Stars Ravi Das  ‧ Sebin Ganapathiplackal  ‧ Vidya Mukundan)
+https://tentkotta.short.gy/AgADBQ5956.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2ZjllNmUtYzgxZC00MjFmLWFiYmQtZTI5ZjE2MDI2ZDZkXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Messenger (𝗜𝗠𝗗𝗕 8.8 2025  ‧ Drama  ‧ 1h 46m Director Ramesh Elangamani| Writer Ramesh Elangamani| Stars Manisha Jashnani  ‧ Sriram Karthick  ‧ R. Kothandan)
+https://tentkotta.short.gy/AgAD3R5954.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg4NDE2NGEtOTc1OC00YjM3LWE2NjktYWNhZWYzZGFiZGU1XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Ram Abdullah Antony (𝗜𝗠𝗗𝗕 8.5 2025  ‧ Drama  ‧ 2h 2m Director Jayavel| Writer Jayavel| Stars Arnav  ‧ Ajay Arnold  ‧ Chaams)
+https://tentkotta.short.gy/AgADbx5952.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQxMThlNWEtZGE2My00OTVmLTljYjAtZTc2NWRkYzhhNTAxXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Jockey (𝗜𝗠𝗗𝗕 8.0 2026  ‧ Adventure\Action\Drama ‧  2h 27m ‧  Director Pragabhal | Writers Pragabhal | Stars Yuvan Krishna ‧ Ridhaan Krishnas ‧ Ammu Abhirami)
 https://tentkotta.short.gy/AgADXB5924.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIwNGU2ZGQtMWZkOS00YzdiLTkwYzktZjUxYWY4MTkzY2IzXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Gandhi Talks (𝗜𝗠𝗗𝗕 6.6 2026 ‧ Comedy\Drama\Hindi ‧ 2h 10m Director Kishor Pandurang Belekar | Writers Kishor Pandurang Belekar | Stars Vijay Sethupathi ‧ Aditi Rao Hydari ‧ Mahesh Manjrekar)
