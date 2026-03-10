@@ -6938,7 +6938,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015895/1772875382658420_NZw_vs_ZIMw_3ODI_landscape_thumb.jpg" group-title="SonyLiv | Sports",3rd ODI - 11 Mar 2026 [ENG]
-https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773227741~acl=/*~id=36720637059136620408397556081550~hmac=ec984ebcd7feee74e6c74045c1862e4f4498f581380b45c7fde4d9088d1ce1d0
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773228953~acl=/*~id=22450435614324446253302216499156~hmac=1f52ef28d8a929969cba5b28470bd51accb99a21451d2872221de54e1d0f8d57
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7668,6 +7668,11 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1773250440~acl=/*~id=f5e97004-8464-43e0-b270-f333593cbcd5~data=hdntl~hmac=b10696b22813d465cf4a9abdc210b413a69f095f81233b3a02ce928563fca2ea
+
+# ---------------=== VT OTT | SonyLiv ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015895/1772875382658420_NZw_vs_ZIMw_3ODI_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",3rd ODI - 11 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773228953~acl=/*~id=22450435614324446253302216499156~hmac=1f52ef28d8a929969cba5b28470bd51accb99a21451d2872221de54e1d0f8d57
 
 # ---------------=== VT OTT | FanCode ===-------------------
 
