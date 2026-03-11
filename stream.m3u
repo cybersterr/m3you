@@ -6937,8 +6937,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015895/1772875382658420_NZw_vs_ZIMw_3ODI_landscape_thumb.jpg" group-title="SonyLiv | Sports",3rd ODI - 11 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773244091~acl=/*~id=76019575833092682632624549514974~hmac=1b3a19b7a0504dcdb8e6fe7f41fb74b4aab4dc325c2c96641aac8cb0ccb0202d
+
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7669,25 +7668,14 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1773250440~acl=/*~id=f5e97004-8464-43e0-b270-f333593cbcd5~data=hdntl~hmac=b10696b22813d465cf4a9abdc210b413a69f095f81233b3a02ce928563fca2ea
 
-# ---------------=== VT OTT | SonyLiv ===-------------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015895/1772875382658420_NZw_vs_ZIMw_3ODI_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",3rd ODI - 11 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773240458~acl=/*~id=00873883582343901700269239396168~hmac=bfc7f3393c63a5a30780246be6f2e5beb984f238c6ffbcf5732a3822ef80b37b
-
 # ---------------=== VT OTT | FanCode ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg" group-title="VT OTT | FanCode",ENGLISH - New Zealand Women Vs Zimbabwe Women
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web_1772692426912.jpg" group-title="VT OTT | FanCode",ENGLISH - Tasmania Vs New South Wales
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140598_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141094_5954_MONT_CRU_1772957308843.png" group-title="VT OTT | FanCode",ENGLISH - Monterrey Vs Cruz Azul
+https://fanco.vodep39240327.workers.dev/133949_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" group-title="VT OTT | FanCode",ENGLISH - Spj Cargo Delhi Vs Mhkl Banaras
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141094_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - World Feed
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141253_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - A Court Feed
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141023_english.m3u8
+https://fanco.vodep39240327.workers.dev/141263_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png" group-title="VT OTT | FanCode",ENGLISH - Los Angeles Football Club Vs Alajuelense
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141095_english.m3u8
