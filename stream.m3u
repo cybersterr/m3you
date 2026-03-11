@@ -7668,18 +7668,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1773292741~acl=/*~id=92387b80-e354-4b06-bfe1-31686eeda78a~data=hdntl~hmac=bb0c949945d7f91200c7efdfb3980576f84375d006f5298fe1201e07f6004f9d
 
-# ---------------=== VT OTT | FanCode ===-------------------
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" group-title="VT OTT | FanCode",ENGLISH - Spj Cargo Delhi Vs Mhkl Banaras
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141263_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1773210181876/141355_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - Betwa Blasters Vs Saryu Smashers
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141355_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="VT OTT | FanCode",ENGLISH - Delhi Champions Vs Gujarat Tigers
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141188_english.m3u8
-
 # ---------------=== Other Channels ===-------------------
 
 
