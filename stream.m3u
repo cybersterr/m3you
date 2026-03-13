@@ -6938,7 +6938,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016140/1773384099433718_IFC_Rajasthan_United_FC-vs-Namdhari_FC_landscape_thumb.jpg" group-title="SonyLiv | Sports",Rajasthan United FC vs Namdhari FC - 13 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773440324~acl=/*~id=77109330047657178737051708843763~hmac=5181ec6f4632c9a13ff58af3168a35ec78a4b048e5fd2b08f79894407b674441
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773442754~acl=/*~id=29239910553930936492899756021881~hmac=13d8de18f21862c6cd6e9996c5eead9ccdb3dae9a1203cb894d973acfbe91cfa
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7663,6 +7663,11 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1773458523~acl=/*~id=2c5c266e-9831-4b99-a855-f4cf6e3156be~data=hdntl~hmac=e7aaadb35a9765fbe37336bce2302558d55cae4b8760250e0bbcc632d60d4250
 
+# ---------------=== VT OTT | SonyLiv ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016140/1773384099433718_IFC_Rajasthan_United_FC-vs-Namdhari_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Rajasthan United FC vs Namdhari FC - 13 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773441538~acl=/*~id=97680312317447550991751051417694~hmac=654607c5b4e08bee32012cf48b41099935a59d78ab0b06c7a4ac4fd447ed1c78
+
 # ---------------=== VT OTT | FanCode ===-------------------
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg" group-title="VT OTT | FanCode",ENGLISH - Pakistan Vs Bangladesh
@@ -7671,18 +7676,18 @@ https://fanco.vodep39240327.workers.dev/141407_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg" group-title="VT OTT | FanCode",ENGLISH - Act Meteors Vs Western Australia Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/133988_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" group-title="VT OTT | FanCode",ENGLISH - Nexage Hyderabad Vs Ncc Odisha
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" group-title="VT OTT | FanCode",ENGLISH - Ncc Odisha Vs Nexage Hyderabad
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141267_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141359_6007_BB_CC_FC-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Betwa Blasters Vs Chambal Chargers
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141359_6007_BB_CC_FC-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Chambal Chargers Vs Betwa Blasters
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141359_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="VT OTT | FanCode",ENGLISH - Gujarat Tigers Vs Bengal Royals
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141195_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140911_5802_BRB_SYW_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Brisbane Roar Vs Western Sydney Wanderers
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1773379970336/140812_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - Australia Women Vs Dpr Korea Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140911_english.m3u8
+https://fanco.vodep39240327.workers.dev/140812_english.m3u8
 
 # ---------------=== mov ===-------------------
 
