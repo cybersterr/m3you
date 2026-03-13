@@ -7664,12 +7664,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== VT OTT | FanCode ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141318_6002_KSO_ICN_FC-Web_1773297686732.jpg" group-title="VT OTT | FanCode",ENGLISH - Konark Suryas Odisha Vs India Captains
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141307_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141318_6002_KSO_ICN_FC-Web_1773297686732.jpg" group-title="VT OTT | FanCode",HINDI - Konark Suryas Odisha Vs India Captains
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141307_hindi.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Main Feed   Day 2
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141140_english.m3u8
@@ -7682,6 +7676,9 @@ https://fanco.vodep39240327.workers.dev/141141_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - World Feed   Day 2
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141139_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - Doubles   Semi Finals
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141031_english.m3u8
 
 # ---------------=== mov ===-------------------
 
