@@ -7664,15 +7664,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== VT OTT | FanCode ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141100_5954_VAN_SS_1772957308829.png" group-title="VT OTT | FanCode",ENGLISH - Vancouver Whitecaps Fc Vs Seattle Sounders Fc
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141358_6007_HT_GW_FC-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Hindon Titans Vs Ganga Warriors
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141100_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - World Feed
+https://fanco.vodep39240327.workers.dev/141358_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="VT OTT | FanCode",ENGLISH - Rajasthan Emperors Vs Bengal Royals
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141030_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - A Court Feed
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141028_english.m3u8
+https://fanco.vodep39240327.workers.dev/141193_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(9).png" group-title="VT OTT | FanCode",ENGLISH - Day 2
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140788_english.m3u8
