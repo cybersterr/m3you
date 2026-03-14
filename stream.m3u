@@ -6938,13 +6938,13 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016052/1773226772538300_UFC_Fight_Night_Emmett_vs_Vallejos_landscape_thumbnail.jpg" group-title="SonyLiv | Sports",UFC Fight Night - Emmett vs Vallejos - 15 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1773574215~acl=/*~id=97280552517633987157435670093410~hmac=e03920f8aa5c282a3acd928ed59ad0e6d94b10cb467fa95d2f4ebb8edad5f519
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1773575431~acl=/*~id=53058531726314029305765471311754~hmac=214336fb2895c7f63528a3e94cfb3ebe820a6ae7e9d182ea07e3af4accf6dd00
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016052/1773226772538300_UFC_Fight_Night_Emmett_vs_Vallejos_landscape_thumbnail.jpg" group-title="SonyLiv | Sports",UFC Fight Night - Emmett vs Vallejos - 15 Mar 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1773574215~acl=/*~id=97280552517633987157435670093410~hmac=e03920f8aa5c282a3acd928ed59ad0e6d94b10cb467fa95d2f4ebb8edad5f519
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1773575431~acl=/*~id=53058531726314029305765471311754~hmac=214336fb2895c7f63528a3e94cfb3ebe820a6ae7e9d182ea07e3af4accf6dd00
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016052/1773226772538300_UFC_Fight_Night_Emmett_vs_Vallejos_landscape_thumbnail.jpg" group-title="SonyLiv | Sports",UFC Fight Night - Emmett vs Vallejos - 15 Mar 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1773574215~acl=/*~id=97280552517633987157435670093410~hmac=e03920f8aa5c282a3acd928ed59ad0e6d94b10cb467fa95d2f4ebb8edad5f519
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1773575431~acl=/*~id=53058531726314029305765471311754~hmac=214336fb2895c7f63528a3e94cfb3ebe820a6ae7e9d182ea07e3af4accf6dd00
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016052/1773226772538300_UFC_Fight_Night_Emmett_vs_Vallejos_landscape_thumbnail.jpg" group-title="SonyLiv | Sports",UFC Fight Night - Emmett vs Vallejos - 15 Mar 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1773574215~acl=/*~id=97280552517633987157435670093410~hmac=e03920f8aa5c282a3acd928ed59ad0e6d94b10cb467fa95d2f4ebb8edad5f519
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1773575431~acl=/*~id=53058531726314029305765471311754~hmac=214336fb2895c7f63528a3e94cfb3ebe820a6ae7e9d182ea07e3af4accf6dd00
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7669,11 +7669,19 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1773594441~acl=/*~id=d08e33dd-821b-4dd9-955c-4dddd399aeeb~data=hdntl~hmac=ecb89655f051e4ec8701e5b60064113686c598de8a12d22ad2842aa5bbcf4f02
 
+# ---------------=== VT OTT | SonyLiv ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016052/1773226772538300_UFC_Fight_Night_Emmett_vs_Vallejos_landscape_thumbnail.jpg" group-title="VT OTT | SonyLiv",UFC Fight Night - Emmett vs Vallejos - 15 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1773574824~acl=/*~id=71534564959470633180075713026634~hmac=c6c45b810888579382b7f89f7f46f29375b18611545411bfa65772b474c7ee67
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016052/1773226772538300_UFC_Fight_Night_Emmett_vs_Vallejos_landscape_thumbnail.jpg" group-title="VT OTT | SonyLiv",UFC Fight Night - Emmett vs Vallejos - 15 Mar 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1773574824~acl=/*~id=71534564959470633180075713026634~hmac=c6c45b810888579382b7f89f7f46f29375b18611545411bfa65772b474c7ee67
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016052/1773226772538300_UFC_Fight_Night_Emmett_vs_Vallejos_landscape_thumbnail.jpg" group-title="VT OTT | SonyLiv",UFC Fight Night - Emmett vs Vallejos - 15 Mar 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1773574824~acl=/*~id=71534564959470633180075713026634~hmac=c6c45b810888579382b7f89f7f46f29375b18611545411bfa65772b474c7ee67
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016052/1773226772538300_UFC_Fight_Night_Emmett_vs_Vallejos_landscape_thumbnail.jpg" group-title="VT OTT | SonyLiv",UFC Fight Night - Emmett vs Vallejos - 15 Mar 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-UFC/std_lrh-800300010.m3u8?hdnea=exp=1773574824~acl=/*~id=71534564959470633180075713026634~hmac=c6c45b810888579382b7f89f7f46f29375b18611545411bfa65772b474c7ee67
+
 # ---------------=== VT OTT | FanCode ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - Men's Singles: Semi Final
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141032_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Tasmania Vs Queensland
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/134043_english.m3u8
@@ -7683,6 +7691,9 @@ https://fanco.vodep39240327.workers.dev/134042_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - New South Wales Vs Western Australia
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/134041_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="VT OTT | FanCode",ENGLISH - Men's Singles: Semi Final
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141032_english.m3u8
 
 # ---------------=== mov ===-------------------
 
