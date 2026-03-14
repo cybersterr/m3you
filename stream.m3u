@@ -7664,21 +7664,18 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== VT OTT | FanCode ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg" group-title="VT OTT | FanCode",ENGLISH - Sprint
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/139369_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg" group-title="VT OTT | FanCode",ENGLISH - New South Wales Breakers Vs South Australian Scorpions
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/133990_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg" group-title="VT OTT | FanCode",ENGLISH - Victoria Women Vs Queensland Fire
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/133989_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg" group-title="VT OTT | FanCode",ENGLISH - Bahrain Vs Malaysia
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141303_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141360_6007_GT_SS_FC-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Gomti Thunder Vs Saryu Smashers
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141360_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="VT OTT | FanCode",ENGLISH - Punjab Lions Vs Rajasthan Emperors
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141196_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Tasmania Vs Queensland
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/134043_english.m3u8
@@ -7688,15 +7685,15 @@ https://fanco.vodep39240327.workers.dev/134042_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - New South Wales Vs Western Australia
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/134041_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140912_5802_WEL_PG_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Wellington Phoenix Vs Perth Glory
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Central Coast Mariners Vs Adelaide United
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140912_english.m3u8
+https://fanco.vodep39240327.workers.dev/140913_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1773380027049/140813_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - China Pr Women Vs Chinese Taipei Women
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140813_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(9).png" group-title="VT OTT | FanCode",ENGLISH - Day 3
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140789_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web.jpg" group-title="VT OTT | FanCode",ENGLISH - Sprint
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141422_english.m3u8
 
 # ---------------=== mov ===-------------------
 
