@@ -6938,7 +6938,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016149/1773403981265628_IFC_Gokulam_Kerala_FC-vs-Sreenidi_Deccan_FC_landscape_thumb.jpg" group-title="SonyLiv | Sports",Gokulam Kerala FC vs Sreenidi Deccan FC - 14 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773528766~acl=/*~id=49347004462757483460755261435461~hmac=dc6d85f6ab4ef43be7b8518af953e443a849dc4cb4420af525dfb2478b170a79
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773531190~acl=/*~id=19732431211191446384889787581563~hmac=a5957743b69cc157aa1632ac47857e8d3e6dc46d8734ade28b9618cc86d8afb9
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7666,7 +7666,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== VT OTT | SonyLiv ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016149/1773403981265628_IFC_Gokulam_Kerala_FC-vs-Sreenidi_Deccan_FC_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Gokulam Kerala FC vs Sreenidi Deccan FC - 14 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773528161~acl=/*~id=96926370177993993941007705850263~hmac=87f3c672b865851f6f1b3e48b1859fc39dd37b0d0440e727c90726a3c89c6fc1
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773530584~acl=/*~id=53593220929721981450329019701530~hmac=77d43af9884a3a5f8892ee99dc8c0eb62051ac312c99fc8f8cb79a28be236a98
 
 # ---------------=== VT OTT | FanCode ===-------------------
 
@@ -7679,9 +7679,6 @@ https://fanco.vodep39240327.workers.dev/141361_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="VT OTT | FanCode",ENGLISH - Delhi Champions Vs Rajasthan Emperors
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141198_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - Korea Republic Women Vs Uzbekistan Women
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140814_english.m3u8
 
 # ---------------=== mov ===-------------------
 
