@@ -6938,7 +6938,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016185/1773483212603469_bliga26_MD26_Hamburg_SV_vs_FC_Koln_14mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Hamburger SV vs FC Koln - MD 26 - 14 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773555455~acl=/*~id=65528571440696545237500434358719~hmac=a6f8473d57d56adc0ff9704bd2d87a30c31a20706121e00582d2c642881e2c8b
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773557878~acl=/*~id=22596034683896343937788472175397~hmac=bacfb4185fd8f0aae2ff762beb9ebdb32fa417441590b14a67da983106b9ab9e
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7666,19 +7666,13 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== VT OTT | SonyLiv ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016185/1773483212603469_bliga26_MD26_Hamburg_SV_vs_FC_Koln_14mar_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Hamburger SV vs FC Koln - MD 26 - 14 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773554245~acl=/*~id=63782391199702256702827572184601~hmac=e82d74e5a9884c6854ffbe29a89bdc4cfeac2798610aee9ff8727b6e1513ca40
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773557272~acl=/*~id=99058756802235669369510039560297~hmac=852439d3499226bde8bf1181bdc87112f70a0f0034fcdd9a32751000fa028c88
 
 # ---------------=== VT OTT | FanCode ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141308_6002_MSP_ING_FC-Web_1773487500003.jpg" group-title="VT OTT | FanCode",ENGLISH - Mumbai Spartans Vs India Tigers
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131108_5427_RO_VAL_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Real Oviedo Vs Valencia Cf
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141308_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141308_6002_MSP_ING_FC-Web_1773487500003.jpg" group-title="VT OTT | FanCode",HINDI - Mumbai Spartans Vs India Tigers
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141308_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140713_5971_MEX_ARG_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Argentina Vs Mexico
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140713_english.m3u8
+https://fanco.vodep39240327.workers.dev/131108_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1773431102733/141220_CASACARDS_APP.png" group-title="VT OTT | FanCode",ENGLISH - Real Zaragoza Vs Almería
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141220_english.m3u8
@@ -7691,6 +7685,9 @@ https://fanco.vodep39240327.workers.dev/141146_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Featured Groups   Day 3
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141145_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - World Feed   Day 3
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141143_english.m3u8
 
 # ---------------=== mov ===-------------------
 
