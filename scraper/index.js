@@ -9,8 +9,8 @@ const SOURCES = {
   ZEE5_M3U: "https://join-vaathala1-for-more.vodep39240327.workers.dev/zee5.m3u",
   JIO_JSON: "https://raw.githubusercontent.com/sixpg/jio/main/stream.json",
   SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
-  FANCODE_JSON: "https://allinonereborn.online/fctest/json/fancode_latest.json",
-  ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.json",
+  FANCODE_JSON: "https://fanco.vodep39240327.workers.dev/",
+  ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.jso",
   SPORTS_JSON: "https://sports.vodep39240327.workers.dev/sports.json",
 
   LOCAL_JSON: [
