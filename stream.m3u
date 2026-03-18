@@ -6937,10 +6937,18 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016346/1773816354868728_champions_ki_charcha_Barcelona_vs_Newcastle_United_landscape_thumb.jpg" group-title="SonyLiv | Sports",Barcelona vs Newcastle United - Round Of 16 - Leg 2 - 18 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773894824~acl=/*~id=22149259369700432238028169856556~hmac=bb29a960256e56b7b601c6a2dbeae84cdb417a5456ff04f1a65f20179fef26a0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016346/1773816354868728_champions_ki_charcha_Barcelona_vs_Newcastle_United_landscape_thumb.jpg" group-title="SonyLiv | Sports",Barcelona vs Newcastle United - Round Of 16 - Leg 2 - 18 Mar 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773894824~acl=/*~id=22149259369700432238028169856556~hmac=bb29a960256e56b7b601c6a2dbeae84cdb417a5456ff04f1a65f20179fef26a0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016346/1773816354868728_champions_ki_charcha_Barcelona_vs_Newcastle_United_landscape_thumb.jpg" group-title="SonyLiv | Sports",Barcelona vs Newcastle United - Round Of 16 - Leg 2 - 18 Mar 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773894824~acl=/*~id=22149259369700432238028169856556~hmac=bb29a960256e56b7b601c6a2dbeae84cdb417a5456ff04f1a65f20179fef26a0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016346/1773816354868728_champions_ki_charcha_Barcelona_vs_Newcastle_United_landscape_thumb.jpg" group-title="SonyLiv | Sports",Barcelona vs Newcastle United - Round Of 16 - Leg 2 - 18 Mar 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773894824~acl=/*~id=22149259369700432238028169856556~hmac=bb29a960256e56b7b601c6a2dbeae84cdb417a5456ff04f1a65f20179fef26a0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016105/1773040631802489_UEL_26_R-16-Leg-2_Braga-vs-Ferencvaros_landscape_thumb.jpg" group-title="SonyLiv | Sports",Braga vs Ferencvaros - Round of 16 - Leg 2 - 18 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773889963~acl=/*~id=32410273728087048258492645702945~hmac=0b6fa334d6d2d53df8af37fac4605c8e2424d9bb8fceca0fb5031c1802cbc366
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773894824~acl=/*~id=22149259369700432238028169856556~hmac=bb29a960256e56b7b601c6a2dbeae84cdb417a5456ff04f1a65f20179fef26a0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016254/1773656924807712_UYL_QF_Inter-vs-Benfica_live_landscape_thumb.jpg" group-title="SonyLiv | Sports",Inter vs Benfica - 18 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773889963~acl=/*~id=32410273728087048258492645702945~hmac=0b6fa334d6d2d53df8af37fac4605c8e2424d9bb8fceca0fb5031c1802cbc366
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773894824~acl=/*~id=22149259369700432238028169856556~hmac=bb29a960256e56b7b601c6a2dbeae84cdb417a5456ff04f1a65f20179fef26a0
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -6948,8 +6956,6 @@ https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010
 https://fanco.vodep39240327.workers.dev/141313_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141313_6002_ICN_ING_FC-Web_1773487500216.jpg" group-title="FanCode | Sports",India Captains Vs India Tigers
 https://fanco.vodep39240327.workers.dev/141313_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" group-title="FanCode | Sports",Eagles Xi Vs Uganda
-https://fanco.vodep39240327.workers.dev/141446_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="FanCode | Sports",World Feed
 https://fanco.vodep39240327.workers.dev/141034_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="FanCode | Sports",G Court Feed
