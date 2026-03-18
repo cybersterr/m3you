@@ -6941,10 +6941,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="FanCode | Sports",Delhi Champions Vs Tamil Nadu Titans
-https://fanco.vodep39240327.workers.dev/141209_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141369_6007_MM_GT_FC-Web.jpg" group-title="FanCode | Sports",Manorama Marvels Vs Gomti Thunder
 https://fanco.vodep39240327.workers.dev/141369_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="FanCode | Sports",Punjab Lions Vs Chennai Warlords
+https://fanco.vodep39240327.workers.dev/141210_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1773823636354/140817_CASACARDS_APP.png" group-title="FanCode | Sports",Korea Republic Women Vs Japan Women
 https://fanco.vodep39240327.workers.dev/140817_english.m3u8
 
