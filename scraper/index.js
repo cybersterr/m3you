@@ -12,9 +12,7 @@ const SOURCES = {
   FANCODE_JSON: "https://fanco.vodep39240327.workers.dev/",
   ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.jso",
   SPORTS_JSON: "https://sports.vodep39240327.workers.dev/sports.json",
-
-  SONGHAR_SONYLIV: "https://raw.githubusercontent.com/Sflex0719/SonGharLive/main/SL.m3u",
-
+  SONYLIV_M3U: "https://raw.githubusercontent.com/ytyou4777/sony-playlist/main/SONY.m3u",
   NEW_M3U: "https://vt-ip.vodep39240327.workers.dev/playlist.m3u8?url=http://jiotv.be/stalker_portal/c&mac=00:1A:79:97:55:B9&deviceId1=B8F453DCDAEE02318C9FA912D9E409EE96B75AE592A70B526AA84478533C0A66&deviceId2=B8F453DCDAEE02318C9FA912D9E409EE96B75AE592A70B526AA84478533C0A66&sn=500482917046B",
 
   LOCAL_JSON: [
