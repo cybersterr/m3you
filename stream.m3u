@@ -16762,8 +16762,7 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648806296805_IFC_Sreenidi_Deccan_FC_vs_Namdhari_FC_landscape_thumb.jpg" group-title="SonyLiv | Sports",Sreenidi Deccan FC vs Namdhari FC - 19 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773973652~acl=/*~id=68776844543728421226470057577138~hmac=66634ae6fa764bc9e665585411fe79d97276fcd4a58488389345716a1f37ba75
+
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -16797,6 +16796,12 @@ https://fanco.vodep39240327.workers.dev/141457_english.m3u8
 https://fanco.vodep39240327.workers.dev/141532_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="FanCode | Sports",I Court Feed
 https://fanco.vodep39240327.workers.dev/141531_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="FanCode | Sports",World Feed
+https://fanco.vodep39240327.workers.dev/141036_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="FanCode | Sports",D Court Feed
+https://fanco.vodep39240327.workers.dev/141458_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="FanCode | Sports",C Court Feed
+https://fanco.vodep39240327.workers.dev/141456_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
