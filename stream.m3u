@@ -16771,10 +16771,20 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648994019805_IFC_Aizawl_FC-vs-Diamond_Harbour_FC_landscape_thumb.jpg" group-title="SonyLiv | Sports",Aizawl FC vs Diamond Harbour FC - 20 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774058596~acl=/*~id=63964951638001412875397027749896~hmac=23d6aef2b8964ee8911581879be9ce8a602ead07fbedac0dba8a074e03f63c8c
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774061627~acl=/*~id=76866034087482174779702746816445~hmac=28fc921cf6d4cd2674b9ef049e125d13c115020dcc0a7e93bb9ba1bb91d72984
 
 # ---------------=== FanCode | Sports ===-------------------
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg" group-title="FanCode | Sports",Mohun Bagan Super Giant Vs Mumbai City Fc
+https://fanco.vodep39240327.workers.dev/140468_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg" group-title="FanCode | Sports",Mohun Bagan Super Giant Vs Mumbai City Fc
+https://fanco.vodep39240327.workers.dev/140468_hindi.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg" group-title="FanCode | Sports",Mohun Bagan Super Giant Vs Mumbai City Fc
+https://fanco.vodep39240327.workers.dev/140468_malayalam.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140468_5956_MBSG_MCFC_FC-Web_1772451868119.jpg" group-title="FanCode | Sports",Mohun Bagan Super Giant Vs Mumbai City Fc
+https://fanco.vodep39240327.workers.dev/140468_bengali.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141180_5973_MBSG_MCFC_fc-web.jpg" group-title="FanCode | Sports",Mohun Bagan Super Giant Vs Mumbai City Fc
+https://fanco.vodep39240327.workers.dev/141180_bengali.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" group-title="FanCode | Sports",Brazil Gp
 https://fanco.vodep39240327.workers.dev/139927_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="FanCode | Sports",Marquee Feed   Day 2	
@@ -16795,6 +16805,10 @@ https://fanco.vodep39240327.workers.dev/141463_english.m3u8
 https://fanco.vodep39240327.workers.dev/141534_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="FanCode | Sports",G Court Feed
 https://fanco.vodep39240327.workers.dev/141535_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="FanCode | Sports",World Feed
+https://fanco.vodep39240327.workers.dev/141038_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" group-title="FanCode | Sports",C Court Feed
+https://fanco.vodep39240327.workers.dev/141465_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
