@@ -16771,12 +16771,18 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015779/1772437592337634_BLIGA_26_MD28_Dortmund-vs-Hamburger-SV_landscape_thumb.jpg" group-title="SonyLiv | Sports",Borussia Dortmund vs Hamburger SV - MD 27 - 21 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774156141~acl=/*~id=01185380577539113069608403702696~hmac=10dd8b990233453e8c639d29f80dc8fa58d7a752cb0485d2b68d076fcfdca360
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774157959~acl=/*~id=18072542237248881993625464203655~hmac=faae37be6250be496139d613e63e916804fd89816480fdca1b7912c838063c5c
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131116_5427_ESL_GEF_FC-Web.png" group-title="FanCode | Sports",Rcd Espanyol Vs Getafe Cf
-https://fanco.vodep39240327.workers.dev/131116_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140958_5489_SWA_CVC_fc-web.jpg" group-title="FanCode | Sports",Swansea City A.f.c. Vs Coventry City F.c.
+https://fanco.vodep39240327.workers.dev/140958_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131117_5427_LE_RO_FC-Web.png" group-title="FanCode | Sports",Levante Vs Real Oviedo
+https://fanco.vodep39240327.workers.dev/131117_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131111_5427_OSN_GIR_FC-Web.png" group-title="FanCode | Sports",Ca Osasuna Vs Girona Fc
+https://fanco.vodep39240327.workers.dev/131111_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1773431102733/141409_CASACARDS_APP.png" group-title="FanCode | Sports",Cádiz Vs Málaga
+https://fanco.vodep39240327.workers.dev/141409_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" group-title="FanCode | Sports",Brazil Gp
 https://fanco.vodep39240327.workers.dev/139928_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="FanCode | Sports",Main Feed   Day 3	
