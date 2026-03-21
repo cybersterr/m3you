@@ -15441,7 +15441,7 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015779/1772437592337634_BLIGA_26_MD28_Dortmund-vs-Hamburger-SV_landscape_thumb.jpg" group-title="SonyLiv | Sports",Borussia Dortmund vs Hamburger SV - MD 27 - 21 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774158566~acl=/*~id=57053213813668474408542521746204~hmac=21d9fa4ca9e6a1c251f625be6b2070c5f9f45a8660f6585bd658f2f9f7f7dd40
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774160992~acl=/*~id=64669086086768244235167365344436~hmac=e61220ac6d5949fa9bf131d34cc2a68758a9bcc763ee69297f4befee5e3b6375
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -15467,8 +15467,6 @@ https://fanco.vodep39240327.workers.dev/141399_english.m3u8
 https://fanco.vodep39240327.workers.dev/141042_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="FanCode | Sports",B Court Feed
 https://fanco.vodep39240327.workers.dev/141469_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="FanCode | Sports",F Court Feed
-https://fanco.vodep39240327.workers.dev/141468_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="FanCode | Sports",D Court Feed
 https://fanco.vodep39240327.workers.dev/141467_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="FanCode | Sports",E Court Feed
@@ -15477,6 +15475,8 @@ https://fanco.vodep39240327.workers.dev/141466_english.m3u8
 https://fanco.vodep39240327.workers.dev/141041_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="FanCode | Sports",World Feed   Day 3	
 https://fanco.vodep39240327.workers.dev/141400_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="FanCode | Sports",C Court Feed
+https://fanco.vodep39240327.workers.dev/141470_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
