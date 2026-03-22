@@ -15441,16 +15441,12 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016421/1773970017958830_NZvsSA26_4thT20I_20mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",4th T20I - 22 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1774214363~acl=/*~id=61266016097491488939389129009292~hmac=6d496d715e732fff4f2bf1b2d3fdb0c3225dbc8cc653c37c105a24e3f964698c
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1774216201~acl=/*~id=69453564008205460259701248817867~hmac=04f29b2ecf8f10a6ef743a1fb90c722ff45b395d9b803d8fd4b5bbfdac3acf0d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016394/1773922645704180_Golf_SA_Day4_landscape_thumb.jpg" group-title="SonyLiv | Sports",Day 4 - 22 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774214363~acl=/*~id=61266016097491488939389129009292~hmac=6d496d715e732fff4f2bf1b2d3fdb0c3225dbc8cc653c37c105a24e3f964698c
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1774216201~acl=/*~id=69453564008205460259701248817867~hmac=04f29b2ecf8f10a6ef743a1fb90c722ff45b395d9b803d8fd4b5bbfdac3acf0d
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg" group-title="FanCode | Sports",South Africa Vs New Zealand
-https://fanco.vodep39240327.workers.dev/141064_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141338_6005_DTA_JR_fc-Web_1773994359711.jpg" group-title="FanCode | Sports",Delhi Titans Vs Jaipur Royals
-https://fanco.vodep39240327.workers.dev/141338_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141377_6007_MM_CC_FC-Web.jpg" group-title="FanCode | Sports",Manorama Marvels Vs Chambal Chargers
 https://fanco.vodep39240327.workers.dev/141377_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141339_6005_CML_ALA_fc-Web_1773994359668.jpg" group-title="FanCode | Sports",Chennai Marvels Vs Ahmedabad Lions
