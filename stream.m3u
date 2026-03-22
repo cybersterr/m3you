@@ -15440,30 +15440,21 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016423/1773977174347113_NZwvsSAw26_4th_T20I_20mar_landscape.jpg" group-title="SonyLiv | Sports",4th T20I - 22 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1774188877~acl=/*~id=19681967948836888632698673348701~hmac=e7d9f646519a2b428a35ab69fb55ad7b0878f4662cc6615485c21b716c185c22
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png" group-title="FanCode | Sports",Sevilla Fc Vs Valencia Cf
-https://fanco.vodep39240327.workers.dev/131118_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1773431102732/141410_CASACARDS_APP.png" group-title="FanCode | Sports",Deportivo Alaves Vs Real Zaragoza
-https://fanco.vodep39240327.workers.dev/141410_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="FanCode | Sports",Featured Groups   Day 3	
-https://fanco.vodep39240327.workers.dev/141397_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg" group-title="FanCode | Sports",South Africa Women Vs New Zealand Women
+https://fanco.vodep39240327.workers.dev/141069_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="FanCode | Sports",World Feed
 https://fanco.vodep39240327.workers.dev/141042_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="FanCode | Sports",B Court Feed
-https://fanco.vodep39240327.workers.dev/141469_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="FanCode | Sports",D Court Feed
 https://fanco.vodep39240327.workers.dev/141467_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="FanCode | Sports",E Court Feed
-https://fanco.vodep39240327.workers.dev/141466_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="FanCode | Sports",A Court Feed
 https://fanco.vodep39240327.workers.dev/141041_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="FanCode | Sports",World Feed   Day 3	
-https://fanco.vodep39240327.workers.dev/141400_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" group-title="FanCode | Sports",C Court Feed
-https://fanco.vodep39240327.workers.dev/141470_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(10).png" group-title="FanCode | Sports",Day 2
+https://fanco.vodep39240327.workers.dev/140793_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
