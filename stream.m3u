@@ -15440,10 +15440,8 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774347355346257_EQ26_Playoffs_Semifinal_Czechia_vs_Republic_of_Ireland_24mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Czechia vs Republic of Ireland - Playoff Semi-finals - 27 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/EQ_Czech2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774607995~acl=/*~id=99706729087125160050455251643422~hmac=9220f384253c63565bb50ca6909a97fec071e547e354d631861b8302a342681a
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345776128257_EQ26_Playoffs_Semifinal_Wales_vs_Bosnia_Herzegovina_24mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Wales vs Bosnia-Herzegovina - Playoff Semi-finals - 27 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022316/EQ_Wales2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774607995~acl=/*~id=99706729087125160050455251643422~hmac=9220f384253c63565bb50ca6909a97fec071e547e354d631861b8302a342681a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774042943880735_INT_Friendlies26_Croatia_vs_Colombia_20mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Croatia vs Colombia - 27 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037140/IntlFrd_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774609207~acl=/*~id=68104234481880233631916181810156~hmac=2c77c2fa96f290dcf613f5b5e221f6731754bedf03a6f9260e6d07b742b19fc1
 
 # ---------------=== FanCode | Sports ===-------------------
 
