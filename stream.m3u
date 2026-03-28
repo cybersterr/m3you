@@ -15448,15 +15448,16 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435941895737_DP_World_Tour26_Hero_Indian_Open_day3_24mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Hero Indian Open Day 3 - 28 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/IndiaOpe2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774741870~acl=/*~id=85411730881519431217561351228317~hmac=23a145e9be3e30345ea8d7ecdc05c6a679303115a2988de6cefbf68224d1b458
+
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/10_Tanzania-vs-Saint-Helena_1774006032291.png" group-title="FanCode | Sports",Tanzania Vs Saint Helena
-https://fanco.vodep39240327.workers.dev/140982_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141162_5826_EVE-W_LIV-W_FC-Web.jpg" group-title="FanCode | Sports",Everton Women Vs Liverpool Women
 https://fanco.vodep39240327.workers.dev/141162_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg" group-title="FanCode | Sports",Harrogate Town Vs Notts County
+https://fanco.vodep39240327.workers.dev/141425_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="FanCode | Sports",Featured Groups Day 3
+https://fanco.vodep39240327.workers.dev/141596_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
