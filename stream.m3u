@@ -15449,7 +15449,7 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435941895737_DP_World_Tour26_Hero_Indian_Open_day3_24mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Hero Indian Open Day 3 - 28 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/IndiaOpe2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774735809~acl=/*~id=13725567677073450051152817411942~hmac=2cb635371d8af3e4f25f5ce556e4df397feafa3dd0d0cb1083f52a54385e0c51
+https://sonydaimenew.akamaized.net/hls/live/2022318/IndiaOpe2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774738233~acl=/*~id=07102456026932994974277848361672~hmac=59b56e22e79fb18e97019febf4970d6bc00fe9813f6028d477d8b0cf552fcd57
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -15457,8 +15457,6 @@ https://sonydaimenew.akamaized.net/hls/live/2022318/IndiaOpe2803/ENG/std_lrh-800
 https://fanco.vodep39240327.workers.dev/141653_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/10_Tanzania-vs-Saint-Helena_1774006032291.png" group-title="FanCode | Sports",Tanzania Vs Saint Helena
 https://fanco.vodep39240327.workers.dev/140982_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774667324847/141216_CASACARDS_APP.png" group-title="FanCode | Sports",Naegohyang Women S Fc Vs Ho Chi Minh City Women
-https://fanco.vodep39240327.workers.dev/141216_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
