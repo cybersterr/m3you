@@ -15448,10 +15448,8 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016575/177443678492745_U23_Tri_Nation_Champ26_india_vs_Bhutan_25mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",India vs Bhutan - 28 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/U23_Indi2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774754033~acl=/*~id=69114022188801464039906842351768~hmac=55d35010002bcb6af88b119ad18b0713c27da8010db6209b730941fbc1c7baf5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774569111672686_INT_Friendlies26_San_Marino_vs_Faroe_Islands_27mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",San Marino vs Faroe Islands - 28 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/SanMarin2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774754033~acl=/*~id=69114022188801464039906842351768~hmac=55d35010002bcb6af88b119ad18b0713c27da8010db6209b730941fbc1c7baf5
+https://sonydaimenew.akamaized.net/hls/live/2022320/SanMarin2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774755853~acl=/*~id=46276804604327633420724444895169~hmac=ba559d5d9ac009e9cdda224596a9faed92a6cd63cc832c7d9b7a53dee41055e6
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -15459,8 +15457,6 @@ https://sonydaimenew.akamaized.net/hls/live/2022320/SanMarin2803/ENG/std_lrh-800
 https://fanco.vodep39240327.workers.dev/140984_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/12_Seychelles-vs-Malawi_1774006032276.png" group-title="FanCode | Sports",Seychelles Vs Malawi
 https://fanco.vodep39240327.workers.dev/140983_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141163_5826_MUN-W_MCI-W_FC-Web.jpg" group-title="FanCode | Sports",Manchester United Women Vs Manchester City Women
-https://fanco.vodep39240327.workers.dev/141163_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="FanCode | Sports",Featured Groups Day 3
 https://fanco.vodep39240327.workers.dev/141596_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="FanCode | Sports",Main Feed Day 3
