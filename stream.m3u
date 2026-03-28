@@ -15449,12 +15449,14 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435941895737_DP_World_Tour26_Hero_Indian_Open_day3_24mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Hero Indian Open Day 3 - 28 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/IndiaOpe2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774739444~acl=/*~id=53214503097192719722651693227793~hmac=10cff1dc1f4b5c4b8e4e14ad54336830a876a74137585be749d93c7abedc6faf
+https://sonydaimenew.akamaized.net/hls/live/2022318/IndiaOpe2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774741262~acl=/*~id=23376809595114774321810551408174~hmac=360d0d29dc459663fe34f5627fdff49642524a3460907864a0171be7c77142b0
 
 # ---------------=== FanCode | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/10_Tanzania-vs-Saint-Helena_1774006032291.png" group-title="FanCode | Sports",Tanzania Vs Saint Helena
 https://fanco.vodep39240327.workers.dev/140982_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141162_5826_EVE-W_LIV-W_FC-Web.jpg" group-title="FanCode | Sports",Everton Women Vs Liverpool Women
+https://fanco.vodep39240327.workers.dev/141162_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
