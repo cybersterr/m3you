@@ -10547,9 +10547,9 @@ https://vt-ip.vodep39240327.workers.dev/6209.m3u8
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774102318265959_INT_Friendlies26_Lithuania_vs_Georgia_20mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Lithuania vs Georgia - 29 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Lithuani2903/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774835289~acl=/*~id=01515556775902255986711831303018~hmac=6b7ce68587244bce02122e6785a8bf1d9482b1772ea6fedb0ff35e9262f2c37a
+https://sonydaimenew.akamaized.net/hls/live/2018457/Lithuani2903/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774837714~acl=/*~id=88859193525587212335444909133543~hmac=07a6baa2a3ee688abc19981b3491650dc242ec2418d86c666cbd8993e8d679ab
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774103639842735_INT_Friendlies26_Armenia_vs_Belarus_20mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Armenia vs Belarus - 29 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/ArmeniaV2903/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774835289~acl=/*~id=01515556775902255986711831303018~hmac=6b7ce68587244bce02122e6785a8bf1d9482b1772ea6fedb0ff35e9262f2c37a
+https://sonydaimenew.akamaized.net/hls/live/2018458/ArmeniaV2903/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774837714~acl=/*~id=88859193525587212335444909133543~hmac=07a6baa2a3ee688abc19981b3491650dc242ec2418d86c666cbd8993e8d679ab
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -10565,6 +10565,8 @@ https://fanco.vodep39240327.workers.dev/141598_english.m3u8
 https://fanco.vodep39240327.workers.dev/141601_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="FanCode | Sports",Houston, Vs Texas
 https://fanco.vodep39240327.workers.dev/141600_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="FanCode | Sports",Houston, Vs Texas
+https://fanco.vodep39240327.workers.dev/141599_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
