@@ -10552,6 +10552,12 @@ https://vt-ip.vodep39240327.workers.dev/6209.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/13_Seychelles-vs-Eswatini_1774006032282.png" group-title="FanCode | Sports",Seychelles Vs Eswatini
 https://fanco.vodep39240327.workers.dev/140985_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141166_5826_CHE-W_AST-W_FC-Web.jpg" group-title="FanCode | Sports",Chelsea F C Women Vs Aston Villa Women
+https://fanco.vodep39240327.workers.dev/141166_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141165_5826_WHU-W_LCL_FC-Web.jpg" group-title="FanCode | Sports",West Ham United Women Vs London City Lionesses
+https://fanco.vodep39240327.workers.dev/141165_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774667324817/141218_CASACARDS_APP.png" group-title="FanCode | Sports",Wuhan Jiangda Women Vs Suwon Fc
+https://fanco.vodep39240327.workers.dev/141218_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
