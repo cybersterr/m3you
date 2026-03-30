@@ -10556,7 +10556,8 @@ https://vt-ip.vodep39240327.workers.dev/6209.m3u8
 
 # ---------------=== FanCode | Sports ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="FanCode | Sports",Bucharest, Vs Romania
+https://fanco.vodep39240327.workers.dev/141286_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
