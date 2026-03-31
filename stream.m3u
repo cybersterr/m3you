@@ -4647,7 +4647,7 @@ https://vt-ip.vodep39240327.workers.dev/2705.m3u8
 https://vt-ip.vodep39240327.workers.dev/2868.m3u8
 #EXTINF:-1 tvg-id="2869" tvg-logo="" group-title="CS WORLD | PUNJABI",MEHAK TV HD
 https://vt-ip.vodep39240327.workers.dev/2869.m3u8
-#EXTINF:-1 tvg-id="2620" tvg-logo="" group-title="CS WORLD | SPORTS | PPV EVENTS",PPV EVENT 01: 8pm WWE Monday Night RAW
+#EXTINF:-1 tvg-id="2620" tvg-logo="" group-title="CS WORLD | SPORTS | PPV EVENTS",PPV EVENT 01: NO EVENT
 https://vt-ip.vodep39240327.workers.dev/2620.m3u8
 #EXTINF:-1 tvg-id="2621" tvg-logo="" group-title="CS WORLD | SPORTS | PPV EVENTS",PPV EVENT 02: NO EVENT
 https://vt-ip.vodep39240327.workers.dev/2621.m3u8
@@ -15411,27 +15411,20 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Kadak_MOB/WDVLive/index.mpd?__hdnea__=st=
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016575/177443677376145_U23_Tri_Nation_Champ26_india_vs_Tajikistan_25mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",India vs Tajikistan - 31 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/IndiaVsT3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775016490~acl=/*~id=05908192719521902735201960357231~hmac=937632038853da3f8f61e8f590c6722417f54d7b7ca7903ace73b5f289e1dc01
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774112028828959_INT_Friendlies26_Norway_vs_Switzerland_20mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Norway vs Switzerland - 31 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/Norway_v3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775016490~acl=/*~id=05908192719521902735201960357231~hmac=937632038853da3f8f61e8f590c6722417f54d7b7ca7903ace73b5f289e1dc01
+https://sonydaimenew.akamaized.net/hls/live/2022318/Norway_v3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775020150~acl=/*~id=44685964835267553025621458609099~hmac=56ea8009e03b8da3031c282094e84ca95b7e9108f9ff891ee4d2dd1404f6d76d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774112406797959_INT_Friendlies26_Hungary_vs_Greece_20mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Hungary vs Greece - 31 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022319/Hungary_3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775020150~acl=/*~id=44685964835267553025621458609099~hmac=56ea8009e03b8da3031c282094e84ca95b7e9108f9ff891ee4d2dd1404f6d76d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774569511446686_INT_Friendlies26_Serbia_vs_Saudi_Arabia_27mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Serbia vs Saudia Arabia - 31 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Serbia_v3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775016490~acl=/*~id=05908192719521902735201960357231~hmac=937632038853da3f8f61e8f590c6722417f54d7b7ca7903ace73b5f289e1dc01
+https://sonydaimenew.akamaized.net/hls/live/2022315/Serbia_v3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775020150~acl=/*~id=44685964835267553025621458609099~hmac=56ea8009e03b8da3031c282094e84ca95b7e9108f9ff891ee4d2dd1404f6d76d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774112164255959_INT_Friendlies26_Montenegro_vs_Slovenia_20mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Montenegro vs Slovenia - 31 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/Monteneg3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775016490~acl=/*~id=05908192719521902735201960357231~hmac=937632038853da3f8f61e8f590c6722417f54d7b7ca7903ace73b5f289e1dc01
+https://sonydaimenew.akamaized.net/hls/live/20000292/Monteneg3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775020150~acl=/*~id=44685964835267553025621458609099~hmac=56ea8009e03b8da3031c282094e84ca95b7e9108f9ff891ee4d2dd1404f6d76d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774569671208686_INT_Friendlies26_San_Marino_vs_Andorra_27mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",San Marino vs Andorra - 31 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/SanMarin3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775016490~acl=/*~id=05908192719521902735201960357231~hmac=937632038853da3f8f61e8f590c6722417f54d7b7ca7903ace73b5f289e1dc01
+https://sonydaimenew.akamaized.net/hls/live/20000291/SanMarin3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775020150~acl=/*~id=44685964835267553025621458609099~hmac=56ea8009e03b8da3031c282094e84ca95b7e9108f9ff891ee4d2dd1404f6d76d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344601637677_UNL_Luxembourg_vs_Malta_landscape_thumb.jpg" group-title="SonyLiv | Sports",Luxembourg vs Malta - Relegation Play-outs - 2nd Leg - 31 Mar 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022316/Luxembou3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775016490~acl=/*~id=05908192719521902735201960357231~hmac=937632038853da3f8f61e8f590c6722417f54d7b7ca7903ace73b5f289e1dc01
+https://sonydaimenew.akamaized.net/hls/live/2022316/Luxembou3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775020150~acl=/*~id=44685964835267553025621458609099~hmac=56ea8009e03b8da3031c282094e84ca95b7e9108f9ff891ee4d2dd1404f6d76d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344471597677_UNL_Latvia_vs_Gibraltar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Latvia vs Gibraltar - Relegation Play-outs - 2nd Leg - 31 Mar 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/Latvia_v3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775016490~acl=/*~id=05908192719521902735201960357231~hmac=937632038853da3f8f61e8f590c6722417f54d7b7ca7903ace73b5f289e1dc01
-
-# ---------------=== FanCode | Sports ===-------------------
-
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="FanCode | Sports",Bucharest, Vs Romania
-https://fanco.vodep39240327.workers.dev/141289_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="FanCode | Sports",Marrakech, Vs Morocco
-https://fanco.vodep39240327.workers.dev/141274_english.m3u8
+https://sonydaimenew.akamaized.net/hls/live/2022317/Latvia_v3103/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775020150~acl=/*~id=44685964835267553025621458609099~hmac=56ea8009e03b8da3031c282094e84ca95b7e9108f9ff891ee4d2dd1404f6d76d
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
