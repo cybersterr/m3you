@@ -15411,17 +15411,27 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Kadak_MOB/WDVLive/index.mpd?__hdnea__=st=
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439433270819_IFC_Real_Kashmir_FC_vs_Diamond_Harbour_FC_landscape_thumb.jpg" group-title="SonyLiv | Sports",Real Kashmir FC vs Diamond Harbour FC - 2 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/RealKash0204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775174156~acl=/*~id=82104067389297178130042147331483~hmac=138c8a5b88cab45c12468e0a5719af2330a1aeb3de582f9c0ee37abed6343634
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016576/1774437032054422_IFC_Dempo_Sports_Club_vs_Namdhari_FC_landscape_thumb.jpg" group-title="SonyLiv | Sports",Dempo Sports Club vs Namdhari FC - 2 Apr 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0204/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775180833~acl=/*~id=83854634538767950701412862439615~hmac=76264a225f18b79d69876089e60193828ffb0b699814b2d22edee82411bc3ad0
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140924_5802_BRB_SYD_fc-web.jpg" group-title="FanCode | Sports",Brisbane Roar Vs Sydney Fc
-https://fanco.vodep39240327.workers.dev/140924_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141616_6021_JP-U20_IND-U20_FC-Web.png" group-title="FanCode | Sports",Japan U20 Vs India U20
+https://fanco.vodep39240327.workers.dev/141616_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141615_6021_DPR-U20_JOR-U20_FC-Web.png" group-title="FanCode | Sports",Dpr Korea U20 Vs Jordan U20
+https://fanco.vodep39240327.workers.dev/141615_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="FanCode | Sports",Bucharest, Vs Romania
 https://fanco.vodep39240327.workers.dev/141298_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="FanCode | Sports",Marrakech, Vs Morocco
 https://fanco.vodep39240327.workers.dev/141279_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-_1775132383085.png" group-title="FanCode | Sports",Antonio, Vs Texas
+https://fanco.vodep39240327.workers.dev/141777_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="FanCode | Sports",Antonio, Vs Texas
+https://fanco.vodep39240327.workers.dev/141780_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="FanCode | Sports",Antonio, Vs Texas
+https://fanco.vodep39240327.workers.dev/141779_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="FanCode | Sports",Antonio, Vs Texas
+https://fanco.vodep39240327.workers.dev/141778_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
