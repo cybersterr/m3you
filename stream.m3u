@@ -15415,10 +15415,14 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Kadak_MOB/WDVLive/index.mpd?__hdnea__=st=
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg" group-title="FanCode | Sports",Malaysia A Vs Hong Kong China A
-https://fanco.vodep39240327.workers.dev/141772_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg" group-title="FanCode | Sports",United Vs States
-https://fanco.vodep39240327.workers.dev/141081_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141428_5489_MIDD_MLW_fc-web.jpg" group-title="FanCode | Sports",Middlesbrough F C Vs Millwall F C
+https://fanco.vodep39240327.workers.dev/141428_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="FanCode | Sports",Bucharest, Vs Romania
+https://fanco.vodep39240327.workers.dev/141292_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="FanCode | Sports",Marrakech, Vs Morocco
+https://fanco.vodep39240327.workers.dev/141281_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="FanCode | Sports",Antonio, Vs Texas
+https://fanco.vodep39240327.workers.dev/141782_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
