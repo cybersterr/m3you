@@ -15415,6 +15415,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Kadak_MOB/WDVLive/index.mpd?__hdnea__=st=
 
 # ---------------=== FanCode | Sports ===-------------------
 
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141430_5489_LEI_PST_fc-web.jpg" group-title="FanCode | Sports",Leicester City F C Vs Preston North End F C
+https://fanco.vodep39240327.workers.dev/141430_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141429_5489_OU_HUL_fc-web.jpg" group-title="FanCode | Sports",Oxford United Vs Hull City
+https://fanco.vodep39240327.workers.dev/141429_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="FanCode | Sports",Bucharest, Vs Romania
 https://fanco.vodep39240327.workers.dev/141292_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Grand-Prix-Hassan-II-Clay,-ATP-250-old-.png" group-title="FanCode | Sports",Marrakech, Vs Morocco
@@ -15427,8 +15431,6 @@ https://fanco.vodep39240327.workers.dev/141785_english.m3u8
 https://fanco.vodep39240327.workers.dev/141783_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="FanCode | Sports",Antonio, Vs Texas
 https://fanco.vodep39240327.workers.dev/141784_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141428_5489_MIDD_MLW_fc-web.jpg" group-title="FanCode | Sports",Middlesbrough F C Vs Millwall F C
-https://fanco.vodep39240327.workers.dev/141428_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
