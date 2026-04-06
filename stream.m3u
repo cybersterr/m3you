@@ -15515,8 +15515,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Bhaktisagar_BTS/output/index.mpd
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png" group-title="FanCode | Sports",Golf Vs Club
-https://fanco.vodep39240327.workers.dev/141639_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg" group-title="FanCode | Sports",Malaysia A Vs Hong Kong China A
+https://fanco.vodep39240327.workers.dev/141774_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141745_6028_ISK_SYK_FC-WEB.jpg" group-title="FanCode | Sports",Iconic Super Knights Vs Sydney Kangaroos
+https://fanco.vodep39240327.workers.dev/141745_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
