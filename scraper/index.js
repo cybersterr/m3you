@@ -17,7 +17,7 @@ const SOURCES = {
     "https://gentle-moon-6383.lrl45.workers.dev/stream.json"
   ],
 
-  SONYLIV_M3U: "https://netx.streamstar18.workers.dev/soni",
+  SONYLIV_M3U: "https://raw.githubusercontent.com/cybersterr/Sony/refs/heads/main/stream.json",
   NEW_M3U: "https://vt-ip.vodep39240327.workers.dev/playlist.m3u8?url=http://jiotv.be/stalker_portal/c&mac=00:1A:79:97:55:B9&deviceId1=B8F453DCDAEE02318C9FA912D9E409EE96B75AE592A70B526AA84478533C0A66&deviceId2=B8F453DCDAEE02318C9FA912D9E409EE96B75AE592A70B526AA84478533C0A66&sn=500482917046B",
 };
 
@@ -188,8 +188,8 @@ if(newm3u){
 
     if(allowedGroups.includes(group)){
       const updatedLine = match
-        ? line.replace(/group-title="[^"]*"/, `group-title="CS WORLD | ${group}"`)
-        : line.replace('#EXTINF:-1', `#EXTINF:-1 group-title="CS WORLD | OTHER"`);
+        ? line.replace(/group-title="[^"]*"/, `group-title="CS-W | ${group}"`)
+        : line.replace('#EXTINF:-1', `#EXTINF:-1 group-title="CS-W | OTHER"`);
 
       filtered.push(updatedLine);
 
