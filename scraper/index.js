@@ -105,46 +105,43 @@ function convertSunxtJson(json){
 }
 
 // ================= SPORTS =================
-function convertSportsJson(json){
+ffunction convertSportsJson(json){
  if(!json || !Array.isArray(json.streams)) return "";
 
- const buildChannel = (s,i,group) => {
-  if(!s.url) return null;
+ const out = [];
+
+ json.streams.forEach((s,i)=>{
+  if(!s.url) return;
 
   const urlObj = new URL(s.url);
 
-  return {
-    name: s.language || "IPL Live",
-    tvg_id: String(1100 + i),
-    group: group,
-    logo: "https://img.u0k.workers.dev/TATAIPL.jpg",
-    creator: "@Droozy",
-    url: urlObj.toString()
-  };
- };
+  const drm = urlObj.searchParams.get("drmLicense") || "";
+  const [kid,key] = drm.split(":");
 
- const afternoon = [];
- const night = [];
+  const ua = urlObj.searchParams.get("User-Agent") || "";
+  const hdnea = urlObj.searchParams.get("__hdnea__") || "";
 
- // 👉 THIS LINE ensures ALL channels (including from FIRST LINK) go into BOTH folders
- json.streams.forEach((s,i)=>{
-  const chA = buildChannel(s,i,"TATA IPL |Afternoon ⚡");
-  const chN = buildChannel(s,i,"TATA IPL |Night ⚡");
+  urlObj.searchParams.delete("drmLicense");
+  urlObj.searchParams.delete("User-Agent");
 
-  if(chA) afternoon.push(chA);
-  if(chN) night.push(chN);
+  // 🔹 AFTERNOON
+  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/TATAIPL.jpg" group-title="TATA IPL |Afternoon ⚡",${s.language || "IPL Live"}`);
+  out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
+  out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
+  out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
+  out.push(urlObj.toString());
+
+  // 🔹 NIGHT (same channels duplicated)
+  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/TATAIPL.jpg" group-title="TATA IPL |Night ⚡",${s.language || "IPL Live"}`);
+  out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
+  out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
+  out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
+  out.push(urlObj.toString());
+
  });
 
- return JSON.stringify({
-  "TATA IPL |Afternoon ⚡": {
-    channels: afternoon
-  },
-  "TATA IPL |Night ⚡": {
-    channels: night
-  }
- }, null, 2);
+ return out.join("\n");
 }
-
 // ================= SAFE FETCH =================
 async function safeFetch(url){
  try{
