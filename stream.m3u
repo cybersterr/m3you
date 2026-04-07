@@ -7216,7 +7216,8 @@ https://jiotvioslive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd?__hdnea__=
 
 # ---------------=== SonyLiv | Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774440984292617_IFC_Dempo_Sports_Club_vs_Shillong_Lajong_FC_landscape_thumb.jpg" group-title="SonyLiv | Sports",Dempo Sports Club vs Shillong Lajong FC - 7 Apr 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/DempoSpo0704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775615488~acl=/*~id=91323537781937130873418700669060~hmac=2ada6d8bfbdb2d96e2235d2a2795b4fb4716098bec7088a6d20f11f6cb66884c
 
 # ---------------=== CS-W | Extra ===-------------------
 
