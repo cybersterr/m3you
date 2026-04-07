@@ -69,16 +69,19 @@ function convertSony(json){
 
 // ================= SONYLIV DIGITAL JSON =================
 function convertSonyJsonChannels(json){
- if(!json || !Array.isArray(json)) return "";
+ if(!json || typeof json !== "object") return "";
 
- const out = [];
+ const out=[];
 
- json.forEach((ch, i) => {
-  if(!ch.url) return;
+ for(const id in json){
+  const ch = json[id];
+  if(!ch.url) continue;
 
-  out.push(`#EXTINF:-1 tvg-id="${ch.id || 2000+i}" tvg-logo="${ch.logo || ""}" group-title="CS OTT | SONY LIV",${ch.name || "SonyLiv Channel"}`);
+  const category = (ch.group_title || "SONY LIV").toUpperCase();
+
+  out.push(`#EXTINF:-1 tvg-id="${id}" tvg-logo="${ch.tvg_logo || ""}" group-title="CS OTT | SONY LIV | ${category}",${ch.channel_name || id}`);
   out.push(ch.url);
- });
+ }
 
  return out.join("\n");
 }
