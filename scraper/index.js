@@ -14,7 +14,7 @@ const SOURCES = {
 
   SPORTS_JSON: [
     "https://sports.vodep39240327.workers.dev/sports111.json",
-    "https://pasteking.u0k.workers.dev/eckg4.m3u"
+    "https://gentle-moon-6383.lrl45.workers.dev/stream.json"
   ],
 
   SONYLIV_M3U: "https://raw.githubusercontent.com/cybersterr/Sony/main/stream.json",
@@ -107,49 +107,36 @@ function convertSunxtJson(json){
 // ================= SPORTS =================
 function convertSportsJson(json){
  if(!json || !Array.isArray(json.streams)) return "";
-
  const out=[];
-
- json.streams.forEach((s)=>{
+ json.streams.forEach((s,i)=>{
   if(!s.url) return;
 
-  const [baseUrl, params] = s.url.split("|");
-  const search = new URLSearchParams(params);
+  const urlObj=new URL(s.url);
+  const drm=urlObj.searchParams.get("drmLicense")||"";
+  const[kid,key]=drm.split(":");
+  const ua=urlObj.searchParams.get("User-Agent")||"";
+  const hdnea=urlObj.searchParams.get("__hdnea__")||"";
 
-  const cookie = search.get("Cookie") || "";
-  const origin = search.get("Origin") || "";
-  const referer = search.get("Referer") || "";
-  const ua = search.get("User-Agent") || "";
-  const drm = search.get("drmLicense") || "";
+  urlObj.searchParams.delete("drmLicense");
+  urlObj.searchParams.delete("User-Agent");
 
-  const [kid,key] = drm.split(":");
-
-  const name = s.language || "IPL Live";
-  const logo = s.logo || "";
-
-  const headers = {
-    "Origin": origin,
-    "Referer": referer,
-    "User-Agent": ua
-  };
-
-  // AFTERNOON
-  out.push(`#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Afternoon ⚡" tvg-logo="${logo}",${name}`);
+  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",${s.language || "IPL Live"}`);
   out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
   out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
-  out.push(`#EXTHTTP:${JSON.stringify(headers)}`);
-  out.push(baseUrl);
-
-  // NIGHT
-  out.push(`#EXTINF:-1 tvg-id="1106" group-title="TATA IPL |Night ⚡" tvg-logo="${logo}",${name}`);
-  out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
-  out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
-  out.push(`#EXTHTTP:${JSON.stringify(headers)}`);
-  out.push(baseUrl);
-
+  out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
+  out.push(urlObj.toString());
  });
-
  return out.join("\n");
+}
+
+// ================= SAFE FETCH =================
+async function safeFetch(url){
+ try{
+  const res=await axios.get(url,{timeout:60000});
+  return res.data;
+ }catch{
+  return null;
+ }
 }
 
 // ================= MAIN =================
@@ -159,49 +146,17 @@ async function run(){
  out.push(PLAYLIST_HEADER.trim());
 
  // 1️⃣ IPL (TOP)
- // 1️⃣ IPL (TOP)
-const sports = await safeFetch("https://sports.vodep39240327.workers.dev/sports111.json");
-const m3uText = await safeFetch("https://pasteking.u0k.workers.dev/eckg4.m3u");
-
-let iplOut = [];
-
-// JSON → convert
-if(sports){
- const converted = convertSportsJson(sports);
- if(converted) iplOut.push(converted);
-}
-
-// M3U → duplicate EXACT format
-if(m3uText){
- const lines = m3uText.split("\n");
-
- for(let i=0;i<lines.length;i++){
-  const line = lines[i];
-
-  if(line.startsWith("#EXTINF")){
-   const extinf = line;
-   const exthttp = lines[i+1] || "";
-   const url = lines[i+2] || "";
-
-   // AFTERNOON
-   iplOut.push(extinf.replace(/group-title="[^"]*"/,'group-title="TATA IPL |Afternoon ⚡"'));
-   iplOut.push(exthttp);
-   iplOut.push(url);
-
-   // NIGHT
-   iplOut.push(extinf.replace(/group-title="[^"]*"/,'group-title="TATA IPL |Night ⚡"'));
-   iplOut.push(exthttp);
-   iplOut.push(url);
-
-   i += 2;
+ let sportsCombined = [];
+ for(const u of SOURCES.SPORTS_JSON){
+  const d = await safeFetch(u);
+  if(d && Array.isArray(d.streams)){
+    sportsCombined = sportsCombined.concat(d.streams);
   }
  }
-}
+ if(sportsCombined.length){
+  out.push(section("IPL 2026 | LIVE"), convertSportsJson({streams: sportsCombined}));
+ }
 
-// ✅ ONLY TWO FOLDERS — NO EXTRA SECTION
-if(iplOut.length){
- out.push(iplOut.join("\n"));
-}
  // 2️⃣ Jio Cinema
  const hotstar=await safeFetch(SOURCES.HOTSTAR_M3U);
  if(hotstar) out.push(section("CS OTT | Jio Cinema"),hotstar);
