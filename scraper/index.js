@@ -67,6 +67,22 @@ function convertSony(json){
  }).filter(Boolean).join("\n");
 }
 
+// ================= SONYLIV DIGITAL JSON =================
+function convertSonyJsonChannels(json){
+ if(!json || !Array.isArray(json)) return "";
+
+ const out = [];
+
+ json.forEach((ch, i) => {
+  if(!ch.url) return;
+
+  out.push(`#EXTINF:-1 tvg-id="${ch.id || 2000+i}" tvg-logo="${ch.logo || ""}" group-title="CS OTT | SONY LIV",${ch.name || "SonyLiv Channel"}`);
+  out.push(ch.url);
+ });
+
+ return out.join("\n");
+}
+
 // ================= SPORTS =================
 function convertSportsJson(json){
  if(!json || !Array.isArray(json.streams)) return "";
@@ -193,7 +209,6 @@ if(newm3u){
 
       filtered.push(updatedLine);
 
-      // push next line (stream url)
       if(lines[i+1]){
         filtered.push(lines[i+1]);
         i++;
@@ -204,6 +219,7 @@ if(newm3u){
 
  out.push(section("CS-W | Extra"), filtered.join("\n"));
 }
+
  // ICC (unchanged)
  const icc=await safeFetch(SOURCES.ICC_TV_JSON);
  if(icc) out.push(section("ICC TV"),icc);
