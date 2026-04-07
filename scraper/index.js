@@ -105,7 +105,7 @@ function convertSunxtJson(json){
 }
 
 // ================= SPORTS =================
-ffunction convertSportsJson(json){
+function convertSportsJson(json){
  if(!json || !Array.isArray(json.streams)) return "";
 
  const out = [];
