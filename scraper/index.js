@@ -77,9 +77,7 @@ function convertSonyJsonChannels(json){
   const ch = json[id];
   if(!ch.url) continue;
 
-  const category = (ch.group_title || "SONY LIV").toUpperCase();
-
-  out.push(`#EXTINF:-1 tvg-id="${id}" tvg-logo="${ch.tvg_logo || ""}" group-title="CS OTT | SONY LIV | ${category}",${ch.channel_name || id}`);
+  out.push(`#EXTINF:-1 tvg-id="${id}" tvg-logo="${ch.tvg_logo || ""}" group-title="CS OTT | SONY LIV",${ch.channel_name || id}`);
   out.push(ch.url);
  }
 
