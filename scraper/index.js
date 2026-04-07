@@ -127,53 +127,83 @@ async function run(){
  // 3️⃣ ZEE5
  const zee5=await safeFetch(SOURCES.ZEE5_M3U);
  if(zee5) out.push(section("CS OTT | ZEE5"),zee5);
-  
-// 5️⃣ JIOTV+
+
+ // 4️⃣ SONYLIV DIGITAL (MOVED UP)
+ const digital = await safeFetch(SOURCES.SONYLIV_M3U);
+ if(digital){
+  out.push(section("CS OTT | SONY LIV"), convertSonyJsonChannels(digital));
+ }
+
+ // 5️⃣ JIOTV+
  const jio=await safeFetch(SOURCES.JIO_JSON);
  if(jio) out.push(section("JioTv+"),convertJioJson(jio));
 
-  
- // 4️⃣ NEW M3U (UNCHANGED)
- const newm3u = await safeFetch(SOURCES.NEW_M3U);
- if(newm3u){
-  const categorized = newm3u.split("\n").map(line=>{
-    if(line.startsWith("#EXTINF")){
-      const match = line.match(/group-title="([^"]*)"/);
-
-      if(match){
-        const original = match[1].toUpperCase();
-        return line.replace(/group-title="[^"]*"/, `group-title="CS WORLD | ${original}"`);
-      } else {
-        return line.replace('#EXTINF:-1', `#EXTINF:-1 group-title="CS WORLD | OTHER"`);
-      }
-    }
-    return line;
-  }).join("\n");
-
-  out.push(section("CS OTT | Extra"), categorized);
- }
-
  // 6️⃣ FANCODE
  const fan=await safeFetch(SOURCES.FANCODE_JSON);
- if(fan) out.push(section("FanCode | Sports"),fan);
+ if(fan) out.push(section("FanCode | Live Events"),fan);
 
  // 7️⃣ SONYLIV EVENTS
  const sony=await safeFetch(SOURCES.SONYLIV_JSON);
- if(sony) out.push(section("SonyLiv | Sports"),convertSony(sony));
+ if(sony) out.push(section("SonyLiv | Live Events"),convertSony(sony));
 
- // 8️⃣ SONYLIV DIGITAL
- const digital=await safeFetch(SOURCES.SONYLIV_M3U);
- if(digital){
-  const fixed=digital.split("\n").map(l=>{
-    if(l.startsWith("#EXTINF")){
-      return l.replace(/group-title="[^"]*"/,'group-title="CS OTT | SONY LIV"');
+ // 8️⃣ NEW M3U (FILTERED)
+const newm3u = await safeFetch(SOURCES.NEW_M3U);
+if(newm3u){
+
+ const allowedGroups = [
+  "SPORTS",
+  "SPORTS | CRICKET",
+  "SPORTS | PPV EVENTS",
+  "SPORTS | LALIGA",
+  "SPORTS | UEFA",
+  "SPORTS | SERIE A",
+  "TAMIL",
+  "TELUGU",
+  "MALYALAM",
+  "MARATHI",
+  "NEPALI",
+  "PUNJABI",
+  "KANNADA",
+  "HINDI",
+  "ENGLISH",
+  "BANGLA/BENGALI",
+  "URDU",
+  "ENGLISH MUSIC",
+  "HINDI 24X7 MUSIC",
+  "PUNJABI 24X7 MUSIC",
+  "ENGLISH MOVIES",
+  "HINDI MOVIES",
+  "KIDS"
+ ].map(g => g.toUpperCase());
+
+ const lines = newm3u.split("\n");
+ const filtered = [];
+
+ for(let i = 0; i < lines.length; i++){
+  const line = lines[i];
+
+  if(line.startsWith("#EXTINF")){
+    const match = line.match(/group-title="([^"]*)"/);
+    const group = match ? match[1].toUpperCase() : "";
+
+    if(allowedGroups.includes(group)){
+      const updatedLine = match
+        ? line.replace(/group-title="[^"]*"/, `group-title="CS WORLD | ${group}"`)
+        : line.replace('#EXTINF:-1', `#EXTINF:-1 group-title="CS WORLD | OTHER"`);
+
+      filtered.push(updatedLine);
+
+      // push next line (stream url)
+      if(lines[i+1]){
+        filtered.push(lines[i+1]);
+        i++;
+      }
     }
-    return l;
-  }).join("\n");
-
-  out.push(section("CS OTT | SONY LIV"),fixed);
+  }
  }
 
+ out.push(section("CS-W | Extra"), filtered.join("\n"));
+}
  // ICC (unchanged)
  const icc=await safeFetch(SOURCES.ICC_TV_JSON);
  if(icc) out.push(section("ICC TV"),icc);
