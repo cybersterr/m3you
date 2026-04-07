@@ -106,53 +106,62 @@ function convertSunxtJson(json){
 
 // ================= SPORTS =================
 function convertSportsJson(json){
- if(!json || !Array.isArray(json.streams)) return "";
+ if(!json) return "";
 
  const out = [];
 
- // ================= EXISTING SPORTS =================
- json.streams.forEach((s,i)=>{
-  if(!s.url) return;
+ // ================= CASE 1: NORMAL SPORTS JSON =================
+ if(Array.isArray(json.streams)){
+  json.streams.forEach((s,i)=>{
+    if(!s.url) return;
 
-  const urlObj = new URL(s.url);
+    const urlObj = new URL(s.url);
 
-  const drm = urlObj.searchParams.get("drmLicense") || "";
-  const [kid,key] = drm.split(":");
+    const drm = urlObj.searchParams.get("drmLicense") || "";
+    const [kid,key] = drm.split(":");
 
-  const ua = urlObj.searchParams.get("User-Agent") || "";
-  const hdnea = urlObj.searchParams.get("__hdnea__") || "";
+    const ua = urlObj.searchParams.get("User-Agent") || "";
+    const hdnea = urlObj.searchParams.get("__hdnea__") || "";
 
-  urlObj.searchParams.delete("drmLicense");
-  urlObj.searchParams.delete("User-Agent");
+    urlObj.searchParams.delete("drmLicense");
+    urlObj.searchParams.delete("User-Agent");
 
-  // AFTERNOON
-  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="TATA IPL |Afternoon ⚡",${s.language || "IPL Live"}`);
-  out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
-  out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
-  out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
-  out.push(urlObj.toString());
+    // AFTERNOON
+    out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="TATA IPL |Afternoon ⚡",${s.language || "IPL Live"}`);
+    out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
+    out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
+    out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
+    out.push(urlObj.toString());
 
-  // NIGHT
-  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="TATA IPL |Night ⚡",${s.language || "IPL Live"}`);
-  out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
-  out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
-  out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
-  out.push(urlObj.toString());
- });
+    // NIGHT (same channels)
+    out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="TATA IPL |Night ⚡",${s.language || "IPL Live"}`);
+    out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
+    out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
+    out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
+    out.push(urlObj.toString());
+  });
+ }
 
- // ================= ADD JSON LINK CHANNELS =================
- // IMPORTANT: assumes your 2nd SPORTS_JSON link already fetches this JSON
+ // ================= CASE 2: YOUR JSON LINK =================
+ if(json["TATA IPL | Afternoon ⚡"]?.channels){
+  json["TATA IPL | Afternoon ⚡"].channels.forEach((ch)=>{
+    out.push(`#EXTINF:-1 tvg-id="${ch.tvg_id}" tvg-logo="${ch.logo}" group-title="TATA IPL | Afternoon ⚡",${ch.name}`);
+    out.push(ch.url);
 
- if(json["TATA IPL |Afternoon ⚡"]?.channels){
-  json["TATA IPL |Afternoon ⚡"].channels.forEach(ch=>{
-    out.push(`#EXTINF:-1 tvg-id="${ch.tvg_id}" tvg-logo="${ch.logo}" group-title="TATA IPL |Afternoon ⚡",${ch.name}`);
+    // duplicate into NIGHT also
+    out.push(`#EXTINF:-1 tvg-id="${ch.tvg_id}" tvg-logo="${ch.logo}" group-title="TATA IPL | Night ⚡",${ch.name}`);
     out.push(ch.url);
   });
  }
 
- if(json["TATA IPL |Night ⚡"]?.channels){
-  json["TATA IPL |Night ⚡"].channels.forEach(ch=>{
-    out.push(`#EXTINF:-1 tvg-id="${ch.tvg_id}" tvg-logo="${ch.logo}" group-title="TATA IPL |Night ⚡",${ch.name}`);
+ if(json["TATA IPL | Night ⚡"]?.channels){
+  json["TATA IPL | Night ⚡"].channels.forEach((ch)=>{
+    // already added above, but keep in case structure differs
+    out.push(`#EXTINF:-1 tvg-id="${ch.tvg_id}" tvg-logo="${ch.logo}" group-title="TATA IPL | Night ⚡",${ch.name}`);
+    out.push(ch.url);
+
+    // duplicate into AFTERNOON also
+    out.push(`#EXTINF:-1 tvg-id="${ch.tvg_id}" tvg-logo="${ch.logo}" group-title="TATA IPL | Afternoon ⚡",${ch.name}`);
     out.push(ch.url);
   });
  }
