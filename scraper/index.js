@@ -189,7 +189,63 @@ async function run(){
  const sony=await safeFetch(SOURCES.SONYLIV_JSON);
  if(sony) out.push(section("SonyLiv | Live Events"),convertSony(sony));
 
- // 8️⃣ NEW M3U (unchanged filtered block stays same)
+ // 8️⃣ NEW M3U (FILTERED)
+const newm3u = await safeFetch(SOURCES.NEW_M3U);
+if(newm3u){
+
+ const allowedGroups = [
+  "SPORTS",
+  "SPORTS | CRICKET",
+  "SPORTS | PPV EVENTS",
+  "SPORTS | LALIGA",
+  "SPORTS | UEFA",
+  "SPORTS | SERIE A",
+  "TAMIL",
+  "TELUGU",
+  "MALYALAM",
+  "MARATHI",
+  "NEPALI",
+  "PUNJABI",
+  "KANNADA",
+  "HINDI",
+  "ENGLISH",
+  "BANGLA/BENGALI",
+  "URDU",
+  "ENGLISH MUSIC",
+  "HINDI 24X7 MUSIC",
+  "PUNJABI 24X7 MUSIC",
+  "ENGLISH MOVIES",
+  "HINDI MOVIES",
+  "KIDS"
+ ].map(g => g.toUpperCase());
+
+ const lines = newm3u.split("\n");
+ const filtered = [];
+
+ for(let i = 0; i < lines.length; i++){
+  const line = lines[i];
+
+  if(line.startsWith("#EXTINF")){
+    const match = line.match(/group-title="([^"]*)"/);
+    const group = match ? match[1].toUpperCase() : "";
+
+    if(allowedGroups.includes(group)){
+      const updatedLine = match
+        ? line.replace(/group-title="[^"]*"/, `group-title="CS-W | ${group}"`)
+        : line.replace('#EXTINF:-1', `#EXTINF:-1 group-title="CS-W | OTHER"`);
+
+      filtered.push(updatedLine);
+
+      if(lines[i+1]){
+        filtered.push(lines[i+1]);
+        i++;
+      }
+    }
+  }
+ }
+
+ out.push(section("CS-W | Extra"), filtered.join("\n"));
+}
 
  // ICC (unchanged)
  const icc=await safeFetch(SOURCES.ICC_TV_JSON);
