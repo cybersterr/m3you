@@ -14,7 +14,7 @@ const SOURCES = {
 
   SPORTS_JSON: [
     "https://sports.vodep39240327.workers.dev/sports111.json",
-    "https://gentle-moon-6383.lrl45.workers.dev/stream.json"
+    "https://pasteking.u0k.workers.dev/9ecgk.json"
   ],
 
   SONYLIV_M3U: "https://raw.githubusercontent.com/cybersterr/Sony/main/stream.json",
@@ -107,26 +107,42 @@ function convertSunxtJson(json){
 // ================= SPORTS =================
 function convertSportsJson(json){
  if(!json || !Array.isArray(json.streams)) return "";
- const out=[];
+
+ const buildChannel = (s,i,group) => {
+  if(!s.url) return null;
+
+  const urlObj = new URL(s.url);
+
+  return {
+    name: s.language || "IPL Live",
+    tvg_id: String(1100 + i),
+    group: group,
+    logo: "https://img.u0k.workers.dev/TATAIPL.jpg",
+    creator: "@Droozy",
+    url: urlObj.toString()
+  };
+ };
+
+ const afternoon = [];
+ const night = [];
+
+ // 👉 THIS LINE ensures ALL channels (including from FIRST LINK) go into BOTH folders
  json.streams.forEach((s,i)=>{
-  if(!s.url) return;
+  const chA = buildChannel(s,i,"TATA IPL |Afternoon ⚡");
+  const chN = buildChannel(s,i,"TATA IPL |Night ⚡");
 
-  const urlObj=new URL(s.url);
-  const drm=urlObj.searchParams.get("drmLicense")||"";
-  const[kid,key]=drm.split(":");
-  const ua=urlObj.searchParams.get("User-Agent")||"";
-  const hdnea=urlObj.searchParams.get("__hdnea__")||"";
-
-  urlObj.searchParams.delete("drmLicense");
-  urlObj.searchParams.delete("User-Agent");
-
-  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",${s.language || "IPL Live"}`);
-  out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
-  out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
-  out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
-  out.push(urlObj.toString());
+  if(chA) afternoon.push(chA);
+  if(chN) night.push(chN);
  });
- return out.join("\n");
+
+ return JSON.stringify({
+  "TATA IPL |Afternoon ⚡": {
+    channels: afternoon
+  },
+  "TATA IPL |Night ⚡": {
+    channels: night
+  }
+ }, null, 2);
 }
 
 // ================= SAFE FETCH =================
