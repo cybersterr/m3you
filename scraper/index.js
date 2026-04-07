@@ -110,6 +110,7 @@ function convertSportsJson(json){
 
  const out = [];
 
+ // ================= EXISTING SPORTS =================
  json.streams.forEach((s,i)=>{
   if(!s.url) return;
 
@@ -124,21 +125,37 @@ function convertSportsJson(json){
   urlObj.searchParams.delete("drmLicense");
   urlObj.searchParams.delete("User-Agent");
 
-  // 🔹 AFTERNOON
-  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/TATAIPL.jpg" group-title="TATA IPL |Afternoon ⚡",${s.language || "IPL Live"}`);
+  // AFTERNOON
+  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="TATA IPL |Afternoon ⚡",${s.language || "IPL Live"}`);
   out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
   out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
   out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
   out.push(urlObj.toString());
 
-  // 🔹 NIGHT (same channels duplicated)
-  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/TATAIPL.jpg" group-title="TATA IPL |Night ⚡",${s.language || "IPL Live"}`);
+  // NIGHT
+  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="TATA IPL |Night ⚡",${s.language || "IPL Live"}`);
   out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
   out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
   out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
   out.push(urlObj.toString());
-
  });
+
+ // ================= ADD JSON LINK CHANNELS =================
+ // IMPORTANT: assumes your 2nd SPORTS_JSON link already fetches this JSON
+
+ if(json["TATA IPL |Afternoon ⚡"]?.channels){
+  json["TATA IPL |Afternoon ⚡"].channels.forEach(ch=>{
+    out.push(`#EXTINF:-1 tvg-id="${ch.tvg_id}" tvg-logo="${ch.logo}" group-title="TATA IPL |Afternoon ⚡",${ch.name}`);
+    out.push(ch.url);
+  });
+ }
+
+ if(json["TATA IPL |Night ⚡"]?.channels){
+  json["TATA IPL |Night ⚡"].channels.forEach(ch=>{
+    out.push(`#EXTINF:-1 tvg-id="${ch.tvg_id}" tvg-logo="${ch.logo}" group-title="TATA IPL |Night ⚡",${ch.name}`);
+    out.push(ch.url);
+  });
+ }
 
  return out.join("\n");
 }
