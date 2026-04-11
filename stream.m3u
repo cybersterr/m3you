@@ -11,52 +11,52 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=:undefined
 #EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd|Cookie=__hdnea__=st=1775904076~exp=1775925676~acl=/*~hmac=a50c6957ad6b7fcc00cfa39c0341d7b5a1a6413d8bfacfd46de0ebbebe7c7a81&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd|Cookie=__hdnea__=st=1775921944~exp=1775943544~acl=/*~hmac=58e6faa5b049c6a818d20e89ebcf7fba0c68f4bc3f73f41307ff06225c23f202&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
 #EXTINF:-1 tvg-id="1101" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=:undefined
 #EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd|Cookie=__hdnea__=st=1775904076~exp=1775925676~acl=/*~hmac=a50c6957ad6b7fcc00cfa39c0341d7b5a1a6413d8bfacfd46de0ebbebe7c7a81&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd|Cookie=__hdnea__=st=1775921944~exp=1775943544~acl=/*~hmac=58e6faa5b049c6a818d20e89ebcf7fba0c68f4bc3f73f41307ff06225c23f202&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTINF:-1 tvg-id="1102" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=:undefined
 #EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd|Cookie=__hdnea__=st=1775904076~exp=1775925676~acl=/*~hmac=a50c6957ad6b7fcc00cfa39c0341d7b5a1a6413d8bfacfd46de0ebbebe7c7a81&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd|Cookie=__hdnea__=st=1775921944~exp=1775943544~acl=/*~hmac=58e6faa5b049c6a818d20e89ebcf7fba0c68f4bc3f73f41307ff06225c23f202&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
 #EXTINF:-1 tvg-id="1103" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",Star Sports 2 Kannada
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=:undefined
 #EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd|Cookie=__hdnea__=st=1775904076~exp=1775925676~acl=/*~hmac=a50c6957ad6b7fcc00cfa39c0341d7b5a1a6413d8bfacfd46de0ebbebe7c7a81&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd|Cookie=__hdnea__=st=1775921944~exp=1775943544~acl=/*~hmac=58e6faa5b049c6a818d20e89ebcf7fba0c68f4bc3f73f41307ff06225c23f202&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5
 #EXTINF:-1 tvg-id="1104" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",Star Sports 1 Kannada
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=:undefined
 #EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd|Cookie=__hdnea__=st=1775904076~exp=1775925676~acl=/*~hmac=a50c6957ad6b7fcc00cfa39c0341d7b5a1a6413d8bfacfd46de0ebbebe7c7a81&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd|Cookie=__hdnea__=st=1775921944~exp=1775943544~acl=/*~hmac=58e6faa5b049c6a818d20e89ebcf7fba0c68f4bc3f73f41307ff06225c23f202&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
 #EXTINF:-1 tvg-id="1105" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=:undefined
 #EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd|Cookie=__hdnea__=st=1775904076~exp=1775925676~acl=/*~hmac=a50c6957ad6b7fcc00cfa39c0341d7b5a1a6413d8bfacfd46de0ebbebe7c7a81&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd|Cookie=__hdnea__=st=1775921944~exp=1775943544~acl=/*~hmac=58e6faa5b049c6a818d20e89ebcf7fba0c68f4bc3f73f41307ff06225c23f202&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
 #EXTINF:-1 tvg-id="1106" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",Star Sports 2 Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=:undefined
 #EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/output/index.mpd|Cookie=__hdnea__=st=1775904076~exp=1775925676~acl=/*~hmac=a50c6957ad6b7fcc00cfa39c0341d7b5a1a6413d8bfacfd46de0ebbebe7c7a81&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/output/index.mpd|Cookie=__hdnea__=st=1775921944~exp=1775943544~acl=/*~hmac=58e6faa5b049c6a818d20e89ebcf7fba0c68f4bc3f73f41307ff06225c23f202&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
 #EXTINF:-1 tvg-id="1107" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",Star Sports 2 Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=:undefined
 #EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/output/index.mpd|Cookie=__hdnea__=st=1775904076~exp=1775925676~acl=/*~hmac=a50c6957ad6b7fcc00cfa39c0341d7b5a1a6413d8bfacfd46de0ebbebe7c7a81&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=3c1b335c4bb858a7a6ac5a883d898a09:6eeff4302a7d19befd43c6b7b5fac268
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/output/index.mpd|Cookie=__hdnea__=st=1775921944~exp=1775943544~acl=/*~hmac=58e6faa5b049c6a818d20e89ebcf7fba0c68f4bc3f73f41307ff06225c23f202&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=3c1b335c4bb858a7a6ac5a883d898a09:6eeff4302a7d19befd43c6b7b5fac268
 #EXTINF:-1 tvg-id="1108" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",Star Sports 1 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=:undefined
 #EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd|Cookie=__hdnea__=st=1775904076~exp=1775925676~acl=/*~hmac=a50c6957ad6b7fcc00cfa39c0341d7b5a1a6413d8bfacfd46de0ebbebe7c7a81&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd|Cookie=__hdnea__=st=1775921944~exp=1775943544~acl=/*~hmac=58e6faa5b049c6a818d20e89ebcf7fba0c68f4bc3f73f41307ff06225c23f202&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
 #EXTINF:-1 tvg-id="1109" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",Star Sports 1 Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=:undefined
 #EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd|Cookie=__hdnea__=st=1775904076~exp=1775925676~acl=/*~hmac=a50c6957ad6b7fcc00cfa39c0341d7b5a1a6413d8bfacfd46de0ebbebe7c7a81&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd|Cookie=__hdnea__=st=1775921944~exp=1775943544~acl=/*~hmac=58e6faa5b049c6a818d20e89ebcf7fba0c68f4bc3f73f41307ff06225c23f202&Origin=https://jiotv.com/&Referer=https://jiotv.com/&User-Agent=plaYtv/7.1.3%20(Linux;Android%2013)%20ygx/824.1%20ExoPlayerLib/824.0&drmScheme=clearkey&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",HINDI 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=:undefined
@@ -7207,7 +7207,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd??#__hdnea__
 # ---------------=== SonyLiv | Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774592255713658_BLIGA_26_MD29_St-Pauli-vs-Bayern_landscape_thumb.jpg" group-title="SonyLiv | Sports",St. Pauli vs Bayern Munich - MD 29 - 11 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Bundesli1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775965803~acl=/*~id=86409289357670810785524954630248~hmac=7758855b47a73254d3633e56df2377b97354d9bd80ede918a9ceadb8506362b6
+https://sonydaimenew.akamaized.net/hls/live/2022315/Bundesli1104/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775972475~acl=/*~id=25997716666973862691479213688329~hmac=c55de512d4a1d65db954c949f40d016712676c8f904b9bb59300281b00d58665
 
 # ---------------=== CS-W | Extra ===-------------------
 
@@ -9291,25 +9291,25 @@ https://vt-ip.vodep39240327.workers.dev/2705.m3u8
 https://vt-ip.vodep39240327.workers.dev/2868.m3u8
 #EXTINF:-1 tvg-id="2869" tvg-logo="" group-title="CS-W | PUNJABI",MEHAK TV HD
 https://vt-ip.vodep39240327.workers.dev/2869.m3u8
-#EXTINF:-1 tvg-id="2620" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 01: 9:30am One Friday Fights 150
+#EXTINF:-1 tvg-id="2620" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 01: 5:30pm Prelims UFC 327
 https://vt-ip.vodep39240327.workers.dev/2620.m3u8
-#EXTINF:-1 tvg-id="2621" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 02: 12pm PFL Africa
+#EXTINF:-1 tvg-id="2621" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 02: 9pm UFC 327 Prochazka v Ulberg
 https://vt-ip.vodep39240327.workers.dev/2621.m3u8
-#EXTINF:-1 tvg-id="2622" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 03: 1:30pm Ares 40
+#EXTINF:-1 tvg-id="2622" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 03: 2pm Fury v Makhmudov
 https://vt-ip.vodep39240327.workers.dev/2622.m3u8
-#EXTINF:-1 tvg-id="2630" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 04: 2pm Fight Club Rush 28
+#EXTINF:-1 tvg-id="2630" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 04: 11pm BKFC Fight Night Pitolo v Coltrane
 https://vt-ip.vodep39240327.workers.dev/2630.m3u8
-#EXTINF:-1 tvg-id="2624" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 05: 3pm Allotey v Erastus
+#EXTINF:-1 tvg-id="2624" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 05: 11:30am/2:30pm Cage Warriors 204
 https://vt-ip.vodep39240327.workers.dev/2624.m3u8
-#EXTINF:-1 tvg-id="2625" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 06: 6pm Bison Kombat 7
+#EXTINF:-1 tvg-id="2625" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 06: 2pm WOW FC 29
 https://vt-ip.vodep39240327.workers.dev/2625.m3u8
-#EXTINF:-1 tvg-id="2626" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 07: 7:30pm Sousa v Gonzalez
+#EXTINF:-1 tvg-id="2626" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 07: 6pm PFL Chicago
 https://vt-ip.vodep39240327.workers.dev/2626.m3u8
-#EXTINF:-1 tvg-id="2627" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 08: 9pm DBX 6 Perez v Garcia
+#EXTINF:-1 tvg-id="2627" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 08: 6:30pm Mielnicki Jr v Huerta
 https://vt-ip.vodep39240327.workers.dev/2627.m3u8
-#EXTINF:-1 tvg-id="2628" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 09: 9pm One Fight Night 42
+#EXTINF:-1 tvg-id="2628" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 09: 6:40pm PFI 18 The Road to the Belt
 https://vt-ip.vodep39240327.workers.dev/2628.m3u8
-#EXTINF:-1 tvg-id="2629" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 10: 3pm The Funny Car Chaos Classic
+#EXTINF:-1 tvg-id="2629" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV EVENT 10: 7pm TNA Rebellion
 https://vt-ip.vodep39240327.workers.dev/2629.m3u8
 #EXTINF:-1 tvg-id="2383" tvg-logo="" group-title="CS-W | SPORTS | PPV EVENTS",PPV SPORTS 1 4K
 https://vt-ip.vodep39240327.workers.dev/2383.m3u8
