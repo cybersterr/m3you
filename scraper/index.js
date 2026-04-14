@@ -6,7 +6,7 @@ const OUTPUT_FILE = "stream.m3u";
 // ================= SOURCES =================
 const SOURCES = {
   HOTSTAR_M3U: "https://hotstar.droozy.workers.dev/",
-  ZEE5_M3U: "https://zee5.droozy.workers.dev/",
+  ZEE5_M3U: "https://zee5.droozy.workers.dev",
   JIO_JSON: "https://raw.githubusercontent.com/cybersterr/jeeyo/main/stream.json",
   SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
   FANCODE_JSON: "https://fanco.vodep39240327.workers.dev/",
@@ -76,7 +76,30 @@ function convertZee5Json(json){
  return out.join("\n");
 }
 
-// ================= (REST OF YOUR SCRIPT REMAINS EXACTLY SAME) =================
+// ================= SPORTS (RESTORED ONLY) =================
+function convertSportsJson(json){
+ if(!json || !Array.isArray(json.streams)) return "";
+ const out=[];
+ json.streams.forEach((s,i)=>{
+  if(!s.url) return;
+
+  const urlObj=new URL(s.url);
+  const drm=urlObj.searchParams.get("drmLicense")||"";
+  const[kid,key]=drm.split(":");
+  const ua=urlObj.searchParams.get("User-Agent")||"";
+  const hdnea=urlObj.searchParams.get("__hdnea__")||"";
+
+  urlObj.searchParams.delete("drmLicense");
+  urlObj.searchParams.delete("User-Agent");
+
+  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.png" group-title="IPL LIVE",${s.language || "IPL Live"}`);
+  out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
+  out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
+  out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
+  out.push(urlObj.toString());
+ });
+ return out.join("\n");
+}
 
 // ================= SAFE FETCH =================
 async function safeFetch(url){
@@ -105,11 +128,11 @@ async function run(){
   out.push(section("IPL 2026 | LIVE"), convertSportsJson({streams: sportsCombined}));
  }
 
- // ✅ UPDATED HOTSTAR
+ // HOTSTAR
  const hotstar=await safeFetch(SOURCES.HOTSTAR_M3U);
  if(hotstar) out.push(section("CS OTT | Jio Cinema"),convertHotstarJson(hotstar));
 
- // ✅ UPDATED ZEE5
+ // ZEE5
  const zee5=await safeFetch(SOURCES.ZEE5_M3U);
  if(zee5) out.push(section("CS OTT | ZEE5"),convertZee5Json(zee5));
 
@@ -126,7 +149,8 @@ async function run(){
  const jio=await safeFetch(SOURCES.JIO_JSON);
  if(jio) out.push(section("JioTv+"),convertJioJson(jio));
 
- // (FANCODE + NEW_M3U + REST UNCHANGED)
+ const sony=await safeFetch(SOURCES.SONYLIV_JSON);
+ if(sony) out.push(section("SonyLiv | Live Events"),convertSony(sony));
 
  const icc=await safeFetch(SOURCES.ICC_TV_JSON);
  if(icc) out.push(section("ICC TV"),icc);
