@@ -175,10 +175,22 @@ async function run(){
  const jio=await safeFetch(SOURCES.JIO_JSON);
  if(jio) out.push(section("JioTv+"),convertJioJson(jio));
 
- // ✅ FIXED FANCODE (ARRAY JSON)
- const fan = await safeFetch(SOURCES.FANCODE_JSON);
- if (fan && Array.isArray(fan)) {
+ // ✅ FIXED FANCODE (handles string + array JSON)
+const fanRaw = await safeFetch(SOURCES.FANCODE_JSON);
+
+let fan = fanRaw;
+
+try {
+  if (typeof fanRaw === "string") {
+    fan = JSON.parse(fanRaw);
+  }
+} catch (e) {
+  fan = null;
+}
+
+if (fan && Array.isArray(fan)) {
   const converted = [];
+
   fan.forEach((event, i) => {
     const url = event.adfree_url || event.dai_url;
     if (!url) return;
@@ -190,8 +202,7 @@ async function run(){
   if (converted.length) {
     out.push(section("FanCode | Live Events"), converted.join("\n"));
   }
- }
-
+}
  const sony=await safeFetch(SOURCES.SONYLIV_JSON);
  if(sony) out.push(section("SonyLiv | Live Events"),convertSony(sony));
 
