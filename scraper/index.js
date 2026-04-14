@@ -221,7 +221,7 @@ if(newm3u){
   "ENGLISH | 24x7 OTT SERIES",
   "HINDI | 24X7 MOVIES",
   "HINDI | 24x7 OTT SERIES",
-  "ENGLISH | KIDS"
+  "ENGLISH | KIDS",
   "HINDI | KIDS",
  ].map(g => g.toUpperCase());
 
