@@ -7205,6 +7205,15 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/ZeeZestHD_MOB/WDVLive/index.mpd?__hdnea__
 #EXTHTTP:{"Cookie":"hdnea=st=1776088839~exp=1776110439~acl=/*~hmac=bc91dc2c1804d38c22c8a6547340a2fa2ce932a9a9c5becc20f91d44e9380e01","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Maa_Gold_MOB/WDVLive/index.mpd?__hdnea__=st=1776088839~exp=1776110439~acl=/*~hmac=bc91dc2c1804d38c22c8a6547340a2fa2ce932a9a9c5becc20f91d44e9380e01
 
+# ---------------=== FanCode | Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="141760_ENGLISH" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141760_6028_MEP_GER_FC-WEB.jpg" group-title="Brisbane Champions League 2026 Melbourne Pirates",Melbourne Pirates Vs Genid Royals
+https://fanco.vodep39240327.workers.dev/141760_english.m3u8
+#EXTINF:-1 tvg-id="141826_ENGLISH" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg" group-title="ATP 500 - Barcelona Open Banc Sabadell 2026 World",Feed Vs Barcelona
+https://fanco.vodep39240327.workers.dev/141826_english.m3u8
+#EXTINF:-1 tvg-id="141841_ENGLISH" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg" group-title="ATP 500 - BMW Open by Bitpanda 2026 World Feed",Munich, Vs Germany
+https://fanco.vodep39240327.workers.dev/141841_english.m3u8
+
 # ---------------=== SonyLiv | Live Events ===-------------------
 
 
@@ -8286,7 +8295,7 @@ https://mactom3u.vodep39240327.workers.dev/480526.m3u8?host=tv.saartv.cc&path=%2
 #EXTINF:-1 tvg-id="Default" tvg-name="ENGLISH TOP TRENDING MUSIC (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77355.jpeg" group-title="CS-W | ENGLISH | 24X7 MUSIC",ENGLISH TOP TRENDING MUSIC (4K)
 https://mactom3u.vodep39240327.workers.dev/480997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ENGLISH SONGS 2026 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77130.jpeg" group-title="CS-W | ENGLISH | 24X7 MUSIC",ENGLISH SONGS 2026 (4K)
-https://mactom3u.vodep39240327.workers.dev/481674.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/480769.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="EMINEM" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77133.jpg" group-title="CS-W | ENGLISH | 24X7 MUSIC",EMINEM
 https://mactom3u.vodep39240327.workers.dev/480772.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ALAN WALKER" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77134.jpg" group-title="CS-W | ENGLISH | 24X7 MUSIC",ALAN WALKER
