@@ -139,7 +139,7 @@ async function safeFetch(url){
  }
 }
 
-// ================= FANCODE (NEW ROBUST PARSER) =================
+// ================= FANCODE (JQ-STYLE PARSER) =================
 function extractObjects(obj, arr = []) {
  if (Array.isArray(obj)) {
   obj.forEach(o => extractObjects(o, arr));
@@ -186,9 +186,8 @@ async function run(){
  const jio=await safeFetch(SOURCES.JIO_JSON);
  if(jio) out.push(section("JioTv+"),convertJioJson(jio));
 
- // ✅ FINAL FANCODE (JQ-STYLE PARSER)
+ // ✅ ONLY CHANGE: fixed group-title
  let fan = await safeFetch(SOURCES.FANCODE_JSON);
-
  try {
   if (typeof fan === "string") fan = JSON.parse(fan);
  } catch {}
