@@ -6,7 +6,7 @@ const OUTPUT_FILE = "stream.m3u";
 // ================= SOURCES =================
 const SOURCES = {
   HOTSTAR_M3U: "https://hotstar.droozy.workers.dev/",
-  ZEE5_M3U: "https://zee5.droozy.workers.dev",
+  ZEE5_M3U: "https://zee5.droozy.workers.dev/",
   JIO_JSON: "https://raw.githubusercontent.com/cybersterr/jeeyo/main/stream.json",
   SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
   FANCODE_JSON: "https://fanco.vodep39240327.workers.dev/",
@@ -76,7 +76,24 @@ function convertZee5Json(json){
  return out.join("\n");
 }
 
-// ================= SPORTS (RESTORED ONLY) =================
+// ================= SONYLIV DIGITAL JSON (RESTORED ONLY) =================
+function convertSonyJsonChannels(json){
+ if(!json || typeof json !== "object") return "";
+
+ const out=[];
+
+ for(const id in json){
+  const ch = json[id];
+  if(!ch.url) continue;
+
+  out.push(`#EXTINF:-1 tvg-id="${id}" tvg-logo="${ch.tvg_logo || ""}" group-title="CS OTT | SONY LIV",${ch.channel_name || id}`);
+  out.push(ch.url);
+ }
+
+ return out.join("\n");
+}
+
+// ================= SPORTS =================
 function convertSportsJson(json){
  if(!json || !Array.isArray(json.streams)) return "";
  const out=[];
@@ -128,11 +145,9 @@ async function run(){
   out.push(section("IPL 2026 | LIVE"), convertSportsJson({streams: sportsCombined}));
  }
 
- // HOTSTAR
  const hotstar=await safeFetch(SOURCES.HOTSTAR_M3U);
  if(hotstar) out.push(section("CS OTT | Jio Cinema"),convertHotstarJson(hotstar));
 
- // ZEE5
  const zee5=await safeFetch(SOURCES.ZEE5_M3U);
  if(zee5) out.push(section("CS OTT | ZEE5"),convertZee5Json(zee5));
 
