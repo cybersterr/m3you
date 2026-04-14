@@ -139,6 +139,17 @@ async function safeFetch(url){
  }
 }
 
+// ================= FANCODE (NEW ROBUST PARSER) =================
+function extractObjects(obj, arr = []) {
+ if (Array.isArray(obj)) {
+  obj.forEach(o => extractObjects(o, arr));
+ } else if (obj && typeof obj === "object") {
+  arr.push(obj);
+  Object.values(obj).forEach(v => extractObjects(v, arr));
+ }
+ return arr;
+}
+
 // ================= MAIN =================
 async function run(){
 
@@ -175,30 +186,29 @@ async function run(){
  const jio=await safeFetch(SOURCES.JIO_JSON);
  if(jio) out.push(section("JioTv+"),convertJioJson(jio));
 
- // ✅ FINAL FANCODE FIX (handles ALL formats)
- const fanRaw = await safeFetch(SOURCES.FANCODE_JSON);
+ // ✅ FINAL FANCODE (JQ-STYLE PARSER)
+ let fan = await safeFetch(SOURCES.FANCODE_JSON);
 
- let fan = fanRaw;
  try {
-  if (typeof fanRaw === "string") {
-    fan = JSON.parse(fanRaw);
-  }
- } catch (e) {
-  fan = null;
- }
+  if (typeof fan === "string") fan = JSON.parse(fan);
+ } catch {}
 
- if (fan && Array.isArray(fan.data)) {
-  fan = fan.data;
- }
+ if (fan) {
+  const all = extractObjects(fan);
 
- if (fan && Array.isArray(fan)) {
+  const valid = all.filter(o =>
+    o.match_id && (o.adfree_url || o.dai_url)
+  );
+
+  valid.sort((a, b) =>
+    (a.status === "LIVE" ? 0 : 1) - (b.status === "LIVE" ? 0 : 1)
+  );
+
   const converted = [];
-  fan.forEach((event, i) => {
-    const url = event.adfree_url || event.dai_url;
-    if (!url) return;
 
-    converted.push(`#EXTINF:-1 tvg-id="fancode${i}" tvg-logo="${event.src || ""}" group-title="FanCode | Live Events",${event.match_name || event.title || "FanCode Event"}`);
-    converted.push(url);
+  valid.forEach((e, i) => {
+    converted.push(`#EXTINF:-1 tvg-id="${e.match_id}" tvg-logo="${e.src || ""}" group-title="${e.event_name || e.event_category || "FanCode"}",${e.match_name || e.title}`);
+    converted.push(e.adfree_url || e.dai_url);
   });
 
   if (converted.length) {
