@@ -175,29 +175,89 @@ async function run(){
  const jio=await safeFetch(SOURCES.JIO_JSON);
  if(jio) out.push(section("JioTv+"),convertJioJson(jio));
 
- // ✅ FIXED FANCODE ONLY
+ // ✅ FIXED FANCODE (ARRAY JSON)
  const fan = await safeFetch(SOURCES.FANCODE_JSON);
- if (fan) {
-  if (typeof fan === "string" && fan.includes("#EXTM3U")) {
-    out.push(section("FanCode | Live Events"), fan);
-  } else if (typeof fan === "object") {
-    const converted = [];
-    for (const id in fan) {
-      const ch = fan[id];
-      if (!ch.url) continue;
-      converted.push(`#EXTINF:-1 tvg-logo="${ch.logo || ""}" group-title="FanCode | Live Events",${ch.name || id}`);
-      converted.push(ch.url);
-    }
-    if (converted.length) {
-      out.push(section("FanCode | Live Events"), converted.join("\n"));
-    }
+ if (fan && Array.isArray(fan)) {
+  const converted = [];
+  fan.forEach((event, i) => {
+    const url = event.adfree_url || event.dai_url;
+    if (!url) return;
+
+    converted.push(`#EXTINF:-1 tvg-id="fancode${i}" tvg-logo="${event.src || ""}" group-title="FanCode | Live Events",${event.match_name || event.title || "FanCode Event"}`);
+    converted.push(url);
+  });
+
+  if (converted.length) {
+    out.push(section("FanCode | Live Events"), converted.join("\n"));
   }
  }
 
  const sony=await safeFetch(SOURCES.SONYLIV_JSON);
  if(sony) out.push(section("SonyLiv | Live Events"),convertSony(sony));
 
- // (rest unchanged...)
+ const newm3u = await safeFetch(SOURCES.NEW_M3U);
+if(newm3u){
+
+ const allowedGroups = [
+  "SPORTS | RACING",
+  "SPORTS | CRICKET",
+  "SPORTS | CRICKET REPLAY",
+  "SPORTS | PPV LIVE EVENTS",
+  "SPORTS | LALIGA",
+  "SPORTS | UEFA",
+  "SPORTS | SERIE A",
+  "SPORTS | GENERAL",
+  "TAMIL | TV",
+  "TELUGU | TV",
+  "MALYALAM | TV",
+  "MARATHI | TV",
+  "NEPALI | TV",
+  "PUNJABI | TV",
+  "KANNADA | TV",
+  "HINDI | TV",
+  "ENGLISH | UK",
+  "BENGALI | TV",
+  "URDU | TV",
+  "ENGLISH | 24X7 MUSIC",
+  "HINDI | MUSIC",
+  "PUNJABI | MUSIC",
+  "ENGLISH | MOVIES",
+  "ENGLISH | 24x7 CLASSIC SERIES",
+  "ENGLISH | 24x7 OTT SERIES",
+  "HINDI | 24X7 MOVIES",
+  "HINDI | 24x7 OTT SERIES",
+  "ENGLISH | KIDS",
+  "HINDI | KIDS",
+ ].map(g => g.toUpperCase());
+
+ const lines = newm3u.split("\n");
+ const filtered = [];
+
+ for(let i = 0; i < lines.length; i++){
+  const line = lines[i];
+
+  if(line.startsWith("#EXTINF")){
+    const match = line.match(/group-title="([^"]*)"/);
+    const group = match ? match[1].toUpperCase() : "";
+
+    if(allowedGroups.some(g => group.includes(g))){
+
+      const updatedLine = match
+        ? line.replace(/group-title="[^"]*"/, `group-title="CS-W | ${group}"`)
+        : line.replace('#EXTINF:-1', `#EXTINF:-1 group-title="CS-W | OTHER"`);
+
+      filtered.push(updatedLine);
+
+      if(lines[i+1]){
+        filtered.push(lines[i+1]);
+        i++;
+      }
+    }
+  }
+ }
+
+ out.push(section("CS-W | Extra"), filtered.join("\n"));
+}
 
  const icc=await safeFetch(SOURCES.ICC_TV_JSON);
  if(icc) out.push(section("ICC TV"),icc);
