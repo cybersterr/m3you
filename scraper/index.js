@@ -207,7 +207,7 @@ async function run(){
   const converted = [];
 
   valid.forEach((e, i) => {
-    converted.push(`#EXTINF:-1 tvg-id="${e.match_id}" tvg-logo="${e.src || ""}" group-title="${e.event_name || e.event_category || "FanCode"}",${e.match_name || e.title}`);
+    converted.push(`#EXTINF:-1 tvg-id="${e.match_id}" tvg-logo="${e.src || ""}" group-title="FanCode | Live Events",${e.match_name || e.title}`);
     converted.push(e.adfree_url || e.dai_url);
   });
 
