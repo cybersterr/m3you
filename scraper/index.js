@@ -19,7 +19,7 @@ const SOURCES = {
 
   SONYLIV_M3U: "https://raw.githubusercontent.com/cybersterr/Sony/main/stream.json",
   SUNXT_JSON: "https://netx.streamstar18.workers.dev/sun", // ✅ ADDED
-  NEW_M3U: "https://vt-ip.vodep39240327.workers.dev/playlist.m3u8?url=http://jiotv.be/stalker_portal/c&mac=00:1A:79:97:55:B9&deviceId1=B8F453DCDAEE02318C9FA912D9E409EE96B75AE592A70B526AA84478533C0A66&deviceId2=B8F453DCDAEE02318C9FA912D9E409EE96B75AE592A70B526AA84478533C0A66&sn=500482917046B",
+  NEW_M3U: "https://mactom3u.vodep39240327.workers.dev/playlist.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270",
 };
 
 // ================= PLAYLIST HEADER =================
@@ -194,29 +194,35 @@ const newm3u = await safeFetch(SOURCES.NEW_M3U);
 if(newm3u){
 
  const allowedGroups = [
-  "SPORTS",
+  "SPORTS | RACING",
   "SPORTS | CRICKET",
-  "SPORTS | PPV EVENTS",
+  "SPORTS | CRICKET REPLAY",
+  "SPORTS | PPV LIVE EVENTS",
   "SPORTS | LALIGA",
   "SPORTS | UEFA",
   "SPORTS | SERIE A",
-  "TAMIL",
-  "TELUGU",
-  "MALYALAM",
-  "MARATHI",
-  "NEPALI",
-  "PUNJABI",
-  "KANNADA",
-  "HINDI",
-  "ENGLISH",
-  "BANGLA/BENGALI",
-  "URDU",
-  "ENGLISH MUSIC",
-  "HINDI 24X7 MUSIC",
-  "PUNJABI 24X7 MUSIC",
-  "ENGLISH MOVIES",
-  "HINDI MOVIES",
-  "KIDS"
+  "SPORTS | GENERAL",
+  "TAMIL | TV",
+  "TELUGU | TV",
+  "MALYALAM | TV",
+  "MARATHI | TV",
+  "NEPALI | TV",
+  "PUNJABI | TV",
+  "KANNADA | TV",
+  "HINDI | TV",
+  "ENGLISH | UK",
+  "BENGALI | TV",
+  "URDU | TV",
+  "ENGLISH | 24X7 MUSIC",
+  "HINDI | MUSIC",
+  "PUNJABI | MUSIC",
+  "ENGLISH | MOVIES",
+  "ENGLISH | 24x7 CLASSIC SERIES",
+  "ENGLISH | 24x7 OTT SERIES",
+  "HINDI | 24X7 MOVIES",
+  "HINDI | 24x7 OTT SERIES",
+  "ENGLISH | KIDS"
+  "HINDI | KIDS",
  ].map(g => g.toUpperCase());
 
  const lines = newm3u.split("\n");
