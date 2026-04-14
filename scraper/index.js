@@ -5,8 +5,8 @@ const OUTPUT_FILE = "stream.m3u";
 
 // ================= SOURCES =================
 const SOURCES = {
-  HOTSTAR_JSON: "https://hotstar.droozy.workers.dev",
-  ZEE5_JSON: "https://zee5.droozy.workers.dev",
+  HOTSTAR_M3U: "https://voot.vodep39240327.workers.dev?voot.m3u",
+  ZEE5_M3U: "https://join-vaathala1-for-more.vodep39240327.workers.dev/zee5.m3u",
   JIO_JSON: "https://raw.githubusercontent.com/cybersterr/jeeyo/main/stream.json",
   SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
   FANCODE_JSON: "https://fanco.vodep39240327.workers.dev/",
@@ -129,15 +129,19 @@ function convertSportsJson(json){
  return out.join("\n");
 }
 
-// ================= HOTSTAR JSON → M3U =================
+// ================= HOTSTAR (FIXED ONLY) =================
 function convertHotstarJson(json){
- if(!Array.isArray(json)) return "";
+ let data = json;
+ if(json && Array.isArray(json.data)) data = json.data;
+ if(data && !Array.isArray(data)) data = Object.values(data);
+ if(!Array.isArray(data)) return "";
 
  const out=[];
- json.forEach((ch)=>{
+ data.forEach((ch)=>{
   if(!ch.m3u8_url) return;
+  const name = (ch.name || "").split(",").pop();
 
-  out.push(`#EXTINF:-1 tvg-logo="${ch.logo}" group-title="${ch.group}",${(ch.name||"").split(",").pop()}`);
+  out.push(`#EXTINF:-1 tvg-logo="${ch.logo}" group-title="${ch.group}",${name}`);
   out.push(`#EXTVLCOPT:http-user-agent=${ch.user_agent}`);
   out.push(`#EXTHTTP:${JSON.stringify(ch.headers||{})}`);
   out.push(ch.m3u8_url);
@@ -146,7 +150,7 @@ function convertHotstarJson(json){
  return out.join("\n");
 }
 
-// ================= ZEE5 JSON → M3U =================
+// ================= ZEE5 (FIXED ONLY) =================
 function convertZee5Json(json){
  if(!json || typeof json !== "object") return "";
 
@@ -154,8 +158,9 @@ function convertZee5Json(json){
  for(const id in json){
   const ch = json[id];
   if(!ch.url) continue;
+  const name = (ch.channel_name || "").split(",").pop();
 
-  out.push(`#EXTINF:-1 tvg-logo="${ch.tvg_logo}" group-title="${ch.group_title}",${(ch.channel_name||"").split(",").pop()}`);
+  out.push(`#EXTINF:-1 tvg-logo="${ch.tvg_logo}" group-title="${ch.group_title}",${name}`);
   out.push(`#EXTVLCOPT:http-user-agent=${ch.user_agent}`);
   out.push(`#EXTHTTP:${JSON.stringify(ch.headers||{})}`);
   out.push(ch.url);
@@ -202,14 +207,13 @@ async function run(){
   out.push(section("IPL 2026 | LIVE"), convertSportsJson({streams: sportsCombined}));
  }
 
- // ✅ ONLY CHANGE APPLIED HERE
  const hotstar=await safeFetch(SOURCES.HOTSTAR_M3U);
  if(hotstar) out.push(section("CS OTT | Jio Cinema"),convertHotstarJson(hotstar));
 
  const zee5=await safeFetch(SOURCES.ZEE5_M3U);
  if(zee5) out.push(section("CS OTT | ZEE5"),convertZee5Json(zee5));
 
- // REST UNCHANGED
+ // EVERYTHING BELOW UNCHANGED
  const digital = await safeFetch(SOURCES.SONYLIV_M3U);
  if(digital){
   out.push(section("CS OTT | SONY LIV"), convertSonyJsonChannels(digital));
@@ -246,47 +250,47 @@ async function run(){
  if(sony) out.push(section("SonyLiv | Live Events"),convertSony(sony));
 
  const newm3u = await safeFetch(SOURCES.NEW_M3U);
- if(newm3u){
+if(newm3u){
 
-  const allowedGroups = [
-   "SPORTS | RACING",
-   "SPORTS | CRICKET",
-   "SPORTS | CRICKET REPLAY",
-   "SPORTS | PPV LIVE EVENTS",
-   "SPORTS | LALIGA",
-   "SPORTS | UEFA",
-   "SPORTS | SERIE A",
-   "SPORTS | GENERAL",
-   "TAMIL | TV",
-   "TELUGU | TV",
-   "MALYALAM | TV",
-   "MARATHI | TV",
-   "NEPALI | TV",
-   "PUNJABI | TV",
-   "KANNADA | TV",
-   "HINDI | TV",
-   "ENGLISH | UK",
-   "BENGALI | TV",
-   "URDU | TV",
-   "ENGLISH | 24X7 MUSIC",
-   "HINDI | MUSIC",
-   "PUNJABI | MUSIC",
-   "ENGLISH | MOVIES",
-   "ENGLISH | 24x7 CLASSIC SERIES",
-   "ENGLISH | 24x7 OTT SERIES",
-   "HINDI | 24X7 MOVIES",
-   "HINDI | 24x7 OTT SERIES",
-   "ENGLISH | KIDS",
-   "HINDI | KIDS",
-  ].map(g => g.toUpperCase());
+ const allowedGroups = [
+  "SPORTS | RACING",
+  "SPORTS | CRICKET",
+  "SPORTS | CRICKET REPLAY",
+  "SPORTS | PPV LIVE EVENTS",
+  "SPORTS | LALIGA",
+  "SPORTS | UEFA",
+  "SPORTS | SERIE A",
+  "SPORTS | GENERAL",
+  "TAMIL | TV",
+  "TELUGU | TV",
+  "MALYALAM | TV",
+  "MARATHI | TV",
+  "NEPALI | TV",
+  "PUNJABI | TV",
+  "KANNADA | TV",
+  "HINDI | TV",
+  "ENGLISH | UK",
+  "BENGALI | TV",
+  "URDU | TV",
+  "ENGLISH | 24X7 MUSIC",
+  "HINDI | MUSIC",
+  "PUNJABI | MUSIC",
+  "ENGLISH | MOVIES",
+  "ENGLISH | 24x7 CLASSIC SERIES",
+  "ENGLISH | 24x7 OTT SERIES",
+  "HINDI | 24X7 MOVIES",
+  "HINDI | 24x7 OTT SERIES",
+  "ENGLISH | KIDS",
+  "HINDI | KIDS",
+ ].map(g => g.toUpperCase());
 
-  const lines = newm3u.split("\n");
-  const filtered = [];
+ const lines = newm3u.split("\n");
+ const filtered = [];
 
-  for(let i = 0; i < lines.length; i++){
-   const line = lines[i];
+ for(let i = 0; i < lines.length; i++){
+  const line = lines[i];
 
-   if(line.startsWith("#EXTINF")){
+  if(line.startsWith("#EXTINF")){
     const match = line.match(/group-title="([^"]*)"/);
     const group = match ? match[1].toUpperCase() : "";
 
@@ -306,7 +310,7 @@ async function run(){
   }
 
   out.push(section("CS-W | Extra"), filtered.join("\n"));
- }
+}
 
  const icc=await safeFetch(SOURCES.ICC_TV_JSON);
  if(icc) out.push(section("ICC TV"),icc);
