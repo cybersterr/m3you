@@ -7,7 +7,7 @@ const OUTPUT_FILE = "stream.m3u";
 const SOURCES = {
   HOTSTAR_M3U: "https://hotstar.droozy.workers.dev/",
   ZEE5_M3U: "https://join-vaathala1-for-more.vodep39240327.workers.dev/zee5.m3u",
-  JIO_JSON: "https://raw.githubusercontent.com/cybersterr/jeeyo/main/stream.json",
+  JIO_JSON: "https://raw.githubusercontent.com/cybersterr/jeeyo/main/stream.jso",
   SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
   FANCODE_JSON: "https://fanco.vodep39240327.workers.dev/",
   ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.jso",
