@@ -5,6 +5,49 @@
 # ===== CosmicSports Playlist =====
 # Join Telegram: @FrostDrift7
 
+# ---------------=== IPL 2026 | LIVE ===-------------------
+
+#EXTINF:-1 tvg-id="1100" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.png" group-title="IPL LIVE",HINDI 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live12p.akt.hotstar-cdn.net/cmaf/live/2108404/inallow-ipl-2026/hin/1540065682/15mindvrm012ef2013414cb4b8782ca2fdb76b7ccd028march2026/master_a.m3u8|cookie=hdntl%3Dexp%3D1774733408%7Eacl%3D%2F*%7Eid%3D2cda5fef548d9a445c3c6908253c265b%7Edata%3Dhdntl%7Ehmac%3D84bfbbaff8eb79a7337337c67eafdaec04e1cfb3fe6d726c59ab5ed111697fcc&user-agent=Hotstar%3Bin.startv.hotstar%2F25.11.24.0.4237+%28Android%2F13%29&referer=https%3A%2F%2Fwww.hotstar.com%2F&origin=https%3A%2F%2Fwww.hotstar.com
+#EXTINF:-1 tvg-id="1101" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.png" group-title="IPL LIVE",English 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live11p.akt.hotstar-cdn.net/cmaf/live/2108387/inallow-ipl-2026/eng/1540065682/15mindvrm012ef2013414cb4b8782ca2fdb76b7ccd028march2026/master_a_stereo.m3u8|cookie=hdntl%3Dexp%3D1774733408%7Eacl%3D%2F*%7Eid%3D2cda5fef548d9a445c3c6908253c265b%7Edata%3Dhdntl%7Ehmac%3D84bfbbaff8eb79a7337337c67eafdaec04e1cfb3fe6d726c59ab5ed111697fcc&user-agent=Hotstar%3Bin.startv.hotstar%2F25.11.24.0.4237+%28Android%2F13%29&referer=https%3A%2F%2Fwww.hotstar.com%2F&origin=https%3A%2F%2Fwww.hotstar.com
+#EXTINF:-1 tvg-id="1102" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.png" group-title="IPL LIVE",Tamil 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live12p.akt.hotstar-cdn.net/cmaf/live/2108400/inallow-ipl-2026/tam/1540065682/15mindvrm012ef2013414cb4b8782ca2fdb76b7ccd028march2026/master_a.m3u8|cookie=hdntl%3Dexp%3D1774733408%7Eacl%3D%2F*%7Eid%3D2cda5fef548d9a445c3c6908253c265b%7Edata%3Dhdntl%7Ehmac%3D84bfbbaff8eb79a7337337c67eafdaec04e1cfb3fe6d726c59ab5ed111697fcc&user-agent=Hotstar%3Bin.startv.hotstar%2F25.11.24.0.4237+%28Android%2F13%29&referer=https%3A%2F%2Fwww.hotstar.com%2F&origin=https%3A%2F%2Fwww.hotstar.com
+#EXTINF:-1 tvg-id="1103" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.png" group-title="IPL LIVE",Telugu 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live12p.akt.hotstar-cdn.net/cmaf/live/2108399/inallow-ipl-2026/tel/1540065682/15mindvrm012ef2013414cb4b8782ca2fdb76b7ccd028march2026/master_a.m3u8|cookie=hdntl%3Dexp%3D1774733408%7Eacl%3D%2F*%7Eid%3D2cda5fef548d9a445c3c6908253c265b%7Edata%3Dhdntl%7Ehmac%3D84bfbbaff8eb79a7337337c67eafdaec04e1cfb3fe6d726c59ab5ed111697fcc&user-agent=Hotstar%3Bin.startv.hotstar%2F25.11.24.0.4237+%28Android%2F13%29&referer=https%3A%2F%2Fwww.hotstar.com%2F&origin=https%3A%2F%2Fwww.hotstar.com
+#EXTINF:-1 tvg-id="1104" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.png" group-title="IPL LIVE",Malayalam 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live14p.akt.hotstar-cdn.net/cmaf/live/2123099/inallow-ipl-2026/mal/1540065682/15mindvrm012ef2013414cb4b8782ca2fdb76b7ccd028march2026/master_a.m3u8|cookie=hdntl%3Dexp%3D1774733408%7Eacl%3D%2F*%7Eid%3D2cda5fef548d9a445c3c6908253c265b%7Edata%3Dhdntl%7Ehmac%3D84bfbbaff8eb79a7337337c67eafdaec04e1cfb3fe6d726c59ab5ed111697fcc&user-agent=Hotstar%3Bin.startv.hotstar%2F25.11.24.0.4237+%28Android%2F13%29&referer=https%3A%2F%2Fwww.hotstar.com%2F&origin=https%3A%2F%2Fwww.hotstar.com
+#EXTINF:-1 tvg-id="1105" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.png" group-title="IPL LIVE",Punjabi 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live14p.akt.hotstar-cdn.net/cmaf/live/2123097/inallow-ipl-2026/pan/1540065682/15mindvrm012ef2013414cb4b8782ca2fdb76b7ccd028march2026/master_a.m3u8|cookie=hdntl%3Dexp%3D1774733408%7Eacl%3D%2F*%7Eid%3D2cda5fef548d9a445c3c6908253c265b%7Edata%3Dhdntl%7Ehmac%3D84bfbbaff8eb79a7337337c67eafdaec04e1cfb3fe6d726c59ab5ed111697fcc&user-agent=Hotstar%3Bin.startv.hotstar%2F25.11.24.0.4237+%28Android%2F13%29&referer=https%3A%2F%2Fwww.hotstar.com%2F&origin=https%3A%2F%2Fwww.hotstar.com
+#EXTINF:-1 tvg-id="1106" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.png" group-title="IPL LIVE",Bhojpuri 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live13p.akt.hotstar-cdn.net/cmaf/live/2123032/inallow-ipl-2026/bih/1540065682/15mindvrm012ef2013414cb4b8782ca2fdb76b7ccd028march2026/master_a.m3u8|cookie=hdntl%3Dexp%3D1774733408%7Eacl%3D%2F*%7Eid%3D2cda5fef548d9a445c3c6908253c265b%7Edata%3Dhdntl%7Ehmac%3D84bfbbaff8eb79a7337337c67eafdaec04e1cfb3fe6d726c59ab5ed111697fcc&user-agent=Hotstar%3Bin.startv.hotstar%2F25.11.24.0.4237+%28Android%2F13%29&referer=https%3A%2F%2Fwww.hotstar.com%2F&origin=https%3A%2F%2Fwww.hotstar.com
+#EXTINF:-1 tvg-id="1107" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.png" group-title="IPL LIVE",Haryanvi 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live15p.akt.hotstar-cdn.net/cmaf/live/2123159/inallow-ipl-2026/har/1540065682/15mindvrm012ef2013414cb4b8782ca2fdb76b7ccd028march2026/master_a.m3u8|cookie=hdntl%3Dexp%3D1774733408%7Eacl%3D%2F*%7Eid%3D2cda5fef548d9a445c3c6908253c265b%7Edata%3Dhdntl%7Ehmac%3D84bfbbaff8eb79a7337337c67eafdaec04e1cfb3fe6d726c59ab5ed111697fcc&user-agent=Hotstar%3Bin.startv.hotstar%2F25.11.24.0.4237+%28Android%2F13%29&referer=https%3A%2F%2Fwww.hotstar.com%2F&origin=https%3A%2F%2Fwww.hotstar.com
+
 # ---------------=== CS OTT | Jio Cinema ===-------------------
 
 #EXTM3U
@@ -326,7 +369,7 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 # ---------------=== SonyLiv | Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017362/1776620483740889_UYL26_Final_club_brugge_vs_real_union_19april_landscape_thumb.jpg" group-title="SonyLiv | Sports",Club Brugge vs Real Madrid - Final - 20 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/UYL_Brug2004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776746822~acl=/*~id=71136218063024181525269394689145~hmac=480d12b11e5f429931ea883c49554ef777b8b74257fce0bd1a2737b0297a0f65
+https://sonydaimenew.akamaized.net/hls/live/2094588/UYL_Brug2004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776749860~acl=/*~id=09148514680824025046242891166896~hmac=17e5e30c3cd6a23c05755d81fca95f5ba69cc5492955c0c37ed3999bf6613d1e
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
