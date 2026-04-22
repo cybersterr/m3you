@@ -168,7 +168,7 @@ async function run(){
  }
 
  const hotstar=await safeFetch(SOURCES.HOTSTAR_M3U);
- if(hotstar) out.push(section("🎬 OTT | Jio Cinema"),hotstar);
+ if(hotstar) out.push(section("OTT | Jio Cinema"),hotstar);
 
  const zee5=await safeFetch(SOURCES.ZEE5_M3U);
  if(zee5) out.push(section("🎬 OTT | ZEE5"),zee5);
