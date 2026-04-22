@@ -78,7 +78,7 @@ function convertSonyJsonChannels(json){
   const ch = json[id];
   if(!ch.url) continue;
 
-  out.push(`#EXTINF:-1 tvg-id="${id}" tvg-logo="${ch.tvg_logo || ""}" group-title="CS OTT | SONY LIV",${ch.channel_name || id}`);
+  out.push(`#EXTINF:-1 tvg-id="${id}" tvg-logo="${ch.tvg_logo || ""}" group-title="🎬 OTT | SONY LIV",${ch.channel_name || id}`);
   out.push(ch.url);
  }
 
@@ -94,7 +94,7 @@ function convertSunxtJson(json){
  json.slice(1).forEach((ch, i)=>{
   if(!ch.mpd_url) return;
 
-  out.push(`#EXTINF:-1 tvg-id="${ch.id || 3000+i}" tvg-logo="${ch.logo || ""}" group-title="CS OTT | SUNXT",${ch.name || "SunXT Channel"}`);
+  out.push(`#EXTINF:-1 tvg-id="${ch.id || 3000+i}" tvg-logo="${ch.logo || ""}" group-title="🎬 OTT | SUNXT",${ch.name || "SunXT Channel"}`);
   out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
   out.push(`#KODIPROP:inputstream.adaptive.license_key=${(ch.license_url || "").split("keyid=")[1]?.split("&")[0] || ""}:${(ch.license_url || "").split("key=")[1] || ""}`);
   out.push(`#EXTHTTP:${JSON.stringify({"User-Agent": ch.user_agent || ""})}`);
@@ -168,23 +168,23 @@ async function run(){
  }
 
  const hotstar=await safeFetch(SOURCES.HOTSTAR_M3U);
- if(hotstar) out.push(section("CS OTT | Jio Cinema"),hotstar);
+ if(hotstar) out.push(section("🎬 OTT | Jio Cinema"),hotstar);
 
  const zee5=await safeFetch(SOURCES.ZEE5_M3U);
- if(zee5) out.push(section("CS OTT | ZEE5"),zee5);
+ if(zee5) out.push(section("🎬 OTT | ZEE5"),zee5);
 
  const digital = await safeFetch(SOURCES.SONYLIV_M3U);
  if(digital){
-  out.push(section("CS OTT | SONY LIV"), convertSonyJsonChannels(digital));
+  out.push(section("🎬 OTT | SONY LIV"), convertSonyJsonChannels(digital));
  }
 
  const sunxt = await safeFetch(SOURCES.SUNXT_JSON);
  if(sunxt){
-  out.push(section("CS OTT | SUNXT"), convertSunxtJson(sunxt));
+  out.push(section("🎬 OTT | SUNXT"), convertSunxtJson(sunxt));
  }
 
  const jio=await safeFetch(SOURCES.JIO_JSON);
- if(jio) out.push(section("JioTv+"),convertJioJson(jio));
+ if(jio) out.push(section("⭕ JioTv+"),convertJioJson(jio));
 
  // ✅ ONLY CHANGE: fixed group-title
  let fan = await safeFetch(SOURCES.FANCODE_JSON);
@@ -206,17 +206,17 @@ async function run(){
   const converted = [];
 
   valid.forEach((e, i) => {
-    converted.push(`#EXTINF:-1 tvg-id="${e.match_id}" tvg-logo="${e.src || ""}" group-title="FanCode | Live Events",${e.match_name || e.title}`);
+    converted.push(`#EXTINF:-1 tvg-id="${e.match_id}" tvg-logo="${e.src || ""}" group-title="🔸FanCode🔸| Live Events",${e.match_name || e.title}`);
     converted.push(e.adfree_url || e.dai_url);
   });
 
   if (converted.length) {
-    out.push(section("FanCode | Live Events"), converted.join("\n"));
+    out.push(section("🔸FanCode🔸| Live Events"), converted.join("\n"));
   }
  }
 
  const sony=await safeFetch(SOURCES.SONYLIV_JSON);
- if(sony) out.push(section("SonyLiv | Live Events"),convertSony(sony));
+ if(sony) out.push(section("🔹SonyLiv🔹| Live Events"),convertSony(sony));
 
  const newm3u = await safeFetch(SOURCES.NEW_M3U);
 if(newm3u){
@@ -266,8 +266,8 @@ if(newm3u){
     if(allowedGroups.some(g => group.includes(g))){
 
       const updatedLine = match
-        ? line.replace(/group-title="[^"]*"/, `group-title="CS-W | ${group}"`)
-        : line.replace('#EXTINF:-1', `#EXTINF:-1 group-title="CS-W | OTHER"`);
+        ? line.replace(/group-title="[^"]*"/, `group-title="🌐 WORLD | ${group}"`)
+        : line.replace('#EXTINF:-1', `#EXTINF:-1 group-title="🌐 WORLD | OTHER"`);
 
       filtered.push(updatedLine);
 
@@ -279,7 +279,7 @@ if(newm3u){
   }
  }
 
- out.push(section("CS-W | Extra"), filtered.join("\n"));
+ out.push(section("🌐 WORLD | Extra"), filtered.join("\n"));
 }
 
  const icc=await safeFetch(SOURCES.ICC_TV_JSON);
