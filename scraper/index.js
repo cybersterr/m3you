@@ -13,8 +13,8 @@ const SOURCES = {
   ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.jso",
 
   SPORTS_JSON: [
-    "https://sports.vodep39240327.workers.dev/sports111.json",
-    "https://gentle-moon-6383.lrl45.workers.dev/stream.json"
+    "https://hs.jaj-aya-m-o-t-o.workers.dev/",
+    "https://gentle-moon-6383.lrl45.workers.dev/stream.jso"
   ],
 
   SONYLIV_M3U: "https://raw.githubusercontent.com/cybersterr/Sony/main/stream.json",
