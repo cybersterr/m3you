@@ -128,7 +128,7 @@ function convertSportsJson(json){
   urlObj.searchParams.delete("drmLicense");
   urlObj.searchParams.delete("User-Agent");
 
-  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.png" group-title="IPL LIVE",${s.language || "IPL Live"}`);
+  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",${s.language || "IPL Live"}`);
   out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
   out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
   out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
