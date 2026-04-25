@@ -17,7 +17,7 @@ const SOURCES = {
     "https://gentle-moon-6383.lrl45.workers.dev/stream.jso"
   ],
 
-  SONYLIV_M3U: "https://raw.githubusercontent.com/cybersterr/Sony/main/stream.json",
+  SONYLIV_M3U: "https://cloudplay-sonyliv.pages.dev/sony.m3u",
   SUNXT_JSON: "https://netx.streamstar18.workers.dev/sun",
   NEW_M3U: "https://mactom3u.vodep39240327.workers.dev/playlist.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270",
 };
@@ -86,13 +86,20 @@ function convertSonyJsonChannels(json){
   const ch = json[id];
   if(!ch.url) continue;
 
-  out.push(`#EXTINF:-1 tvg-id="${id}" tvg-logo="${ch.tvg_logo || ""}" group-title="🎬 OTT | SONY LIV",${ch.channel_name || id}`);
+  const tvgId   = ch.tvg_id || `${id}.in`;
+  const tvgName = ch.tvg_name || ch.channel_name || id;
+  const logo    = ch.tvg_logo || "";
+  const group   = ch.group_title || "Entertainment";
+  const name    = ch.channel_name || id;
+
+  out.push(
+`#EXTINF:-1 tvg-id="${tvgId}" tvg-name="${tvgName}" group-title="${group}" tvg-logo="${logo}",${name}`
+  );
   out.push(ch.url);
  }
 
  return out.join("\n");
 }
-
 // ================= SUNXT =================
 function convertSunxtJson(json){
  if(!Array.isArray(json)) return "";
@@ -115,25 +122,62 @@ function convertSunxtJson(json){
 // ================= SPORTS =================
 function convertSportsJson(json){
  if(!json || !Array.isArray(json.streams)) return "";
+
  const out=[];
+
  json.streams.forEach((s,i)=>{
   if(!s.url) return;
 
-  const urlObj=new URL(s.url);
-  const drm=urlObj.searchParams.get("drmLicense")||"";
-  const[kid,key]=drm.split(":");
-  const ua=urlObj.searchParams.get("User-Agent")||"";
-  const hdnea=urlObj.searchParams.get("__hdnea__")||"";
+  const urlObj = new URL(s.url);
 
+  const drm = urlObj.searchParams.get("drmLicense") || "";
+  const [kid,key] = drm.split(":");
+
+  const ua =
+    urlObj.searchParams.get("User-Agent") ||
+    urlObj.searchParams.get("user-agent") ||
+    "";
+
+  const hdnea =
+    urlObj.searchParams.get("__hdnea__") ||
+    urlObj.searchParams.get("hdnea") ||
+    "";
+
+  // Remove extra params from final URL
   urlObj.searchParams.delete("drmLicense");
   urlObj.searchParams.delete("User-Agent");
+  urlObj.searchParams.delete("user-agent");
 
-  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",${s.language || "IPL Live"}`);
-  out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
-  out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
-  out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
+  const name =
+    s.language ||
+    s.channel ||
+    `Sports ${i+1}`;
+
+  const logo =
+    s.logo ||
+    s.tvg_logo ||
+    "";
+
+  out.push(
+`#EXTINF:-1 tvg-id="${1100+i}" tvg-name="${name}" tvg-logo="${logo}" group-title="IPL | LIVE",${name}`
+  );
+
+  // Add DRM only if exists
+  if(kid && key){
+   out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
+   out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
+  }
+
+  out.push(
+`#EXTHTTP:${JSON.stringify({
+ Cookie: hdnea ? `__hdnea__=${hdnea}` : "",
+ "User-Agent": ua
+})}`
+  );
+
   out.push(urlObj.toString());
  });
+
  return out.join("\n");
 }
 
