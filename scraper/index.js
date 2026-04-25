@@ -159,7 +159,7 @@ function convertSportsJson(json){
     "";
 
   out.push(
-`#EXTINF:-1 tvg-id="${1100+i}" tvg-name="${name}" tvg-logo="${logo}" group-title="IPL | LIVE",${name}`
+`#EXTINF:-1 tvg-id="${1100+i}" tvg-name="${name}" tvg-logo="${logo}" group-title="IPL LIVE",${name}`
   );
 
   // Add DRM only if exists
