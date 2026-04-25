@@ -127,122 +127,242 @@ https://live14p.hotstar.com/hls/live/2123138/inallow-ipl-2026/pan/1540066400/15m
 #KODIPROP:inputstream.adaptive.license_key=:undefined
 #EXTHTTP:{"Cookie":"","User-Agent":""}
 https://tattistar.vercel.app/jhs.m3u8?id=1540066400&lang=pan&Referer=https%3A%2F%2Fwww.hotstar.com%2F
-#EXTINF:-1 tvg-id="1124" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 HD
+#EXTINF:-1 tvg-id="1124" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Hindi RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live12p.hotstar.com/hls/live/2024726/inallow-ipl-2026/hin/1540066403/15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026/master_ap.m3u8?a=ns&hdnea=exp%3D1777206199%7Eacl%3D%2Fhls%2Flive%2F2024726%2Finallow-ipl-2026%2Fhin%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap*%7Edata%3Dip%3DBNupoQ3Lvau-userid%3DvBT7PtHW5E7-did%3DMZDAIbQBxZt-cc%3Din-ttl%3D3600-type%3Dfree-%7Ehmac%3D4c5b8a5de3dfab8c37b8fa198788f44cf940bbc0c89bec393156dd42847246bc&ttl=86400&type=free&acl=%2Fhls%2Flive%2F2024726%2Finallow-ipl-2026%2Fhin%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1125" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",4K-NO-ADS Hindi RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://tattistar.vercel.app/jhs.m3u8?id=1540066403&lang=hin&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1126" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",English RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live11p.hotstar.com/hls/live/2024721/inallow-ipl-2026/eng/1540066403/15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026/master_ap.m3u8?a=ns&hdnea=exp%3D1777206194%7Eacl%3D%2Fhls%2Flive%2F2024721%2Finallow-ipl-2026%2Feng%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap*%7Edata%3Dip%3DBNupoQ3Lvau-userid%3DvBT7PtHW5E7-did%3DMZDAIbQBxZt-cc%3Din-ttl%3D3600-type%3Dfree-%7Ehmac%3D3976faa0c2d62f5e4dbd38c6db110dc13365c9d4bbba0c936219b2f8d81b4d19&ttl=86400&type=free&acl=%2Fhls%2Flive%2F2024721%2Finallow-ipl-2026%2Feng%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1127" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",4K-NO-ADS English RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://tattistar.vercel.app/jhs.m3u8?id=1540066403&lang=eng&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1128" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Bengali RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live13p.hotstar.com/hls/live/2123084/inallow-ipl-2026/ben/1540066403/15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026/master_ap.m3u8?a=ns&hdnea=exp%3D1777209120%7Eacl%3D%2Fhls%2Flive%2F2123084%2Finallow-ipl-2026%2Fben%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap*%7Edata%3Dip%3DBNupoQ3Lvau-userid%3DvBT7PtHW5E7-did%3DMZDAIbQBxZt-cc%3Din-ttl%3D3600-type%3Dfree-%7Ehmac%3D391e0d506d86c813b2dbe07194772675b4df924ba8d546fa55035ea2b44ca71f&ttl=86400&type=free&acl=%2Fhls%2Flive%2F2123084%2Finallow-ipl-2026%2Fben%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1129" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",4K-NO-ADS Bengali RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://tattistar.vercel.app/jhs.m3u8?id=1540066403&lang=ben&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1130" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Tamil RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live13p.hotstar.com/hls/live/2003889/inallow-ipl-2026/tam/1540066403/15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026/master_ap.m3u8?a=ns&hdnea=exp%3D1777209090%7Eacl%3D%2Fhls%2Flive%2F2003889%2Finallow-ipl-2026%2Ftam%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap*%7Edata%3Dip%3DBNupoQ3Lvau-userid%3DvBT7PtHW5E7-did%3DMZDAIbQBxZt-cc%3Din-ttl%3D3600-type%3Dfree-%7Ehmac%3D89b61285b2a5e2d6c0405d48006b16621dba766313c71aa92cfb0d4f9fdf0fac&ttl=86400&type=free&acl=%2Fhls%2Flive%2F2003889%2Finallow-ipl-2026%2Ftam%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1131" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",4K-NO-ADS Tamil RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://tattistar.vercel.app/jhs.m3u8?id=1540066403&lang=tam&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1132" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Telugu RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live15p.hotstar.com/hls/live/2004207/inallow-ipl-2026/tel/1540066403/15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026/master_ap.m3u8?a=ns&hdnea=exp%3D1777209093%7Eacl%3D%2Fhls%2Flive%2F2004207%2Finallow-ipl-2026%2Ftel%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap*%7Edata%3Dip%3DBNupoQ3Lvau-userid%3DvBT7PtHW5E7-did%3DMZDAIbQBxZt-cc%3Din-ttl%3D3600-type%3Dfree-%7Ehmac%3D946bbc7baab5e4e173a0065685ba9aba61ce26f39a35e7c210b97f6655f68fa2&ttl=86400&type=free&acl=%2Fhls%2Flive%2F2004207%2Finallow-ipl-2026%2Ftel%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1133" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",4K-NO-ADS Telugu RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://tattistar.vercel.app/jhs.m3u8?id=1540066403&lang=tel&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1134" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Kannada RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live15p.hotstar.com/hls/live/2004209/inallow-ipl-2026/kan/1540066403/15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026/master_ap.m3u8?a=ns&hdnea=exp%3D1777209077%7Eacl%3D%2Fhls%2Flive%2F2004209%2Finallow-ipl-2026%2Fkan%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap*%7Edata%3Dip%3DBNupoQ3Lvau-userid%3DvBT7PtHW5E7-did%3DMZDAIbQBxZt-cc%3Din-ttl%3D3600-type%3Dfree-%7Ehmac%3D594e756240206ef97265b6463955aecffa30a01708b7cff839ed6b2d769b45a9&ttl=86400&type=free&acl=%2Fhls%2Flive%2F2004209%2Finallow-ipl-2026%2Fkan%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1135" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",4K-NO-ADS Kannada RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://tattistar.vercel.app/jhs.m3u8?id=1540066403&lang=kan&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1136" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Malayalam RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live14p.hotstar.com/hls/live/2123147/inallow-ipl-2026/mal/1540066403/15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026/master_ap.m3u8?a=ns&hdnea=exp%3D1777209082%7Eacl%3D%2Fhls%2Flive%2F2123147%2Finallow-ipl-2026%2Fmal%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap*%7Edata%3Dip%3DBNupoQ3Lvau-userid%3DvBT7PtHW5E7-did%3DMZDAIbQBxZt-cc%3Din-ttl%3D3600-type%3Dfree-%7Ehmac%3Dffaf9f4a1dac003c2ce0b7e6b43ba246e515dc9139b40a332c63fe3c155c8ced&ttl=86400&type=free&acl=%2Fhls%2Flive%2F2123147%2Finallow-ipl-2026%2Fmal%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1137" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",4K-NO-ADS Malayalam RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://tattistar.vercel.app/jhs.m3u8?id=1540066403&lang=mal&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1138" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Marathi RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live15p.hotstar.com/hls/live/2123207/inallow-ipl-2026/mar/1540066403/15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026/master_ap.m3u8?a=ns&hdnea=exp%3D1777209099%7Eacl%3D%2Fhls%2Flive%2F2123207%2Finallow-ipl-2026%2Fmar%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap*%7Edata%3Dip%3DBNupoQ3Lvau-userid%3DvBT7PtHW5E7-did%3DMZDAIbQBxZt-cc%3Din-ttl%3D3600-type%3Dfree-%7Ehmac%3D7675172716e90490657256f60b224675233315e6921a34b345f67f4db17c4d0c&ttl=86400&type=free&acl=%2Fhls%2Flive%2F2123207%2Finallow-ipl-2026%2Fmar%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1139" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",4K-NO-ADS Marathi RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://tattistar.vercel.app/jhs.m3u8?id=1540066403&lang=mar&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1140" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Gujarati RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live13p.hotstar.com/hls/live/2123075/inallow-ipl-2026/guj/1540066403/15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026/master_ap.m3u8?a=ns&hdnea=exp%3D1777209106%7Eacl%3D%2Fhls%2Flive%2F2123075%2Finallow-ipl-2026%2Fguj%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap*%7Edata%3Dip%3DBNupoQ3Lvau-userid%3DvBT7PtHW5E7-did%3DMZDAIbQBxZt-cc%3Din-ttl%3D3600-type%3Dfree-%7Ehmac%3D4128df83f457d99ca4c5eace6ae92b65d8b4d8e7bcfb7ba676698ffdcbf34777&ttl=86400&type=free&acl=%2Fhls%2Flive%2F2123075%2Finallow-ipl-2026%2Fguj%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1141" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",4K-NO-ADS Gujarati RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://tattistar.vercel.app/jhs.m3u8?id=1540066403&lang=guj&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1142" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Haryanvi RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live15p.hotstar.com/hls/live/2123198/inallow-ipl-2026/har/1540066403/15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026/master_ap.m3u8?a=ns&hdnea=exp%3D1777209114%7Eacl%3D%2Fhls%2Flive%2F2123198%2Finallow-ipl-2026%2Fhar%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap*%7Edata%3Dip%3DBNupoQ3Lvau-userid%3DvBT7PtHW5E7-did%3DMZDAIbQBxZt-cc%3Din-ttl%3D3600-type%3Dfree-%7Ehmac%3Dddb936989143d586e2cc29cd1bac5d8d19860a63dfc4ef5d3435e0698dc1188f&ttl=86400&type=free&acl=%2Fhls%2Flive%2F2123198%2Finallow-ipl-2026%2Fhar%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1143" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",4K-NO-ADS Haryanvi RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://tattistar.vercel.app/jhs.m3u8?id=1540066403&lang=har&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1144" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Bhojpuri RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live13p.hotstar.com/hls/live/2123066/inallow-ipl-2026/bih/1540066403/15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026/master_ap.m3u8?a=ns&hdnea=exp%3D1777209065%7Eacl%3D%2Fhls%2Flive%2F2123066%2Finallow-ipl-2026%2Fbih%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap*%7Edata%3Dip%3DBNupoQ3Lvau-userid%3DvBT7PtHW5E7-did%3DMZDAIbQBxZt-cc%3Din-ttl%3D3600-type%3Dfree-%7Ehmac%3Db18e8b3931e70274ab35137e1fc815e21ba2c6d8ad3890c0312c90d1aa6a0bd0&ttl=86400&type=free&acl=%2Fhls%2Flive%2F2123066%2Finallow-ipl-2026%2Fbih%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1145" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",4K-NO-ADS Bhojpuri RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://tattistar.vercel.app/jhs.m3u8?id=1540066403&lang=bih&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1146" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Punjabi RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://live14p.hotstar.com/hls/live/2123138/inallow-ipl-2026/pan/1540066403/15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026/master_ap.m3u8?a=ns&hdnea=exp%3D1777209141%7Eacl%3D%2Fhls%2Flive%2F2123138%2Finallow-ipl-2026%2Fpan%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap*%7Edata%3Dip%3DBNupoQ3Lvau-userid%3DvBT7PtHW5E7-did%3DMZDAIbQBxZt-cc%3Din-ttl%3D3600-type%3Dfree-%7Ehmac%3D74dc3f65fccd3534fd9d474755acd02ffbdec261f6b0af46595bf1be13275d52&ttl=86400&type=free&acl=%2Fhls%2Flive%2F2123138%2Finallow-ipl-2026%2Fpan%2F1540066403%2F15mindvrm02722f981f208549f89ad3a2d0eafd6a7d25april2026%2Fmaster_ap&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1147" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",4K-NO-ADS Punjabi RR vs SRH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:undefined
+#EXTHTTP:{"Cookie":"","User-Agent":""}
+https://tattistar.vercel.app/jhs.m3u8?id=1540066403&lang=pan&Referer=https%3A%2F%2Fwww.hotstar.com%2F
+#EXTINF:-1 tvg-id="1148" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099185~exp=1777120785~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=0a0ac8818fb63218c43337cf4cfc85df4bb54e27da6599ba641fd4ec82e101dd|Cookie=__hdnea__=st=1777099185~exp=1777120785~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=0a0ac8818fb63218c43337cf4cfc85df4bb54e27da6599ba641fd4ec82e101dd","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099185%7Eexp%3D1777120785%7Eacl%3D%2Fbpk-tv%2FStar_Sports_HD1_BTS%2FWDVLive%2F*%7Ehmac%3D0a0ac8818fb63218c43337cf4cfc85df4bb54e27da6599ba641fd4ec82e101dd%7CCookie%3D__hdnea__%3Dst%3D1777099185%7Eexp%3D1777120785%7Eacl%3D%2Fbpk-tv%2FStar_Sports_HD1_BTS%2FWDVLive%2F*%7Ehmac%3D0a0ac8818fb63218c43337cf4cfc85df4bb54e27da6599ba641fd4ec82e101dd&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1125" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1
+#EXTINF:-1 tvg-id="1149" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099185~exp=1777120785~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=47b1fe6f402023433fd7c0fa87a6e40927f1371cdde78eb5c84e99ad3295a4e1|Cookie=__hdnea__=st=1777099185~exp=1777120785~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=47b1fe6f402023433fd7c0fa87a6e40927f1371cdde78eb5c84e99ad3295a4e1","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099185%7Eexp%3D1777120785%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_BTS%2FWDVLive%2F*%7Ehmac%3D47b1fe6f402023433fd7c0fa87a6e40927f1371cdde78eb5c84e99ad3295a4e1%7CCookie%3D__hdnea__%3Dst%3D1777099185%7Eexp%3D1777120785%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_BTS%2FWDVLive%2F*%7Ehmac%3D47b1fe6f402023433fd7c0fa87a6e40927f1371cdde78eb5c84e99ad3295a4e1&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1126" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 HD
+#EXTINF:-1 tvg-id="1150" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099185~exp=1777120785~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=4aa47ca6a36bd037f1531b3fbc5761a150b2443f82d57ea5482f12d3a64f82a9|Cookie=__hdnea__=st=1777099185~exp=1777120785~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=4aa47ca6a36bd037f1531b3fbc5761a150b2443f82d57ea5482f12d3a64f82a9","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099185%7Eexp%3D1777120785%7Eacl%3D%2Fbpk-tv%2FStar_Sports_HD2_BTS%2FWDVLive%2F*%7Ehmac%3D4aa47ca6a36bd037f1531b3fbc5761a150b2443f82d57ea5482f12d3a64f82a9%7CCookie%3D__hdnea__%3Dst%3D1777099185%7Eexp%3D1777120785%7Eacl%3D%2Fbpk-tv%2FStar_Sports_HD2_BTS%2FWDVLive%2F*%7Ehmac%3D4aa47ca6a36bd037f1531b3fbc5761a150b2443f82d57ea5482f12d3a64f82a9&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1127" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2
+#EXTINF:-1 tvg-id="1151" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099186~exp=1777120786~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=3da11acc30153e0ea9767a5c6d395732d982255b9ee3e2ff044df278c9ce9d22|Cookie=__hdnea__=st=1777099186~exp=1777120786~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=3da11acc30153e0ea9767a5c6d395732d982255b9ee3e2ff044df278c9ce9d22","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099186%7Eexp%3D1777120786%7Eacl%3D%2Fbpk-tv%2FStar_Sports_2_BTS%2FWDVLive%2F*%7Ehmac%3D3da11acc30153e0ea9767a5c6d395732d982255b9ee3e2ff044df278c9ce9d22%7CCookie%3D__hdnea__%3Dst%3D1777099186%7Eexp%3D1777120786%7Eacl%3D%2Fbpk-tv%2FStar_Sports_2_BTS%2FWDVLive%2F*%7Ehmac%3D3da11acc30153e0ea9767a5c6d395732d982255b9ee3e2ff044df278c9ce9d22&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1128" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 Tamil HD
+#EXTINF:-1 tvg-id="1152" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099186~exp=1777120786~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/*~hmac=49aea4da7b73731ef40775b0927f4b639263b61dc8680afbb3798513354ee834|Cookie=__hdnea__=st=1777099186~exp=1777120786~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/*~hmac=49aea4da7b73731ef40775b0927f4b639263b61dc8680afbb3798513354ee834","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st%3D1777099186%7Eexp%3D1777120786%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_Tamil_HD_BTS%2Foutput%2F*%7Ehmac%3D49aea4da7b73731ef40775b0927f4b639263b61dc8680afbb3798513354ee834%7CCookie%3D__hdnea__%3Dst%3D1777099186%7Eexp%3D1777120786%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_Tamil_HD_BTS%2Foutput%2F*%7Ehmac%3D49aea4da7b73731ef40775b0927f4b639263b61dc8680afbb3798513354ee834&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1129" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 Tamil
+#EXTINF:-1 tvg-id="1153" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0d750ebd52b5756aa7fb833f61ceece:4ae62a20c030c918aad24193c1dda229
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099186~exp=1777120786~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=ff0d4ac8a3f0dbed60762c0051ab75ddc33e35aee0f3e52f25c0401598c35a8e|Cookie=__hdnea__=st=1777099186~exp=1777120786~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=ff0d4ac8a3f0dbed60762c0051ab75ddc33e35aee0f3e52f25c0401598c35a8e","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099186%7Eexp%3D1777120786%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_Tamil_BTS%2FWDVLive%2F*%7Ehmac%3Dff0d4ac8a3f0dbed60762c0051ab75ddc33e35aee0f3e52f25c0401598c35a8e%7CCookie%3D__hdnea__%3Dst%3D1777099186%7Eexp%3D1777120786%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_Tamil_BTS%2FWDVLive%2F*%7Ehmac%3Dff0d4ac8a3f0dbed60762c0051ab75ddc33e35aee0f3e52f25c0401598c35a8e&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1130" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Tamil HD
+#EXTINF:-1 tvg-id="1154" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099187~exp=1777120787~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=d2ed89e82aab5bf05e6b16664bda169993fe8d8a99a72447daa1ef319e819d0e|Cookie=__hdnea__=st=1777099187~exp=1777120787~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=d2ed89e82aab5bf05e6b16664bda169993fe8d8a99a72447daa1ef319e819d0e","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099187%7Eexp%3D1777120787%7Eacl%3D%2Fbpk-tv%2FStar_Sports2_Tamil_HD_BTS%2FWDVLive%2F*%7Ehmac%3Dd2ed89e82aab5bf05e6b16664bda169993fe8d8a99a72447daa1ef319e819d0e%7CCookie%3D__hdnea__%3Dst%3D1777099187%7Eexp%3D1777120787%7Eacl%3D%2Fbpk-tv%2FStar_Sports2_Tamil_HD_BTS%2FWDVLive%2F*%7Ehmac%3Dd2ed89e82aab5bf05e6b16664bda169993fe8d8a99a72447daa1ef319e819d0e&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1131" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Tamil
+#EXTINF:-1 tvg-id="1155" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c1b335c4bb858a7a6ac5a883d898a09:6eeff4302a7d19befd43c6b7b5fac268
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099187~exp=1777120787~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=c57da85ea369574a976fe13fe65c7524b4a88e3167e595212eae4dfe3a704eeb|Cookie=__hdnea__=st=1777099187~exp=1777120787~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=c57da85ea369574a976fe13fe65c7524b4a88e3167e595212eae4dfe3a704eeb","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099187%7Eexp%3D1777120787%7Eacl%3D%2Fbpk-tv%2FStarSports2Tamil_BTS%2FWDVLive%2F*%7Ehmac%3Dc57da85ea369574a976fe13fe65c7524b4a88e3167e595212eae4dfe3a704eeb%7CCookie%3D__hdnea__%3Dst%3D1777099187%7Eexp%3D1777120787%7Eacl%3D%2Fbpk-tv%2FStarSports2Tamil_BTS%2FWDVLive%2F*%7Ehmac%3Dc57da85ea369574a976fe13fe65c7524b4a88e3167e595212eae4dfe3a704eeb&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1132" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 Telugu HD
+#EXTINF:-1 tvg-id="1156" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099187~exp=1777120787~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/*~hmac=ebc55a72d7666db2b6afae1a42a5e53c0f87ad00b8b2f8ba52f25705047a2106|Cookie=__hdnea__=st=1777099187~exp=1777120787~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/*~hmac=ebc55a72d7666db2b6afae1a42a5e53c0f87ad00b8b2f8ba52f25705047a2106","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st%3D1777099187%7Eexp%3D1777120787%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_Telugu_HD_BTS%2Foutput%2F*%7Ehmac%3Debc55a72d7666db2b6afae1a42a5e53c0f87ad00b8b2f8ba52f25705047a2106%7CCookie%3D__hdnea__%3Dst%3D1777099187%7Eexp%3D1777120787%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_Telugu_HD_BTS%2Foutput%2F*%7Ehmac%3Debc55a72d7666db2b6afae1a42a5e53c0f87ad00b8b2f8ba52f25705047a2106&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1133" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 Telugu
+#EXTINF:-1 tvg-id="1157" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099187~exp=1777120787~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=c64939cd1786b03782e54ac665b7d0e73ee572d6f5c2c4448069136510f48a54|Cookie=__hdnea__=st=1777099187~exp=1777120787~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=c64939cd1786b03782e54ac665b7d0e73ee572d6f5c2c4448069136510f48a54","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099187%7Eexp%3D1777120787%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_Telugu_BTS%2FWDVLive%2F*%7Ehmac%3Dc64939cd1786b03782e54ac665b7d0e73ee572d6f5c2c4448069136510f48a54%7CCookie%3D__hdnea__%3Dst%3D1777099187%7Eexp%3D1777120787%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_Telugu_BTS%2FWDVLive%2F*%7Ehmac%3Dc64939cd1786b03782e54ac665b7d0e73ee572d6f5c2c4448069136510f48a54&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1134" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Telugu HD
+#EXTINF:-1 tvg-id="1158" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099188~exp=1777120788~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=2da910dc9a53e0b4976d9d574d0d56380cbb3c61efbac18e7d90ae4d2d7977fd|Cookie=__hdnea__=st=1777099188~exp=1777120788~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=2da910dc9a53e0b4976d9d574d0d56380cbb3c61efbac18e7d90ae4d2d7977fd","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099188%7Eexp%3D1777120788%7Eacl%3D%2Fbpk-tv%2FStar_Sports2_Telugu_HD_BTS%2FWDVLive%2F*%7Ehmac%3D2da910dc9a53e0b4976d9d574d0d56380cbb3c61efbac18e7d90ae4d2d7977fd%7CCookie%3D__hdnea__%3Dst%3D1777099188%7Eexp%3D1777120788%7Eacl%3D%2Fbpk-tv%2FStar_Sports2_Telugu_HD_BTS%2FWDVLive%2F*%7Ehmac%3D2da910dc9a53e0b4976d9d574d0d56380cbb3c61efbac18e7d90ae4d2d7977fd&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1135" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Telugu
+#EXTINF:-1 tvg-id="1159" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099188~exp=1777120788~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=2dd1d4a14867aa08e5bbbcb95122eb4ec1edec59db9cb177ad705412bf8e7479|Cookie=__hdnea__=st=1777099188~exp=1777120788~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=2dd1d4a14867aa08e5bbbcb95122eb4ec1edec59db9cb177ad705412bf8e7479","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099188%7Eexp%3D1777120788%7Eacl%3D%2Fbpk-tv%2FStarSports2Telugu_BTS%2FWDVLive%2F*%7Ehmac%3D2dd1d4a14867aa08e5bbbcb95122eb4ec1edec59db9cb177ad705412bf8e7479%7CCookie%3D__hdnea__%3Dst%3D1777099188%7Eexp%3D1777120788%7Eacl%3D%2Fbpk-tv%2FStarSports2Telugu_BTS%2FWDVLive%2F*%7Ehmac%3D2dd1d4a14867aa08e5bbbcb95122eb4ec1edec59db9cb177ad705412bf8e7479&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1136" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 HD Hindi
+#EXTINF:-1 tvg-id="1160" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 HD Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099188~exp=1777120788~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=89d9efef7417e50cc83b57df1bff784d099db1cb8b6d4017bf8c7085331bb6e6|Cookie=__hdnea__=st=1777099188~exp=1777120788~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=89d9efef7417e50cc83b57df1bff784d099db1cb8b6d4017bf8c7085331bb6e6","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099188%7Eexp%3D1777120788%7Eacl%3D%2Fbpk-tv%2FStar_Sports_HD1_Hindi_BTS%2FWDVLive%2F*%7Ehmac%3D89d9efef7417e50cc83b57df1bff784d099db1cb8b6d4017bf8c7085331bb6e6%7CCookie%3D__hdnea__%3Dst%3D1777099188%7Eexp%3D1777120788%7Eacl%3D%2Fbpk-tv%2FStar_Sports_HD1_Hindi_BTS%2FWDVLive%2F*%7Ehmac%3D89d9efef7417e50cc83b57df1bff784d099db1cb8b6d4017bf8c7085331bb6e6&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1137" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports Hindi 1
+#EXTINF:-1 tvg-id="1161" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports Hindi 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099188~exp=1777120788~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/output/*~hmac=e6018e3eb31a6694f1f85f0cc5d86492a302cd3b04ccfd37e25e4cc523992967|Cookie=__hdnea__=st=1777099188~exp=1777120788~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/output/*~hmac=e6018e3eb31a6694f1f85f0cc5d86492a302cd3b04ccfd37e25e4cc523992967","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd?__hdnea__=st%3D1777099188%7Eexp%3D1777120788%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_Hindi_BTS%2Foutput%2F*%7Ehmac%3De6018e3eb31a6694f1f85f0cc5d86492a302cd3b04ccfd37e25e4cc523992967%7CCookie%3D__hdnea__%3Dst%3D1777099188%7Eexp%3D1777120788%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_Hindi_BTS%2Foutput%2F*%7Ehmac%3De6018e3eb31a6694f1f85f0cc5d86492a302cd3b04ccfd37e25e4cc523992967&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1138" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Hindi HD
+#EXTINF:-1 tvg-id="1162" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099189~exp=1777120789~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=23516273e1a6430241ead3e632c2793de25bb7f121e2db6d7c37ba62f77b9045|Cookie=__hdnea__=st=1777099189~exp=1777120789~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=23516273e1a6430241ead3e632c2793de25bb7f121e2db6d7c37ba62f77b9045","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099189%7Eexp%3D1777120789%7Eacl%3D%2Fbpk-tv%2FStarSportsHD2Hin_BTS%2FWDVLive%2F*%7Ehmac%3D23516273e1a6430241ead3e632c2793de25bb7f121e2db6d7c37ba62f77b9045%7CCookie%3D__hdnea__%3Dst%3D1777099189%7Eexp%3D1777120789%7Eacl%3D%2Fbpk-tv%2FStarSportsHD2Hin_BTS%2FWDVLive%2F*%7Ehmac%3D23516273e1a6430241ead3e632c2793de25bb7f121e2db6d7c37ba62f77b9045&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1139" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Hindi
+#EXTINF:-1 tvg-id="1163" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099189~exp=1777120789~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=563adeeb518d9e833dd7f4679496f05633459535b0f314544ca0582b3a961e84|Cookie=__hdnea__=st=1777099189~exp=1777120789~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=563adeeb518d9e833dd7f4679496f05633459535b0f314544ca0582b3a961e84","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099189%7Eexp%3D1777120789%7Eacl%3D%2Fbpk-tv%2FStarSports2Hin_BTS%2FWDVLive%2F*%7Ehmac%3D563adeeb518d9e833dd7f4679496f05633459535b0f314544ca0582b3a961e84%7CCookie%3D__hdnea__%3Dst%3D1777099189%7Eexp%3D1777120789%7Eacl%3D%2Fbpk-tv%2FStarSports2Hin_BTS%2FWDVLive%2F*%7Ehmac%3D563adeeb518d9e833dd7f4679496f05633459535b0f314544ca0582b3a961e84&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1140" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 3
+#EXTINF:-1 tvg-id="1164" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099189~exp=1777120789~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=906c2688ac83bd540b78a764b4e83eabee7a8eb3cb23f7cc231dc94efdaa387b|Cookie=__hdnea__=st=1777099189~exp=1777120789~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=906c2688ac83bd540b78a764b4e83eabee7a8eb3cb23f7cc231dc94efdaa387b","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099189%7Eexp%3D1777120789%7Eacl%3D%2Fbpk-tv%2FStar_Sports_3_BTS%2FWDVLive%2F*%7Ehmac%3D906c2688ac83bd540b78a764b4e83eabee7a8eb3cb23f7cc231dc94efdaa387b%7CCookie%3D__hdnea__%3Dst%3D1777099189%7Eexp%3D1777120789%7Eacl%3D%2Fbpk-tv%2FStar_Sports_3_BTS%2FWDVLive%2F*%7Ehmac%3D906c2688ac83bd540b78a764b4e83eabee7a8eb3cb23f7cc231dc94efdaa387b&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1141" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 Kannada
+#EXTINF:-1 tvg-id="1165" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 1 Kannada
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099189~exp=1777120789~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=7ac301fd0057accc55670a7136ac45c6eac4f9d55134005cdba37c707878a129|Cookie=__hdnea__=st=1777099189~exp=1777120789~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=7ac301fd0057accc55670a7136ac45c6eac4f9d55134005cdba37c707878a129","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099189%7Eexp%3D1777120789%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_Kannada_BTS%2FWDVLive%2F*%7Ehmac%3D7ac301fd0057accc55670a7136ac45c6eac4f9d55134005cdba37c707878a129%7CCookie%3D__hdnea__%3Dst%3D1777099189%7Eexp%3D1777120789%7Eacl%3D%2Fbpk-tv%2FStar_Sports_1_Kannada_BTS%2FWDVLive%2F*%7Ehmac%3D7ac301fd0057accc55670a7136ac45c6eac4f9d55134005cdba37c707878a129&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1142" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Kannada
+#EXTINF:-1 tvg-id="1166" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports 2 Kannada
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099189~exp=1777120789~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=61ef2a9e8a2784200918b597538e159ade667c3f90b43a6f76313f1b0c6acecc|Cookie=__hdnea__=st=1777099189~exp=1777120789~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=61ef2a9e8a2784200918b597538e159ade667c3f90b43a6f76313f1b0c6acecc","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099189%7Eexp%3D1777120789%7Eacl%3D%2Fbpk-tv%2FStar_Sports_2_Kannada_BTS%2FWDVLive%2F*%7Ehmac%3D61ef2a9e8a2784200918b597538e159ade667c3f90b43a6f76313f1b0c6acecc%7CCookie%3D__hdnea__%3Dst%3D1777099189%7Eexp%3D1777120789%7Eacl%3D%2Fbpk-tv%2FStar_Sports_2_Kannada_BTS%2FWDVLive%2F*%7Ehmac%3D61ef2a9e8a2784200918b597538e159ade667c3f90b43a6f76313f1b0c6acecc&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1143" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports Select 1 HD
+#EXTINF:-1 tvg-id="1167" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports Select 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2c048e439d65316beeda6ef64d5d0f8:e2fdc132cbdee65501b845ce414fce39
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099190~exp=1777120790~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=238a831df1f7083168c331fb9f48fd4ba90b3cba3c72efe0361207a58b028819|Cookie=__hdnea__=st=1777099190~exp=1777120790~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=238a831df1f7083168c331fb9f48fd4ba90b3cba3c72efe0361207a58b028819","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099190%7Eexp%3D1777120790%7Eacl%3D%2Fbpk-tv%2FStar_Sports_Select_HD_1_BTS%2FWDVLive%2F*%7Ehmac%3D238a831df1f7083168c331fb9f48fd4ba90b3cba3c72efe0361207a58b028819%7CCookie%3D__hdnea__%3Dst%3D1777099190%7Eexp%3D1777120790%7Eacl%3D%2Fbpk-tv%2FStar_Sports_Select_HD_1_BTS%2FWDVLive%2F*%7Ehmac%3D238a831df1f7083168c331fb9f48fd4ba90b3cba3c72efe0361207a58b028819&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1144" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports Select 1
+#EXTINF:-1 tvg-id="1168" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports Select 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099190~exp=1777120790~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=94b9e1cfb4d79ea1199c986229cef64c112bb70d2c01a93e6a6de96025435663|Cookie=__hdnea__=st=1777099190~exp=1777120790~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=94b9e1cfb4d79ea1199c986229cef64c112bb70d2c01a93e6a6de96025435663","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099190%7Eexp%3D1777120790%7Eacl%3D%2Fbpk-tv%2FStar_Sports_Select_1_BTS%2FWDVLive%2F*%7Ehmac%3D94b9e1cfb4d79ea1199c986229cef64c112bb70d2c01a93e6a6de96025435663%7CCookie%3D__hdnea__%3Dst%3D1777099190%7Eexp%3D1777120790%7Eacl%3D%2Fbpk-tv%2FStar_Sports_Select_1_BTS%2FWDVLive%2F*%7Ehmac%3D94b9e1cfb4d79ea1199c986229cef64c112bb70d2c01a93e6a6de96025435663&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1145" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="1169" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6017d0514d425fa38f6e80ba6dcc852f:0018944b00adf2078f62386f30c68b74
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099190~exp=1777120790~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=c36d17a0449860347a913d41bb28bda828add439cbc1e3661c54c9c69fdae5c4|Cookie=__hdnea__=st=1777099190~exp=1777120790~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=c36d17a0449860347a913d41bb28bda828add439cbc1e3661c54c9c69fdae5c4","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099190%7Eexp%3D1777120790%7Eacl%3D%2Fbpk-tv%2FStar_Sports_Select_HD_2_BTS%2FWDVLive%2F*%7Ehmac%3Dc36d17a0449860347a913d41bb28bda828add439cbc1e3661c54c9c69fdae5c4%7CCookie%3D__hdnea__%3Dst%3D1777099190%7Eexp%3D1777120790%7Eacl%3D%2Fbpk-tv%2FStar_Sports_Select_HD_2_BTS%2FWDVLive%2F*%7Ehmac%3Dc36d17a0449860347a913d41bb28bda828add439cbc1e3661c54c9c69fdae5c4&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1146" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports Select 2
+#EXTINF:-1 tvg-id="1170" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports Select 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7d009d07aa5cbc81a441880530dfa5:8147983ad7402ebfc222d28b667a196f
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099190~exp=1777120790~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=bb557c014c2cf5557922fb99fa5bea92193c93da876fae521528ba5ea5ceaedd|Cookie=__hdnea__=st=1777099190~exp=1777120790~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=bb557c014c2cf5557922fb99fa5bea92193c93da876fae521528ba5ea5ceaedd","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd?__hdnea__=st%3D1777099190%7Eexp%3D1777120790%7Eacl%3D%2Fbpk-tv%2FStar_Sports_Select_2_BTS%2FWDVLive%2F*%7Ehmac%3Dbb557c014c2cf5557922fb99fa5bea92193c93da876fae521528ba5ea5ceaedd%7CCookie%3D__hdnea__%3Dst%3D1777099190%7Eexp%3D1777120790%7Eacl%3D%2Fbpk-tv%2FStar_Sports_Select_2_BTS%2FWDVLive%2F*%7Ehmac%3Dbb557c014c2cf5557922fb99fa5bea92193c93da876fae521528ba5ea5ceaedd&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Referer=https%3A%2F%2Fwww.jiotv.com%2F&drmScheme=clearkey
-#EXTINF:-1 tvg-id="1147" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports Khel
+#EXTINF:-1 tvg-id="1171" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.pn" group-title="IPL LIVE",Star Sports Khel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab947ddbb9795d38bff35597b4f73108:2671e22eb7dc174c35b6aad4b113f7b0
 #EXTHTTP:{"Cookie":"__hdnea__=st=1777099191~exp=1777120791~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=c6da884c6ae9c1a68a7f402537bd7f514379d6006ec0f555320c90f369c70022|Cookie=__hdnea__=st=1777099191~exp=1777120791~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=c6da884c6ae9c1a68a7f402537bd7f514379d6006ec0f555320c90f369c70022","User-Agent":"plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"}
@@ -5869,19 +5989,19 @@ https://alex4528.site/jplus/LIi1lOI1oi0IlOo1lOlloo/manifest.mpd
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775629737049558_BLGA_26_MD31_Mainz-vs-Bayern_landscape_thumb.jpg" group-title="SonyLiv | Sports",Mainz vs Bayern Munich - MD 31 - 25 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000297/BLIGA_Ma2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777165365~acl=/*~id=35601686455699772906992824759700~hmac=cc5aac01bc5bd41ff0cc99e7cdff40175c8c55aa891bc68f59548929a6ff90f9
+https://sonydaimenew.akamaized.net/hls/live/20000297/BLIGA_Ma2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777169016~acl=/*~id=61676560389878122060631417154761~hmac=2c7797f780119048e2ca999988acc175c2d52c27cff597d6715711093ea6f5cc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775631280916558_BLGA_26_MD31_Koln-vs-Leverkusen_landscape_thumb.jpg" group-title="SonyLiv | Sports",FC Koln vs Bayer Leverkusen - MD 31 - 25 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000295/BLIGA_Ko2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777165365~acl=/*~id=35601686455699772906992824759700~hmac=cc5aac01bc5bd41ff0cc99e7cdff40175c8c55aa891bc68f59548929a6ff90f9
+https://sonydaimenew.akamaized.net/hls/live/20000295/BLIGA_Ko2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777169016~acl=/*~id=61676560389878122060631417154761~hmac=2c7797f780119048e2ca999988acc175c2d52c27cff597d6715711093ea6f5cc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017409/1776795097937598_IFL26_ChanmariFC_vs_DiamondHarbourFC_21apr_landscape_thumb.jpg" group-title="SonyLiv | Sports",Chanmari FC vs Diamond Harbour FC - 25 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777165365~acl=/*~id=35601686455699772906992824759700~hmac=cc5aac01bc5bd41ff0cc99e7cdff40175c8c55aa891bc68f59548929a6ff90f9
+https://sonydaimenew.akamaized.net/hls/live/20000293/IFL_Chan2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777169016~acl=/*~id=61676560389878122060631417154761~hmac=2c7797f780119048e2ca999988acc175c2d52c27cff597d6715711093ea6f5cc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775549781002558_BLGA_26_MD31_Wolfsburg-vs-Borussia-Mgladbach_landscape_thumb.jpg" group-title="SonyLiv | Sports",Wolfsburg vs Borussia Monchengladbach - MD 31 - 25 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/BLIGA_Wo2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777165365~acl=/*~id=35601686455699772906992824759700~hmac=cc5aac01bc5bd41ff0cc99e7cdff40175c8c55aa891bc68f59548929a6ff90f9
+https://sonydaimenew.akamaized.net/hls/live/20000296/BLIGA_Wo2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777169016~acl=/*~id=61676560389878122060631417154761~hmac=2c7797f780119048e2ca999988acc175c2d52c27cff597d6715711093ea6f5cc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775632666634558_BLGA_26_MD31_Augsburg-vs-Eintracht-Frankfurt_landscape_thumb.jpg" group-title="SonyLiv | Sports",Augsburg vs Eintracht Frankfurt - MD 31 - 25 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_Au2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777165365~acl=/*~id=35601686455699772906992824759700~hmac=cc5aac01bc5bd41ff0cc99e7cdff40175c8c55aa891bc68f59548929a6ff90f9
+https://sonydaimenew.akamaized.net/hls/live/2005445/BLIGA_Au2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777169016~acl=/*~id=61676560389878122060631417154761~hmac=2c7797f780119048e2ca999988acc175c2d52c27cff597d6715711093ea6f5cc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775630299728558_BLGA_26_MD31_Heidenheim-vs-St-Pauli_landscape_thumb.jpg" group-title="SonyLiv | Sports",Heidenheim vs St. Pauli - MD 31 - 25 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_He2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777165365~acl=/*~id=35601686455699772906992824759700~hmac=cc5aac01bc5bd41ff0cc99e7cdff40175c8c55aa891bc68f59548929a6ff90f9
+https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_He2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777169016~acl=/*~id=61676560389878122060631417154761~hmac=2c7797f780119048e2ca999988acc175c2d52c27cff597d6715711093ea6f5cc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLiv | Sports",Goal Arena - MD 31 - 25 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/BLIGA_Go2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777165365~acl=/*~id=35601686455699772906992824759700~hmac=cc5aac01bc5bd41ff0cc99e7cdff40175c8c55aa891bc68f59548929a6ff90f9
+https://sonydaimenew.akamaized.net/hls/live/2022315/BLIGA_Go2504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777169016~acl=/*~id=61676560389878122060631417154761~hmac=2c7797f780119048e2ca999988acc175c2d52c27cff597d6715711093ea6f5cc
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
