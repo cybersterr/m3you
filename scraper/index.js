@@ -67,6 +67,8 @@ function convertJioJson(json){
 
   if(ch.kid && ch.key){
    out.push(`#KODIPROP:inputstream.adaptive.license_key=${ch.kid}:${ch.key}`);
+  }else if(ch.key){
+   out.push(`#KODIPROP:inputstream.adaptive.license_key=${ch.key}`);
   }
 
   out.push(
@@ -80,6 +82,21 @@ function convertJioJson(json){
  }
 
  return out.join("\n");
+}
+
+function convertSony(json){
+ if(!json.matches) return "";
+
+ return json.matches
+ .filter(m => m.isLive)
+ .map(m => {
+   const url = m.dai_url || m.pub_url;
+   if(!url) return null;
+
+   return `#EXTINF:-1 tvg-logo="${m.src || ""}" group-title="SonyLiv | Sports",${m.match_name || "Sony Live"}\n${url}`;
+ })
+ .filter(Boolean)
+ .join("\n");
 }
 
 // ================= SONYLIV DIGITAL JSON =================
