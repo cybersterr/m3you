@@ -9,7 +9,7 @@ const SOURCES = {
   ZEE5_M3U: "https://zee5.droozy.workers.dev/",
   JIO_JSON: "https://raw.githubusercontent.com/cybersterr/jeeyo/main/stream.json",
   SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
-  FANCODE_JSON: "https://fanco.vodep39240327.workers.dev/",
+  FANCODE_JSON: "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json"",
   ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.jso",
 
   SPORTS_JSON: [
@@ -99,11 +99,58 @@ function convertSony(json){
  .join("\n");
 }
 
+// ================= SONY LIV LIVE EVENT PARSER =============
+function convertSony(json){
+ if(!json.matches) return "";
+
+ return json.matches
+ .filter(m => m.isLive)
+ .map(m => {
+   const url = m.dai_url || m.pub_url;
+   if(!url) return null;
+
+   return `#EXTINF:-1 tvg-logo="${m.src || ""}" group-title="SonyLiv | Sports",${m.match_name || "Sony Live"}\n${url}`;
+ })
+ .filter(Boolean)
+ .join("\n");
+}
+
 // ================= SONYLIV DIGITAL JSON =================
 function convertSonyJsonChannels(json){
- if(!json || typeof json !== "object") return "";
+ if(!json) return "";
 
  const out=[];
+
+ const lines = typeof json === "string"
+  ? json.split("\n")
+  : [];
+
+ if(lines.length){
+
+  for(let i=0;i<lines.length;i++){
+
+   const line = lines[i].trim();
+
+   if(line.startsWith("#EXTINF")){
+
+    if(line.includes('tvg-id="CloudPlay"')){
+      i++;
+      continue;
+    }
+
+    out.push(line);
+
+    if(lines[i+1]){
+      out.push(lines[i+1].trim());
+      i++;
+    }
+   }
+  }
+
+  return out.join("\n");
+ }
+
+ if(typeof json !== "object") return "";
 
  for(const id in json){
   const ch = json[id];
@@ -123,6 +170,7 @@ function convertSonyJsonChannels(json){
 
  return out.join("\n");
 }
+
 // ================= SUNXT =================
 function convertSunxtJson(json){
  if(!Array.isArray(json)) return "";
@@ -246,7 +294,10 @@ async function run(){
  if(hotstar) out.push(section("OTT | Jio Cinema"),hotstar);
 
  const zee5=await safeFetch(SOURCES.ZEE5_M3U);
- if(zee5) out.push(section("🎬 OTT | ZEE5"),zee5);
+if(zee5){
+ const fixedZee5 = zee5.replace(/group-title="[^"]*"/g, 'group-title="🎬 OTT | ZEE5"');
+ out.push(section("🎬 OTT | ZEE5"), fixedZee5);
+}
 
  const digital = await safeFetch(SOURCES.SONYLIV_M3U);
  if(digital){
