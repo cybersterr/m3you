@@ -44,36 +44,42 @@ function section(title) {
 // ================= JIO =================
 function convertJioJson(json){
  const out=[];
- for(const id in json){
-  const ch=json[id];
-  const cookie=`hdnea=${ch.url.match(/__hdnea__=([^&]*)/)?.[1]||""}`;
-  const category=(ch.group_title||"GENERAL").toUpperCase();
 
-  out.push(`#EXTINF:-1 tvg-id="${id}" tvg-logo="${ch.tvg_logo}" group-title="JIOTV+ | ${category}",${ch.channel_name}`);
+ const channels = json.channels || json;
+
+ for(const id in channels){
+
+  const ch = channels[id];
+
+  if(!ch || !ch.url) continue;
+
+  const cookie =
+   `hdnea=${ch.url.match(/__hdnea__=([^&]*)/)?.[1] || ""}`;
+
+  const category =
+   (ch.group_title || "GENERAL").toUpperCase();
+
+  out.push(
+`#EXTINF:-1 tvg-id="${ch.tvg_id || id}" tvg-logo="${ch.tvg_logo || ""}" group-title="JIOTV+ | ${category}",${ch.channel_name || id}`
+  );
+
   out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
 
-  // Old format = kid:key
-  // New format = license URL only
   if(ch.kid && ch.key){
    out.push(`#KODIPROP:inputstream.adaptive.license_key=${ch.kid}:${ch.key}`);
-  }else{
-   out.push(`#KODIPROP:inputstream.adaptive.license_key=${ch.key}`);
   }
 
-  out.push(`#EXTHTTP:${JSON.stringify({Cookie:cookie,"User-Agent":ch.user_agent})}`);
+  out.push(
+`#EXTHTTP:${JSON.stringify({
+ Cookie: cookie,
+ "User-Agent": ch.user_agent || ""
+})}`
+  );
+
   out.push(ch.url);
  }
- return out.join("\n");
-}
 
-// ================= SONYLIV =================
-function convertSony(json){
- if(!json.matches) return "";
- return json.matches.filter(m=>m.isLive).map(m=>{
-  const url=m.dai_url||m.pub_url;
-  if(!url) return null;
-  return `#EXTINF:-1 tvg-logo="${m.src}" group-title="SonyLiv | Sports",${m.match_name}\n${url}`;
- }).filter(Boolean).join("\n");
+ return out.join("\n");
 }
 
 // ================= SONYLIV DIGITAL JSON =================
