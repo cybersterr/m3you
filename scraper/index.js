@@ -60,7 +60,7 @@ function convertJioJson(json){
    (ch.group_title || "GENERAL").toUpperCase();
 
   out.push(
-`#EXTINF:-1 tvg-id="${ch.tvg_id || id}" tvg-logo="${ch.tvg_logo || ""}" group-title="JIOTV+ | ${category}",${ch.channel_name || id}`
+`#EXTINF:-1 tvg-id="${ch.tvg_id || id}" tvg-logo="${ch.tvg_logo || ""}" group-title="⭕️ JIOTV+ | ${category}",${ch.channel_name || id}`
   );
 
   out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
@@ -109,7 +109,7 @@ function convertSony(json){
    const url = m.dai_url || m.pub_url;
    if(!url) return null;
 
-   return `#EXTINF:-1 tvg-logo="${m.src || ""}" group-title="SonyLiv | Sports",${m.match_name || "Sony Live"}\n${url}`;
+   return `#EXTINF:-1 tvg-logo="${m.src || ""}" group-title="🔹️SonyLiv Live🔹️",${m.match_name || "Sony Live"}\n${url}`;
  })
  .filter(Boolean)
  .join("\n");
@@ -138,7 +138,11 @@ function convertSonyJsonChannels(json){
       continue;
     }
 
-    out.push(line);
+    const updatedLine = line.match(/group-title="[^"]*"/)
+      ? line.replace(/group-title="[^"]*"/, 'group-title="🎬 OTT | SONY LIV"')
+      : line.replace('#EXTINF:-1', '#EXTINF:-1 group-title="🎬 OTT | SONY LIV"');
+
+    out.push(updatedLine);
 
     if(lines[i+1]){
       out.push(lines[i+1].trim());
@@ -159,11 +163,10 @@ function convertSonyJsonChannels(json){
   const tvgId   = ch.tvg_id || `${id}.in`;
   const tvgName = ch.tvg_name || ch.channel_name || id;
   const logo    = ch.tvg_logo || "";
-  const group   = ch.group_title || "Entertainment";
   const name    = ch.channel_name || id;
 
   out.push(
-`#EXTINF:-1 tvg-id="${tvgId}" tvg-name="${tvgName}" group-title="${group}" tvg-logo="${logo}",${name}`
+`#EXTINF:-1 tvg-id="${tvgId}" tvg-name="${tvgName}" group-title="🎬 OTT | SONY LIV" tvg-logo="${logo}",${name}`
   );
   out.push(ch.url);
  }
