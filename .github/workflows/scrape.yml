@@ -1,8 +1,8 @@
-name: Fetch and Update Stream JSON
+name: Fetch and Update Stream M3U
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Every 10 minutes
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -28,11 +28,19 @@ jobs:
           npm install
 
       - name: Run Fetch Script
+        env:
+          HOTSTAR_M3U: ${{ secrets.HOTSTAR_M3U }}
+          ZEE5_M3U: ${{ secrets.ZEE5_M3U }}
+          SPORTS1_JSON: ${{ secrets.SPORTS1_JSON }}
+          SPORTS2_JSON: ${{ secrets.SPORTS2_JSON }}
+          SONYLIV_M3U: ${{ secrets.SONYLIV_M3U }}
+          SUNXT_JSON: ${{ secrets.SUNXT_JSON }}
+          NEW_M3U: ${{ secrets.NEW_M3U }}
         run: |
           cd scraper
           npm start
 
-      - name: Commit and Push stream.json
+      - name: Commit and Push stream.m3u
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -44,6 +52,7 @@ jobs:
 
           cp scraper/stream.m3u stream.m3u
           git add stream.m3u
+
           git diff-index --quiet HEAD || git commit -m "📥 updated stream.m3u from remote source"
 
           if [ "$(git rev-parse HEAD)" != "$(git rev-parse @{u})" ]; then
