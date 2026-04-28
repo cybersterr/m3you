@@ -6477,29 +6477,25 @@ https://in-mc-fblive.fancode.com/mumbai/141955_english_hls_8a68800a2b60791_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/141953_english_hls_b2b8a92e1630930_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="141954" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="🔸FanCode🔸| Live Events",Jamaica Scorpions vs Barbados Pride
 https://in-mc-fblive.fancode.com/mumbai/141954_english_hls_bdbd9720362618_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142139" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Damac_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Al Hilal SFC vs Damac FC
-https://in-mc-fblive.fancode.com/mumbai/142139_english_hls_c980f1f44f95823_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142174" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Southampton-F.C.-vs-Ipswich-Town-F.C_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Southampton F.C. vs Ipswich Town F.C.
 https://in-mc-fblive.fancode.com/mumbai/142174_english_hls_82f39529c240353_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="141865" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png" group-title="🔸FanCode🔸| Live Events",Day 7 - Arantxa Sanchez Stadium
-https://in-mc-fblive.fancode.com/mumbai/141865_english_hls_b5c399e3f592994_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="141864" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png" group-title="🔸FanCode🔸| Live Events",Day 7 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/141864_english_hls_8711fb6f9274440_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142302" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="🔸FanCode🔸| Live Events",Doubles R16 ft. Bhambri
-https://in-mc-fblive.fancode.com/mumbai/142302_english_hls_267cc3f33a89227_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142139" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Damac_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Al Hilal SFC vs Damac FC
+https://in-mc-fblive.fancode.com/mumbai/142139_english_hls_c980f1f44f95823_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776886520407908_UCL26_SF_leg1_PSG_vs_bayern_22apr_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Bayern - Semi-Final - Leg 1 - 29 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777445661~acl=/*~id=36808061014377693747335105720488~hmac=57357377bc18592ace07a9f0b76d306b3e3afc26f458541adac26fb52e5b3b77
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777450521~acl=/*~id=31332195315065555990532216665501~hmac=731a75375c473b5e4b969f1eb308b2a7ea0a26b44aa32adca84ea73c0fd10095
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776886520407908_UCL26_SF_leg1_PSG_vs_bayern_22apr_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Bayern - Semi-Final - Leg 1 - 29 Apr 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777445661~acl=/*~id=36808061014377693747335105720488~hmac=57357377bc18592ace07a9f0b76d306b3e3afc26f458541adac26fb52e5b3b77
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777450521~acl=/*~id=31332195315065555990532216665501~hmac=731a75375c473b5e4b969f1eb308b2a7ea0a26b44aa32adca84ea73c0fd10095
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776886520407908_UCL26_SF_leg1_PSG_vs_bayern_22apr_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Bayern - Semi-Final - Leg 1 - 29 Apr 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777445661~acl=/*~id=36808061014377693747335105720488~hmac=57357377bc18592ace07a9f0b76d306b3e3afc26f458541adac26fb52e5b3b77
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777450521~acl=/*~id=31332195315065555990532216665501~hmac=731a75375c473b5e4b969f1eb308b2a7ea0a26b44aa32adca84ea73c0fd10095
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776886520407908_UCL26_SF_leg1_PSG_vs_bayern_22apr_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Bayern - Semi-Final - Leg 1 - 29 Apr 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777445661~acl=/*~id=36808061014377693747335105720488~hmac=57357377bc18592ace07a9f0b76d306b3e3afc26f458541adac26fb52e5b3b77
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777450521~acl=/*~id=31332195315065555990532216665501~hmac=731a75375c473b5e4b969f1eb308b2a7ea0a26b44aa32adca84ea73c0fd10095
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776886520407908_UCL26_SF_leg1_PSG_vs_bayern_22apr_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Bayern - Semi-Final - Leg 1 - 29 Apr 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777445661~acl=/*~id=36808061014377693747335105720488~hmac=57357377bc18592ace07a9f0b76d306b3e3afc26f458541adac26fb52e5b3b77
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_PSG_2804/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777450521~acl=/*~id=31332195315065555990532216665501~hmac=731a75375c473b5e4b969f1eb308b2a7ea0a26b44aa32adca84ea73c0fd10095
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
