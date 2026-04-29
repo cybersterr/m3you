@@ -43,6 +43,71 @@ function section(title) {
   return `\n# ---------------=== ${title} ===-------------------\n`;
 }
 
+// ================= NEW_M3U FILTER ONLY =================
+const ALLOWED_NEW_M3U = new Set([
+  "ENGLISH | NEWS",
+  "ENGLISH | 24X7 OTT SERIES",
+  "ENGLISH | 24X7 MOVIES",
+  "ENGLISH | 24X7 CLASSIC SERIES",
+  "ENGLISH | KIDS",
+  "ENGLISH | 24X7 MUSIC",
+  "HINDI | TV",
+  "HINDI | CINEMA",
+  "HINDI | 24X7 MOVIES",
+  "HINDI | 24X7 OTT SERIES",
+  "HINDI | KIDS",
+  "HINDI | 24X7 MUSIC",
+  "URDU | TV",
+  "URDU | NEWS",
+  "PUNJABI | TV",
+  "PUNJABI | MUSIC",
+  "BENGALI | TV",
+  "MARATHI | TV",
+  "GUJARATI | TV",
+  "KANNADA | TV",
+  "MALYALAM | TV",
+  "TELUGU | TV",
+  "TELUGU | NEWS",
+  "TAMIL | TV",
+  "TAMIL | NEWS",
+  "NEPALI | TV",
+  "ODIA | TV",
+  "SPORTS | CRICKET",
+  "SPORTS | CRICKET REPLAY",
+  "SPORTS | GENERAL",
+  "SPORTS | LALIGA",
+  "SPORTS | MLS",
+  "SPORTS | UEFA",
+  "SPORTS | EPL"
+]);
+
+function filterNewM3U(content){
+  if(!content) return "";
+
+  const lines = content.split("\n");
+  const out = [];
+
+  for(let i=0;i<lines.length;i++){
+    const line = lines[i].trim();
+
+    if(line.startsWith("#EXTINF")){
+      const match = line.match(/group-title="([^"]+)"/);
+      const group = match ? match[1].trim().toUpperCase() : "";
+
+      const url = lines[i+1] ? lines[i+1].trim() : "";
+
+      if(ALLOWED_NEW_M3U.has(group)){
+        out.push(line);
+        if(url) out.push(url);
+      }
+
+      i++;
+    }
+  }
+
+  return out.join("\n");
+}
+
 // ================= JIO =================
 function convertJioJson(json){
  const out=[];
@@ -334,7 +399,9 @@ async function run(){
  if(sony) out.push(section("🔹SonyLiv🔹| Live Events"),convertSony(sony));
 
  const newm3u = await safeFetch(SOURCES.NEW_M3U);
- if(newm3u) out.push(section("🌐 WORLD | Extra"), newm3u);
+ if(newm3u){
+   out.push(section("🌐 WORLD | Extra"), filterNewM3U(newm3u));
+ }
 
  const icc=await safeFetch(SOURCES.ICC_TV_JSON);
  if(icc) out.push(section("ICC TV"),icc);
