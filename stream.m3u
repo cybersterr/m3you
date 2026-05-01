@@ -3079,8 +3079,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.m
 #EXTINF:-1 tvg-id="1109" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
-#EXTHTTP:{"Cookie":"hdnea=st=1777568413~exp=1777590013~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=b7674eaf352ed3ebb3f2b073a425932f37d9563c3bb08197aaecbf2be06e9015","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1777568413~exp=1777590013~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=b7674eaf352ed3ebb3f2b073a425932f37d9563c3bb08197aaecbf2be06e9015
+#EXTHTTP:{"Cookie":"hdnea=st=1777589109~exp=1777610709~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=d66685ea1338cf0359494d6b318c9ecd2417853388dc0da11f11dc82ed659ad8","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1777589109~exp=1777610709~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=d66685ea1338cf0359494d6b318c9ecd2417853388dc0da11f11dc82ed659ad8
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="⭕️ JIOTV+ | MOVIES",Star Movies Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
@@ -6469,9 +6469,17 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8?__hdnea__=st
 #EXTHTTP:{"Cookie":"hdnea=st=1777586436~exp=1777608036~acl=/*~hmac=9d497c5f2c2b2c0b9193dab25319d956d5f377c9d943da1406679fc77110fa65","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__hdnea__=st=1777586436~exp=1777608036~acl=/*~hmac=9d497c5f2c2b2c0b9193dab25319d956d5f377c9d943da1406679fc77110fa65
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="142337" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png" group-title="🔸FanCode🔸| Live Events",Malaysia vs Indonesia
+https://in-mc-fblive.fancode.com/mumbai/142337_english_hls_405d181aba47545_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="141979" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg" group-title="🔸FanCode🔸| Live Events",Nepal vs United Arab Emirates
+https://in-mc-fblive.fancode.com/mumbai/141979_english_hls_4cf7cdc1e581116_1ta-di_h264/index.m3u8
+
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017599/1777484107588675_Asian_Tour_Kolon_Korea_Open_Day2_Live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",GS Caltex Maekyung Open - Day 2 - 1 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/AsianTou0105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777651851~acl=/*~id=12751800397058814045493203099839~hmac=9212707c5fe4601fee9c4f57fa8283b02e3d7d4582f5b085983855011737fddb
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
