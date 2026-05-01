@@ -6469,17 +6469,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8?__hdnea__=st
 #EXTHTTP:{"Cookie":"hdnea=st=1777665633~exp=1777687233~acl=/*~hmac=e21d787204c8f86d62cf40c2d8314c9e6c04103fe316d5f478ecefd18d72b609","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__hdnea__=st=1777665633~exp=1777687233~acl=/*~hmac=e21d787204c8f86d62cf40c2d8314c9e6c04103fe316d5f478ecefd18d72b609
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="142023" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 2
-https://in-mc-fblive.fancode.com/mumbai/142023_english_hls_06e7dd682b13411_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142025" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Featured Groups - Day 2
-https://in-mc-fblive.fancode.com/mumbai/142025_english_hls_9f3ab465ee93675_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142024" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Marquee Group - Day 2
-https://in-mc-fblive.fancode.com/mumbai/142024_english_hls_75a14fc29883171_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142022" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",World Feed - Day 2
-https://in-mc-fblive.fancode.com/mumbai/142022_english_hls_3bb3acb4b03397_1ta-di_h264/index.m3u8
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 
