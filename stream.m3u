@@ -6479,17 +6479,37 @@ https://in-mc-fblive.fancode.com/mumbai/142071_english_hls_66f3de04538249_1ta-di
 https://in-mc-fblive.fancode.com/mumbai/142343_english_hls_bc725c5b0824204_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142404" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="🔸FanCode🔸| Live Events",Mis-e-Ainak Region vs Amo Region
 https://in-mc-fblive.fancode.com/mumbai/142404_english_hls_b561070c3354864_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142170" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142170_5826_MUN-W_BHA-W_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Manchester United Women vs Brighton and Hove Albion Women
+https://in-mc-fblive.fancode.com/mumbai/142170_english_hls_6dfe82fcab70823_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142335" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wrexham-vs-Middlesbrough_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Wrexham A.F.C. vs Middlesbrough F.C.
+https://in-mc-fblive.fancode.com/mumbai/142335_english_hls_5fa7d8a6cd46933_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142383" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Millwall-F_1777563517854.C.-vs-Oxford-United_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Millwall F.C. vs Oxford United
+https://in-mc-fblive.fancode.com/mumbai/142383_english_hls_65b91789a825391_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142382" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ipswich-Town-F_1777563517815.C.vs-Queens-Park-Rangers-F.C._fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Ipswich Town F.C. vs Queens Park Rangers F.C.
+https://in-mc-fblive.fancode.com/mumbai/142382_english_hls_cbf3d6fe6098796_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="140503" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140503_5956_KSHI_NEUFC_FC-Web_1772400382947.jpg" group-title="🔸FanCode🔸| Live Events",NorthEast United FC vs Inter Kashi
+https://in-mc-fdlive.fancode.com/mumbai/140503_english_hls_4b5f1e380c85873_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142450" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139395_5802_MLV_SYD_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Melbourne Victory vs Sydney FC
 https://in-mc-fblive.fancode.com/mumbai/142450_english_hls_1442661eb278313_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142286" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Day 2
 https://in-mc-fblive.fancode.com/mumbai/142286_english_hls_36bcd6542c60992_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142027" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 3
+https://in-mc-fblive.fancode.com/mumbai/142027_english_hls_11d665f1cb3491_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777764023~acl=/*~id=74324698684081727293484954702106~hmac=09c443f742d4286e9ae0c916f0051204dce394a804523244e3c3a8330d79433e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777764023~acl=/*~id=74324698684081727293484954702106~hmac=09c443f742d4286e9ae0c916f0051204dce394a804523244e3c3a8330d79433e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777764023~acl=/*~id=74324698684081727293484954702106~hmac=09c443f742d4286e9ae0c916f0051204dce394a804523244e3c3a8330d79433e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777764023~acl=/*~id=74324698684081727293484954702106~hmac=09c443f742d4286e9ae0c916f0051204dce394a804523244e3c3a8330d79433e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",UFC Fight Night - Della Maddalena vs Prates - 2 May 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2037140/UFC_Dell0205/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777764023~acl=/*~id=74324698684081727293484954702106~hmac=09c443f742d4286e9ae0c916f0051204dce394a804523244e3c3a8330d79433e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777486430826406_ABB_FIA_FormulaE_WC26_RD7_Berlin_EPrix_Qualifying_Race_Live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Round 7 - Berlin E - Prix - Qualifying Race - 2 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/Formula_0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777760375~acl=/*~id=31217614143710078657398093044646~hmac=c0e6b1d465e46171e9848df455a668b0ec0f29cdce440b140663acd58a58d6a3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437566269818_DP_World_Tour_Turkish_Airlines_Open_Day3_landscape.jpg" group-title="🔹️SonyLiv Live🔹️", Turkish Airlines Open - Day 3 - 2 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/TurkishA0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777760375~acl=/*~id=31217614143710078657398093044646~hmac=c0e6b1d465e46171e9848df455a668b0ec0f29cdce440b140663acd58a58d6a3
+https://sonydaimenew.akamaized.net/hls/live/2018458/Formula_0205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777764023~acl=/*~id=74324698684081727293484954702106~hmac=09c443f742d4286e9ae0c916f0051204dce394a804523244e3c3a8330d79433e
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
