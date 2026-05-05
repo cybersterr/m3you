@@ -2938,8 +2938,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__h
 #EXTINF:-1 tvg-id="1108" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-#EXTHTTP:{"Cookie":"hdnea=st=1777981898~exp=1778003498~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=172cc4b641daad08f7f37bb93ccb2a5d84554d027e7dcf35fea59de8b55a51de","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1777981898~exp=1778003498~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=172cc4b641daad08f7f37bb93ccb2a5d84554d027e7dcf35fea59de8b55a51de
+#EXTHTTP:{"Cookie":"hdnea=st=1778004008~exp=1778025608~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=f3b6d5efe68f6b4b564c0b1d06735b63f1c18fbf6fdc6431ce598b7cda80583c","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1778004008~exp=1778025608~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=f3b6d5efe68f6b4b564c0b1d06735b63f1c18fbf6fdc6431ce598b7cda80583c
 #EXTINF:-1 tvg-id="1109" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
@@ -6337,27 +6337,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 #EXTINF:-1 tvg-id="142147" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Khaleej-FC-vs-Al-Hilal-SFC_FC-web.jpg" group-title="🔸FanCode🔸| Live Events",Al Khaleej FC vs Al Hilal SFC
 https://in-mc-fblive.fancode.com/mumbai/142147_english_hls_e84f5f8c425359_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142540" tvg-logo="https://images.fancode.com/aig/match/v1777999652487/142540_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Japan vs Qatar
-https://in-mc-fdlive.fancode.com/s3/ef1b0003-591c-49eb-868b-7753dea39ee5/index.m3u8
-#EXTINF:-1 tvg-id="142541" tvg-logo="https://images.fancode.com/aig/match/v1777996806124/142541_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Indonesia vs China PR
-https://in-mc-fdlive.fancode.com/s3/15f95be3-731d-4122-a962-41017c770ac3/index.m3u8
-#EXTINF:-1 tvg-id="142538" tvg-logo="https://images.fancode.com/aig/match/v1777999652490/142538_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Saudi Arabia vs Myanmar
-https://in-mc-fdlive.fancode.com/mumbai/142538_english_hls_4ba7ec88ab63182_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142539" tvg-logo="https://images.fancode.com/aig/match/v1777999652490/142539_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Tajikistan vs Thailand
-https://in-mc-fdlive.fancode.com/mumbai/142539_english_hls_52f2d6fc8568926_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017707/1777879367025709_UCL_Semi_Final_Leg2_Champions_Ki_Charcha__Arsenal_vs_Atletico_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Atletico - Semi-Final - Leg 2 - 5 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_Athl0505/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778047436~acl=/*~id=38467375202124014782550022035379~hmac=8b3a281b10f90e6655995dbb37c8e7c375a439aa391bb3e9e6d80a72caee10f0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017707/1777879367025709_UCL_Semi_Final_Leg2_Champions_Ki_Charcha__Arsenal_vs_Atletico_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Atletico - Semi-Final - Leg 2 - 5 May 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_Athl0505/HIN/std_lrh-800300010.m3u8?hdnea=exp=1778047436~acl=/*~id=38467375202124014782550022035379~hmac=8b3a281b10f90e6655995dbb37c8e7c375a439aa391bb3e9e6d80a72caee10f0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017707/1777879367025709_UCL_Semi_Final_Leg2_Champions_Ki_Charcha__Arsenal_vs_Atletico_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Atletico - Semi-Final - Leg 2 - 5 May 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_Athl0505/TAM/std_lrh-800300010.m3u8?hdnea=exp=1778047436~acl=/*~id=38467375202124014782550022035379~hmac=8b3a281b10f90e6655995dbb37c8e7c375a439aa391bb3e9e6d80a72caee10f0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017707/1777879367025709_UCL_Semi_Final_Leg2_Champions_Ki_Charcha__Arsenal_vs_Atletico_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Atletico - Semi-Final - Leg 2 - 5 May 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_Athl0505/TEL/std_lrh-800300010.m3u8?hdnea=exp=1778047436~acl=/*~id=38467375202124014782550022035379~hmac=8b3a281b10f90e6655995dbb37c8e7c375a439aa391bb3e9e6d80a72caee10f0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017707/1777879367025709_UCL_Semi_Final_Leg2_Champions_Ki_Charcha__Arsenal_vs_Atletico_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Atletico - Semi-Final - Leg 2 - 5 May 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_Athl0505/KAN/std_lrh-800300010.m3u8?hdnea=exp=1778047436~acl=/*~id=38467375202124014782550022035379~hmac=8b3a281b10f90e6655995dbb37c8e7c375a439aa391bb3e9e6d80a72caee10f0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017728/1777897728023962_UCL26_SF_leg2_arsenal_vs_atletico_4may_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Atletico - Semi-Final - Leg 2 - 5 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_Athl0505/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778053516~acl=/*~id=71117285499280352357695511808703~hmac=4bfadc94aed7fcb4fa428d50f1963d2cea236bba6e6442e0c6bd1f0895c6879c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017728/1777897728023962_UCL26_SF_leg2_arsenal_vs_atletico_4may_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Atletico - Semi-Final - Leg 2 - 5 May 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_Athl0505/HIN/std_lrh-800300010.m3u8?hdnea=exp=1778053516~acl=/*~id=71117285499280352357695511808703~hmac=4bfadc94aed7fcb4fa428d50f1963d2cea236bba6e6442e0c6bd1f0895c6879c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017728/1777897728023962_UCL26_SF_leg2_arsenal_vs_atletico_4may_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Atletico - Semi-Final - Leg 2 - 5 May 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_Athl0505/TAM/std_lrh-800300010.m3u8?hdnea=exp=1778053516~acl=/*~id=71117285499280352357695511808703~hmac=4bfadc94aed7fcb4fa428d50f1963d2cea236bba6e6442e0c6bd1f0895c6879c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017728/1777897728023962_UCL26_SF_leg2_arsenal_vs_atletico_4may_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Atletico - Semi-Final - Leg 2 - 5 May 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_Athl0505/TEL/std_lrh-800300010.m3u8?hdnea=exp=1778053516~acl=/*~id=71117285499280352357695511808703~hmac=4bfadc94aed7fcb4fa428d50f1963d2cea236bba6e6442e0c6bd1f0895c6879c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017728/1777897728023962_UCL26_SF_leg2_arsenal_vs_atletico_4may_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Atletico - Semi-Final - Leg 2 - 5 May 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2094589/UCL_Athl0505/KAN/std_lrh-800300010.m3u8?hdnea=exp=1778053516~acl=/*~id=71117285499280352357695511808703~hmac=4bfadc94aed7fcb4fa428d50f1963d2cea236bba6e6442e0c6bd1f0895c6879c
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
