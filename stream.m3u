@@ -668,8 +668,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTalkies_MOB/WDVLive/index.mpd?__hdnea_
 #EXTINF:-1 tvg-id="154" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",Sony SAB SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba4d9b38517552de9654d3652d27933b:31e7cbf3d289d3116386457ed8bac3a2
-#EXTHTTP:{"Cookie":"hdnea=st=1778235946~exp=1778257546~acl=/*~hmac=369aba7c15e6d2128449cf59b85ee19c80331b8b0c78a4dbfc94a7019826e08a|Cookie=__hdnea__=st=1778235946~exp=1778257546~acl=/*~hmac=369aba7c15e6d2128449cf59b85ee19c80331b8b0c78a4dbfc94a7019826e08a","User-Agent":""}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd?__hdnea__=st=1778235946~exp=1778257546~acl=/*~hmac=369aba7c15e6d2128449cf59b85ee19c80331b8b0c78a4dbfc94a7019826e08a|Cookie=__hdnea__=st=1778235946~exp=1778257546~acl=/*~hmac=369aba7c15e6d2128449cf59b85ee19c80331b8b0c78a4dbfc94a7019826e08a
+#EXTHTTP:{"Cookie":"hdnea=st=1778240511~exp=1778262111~acl=/*~hmac=d648c11f66c5516f06b62771be14743fa82e1856383caca403fbe5d262e27ee3|Cookie=__hdnea__=st=1778240511~exp=1778262111~acl=/*~hmac=d648c11f66c5516f06b62771be14743fa82e1856383caca403fbe5d262e27ee3","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd?__hdnea__=st=1778240511~exp=1778262111~acl=/*~hmac=d648c11f66c5516f06b62771be14743fa82e1856383caca403fbe5d262e27ee3|Cookie=__hdnea__=st=1778240511~exp=1778262111~acl=/*~hmac=d648c11f66c5516f06b62771be14743fa82e1856383caca403fbe5d262e27ee3
 #EXTINF:-1 tvg-id="155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="⭕️ JIOTV+ | SPORTS",Sony Ten 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8cb7b40cefe053ea91895e3194bb9912:467cf6d740b7212fcfc648644fb79943
@@ -1038,8 +1038,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Arihant_TV_MOB/WDVLive/index.mpd?__hdnea_
 #EXTINF:-1 tvg-id="471" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",Sony SAB HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f223cf2122d7510da9fcec6e523ffba1:c55848470f58d3bd934fbfe844522b0e
-#EXTHTTP:{"Cookie":"hdnea=st=1778235946~exp=1778257546~acl=/*~hmac=369aba7c15e6d2128449cf59b85ee19c80331b8b0c78a4dbfc94a7019826e08a|Cookie=__hdnea__=st=1778235946~exp=1778257546~acl=/*~hmac=369aba7c15e6d2128449cf59b85ee19c80331b8b0c78a4dbfc94a7019826e08a","User-Agent":""}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_MOB/WDVLive/index.mpd?__hdnea__=st=1778235946~exp=1778257546~acl=/*~hmac=369aba7c15e6d2128449cf59b85ee19c80331b8b0c78a4dbfc94a7019826e08a|Cookie=__hdnea__=st=1778235946~exp=1778257546~acl=/*~hmac=369aba7c15e6d2128449cf59b85ee19c80331b8b0c78a4dbfc94a7019826e08a
+#EXTHTTP:{"Cookie":"hdnea=st=1778240511~exp=1778262111~acl=/*~hmac=d648c11f66c5516f06b62771be14743fa82e1856383caca403fbe5d262e27ee3|Cookie=__hdnea__=st=1778240511~exp=1778262111~acl=/*~hmac=d648c11f66c5516f06b62771be14743fa82e1856383caca403fbe5d262e27ee3","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_MOB/WDVLive/index.mpd?__hdnea__=st=1778240511~exp=1778262111~acl=/*~hmac=d648c11f66c5516f06b62771be14743fa82e1856383caca403fbe5d262e27ee3|Cookie=__hdnea__=st=1778240511~exp=1778262111~acl=/*~hmac=d648c11f66c5516f06b62771be14743fa82e1856383caca403fbe5d262e27ee3
 #EXTINF:-1 tvg-id="472" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndTVHD.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",And TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3698f70a682b503599cbc0fcae1f4df4:91a7ebf70d1fd76f59b9970c9525dad7
@@ -6335,14 +6335,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="142414" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="🔸FanCode🔸| Live Events",Speen Ghar Region vs Boost Region
-https://in-mc-fblive.fancode.com/mumbai/142414_english_hls_15500b65e596839_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142160" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="🔸FanCode🔸| Live Events",Bangladesh vs Pakistan
-https://in-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa49394_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="140460" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140460_5956_SCD_ODS_FC-Web_1772964305730.jpg" group-title="🔸FanCode🔸| Live Events",Sporting Club Delhi vs Odisha FC
-https://in-mc-fblive.fancode.com/mumbai/140460_english_hls_0db28d849993767_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142365" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="🔸FanCode🔸| Live Events",Mohun Bagan Super Giants vs Punjab FC Junior
-https://in-mc-fblive.fancode.com/mumbai/142365_english_hls_3fcd8c28f797815_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="139939" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png" group-title="🔸FanCode🔸| Live Events",MICHELIN® GRAND PRIX OF FRANCE 2026
 https://in-mc-fblive.fancode.com/mumbai/139939_english_hls_c0e947e75f67983_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142223" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - Main Feed
@@ -6359,11 +6351,19 @@ https://in-mc-fblive.fancode.com/mumbai/142613_english_hls_428d7a66d953558_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/142614_english_hls_2aaf1cfe6111984_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142096" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 2
 https://in-mc-fblive.fancode.com/mumbai/142096_english_hls_f2ff888cf730083_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142615" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Y. Hanfmann vs L. Darderi 
+https://in-mc-fblive.fancode.com/mumbai/142615_english_hls_f602d9690b52995_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142111" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png" group-title="🔸FanCode🔸| Live Events",World Feed - Day 2
+https://in-mc-fblive.fancode.com/mumbai/142111_english_hls_68394d92e544640_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142414" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="🔸FanCode🔸| Live Events",Speen Ghar Region vs Boost Region
+https://in-mc-fblive.fancode.com/mumbai/142414_english_hls_15500b65e596839_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017604/1777491466728532_IFL_RD12_Diamond_Harbour_FC_vs_Rajasthan_United_FC_Live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Diamond Harbour FC vs Rajasthan United FC - 8 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000299/IFL_Diam0805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778292311~acl=/*~id=33872727156425447099388492685758~hmac=5ec34f46ed9b22c6191d9af2f7e0e73969546baa3756286ad7a6a2623bdf2611
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774699473539_DP_World_Estrella_Damm_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️", Estrella Damm Catalunya Championship - Day 2 - 8 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/DP_World0805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778284413~acl=/*~id=49351884930418246730718163360942~hmac=248629ada4b0768c854fb698f6229434a155400377796abbd908f229b4c3099d
+https://sonydaimenew.akamaized.net/hls/live/2005445/DP_World0805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778292311~acl=/*~id=33872727156425447099388492685758~hmac=5ec34f46ed9b22c6191d9af2f7e0e73969546baa3756286ad7a6a2623bdf2611
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
