@@ -6219,9 +6219,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 https://in-mc-fblive.fancode.com/mumbai/142162_english_hls_aef11ab1e339941_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131174" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131174_5427_LE_OSN_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Levante vs CA Osasuna
 https://in-mc-fblive.fancode.com/mumbai/131174_english_hls_2485bad521387_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142376" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="🔸FanCode🔸| Live Events",Cádiz vs Deportivo La Coruna
+#EXTINF:-1 tvg-id="142497" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hull-City-vs-Millwall_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Hull City vs Millwall F.C.
+https://in-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142376" tvg-logo="https://images.fancode.com/aig/match/v1778266475991/142376_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Cádiz vs Deportivo La Coruna
 https://in-mc-fblive.fancode.com/mumbai/142376_english_hls_d75e04a0e273141_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142223" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dino-Prizmic-vs-Novak-Djokovic-fc-web.jpg" group-title="🔸FanCode🔸| Live Events",D. Prizmic vs N. Djokovic
+#EXTINF:-1 tvg-id="142223" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142613" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - Court 13
 https://in-mc-fblive.fancode.com/mumbai/142613_english_hls_428d7a66d953558_1ta-di_h264/index.m3u8
@@ -6241,9 +6243,9 @@ https://in-mc-fblive.fancode.com/mumbai/142616_english_hls_3553ee5eea43286_1ta-d
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777443453181341_Bundesliga_2025-26_MD-33_Dortmund-vs-Eintracht-Frankfurt_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Borussia Dortmund vs Frankfurt - MD 33 - 08 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/BLIGA_Bo0805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778309033~acl=/*~id=20443229690966198880088671420767~hmac=629308880e9d41ebd59033333efdaeea50a4375863b4e104c0e0f11b6c3db3ee
+https://sonydaimenew.akamaized.net/hls/live/20000291/BLIGA_Bo0805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778313282~acl=/*~id=46302122770621474430183157161906~hmac=1ab2cd48bcfa96b4a148676995383cd8ab40deef4def2e64e83199e2ad9b150c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017789/1778069809954388_LIV_Golf_Virginia26_Day2_6may_rev_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Virginia - Day 2 - 8 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/LIV_Golf0805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778309033~acl=/*~id=20443229690966198880088671420767~hmac=629308880e9d41ebd59033333efdaeea50a4375863b4e104c0e0f11b6c3db3ee
+https://sonydaimenew.akamaized.net/hls/live/2018457/LIV_Golf0805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778313282~acl=/*~id=46302122770621474430183157161906~hmac=1ab2cd48bcfa96b4a148676995383cd8ab40deef4def2e64e83199e2ad9b150c
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
