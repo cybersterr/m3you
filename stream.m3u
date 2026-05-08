@@ -6337,16 +6337,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 #EXTINF:-1 tvg-id="142160" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="🔸FanCode🔸| Live Events",Bangladesh vs Pakistan
 https://in-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa49394_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142304" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="🔸FanCode🔸| Live Events",Vanuatu vs Fiji
-https://in-mc-fblive.fancode.com/mumbai/142304_english_hls_8912373bd540172_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142303" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="🔸FanCode🔸| Live Events",Indonesia vs Philippines
-https://in-mc-fblive.fancode.com/mumbai/142303_english_hls_7355c853e212541_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142297" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",China Women vs Malaysia Women
-https://in-mc-fblive.fancode.com/mumbai/142297_english_hls_354a8ae92156576_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142364" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="🔸FanCode🔸| Live Events",FC Goa Junior vs Classic Football Academy
-https://in-mc-fblive.fancode.com/mumbai/142364_english_hls_cbcffe621d27521_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142363" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="🔸FanCode🔸| Live Events",Reliance Foundation Young Champs vs Alchemy International FA
-https://in-mc-fblive.fancode.com/mumbai/142363_english_hls_a39d33487f71510_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142413" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="🔸FanCode🔸| Live Events",Mis-e-Ainak Region vs Amo Region
+https://in-mc-fblive.fancode.com/mumbai/142413_english_hls_d6263666ed21413_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142305" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="🔸FanCode🔸| Live Events",South Korea vs Cook Islands
+https://in-mc-fblive.fancode.com/mumbai/142305_english_hls_5a8dfe4fd120637_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142298" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",China Women vs Hong Kong, China Women
+https://in-mc-fblive.fancode.com/mumbai/142298_english_hls_72ba40a70f57872_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
@@ -9215,7 +9211,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
