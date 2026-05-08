@@ -6217,29 +6217,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 #EXTINF:-1 tvg-id="142223" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142096" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 2
-https://in-mc-fblive.fancode.com/mumbai/142096_english_hls_f2ff888cf730083_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142615" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Y. Hanfmann vs L. Darderi 
 https://in-mc-fblive.fancode.com/mumbai/142615_english_hls_f602d9690b52995_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142095" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",World Feed - Day 2
 https://in-mc-fblive.fancode.com/mumbai/142095_english_hls_6bff4504c575884_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142098" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Featured Groups - Day 2
-https://in-mc-fblive.fancode.com/mumbai/142098_english_hls_7767de576493279_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142097" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Marquee Group - Day 2
 https://in-mc-fblive.fancode.com/mumbai/142097_english_hls_c5badbae3f54285_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142616" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Musetti vs Perricard
 https://in-mc-fblive.fancode.com/mumbai/142616_english_hls_3553ee5eea43286_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142162" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Saudi-Kings-Cup_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Al-Kholood Club vs Al Hilal SFC
-https://in-mc-fblive.fancode.com/mumbai/142162_english_hls_aef11ab1e339941_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142497" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hull-City-vs-Millwall_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Hull City vs Millwall F.C.
-https://in-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="131174" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131174_5427_LE_OSN_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Levante vs CA Osasuna
-https://in-mc-fblive.fancode.com/mumbai/131174_english_hls_2485bad521387_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017789/1778069809954388_LIV_Golf_Virginia26_Day2_6may_rev_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Virginia - Day 2 - 8 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/LIV_Golf0805/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778317527~acl=/*~id=16808250552191781079759894526282~hmac=9c7797c6ad0b16295fdb485477f7f4a32545676c6ebb11b8dc5bce99665137af
+
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
