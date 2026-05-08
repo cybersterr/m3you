@@ -668,8 +668,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTalkies_MOB/WDVLive/index.mpd?__hdnea_
 #EXTINF:-1 tvg-id="154" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",Sony SAB SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba4d9b38517552de9654d3652d27933b:31e7cbf3d289d3116386457ed8bac3a2
-#EXTHTTP:{"Cookie":"hdnea=st=1778184034~exp=1778205634~acl=/*~hmac=29b53630d7f843a1b56214d436ad1e1686654c5429922ba401445d1ce57125ee|Cookie=__hdnea__=st=1778184034~exp=1778205634~acl=/*~hmac=29b53630d7f843a1b56214d436ad1e1686654c5429922ba401445d1ce57125ee","User-Agent":""}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd?__hdnea__=st=1778184034~exp=1778205634~acl=/*~hmac=29b53630d7f843a1b56214d436ad1e1686654c5429922ba401445d1ce57125ee|Cookie=__hdnea__=st=1778184034~exp=1778205634~acl=/*~hmac=29b53630d7f843a1b56214d436ad1e1686654c5429922ba401445d1ce57125ee
+#EXTHTTP:{"Cookie":"hdnea=st=1778191236~exp=1778212836~acl=/*~hmac=8ebd8a727e46f44626e167c4afdafa784f125dc241d7393bd4f782590f36490d|Cookie=__hdnea__=st=1778191236~exp=1778212836~acl=/*~hmac=8ebd8a727e46f44626e167c4afdafa784f125dc241d7393bd4f782590f36490d","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd?__hdnea__=st=1778191236~exp=1778212836~acl=/*~hmac=8ebd8a727e46f44626e167c4afdafa784f125dc241d7393bd4f782590f36490d|Cookie=__hdnea__=st=1778191236~exp=1778212836~acl=/*~hmac=8ebd8a727e46f44626e167c4afdafa784f125dc241d7393bd4f782590f36490d
 #EXTINF:-1 tvg-id="155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="⭕️ JIOTV+ | SPORTS",Sony Ten 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8cb7b40cefe053ea91895e3194bb9912:467cf6d740b7212fcfc648644fb79943
@@ -1035,11 +1035,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Jaihind_tv_MOB/WDVLive/index.mpd?__hdnea_
 #KODIPROP:inputstream.adaptive.license_key=33ca289abacf560687cb9b7dd2bb49bb:569f83b52859701da5197d895e15b8d5
 #EXTHTTP:{"Cookie":"hdnea=st=1778191236~exp=1778212836~acl=/*~hmac=8ebd8a727e46f44626e167c4afdafa784f125dc241d7393bd4f782590f36490d","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Arihant_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1778191236~exp=1778212836~acl=/*~hmac=8ebd8a727e46f44626e167c4afdafa784f125dc241d7393bd4f782590f36490d
-#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",Sony SAB HD
+#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySAB.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",Sony SAB HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f223cf2122d7510da9fcec6e523ffba1:c55848470f58d3bd934fbfe844522b0e
-#EXTHTTP:{"Cookie":"hdnea=st=1778184034~exp=1778205634~acl=/*~hmac=29b53630d7f843a1b56214d436ad1e1686654c5429922ba401445d1ce57125ee|Cookie=__hdnea__=st=1778184034~exp=1778205634~acl=/*~hmac=29b53630d7f843a1b56214d436ad1e1686654c5429922ba401445d1ce57125ee","User-Agent":""}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_MOB/WDVLive/index.mpd?__hdnea__=st=1778184034~exp=1778205634~acl=/*~hmac=29b53630d7f843a1b56214d436ad1e1686654c5429922ba401445d1ce57125ee|Cookie=__hdnea__=st=1778184034~exp=1778205634~acl=/*~hmac=29b53630d7f843a1b56214d436ad1e1686654c5429922ba401445d1ce57125ee
+#EXTHTTP:{"Cookie":"hdnea=st=1778191236~exp=1778212836~acl=/*~hmac=8ebd8a727e46f44626e167c4afdafa784f125dc241d7393bd4f782590f36490d","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_MOB/WDVLive/index.mpd?__hdnea__=st=1778191236~exp=1778212836~acl=/*~hmac=8ebd8a727e46f44626e167c4afdafa784f125dc241d7393bd4f782590f36490d
 #EXTINF:-1 tvg-id="472" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndTVHD.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",And TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3698f70a682b503599cbc0fcae1f4df4:91a7ebf70d1fd76f59b9970c9525dad7
@@ -6333,6 +6333,21 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8?__hdnea__=st
 #EXTHTTP:{"Cookie":"hdnea=st=1778191236~exp=1778212836~acl=/*~hmac=8ebd8a727e46f44626e167c4afdafa784f125dc241d7393bd4f782590f36490d","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__hdnea__=st=1778191236~exp=1778212836~acl=/*~hmac=8ebd8a727e46f44626e167c4afdafa784f125dc241d7393bd4f782590f36490d
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="142160" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="🔸FanCode🔸| Live Events",Bangladesh vs Pakistan
+https://in-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa49394_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142304" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="🔸FanCode🔸| Live Events",Vanuatu vs Fiji
+https://in-mc-fblive.fancode.com/mumbai/142304_english_hls_8912373bd540172_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142303" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="🔸FanCode🔸| Live Events",Indonesia vs Philippines
+https://in-mc-fblive.fancode.com/mumbai/142303_english_hls_7355c853e212541_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142297" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",China Women vs Malaysia Women
+https://in-mc-fblive.fancode.com/mumbai/142297_english_hls_354a8ae92156576_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142364" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="🔸FanCode🔸| Live Events",FC Goa Junior vs Classic Football Academy
+https://in-mc-fblive.fancode.com/mumbai/142364_english_hls_cbcffe621d27521_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142363" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="🔸FanCode🔸| Live Events",Reliance Foundation Young Champs vs Alchemy International FA
+https://in-mc-fblive.fancode.com/mumbai/142363_english_hls_a39d33487f71510_1ta-di_h264/index.m3u8
+
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 
@@ -9200,7 +9215,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
