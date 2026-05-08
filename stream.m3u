@@ -6213,19 +6213,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8?__hdnea__=st
 #EXTHTTP:{"Cookie":"hdnea=st=1778263234~exp=1778284834~acl=/*~hmac=bec53dc61c4349c0c86714d0a9f92831b85b1f8c3b16caa18cb70de15b478d03","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__hdnea__=st=1778263234~exp=1778284834~acl=/*~hmac=bec53dc61c4349c0c86714d0a9f92831b85b1f8c3b16caa18cb70de15b478d03
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="142223" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - Main Feed
-https://in-mc-fblive.fancode.com/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142615" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Y. Hanfmann vs L. Darderi 
-https://in-mc-fblive.fancode.com/mumbai/142615_english_hls_f602d9690b52995_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142095" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",World Feed - Day 2
-https://in-mc-fblive.fancode.com/mumbai/142095_english_hls_6bff4504c575884_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142097" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Marquee Group - Day 2
-https://in-mc-fblive.fancode.com/mumbai/142097_english_hls_c5badbae3f54285_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142616" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Musetti vs Perricard
-https://in-mc-fblive.fancode.com/mumbai/142616_english_hls_3553ee5eea43286_1ta-di_h264/index.m3u8
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 
