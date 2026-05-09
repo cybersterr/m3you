@@ -6219,25 +6219,23 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 https://in-mc-fblive.fancode.com/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142620" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - Supertennis Arena
 https://in-mc-fblive.fancode.com/mumbai/142620_english_hls_1b137878a950996_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142619" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - Pietrangeli
-https://in-mc-fblive.fancode.com/mumbai/142619_english_hls_953e0e4ec870909_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142225" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - BNP Paribas
-https://in-mc-fblive.fancode.com/mumbai/142225_english_hls_0fe7bf795451760_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142100" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 3
-https://in-mc-fblive.fancode.com/mumbai/142100_english_hls_991728742681189_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142102" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Featured Groups - Day 3
 https://in-mc-fblive.fancode.com/mumbai/142102_english_hls_97edda7cfd29397_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142101" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Marquee Group - Day 3
-https://in-mc-fblive.fancode.com/mumbai/142101_english_hls_b96b7778fe24018_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142099" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",World Feed - Day 3
 https://in-mc-fblive.fancode.com/mumbai/142099_english_hls_1b80ffdd6a33104_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142112" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png" group-title="🔸FanCode🔸| Live Events",World Feed - Day 3
-https://in-mc-fblive.fancode.com/mumbai/142112_english_hls_cf890dc4c692076_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624350505752_Golf_Mexico_Day3_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Virginia - Day 3 - 9 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/LivGolf_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778406763~acl=/*~id=66731051961431401493923490588078~hmac=e4fa7e38d34467c34b0ede141cbc7388efaa66e867ca08e779e8fabbf7c8a49d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017786/1778067180922496_UFC328_chimaev_vs_strickland_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UFC 328 - Chimaev vs Strickland - 10 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778410400~acl=/*~id=92116318355071012754020302228601~hmac=723aa2f198433135fd8634f7118f1431a25722d6e025d1d53cbb3a5a34bdd26d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017786/1778067180922496_UFC328_chimaev_vs_strickland_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UFC 328 - Chimaev vs Strickland - 10 May 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/HIN/std_lrh-800300010.m3u8?hdnea=exp=1778410400~acl=/*~id=92116318355071012754020302228601~hmac=723aa2f198433135fd8634f7118f1431a25722d6e025d1d53cbb3a5a34bdd26d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017786/1778067180922496_UFC328_chimaev_vs_strickland_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UFC 328 - Chimaev vs Strickland - 10 May 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TAM/std_lrh-800300010.m3u8?hdnea=exp=1778410400~acl=/*~id=92116318355071012754020302228601~hmac=723aa2f198433135fd8634f7118f1431a25722d6e025d1d53cbb3a5a34bdd26d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017786/1778067180922496_UFC328_chimaev_vs_strickland_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UFC 328 - Chimaev vs Strickland - 10 May 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/TEL/std_lrh-800300010.m3u8?hdnea=exp=1778410400~acl=/*~id=92116318355071012754020302228601~hmac=723aa2f198433135fd8634f7118f1431a25722d6e025d1d53cbb3a5a34bdd26d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017786/1778067180922496_UFC328_chimaev_vs_strickland_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UFC 328 - Chimaev vs Strickland - 10 May 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000295/UFC_328_0905/KAN/std_lrh-800300010.m3u8?hdnea=exp=1778410400~acl=/*~id=92116318355071012754020302228601~hmac=723aa2f198433135fd8634f7118f1431a25722d6e025d1d53cbb3a5a34bdd26d
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
