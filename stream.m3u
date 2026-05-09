@@ -6213,9 +6213,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8?__hdnea__=st
 #EXTHTTP:{"Cookie":"hdnea=st=1778263234~exp=1778284834~acl=/*~hmac=bec53dc61c4349c0c86714d0a9f92831b85b1f8c3b16caa18cb70de15b478d03","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__hdnea__=st=1778263234~exp=1778284834~acl=/*~hmac=bec53dc61c4349c0c86714d0a9f92831b85b1f8c3b16caa18cb70de15b478d03
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="142160" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="🔸FanCode🔸| Live Events",Bangladesh vs Pakistan
+https://in-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa76304_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142368" tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="🔸FanCode🔸| Live Events",Minerva Academy FC vs Sreenidi Deccan FC
+https://in-mc-fblive.fancode.com/mumbai/142368_english_hls_aca64792ee26244_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142306" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="🔸FanCode🔸| Live Events",Japan vs Vanuatu
+https://in-mc-fblive.fancode.com/mumbai/142306_english_hls_9913a9b0a269669_1ta-di_h264/index.m3u8
+
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017816/1778146608990329_ArcheryWC2026_Shanghai_Compound_Team_finals_7may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Compound Team Finals - 9 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000295/Hyundai_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778341774~acl=/*~id=05433258134527807285627409337515~hmac=559d3b31e464e90a36b2392f871f59f1a3debc5d285c9497b410a9a0aef7bf0e
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
