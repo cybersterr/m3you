@@ -6217,15 +6217,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 #EXTINF:-1 tvg-id="142160" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="🔸FanCode🔸| Live Events",Bangladesh vs Pakistan
 https://in-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa76304_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142368" tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png" group-title="🔸FanCode🔸| Live Events",Minerva Academy FC vs Sreenidi Deccan FC
-https://in-mc-fblive.fancode.com/mumbai/142368_english_hls_aca64792ee26244_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142306" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="🔸FanCode🔸| Live Events",Japan vs Vanuatu
-https://in-mc-fblive.fancode.com/mumbai/142306_english_hls_9913a9b0a269669_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142415" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="🔸FanCode🔸| Live Events",Speen Ghar Region vs Amo Region
+https://in-mc-fblive.fancode.com/mumbai/142415_english_hls_893fbefb6b22873_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142308" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="🔸FanCode🔸| Live Events",Papua New Guinea vs South Korea
+https://in-mc-fblive.fancode.com/mumbai/142308_english_hls_cfd0d9ed5953911_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142504" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Auckland-vs-Adelaide-United_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Auckland vs Adelaide United
+https://in-mc-fblive.fancode.com/mumbai/142504_english_hls_bb4a42f7738151_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142456" tvg-logo="https://images.fancode.com/aig/match/v1778306880632/142456_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Goat Warriors vs Roaring Rhinos
+https://in-mc-fblive.fancode.com/mumbai/142456_english_hls_91d92ed7122299_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017816/1778146608990329_ArcheryWC2026_Shanghai_Compound_Team_finals_7may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Compound Team Finals - 9 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000295/Hyundai_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778341774~acl=/*~id=05433258134527807285627409337515~hmac=559d3b31e464e90a36b2392f871f59f1a3debc5d285c9497b410a9a0aef7bf0e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017816/1778146574238329_ArcheryWC2026_Shanghai_Compound_individuals_final_fours_7may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Compound Individual final fours - 9 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/Hyundai_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778350876~acl=/*~id=50886304397988943801365099827080~hmac=2c1791f7f7eef5ead26628a3fe894b540f397e76e1130ce86c4770e49d9e25de
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
