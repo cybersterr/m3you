@@ -6215,8 +6215,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="131177" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131177_5427_RS_RB_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Real Sociedad vs Real Betis
-https://in-mc-fblive.fancode.com/mumbai/131177_english_hls_35af34f92283647_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142224" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142620" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - Supertennis Arena
@@ -6239,7 +6237,7 @@ https://in-mc-fblive.fancode.com/mumbai/142112_english_hls_cf890dc4c692076_1ta-d
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624350505752_Golf_Mexico_Day3_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Virginia - Day 3 - 9 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/LivGolf_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778403123~acl=/*~id=90820376944166088177802829568126~hmac=036b5b7f84b99a4c9c84ebf2580343f1f1dc9aa62139fdba18e397c253cd83c7
+https://sonydaimenew.akamaized.net/hls/live/20000293/LivGolf_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778406763~acl=/*~id=66731051961431401493923490588078~hmac=e4fa7e38d34467c34b0ede141cbc7388efaa66e867ca08e779e8fabbf7c8a49d
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
