@@ -6215,11 +6215,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="131172" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131172_5427_ATL_CEV_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Atletico de Madrid vs RC Celta
-https://in-mc-fblive.fancode.com/mumbai/131172_english_hls_84048b82a164092_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142377" tvg-logo="https://images.fancode.com/aig/match/v1778266487066/142377_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Real Valladolid vs Real Zaragoza
-https://in-mc-fblive.fancode.com/mumbai/142377_english_hls_7b234836b826947_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142224" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Sebastian-Ofner_fc_web_1778344010279.jpg" group-title="🔸FanCode🔸| Live Events",J. Sinner vs S. Ofner
+#EXTINF:-1 tvg-id="131177" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131177_5427_RS_RB_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Real Sociedad vs Real Betis
+https://in-mc-fblive.fancode.com/mumbai/131177_english_hls_35af34f92283647_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142224" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/142224_english_hls_8a271055b577901_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142620" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - Supertennis Arena
 https://in-mc-fblive.fancode.com/mumbai/142620_english_hls_1b137878a950996_1ta-di_h264/index.m3u8
@@ -6235,13 +6233,13 @@ https://in-mc-fblive.fancode.com/mumbai/142102_english_hls_97edda7cfd29397_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/142101_english_hls_b96b7778fe24018_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142099" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",World Feed - Day 3
 https://in-mc-fblive.fancode.com/mumbai/142099_english_hls_1b80ffdd6a33104_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142112" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png" group-title="🔸FanCode🔸| Live Events",World Feed - Day 3
+https://in-mc-fblive.fancode.com/mumbai/142112_english_hls_cf890dc4c692076_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777445993024341_Bundesliga_2025-26_MD-33_Wolfsburg-vs-Bayern_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Wolfsburg vs Bayern Munich - MD 33 - 9 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/Bliga_Wo0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778392803~acl=/*~id=70982822105319762938788876538111~hmac=d5a99b24bfcfa8aebdce199bfa93ba54492d359cbdbf3c0bc4dc171af5e21b98
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624350505752_Golf_Mexico_Day3_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Virginia - Day 3 - 9 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/LivGolf_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778392803~acl=/*~id=70982822105319762938788876538111~hmac=d5a99b24bfcfa8aebdce199bfa93ba54492d359cbdbf3c0bc4dc171af5e21b98
+https://sonydaimenew.akamaized.net/hls/live/20000293/LivGolf_0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778397053~acl=/*~id=37985831207942636526133668548077~hmac=1c19b73b6f428130421ed55838b9e2821fcf79403a6aa616d0a9ff873cd6b481
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
