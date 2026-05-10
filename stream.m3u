@@ -6285,21 +6285,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8?__hdnea__=st
 #EXTHTTP:{"Cookie":"hdnea=st=1778443230~exp=1778464830~acl=/*~hmac=63975c3fdae021db65c08c1dda90e084cb5a4bb6a673b9feb8e8876248451512","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__hdnea__=st=1778443230~exp=1778464830~acl=/*~hmac=63975c3fdae021db65c08c1dda90e084cb5a4bb6a673b9feb8e8876248451512
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="141957" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="🔸FanCode🔸| Live Events",Guyana Harpy Eagles vs West Indies Academy
-https://in-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb20268_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142106" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Featured Groups - Day 4
-https://in-mc-fblive.fancode.com/mumbai/142106_english_hls_c04852fe7915293_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142103" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",World Feed - Day 4
-https://in-mc-fblive.fancode.com/mumbai/142103_english_hls_1e46e68b6223786_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="131173" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png" group-title="🔸FanCode🔸| Live Events",FC Barcelona vs Real Madrid
-https://in-mc-fblive.fancode.com/mumbai/131173_english_hls_45a66a7a2f64087_1ta-di_h264/index.m3u8
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017789/1778069795603388_LIV_Golf_Virginia26_Day4_6may_rev_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Virginia - Day 4 - 10 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Virginia1005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778491157~acl=/*~id=81024706130416798000773709880514~hmac=2b92a631973bee0f97369b2824c4749c77e5e6bea4d5b12e8e19853c1c519ea5
+
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
