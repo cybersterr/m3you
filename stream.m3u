@@ -6287,12 +6287,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="131183" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131183_5427_GEF_MRC_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Getafe CF vs RCD Mallorca
-https://in-mc-fblive.fancode.com/mumbai/131183_english_hls_856abb224671754_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142234" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 8 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/142234_english_hls_8994bd359e88030_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131180" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131180_5427_ALA_BAR_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Deportivo Alaves vs FC Barcelona
 https://in-mc-fblive.fancode.com/mumbai/131180_english_hls_e0613ffb5149916_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="131183" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131183_5427_GEF_MRC_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Getafe CF vs RCD Mallorca
+https://in-mc-fblive.fancode.com/mumbai/131183_english_hls_856abb224671754_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
