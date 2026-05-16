@@ -858,8 +858,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd|Cookie=__h
 #EXTINF:-1 tvg-id="156" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="⭕️ JIOTV+ | MOVIES",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
-#EXTHTTP:{"Cookie":"hdnea=st=1778937343~exp=1778958943~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=583b35b18587686cc1fe4057ca6f22882eff644b03a6edbaa29c4c0cb9e90acc","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778937343~exp=1778958943~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=583b35b18587686cc1fe4057ca6f22882eff644b03a6edbaa29c4c0cb9e90acc
+#EXTHTTP:{"Cookie":"hdnea=st=1778958953~exp=1778980553~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=8fd91b5771b957545f9f7f235a87996d46ce4a259c7a2489388a2f147e1c5167","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778958953~exp=1778980553~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=8fd91b5771b957545f9f7f235a87996d46ce4a259c7a2489388a2f147e1c5167
 #EXTINF:-1 tvg-id="164" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Travelxp HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=157cd1bd71a256fe8ab763ba280320e5:6befde8b90b6926423cc83775b8dcb59
@@ -3609,8 +3609,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Tamil_BTS/WDVLive/index.mpd|Cookie
 #EXTINF:-1 tvg-id="1373" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="⭕️ JIOTV+ | KIDS",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
-#EXTHTTP:{"Cookie":"hdnea=st=1778937529~exp=1778959129~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=416dc9971a6d593da7c046234423a90602468b51f4f5ad107e7b4ee3ee1326f4","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778937529~exp=1778959129~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=416dc9971a6d593da7c046234423a90602468b51f4f5ad107e7b4ee3ee1326f4
+#EXTHTTP:{"Cookie":"hdnea=st=1778959818~exp=1778981418~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=470c0c176852efa54c8a4f12b49d62cc8e089f282426fe264be7fd995b5cb6b0","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778959818~exp=1778981418~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=470c0c176852efa54c8a4f12b49d62cc8e089f282426fe264be7fd995b5cb6b0
 #EXTINF:-1 tvg-id="1374" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png" group-title="⭕️ JIOTV+ | KIDS",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
@@ -6472,12 +6472,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
+#EXTINF:-1 tvg-id="142629" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="🔸FanCode🔸| Live Events",Day 3
+https://in-mc-fblive.fancode.com/mumbai/142629_english_hls_2f6f12aff710016_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142153" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142153_5655_AAS_ALK_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Al-Ahli Saudi FC vs Al-Kholood Club
 https://in-mc-fblive.fancode.com/mumbai/142153_english_hls_bb15d18b8d39804_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="140874" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFL-Championship_Al_Nasar_vs_Gamba_Oska_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Al-Nassr FC vs Gamba Osaka
 https://in-mc-fblive.fancode.com/mumbai/140874_english_hls_ef7a6a2b9267306_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142629" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="🔸FanCode🔸| Live Events",Day 3
-https://in-mc-fblive.fancode.com/mumbai/142629_english_hls_2f6f12aff710016_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
