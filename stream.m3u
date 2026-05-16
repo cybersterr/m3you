@@ -858,8 +858,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd|Cookie=__h
 #EXTINF:-1 tvg-id="156" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="⭕️ JIOTV+ | MOVIES",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
-#EXTHTTP:{"Cookie":"hdnea=st=1778915706~exp=1778937306~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=caba85359f066c80a43d8d2dc4c427d756ecc2cedeca043777c6b8fcb4b733e8","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778915706~exp=1778937306~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=caba85359f066c80a43d8d2dc4c427d756ecc2cedeca043777c6b8fcb4b733e8
+#EXTHTTP:{"Cookie":"hdnea=st=1778937343~exp=1778958943~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=583b35b18587686cc1fe4057ca6f22882eff644b03a6edbaa29c4c0cb9e90acc","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778937343~exp=1778958943~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=583b35b18587686cc1fe4057ca6f22882eff644b03a6edbaa29c4c0cb9e90acc
 #EXTINF:-1 tvg-id="164" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Travelxp HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=157cd1bd71a256fe8ab763ba280320e5:6befde8b90b6926423cc83775b8dcb59
@@ -3112,8 +3112,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/WDVLive/index.mpd|Cookie=__hdn
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="⭕️ JIOTV+ | MOVIES",Star Gold Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cb38dd5e6235bd9936ad7a29bc7ffd8:281d7b329be4e22d4e0e3e1d508ba2a4
-#EXTHTTP:{"Cookie":"hdnea=st=1778917235~exp=1778938835~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=9541e09cb066e40206fa4df3cf58b73772d7729770ace1122aaeaaced8e94474","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778917235~exp=1778938835~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=9541e09cb066e40206fa4df3cf58b73772d7729770ace1122aaeaaced8e94474
+#EXTHTTP:{"Cookie":"hdnea=st=1778939114~exp=1778960714~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=524347ce0b2912a6d14a88ff161eeb693fe4b1ee66ec22f40fd181ac2cdef53d","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778939114~exp=1778960714~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=524347ce0b2912a6d14a88ff161eeb693fe4b1ee66ec22f40fd181ac2cdef53d
 #EXTINF:-1 tvg-id="1114" tvg-logo="https://img.media.jio.com/tvpimages/98/48/301989_1749664475828_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports Select 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7d009d07aa5cbc81a441880530dfa5:8147983ad7402ebfc222d28b667a196f
@@ -3609,8 +3609,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Tamil_BTS/WDVLive/index.mpd|Cookie
 #EXTINF:-1 tvg-id="1373" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="⭕️ JIOTV+ | KIDS",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
-#EXTHTTP:{"Cookie":"hdnea=st=1778915827~exp=1778937427~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=e63b80c0703abb71855bf1c8f172b59873dc5b0e2170525d6ed00c7281144ba7","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778915827~exp=1778937427~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=e63b80c0703abb71855bf1c8f172b59873dc5b0e2170525d6ed00c7281144ba7
+#EXTHTTP:{"Cookie":"hdnea=st=1778937529~exp=1778959129~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=416dc9971a6d593da7c046234423a90602468b51f4f5ad107e7b4ee3ee1326f4","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778937529~exp=1778959129~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=416dc9971a6d593da7c046234423a90602468b51f4f5ad107e7b4ee3ee1326f4
 #EXTINF:-1 tvg-id="1374" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png" group-title="⭕️ JIOTV+ | KIDS",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
@@ -3634,8 +3634,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd|Cooki
 #EXTINF:-1 tvg-id="1391" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png" group-title="⭕️ JIOTV+ | KIDS",Hungama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=454f8353caac500d95d641e0c7cfe048:0aaca46ea0f5096335598781fbe590e4
-#EXTHTTP:{"Cookie":"hdnea=st=1778917191~exp=1778938791~acl=/bpk-tv/Hungama_BTS/WDVLive/*~hmac=473074e018df7fb0ca72b553259520bb881e2260158b373d1f048337d2132d45","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Hungama_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778917191~exp=1778938791~acl=/bpk-tv/Hungama_BTS/WDVLive/*~hmac=473074e018df7fb0ca72b553259520bb881e2260158b373d1f048337d2132d45
+#EXTHTTP:{"Cookie":"hdnea=st=1778939099~exp=1778960699~acl=/bpk-tv/Hungama_BTS/WDVLive/*~hmac=fd25cde926db39d6b4a487847328aab619ee72130a922caa04323bc4e46e142a","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Hungama_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778939099~exp=1778960699~acl=/bpk-tv/Hungama_BTS/WDVLive/*~hmac=fd25cde926db39d6b4a487847328aab619ee72130a922caa04323bc4e46e142a
 #EXTINF:-1 tvg-id="1392" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="⭕️ JIOTV+ | KIDS",Super Hungama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a450f0820c4589690eb336c29f18da6:820e84119563b56d6e6f0bf514cbdc3c
@@ -6474,47 +6474,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 #EXTINF:-1 tvg-id="142428" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142428_6076_AUT_MAL_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Malta vs Austria
 https://in-mc-fblive.fancode.com/mumbai/142428_english_hls_837227617f29396_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142427" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142427_6076_JER_SUI_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Switzerland vs Jersey
-https://in-mc-fblive.fancode.com/mumbai/142427_english_hls_ff4eff117b99431_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142177" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142177_5826_WHU-W_MCI-W_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",West Ham United Women vs Manchester City Women
-https://in-mc-fblive.fancode.com/mumbai/142177_english_hls_d3a9e3746196409_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142182" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142182_5826_BHA-W_TOT-W_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Brighton and Hove Albion Women vs Tottenham Hotspur Women
-https://in-mc-fblive.fancode.com/mumbai/142182_english_hls_94770da34f1100_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142181" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142181_5826_CHE-W_MUN-W_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Chelsea F.C. Women vs Manchester United Women
 https://in-mc-fblive.fancode.com/mumbai/142181_english_hls_989b085e8010996_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142180" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142180_5826_EVE-W_LEI-W_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Everton Women vs Leicester City Women
 https://in-mc-fblive.fancode.com/mumbai/142180_english_hls_fb9e10a1e57578_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142179" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142179_5826_LIV-W_ARS-W_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Liverpool Women vs Arsenal Women
-https://in-mc-fblive.fancode.com/mumbai/142179_english_hls_3e9753904d26395_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142178" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142178_5826_LCL_AST-W_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",London City Lionesses vs Aston Villa Women
-https://in-mc-fblive.fancode.com/mumbai/142178_english_hls_acf394a0cb49151_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142738" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",SF: Bolelli/Vavassori vs Harrison/Skupski
-https://in-mc-fblive.fancode.com/mumbai/142738_english_hls_4bac41947115573_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142635" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Spielberg - Day 1
-https://in-mc-fblive.fancode.com/mumbai/142635_english_hls_25a27b7c8d8299_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142327" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3
 https://in-mc-fblive.fancode.com/mumbai/142327_english_hls_ff1d493b1394682_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142239" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Daniil-Medvedev_fc-web_1778907587882.jpg" group-title="🔸FanCode🔸| Live Events",SF: J. Sinner vs D. Medvedev
-https://in-mc-fblive.fancode.com/mumbai/142239_english_hls_03c417900b86056_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142427" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142427_6076_JER_SUI_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Switzerland vs Jersey
+https://in-mc-fblive.fancode.com/mumbai/142427_english_hls_ff4eff117b99431_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017964/1778589475638669_facup26_final_chelsea_vs_man_city_12may_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Chelsea vs Manchester City - Final - 16 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/FACUP_Ch1605/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778982271~acl=/*~id=79649504000581095167625626163933~hmac=ea918de1884c156eaae256be290b031f2d6ca896ce7f21054b43617363786a3d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017964/1778589475638669_facup26_final_chelsea_vs_man_city_12may_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Chelsea vs Manchester City - Final - 16 May 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/FACUP_Ch1605/HIN/std_lrh-800300010.m3u8?hdnea=exp=1778982271~acl=/*~id=79649504000581095167625626163933~hmac=ea918de1884c156eaae256be290b031f2d6ca896ce7f21054b43617363786a3d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017964/1778589475638669_facup26_final_chelsea_vs_man_city_12may_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Chelsea vs Manchester City - Final - 16 May 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2005445/FACUP_Ch1605/TAM/std_lrh-800300010.m3u8?hdnea=exp=1778982271~acl=/*~id=79649504000581095167625626163933~hmac=ea918de1884c156eaae256be290b031f2d6ca896ce7f21054b43617363786a3d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017964/1778589475638669_facup26_final_chelsea_vs_man_city_12may_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Chelsea vs Manchester City - Final - 16 May 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2005445/FACUP_Ch1605/TEL/std_lrh-800300010.m3u8?hdnea=exp=1778982271~acl=/*~id=79649504000581095167625626163933~hmac=ea918de1884c156eaae256be290b031f2d6ca896ce7f21054b43617363786a3d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017964/1778589475638669_facup26_final_chelsea_vs_man_city_12may_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Chelsea vs Manchester City - Final - 16 May 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/FACUP_Ch1605/KAN/std_lrh-800300010.m3u8?hdnea=exp=1778982271~acl=/*~id=79649504000581095167625626163933~hmac=ea918de1884c156eaae256be290b031f2d6ca896ce7f21054b43617363786a3d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778244832486296_EngW_vs_NZW_3odi_8may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",3rd ODI - 16 May 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/EngW_vs_1605/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778982271~acl=/*~id=79649504000581095167625626163933~hmac=ea918de1884c156eaae256be290b031f2d6ca896ce7f21054b43617363786a3d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017740/1777880811557297_Bundesliga_2025-26_MD-34_Werder-Bremen-vs-Borussia-Dortmund_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Werder Bremen vs Borussia Dortmund - MD 34 - 16 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/BLIGA_We1605/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778982271~acl=/*~id=79649504000581095167625626163933~hmac=ea918de1884c156eaae256be290b031f2d6ca896ce7f21054b43617363786a3d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017740/1777474110064296_Bundesliga_2025-26_MD-34_Bayern-Munich-vs-FC-Koln_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Bayern Munich vs FC Koln - MD 34 - 16 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/BLIGA_Ba1605/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778982271~acl=/*~id=79649504000581095167625626163933~hmac=ea918de1884c156eaae256be290b031f2d6ca896ce7f21054b43617363786a3d
+
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
