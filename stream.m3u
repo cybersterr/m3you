@@ -1243,8 +1243,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/TLCHDEnglish_MOB/WDVLive/index.mpd|Cookie
 #EXTINF:-1 tvg-id="482" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="⭕️ JIOTV+ | MOVIES",Colors Cineplex
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7cda772f66f5ac3acc5ae38445d80ff:b54ed17e8f2fafeddcf587bf8a5506b1
-#EXTHTTP:{"Cookie":"hdnea=st=1779515458~exp=1779537058~acl=/bpk-tv/Colors_Cineplex_BTS/WDVLive/*~hmac=3937b8335df0c7a91f459938fefcefc3b054c0ab6ca69ed7c4817fcaa0515d40","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Cineplex_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1779515458~exp=1779537058~acl=/bpk-tv/Colors_Cineplex_BTS/WDVLive/*~hmac=3937b8335df0c7a91f459938fefcefc3b054c0ab6ca69ed7c4817fcaa0515d40
+#EXTHTTP:{"Cookie":"hdnea=st=1779537544~exp=1779559144~acl=/bpk-tv/Colors_Cineplex_BTS/WDVLive/*~hmac=d78ce6962a349541164f7bd75a708ffc3f3a5071251faa3fc5c43cd5a6238972","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Cineplex_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1779537544~exp=1779559144~acl=/bpk-tv/Colors_Cineplex_BTS/WDVLive/*~hmac=d78ce6962a349541164f7bd75a708ffc3f3a5071251faa3fc5c43cd5a6238972
 #EXTINF:-1 tvg-id="483" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" group-title="⭕️ JIOTV+ | MOVIES",Sony MAX2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18e4c354db7c506d996698caeced99d0:bba5064a2c162761bb92a15170c88b75
@@ -5203,8 +5203,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Romance_BTS/WDVLive/index.mpd|C
 #EXTINF:-1 tvg-id="3098" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="⭕️ JIOTV+ | MOVIES",Star Gold Thrills
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=189ccd629ff25ec1adc2e34d49b186eb:fd102ddbd3844b55b70c6aa23dbd212b
-#EXTHTTP:{"Cookie":"hdnea=st=1779515219~exp=1779536819~acl=/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/*~hmac=68f4563612d4debf1c26e5a0a78e7892384ab520281c18a9bdfe35dec16bc0aa","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1779515219~exp=1779536819~acl=/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/*~hmac=68f4563612d4debf1c26e5a0a78e7892384ab520281c18a9bdfe35dec16bc0aa
+#EXTHTTP:{"Cookie":"hdnea=st=1779537302~exp=1779558902~acl=/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/*~hmac=f2e92846dc17b9f290dd8219cbc469afdbb2a56f4d31ad0a61816e402074e2a0","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1779537302~exp=1779558902~acl=/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/*~hmac=f2e92846dc17b9f290dd8219cbc469afdbb2a56f4d31ad0a61816e402074e2a0
 #EXTINF:-1 tvg-id="3099" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png" group-title="⭕️ JIOTV+ | MARATHI",Star Pravah Picture
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1644aff68865ecdb884c36a634c008f:794529e9d938c592514a1eb9eb706da9
@@ -6470,14 +6470,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 https://in-mc-fblive.fancode.com/mumbai/142448_english_hls_c7e5f4c02076266_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142447" tvg-logo="https://images.fancode.com/aig/match/v1779508475476/142447_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Croatia vs Austria
 https://in-mc-fblive.fancode.com/mumbai/142447_english_hls_781615b85212232_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142909" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="🔸FanCode🔸| Live Events",Kenya vs Mali
-https://in-mc-fblive.fancode.com/mumbai/142909_english_hls_62f22403b154702_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142908" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="🔸FanCode🔸| Live Events",Botswana vs Sierra Leone
 https://in-mc-fblive.fancode.com/mumbai/142908_english_hls_f69d60096714840_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142703" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HUL_SOU_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Hull City vs Middlesbrough F.C.
 https://in-mc-fblive.fancode.com/mumbai/142703_english_hls_80e9a34c7878779_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142948" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WSL_Web.jpg" group-title="🔸FanCode🔸| Live Events",Charlton Athletic F.C vs Leicester City Women
-https://in-mc-fblive.fancode.com/mumbai/142948_english_hls_ada864472f64452_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142515" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Celtic vs Dunfermline
 https://in-mc-fblive.fancode.com/mumbai/142515_english_hls_a0a8f8d18a15189_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142274" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="🔸FanCode🔸| Live Events",Center Court
@@ -6486,17 +6482,21 @@ https://in-mc-fblive.fancode.com/mumbai/142274_english_hls_d18e558faa42457_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/142971_english_hls_10ec2fc99979369_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142532" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png" group-title="🔸FanCode🔸| Live Events",ADAC GT Race 1 - Zandvoort
 https://in-mc-fblive.fancode.com/mumbai/142532_english_hls_0f2ce488bb16480_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139686" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg" group-title="🔸FanCode🔸| Live Events",Day 2 - Opening Race
-https://in-mc-fblive.fancode.com/mumbai/139686_english_hls_c935f298a159987_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142125" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="🔸FanCode🔸| Live Events",Day 3 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142128" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="🔸FanCode🔸| Live Events",Day 3 - Featured Holes
+https://in-mc-fblive.fancode.com/mumbai/142128_english_hls_eb08929a9e8055_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142127" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="🔸FanCode🔸| Live Events",Day 3 - Featured Groups
+https://in-mc-fblive.fancode.com/mumbai/142127_english_hls_5c893790f422990_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142126" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="🔸FanCode🔸| Live Events",Day 3 - Marquee Group
+https://in-mc-fblive.fancode.com/mumbai/142126_english_hls_1e8622009643810_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018140/1779197445808297_EngW_vs_NZW_2t20i_19may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd T20I - 23 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779589133~acl=/*~id=00660694172788964540415602223191~hmac=c4e33ac11762e14df548c7def45f543a4196c137f2f056873e48da1de8cf0d03
+https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779593396~acl=/*~id=78039481612794380363708428818167~hmac=43f5da616e7a9648aad22150317ed93d5cad65d767b7cae8bafba8e6e943568f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017615/177749374548611_IFL_RD13_Diamond_Harbour_FC_vs_Shillong_Lajong_FC_Live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Diamond Harbour FC vs Shillong Lajong FC - 23 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/IFL_Raja2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779589133~acl=/*~id=00660694172788964540415602223191~hmac=c4e33ac11762e14df548c7def45f543a4196c137f2f056873e48da1de8cf0d03
+https://sonydaimenew.akamaized.net/hls/live/20000296/IFL_Raja2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779593396~acl=/*~id=78039481612794380363708428818167~hmac=43f5da616e7a9648aad22150317ed93d5cad65d767b7cae8bafba8e6e943568f
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
