@@ -6468,6 +6468,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 #EXTINF:-1 tvg-id="142281" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1778484660700.png" group-title="🔸FanCode🔸| Live Events",FC Bayern München vs VfB Stuttgart
 https://in-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="131209" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Girona FC vs Elche CF
+https://in-mc-fblive.fancode.com/mumbai/131209_english_hls_a48a46795b99313_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131208" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Valencia CF vs FC Barcelona
 https://in-mc-fblive.fancode.com/mumbai/131208_english_hls_692f8c66d920562_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131206" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Real Madrid vs Athletic Club
@@ -6476,16 +6478,14 @@ https://in-mc-fblive.fancode.com/mumbai/131206_english_hls_c29ebc2efa71906_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/131205_english_hls_c5c498d2d288367_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131204" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131204_5427_GEF_OSN_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Getafe CF vs CA Osasuna
 https://in-mc-fblive.fancode.com/mumbai/131204_english_hls_c99f54029f10838_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="131203" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png" group-title="🔸FanCode🔸| Live Events",RCD Espanyol vs Real Sociedad
+https://in-mc-fblive.fancode.com/mumbai/131203_english_hls_c9c311253648846_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131202" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png" group-title="🔸FanCode🔸| Live Events",RC Celta vs Sevilla FC
 https://in-mc-fblive.fancode.com/mumbai/131202_english_hls_64268336ae74684_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131201" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Real Betis vs Levante
 https://in-mc-fblive.fancode.com/mumbai/131201_english_hls_7687d6411728372_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131200" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Deportivo Alaves vs Rayo Vallecano
 https://in-mc-fblive.fancode.com/mumbai/131200_english_hls_07ff4b38f091481_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="131209" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Girona FC vs Elche CF
-https://in-mc-fblive.fancode.com/mumbai/131209_english_hls_a48a46795b99313_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="131203" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png" group-title="🔸FanCode🔸| Live Events",RCD Espanyol vs Real Sociedad
-https://in-mc-fblive.fancode.com/mumbai/131203_english_hls_c9c311253648846_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142125" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="🔸FanCode🔸| Live Events",Day 3 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142128" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="🔸FanCode🔸| Live Events",Day 3 - Featured Holes
@@ -6496,15 +6496,11 @@ https://in-mc-fblive.fancode.com/mumbai/142127_english_hls_5c893790f422990_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/142126_english_hls_1e8622009643810_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142124" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="🔸FanCode🔸| Live Events",Day 3 - World Feed
 https://in-mc-fblive.fancode.com/mumbai/142124_english_hls_71772cc91170050_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142089" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg" group-title="🔸FanCode🔸| Live Events",Sprint Race
-https://in-mc-fblive.fancode.com/mumbai/142089_english_hls_b177de21c227467_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142260" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Women-vs-Lyon-Women_FC-web.jpg" group-title="🔸FanCode🔸| Live Events",Barcelona Women vs Lyon Women
-https://in-mc-fblive.fancode.com/mumbai/142260_english_hls_74c624e85f95503_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018189/1779371780326448_VitalityBlast26_Mens_Glamorgan_vs_Gloucestershire_21may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Glamorgan vs Gloucestershire - 23 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/Glamorga2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779604909~acl=/*~id=87778191371790917134402814203493~hmac=281804c4f4ac751decb7489ddf33f6bbc3c13e7e251314cbbd6338d061058621
+https://sonydaimenew.akamaized.net/hls/live/20000293/Glamorga2305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779609146~acl=/*~id=94438229716595064501809735356822~hmac=f586953c74eb660037000bf0641ce794c7ff9c6416627069185c0b78aa85dc00
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
