@@ -827,8 +827,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNBCTV18Prime_MOB/WDVLive/index.mpd|Cooki
 #EXTINF:-1 tvg-id="144" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
-#EXTHTTP:{"Cookie":"hdnea=st=1779600606~exp=1779622206~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=7d7b2d315a82c75c22da74c709bc62ce2eefa138be65d9ef41c3ea2a74bbba71","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1779600606~exp=1779622206~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=7d7b2d315a82c75c22da74c709bc62ce2eefa138be65d9ef41c3ea2a74bbba71
+#EXTHTTP:{"Cookie":"hdnea=st=1779622214~exp=1779643814~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=c2ffaa074bff374bdad3b3e446fc7e845335635df2f66ce9294f3e58d36405c9","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1779622214~exp=1779643814~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=c2ffaa074bff374bdad3b3e446fc7e845335635df2f66ce9294f3e58d36405c9
 #EXTINF:-1 tvg-id="146" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",History TV18 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5105a616fb95ce48dbde4fe9d7960ad:272d2bcff8430174fdd5aaf6f93abb6b
@@ -3126,8 +3126,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_BTS/WDVLive/index.mpd|Cookie=__hd
 #EXTINF:-1 tvg-id="1119" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="⭕️ JIOTV+ | MOVIES",Star Gold Select
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09706397be655eb6a26c6ba99b65e6d5:acb1ebe04e2a29fe098d532d7a506846
-#EXTHTTP:{"Cookie":"hdnea=st=1779600653~exp=1779622253~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=8d1f52dd0cca28f2f027b1830f19f628df2713c06dba6654e0c3ea752718768c","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1779600653~exp=1779622253~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=8d1f52dd0cca28f2f027b1830f19f628df2713c06dba6654e0c3ea752718768c
+#EXTHTTP:{"Cookie":"hdnea=st=1779622515~exp=1779644115~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=25a8ea4ed462321152c59b1ffa75c6f445a2fc3125863bddd3330008bf7c6280","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1779622515~exp=1779644115~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=25a8ea4ed462321152c59b1ffa75c6f445a2fc3125863bddd3330008bf7c6280
 #EXTINF:-1 tvg-id="1120" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsha_Movies.png" group-title="⭕️ JIOTV+ | BENGALI",Jalsha Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e860f0d6577258b2b264d4bb2ecbfd4a:fd55bcc08db185b0a573a93e24fab8f6
@@ -5745,13 +5745,13 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd|
 #EXTINF:-1 tvg-id="3277" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
-#EXTHTTP:{"Cookie":"hdnea=st=1779600719~exp=1779622319~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=e178ecb6cc24a8850769e6d3757105726aa93923fa6bb0a13ccdaeababbd66f8","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd|Cookie=__hdnea__=st=1779600719~exp=1779622319~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=e178ecb6cc24a8850769e6d3757105726aa93923fa6bb0a13ccdaeababbd66f8
+#EXTHTTP:{"Cookie":"hdnea=st=1779622535~exp=1779644135~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=7a23e89ea3d4a3683c7367836921331733ff335a9b71de88973ba10363c40624","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd|Cookie=__hdnea__=st=1779622535~exp=1779644135~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=7a23e89ea3d4a3683c7367836921331733ff335a9b71de88973ba10363c40624
 #EXTINF:-1 tvg-id="3278" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
-#EXTHTTP:{"Cookie":"hdnea=st=1779600725~exp=1779622325~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=eebf745e61674c1e6772bb72fa0827bba0d2d99a48dcec628998f72fe17eedbc","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1779600725~exp=1779622325~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=eebf745e61674c1e6772bb72fa0827bba0d2d99a48dcec628998f72fe17eedbc
+#EXTHTTP:{"Cookie":"hdnea=st=1779622544~exp=1779644144~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=c8e45b18081809a507a3649f2b3eb1806ac8b053b1d401e329ecb773f853ccc2","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1779622544~exp=1779644144~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=c8e45b18081809a507a3649f2b3eb1806ac8b053b1d401e329ecb773f853ccc2
 #EXTINF:-1 tvg-id="3279" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/OM_TV.png" group-title="⭕️ JIOTV+ | ENGLISH",OM TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fda1385956445199a867364b266de2f1:8b85980e71af02b532054322d846b468
@@ -6466,8 +6466,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="142912" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="🔸FanCode🔸| Live Events",Sierra Leone vs Cameroon
-https://in-mc-fblive.fancode.com/mumbai/142912_english_hls_ae8ea4872810741_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142735" tvg-logo="https://images.fancode.com/aig/match/v1778919948675/142735_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Bolton Wanderers vs Stockport County
 https://in-mc-fblive.fancode.com/mumbai/142735_english_hls_da947f6bbb65364_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142649" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court Suzanne-Lenglen
@@ -6478,7 +6476,7 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1779655594~acl=/*~id=03899328532736301104518738364984~hmac=0ab9ac882010a42f8449fe9c5711e392b8841d8bd1da2ac0c4988cdc8fb52d3f
 #EXTINF:-1 tvg-id="142950" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Top seeds in action
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779655594~acl=/*~id=03899328532736301104518738364984~hmac=0ab9ac882010a42f8449fe9c5711e392b8841d8bd1da2ac0c4988cdc8fb52d3f
-#EXTINF:-1 tvg-id="142203" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Alexander-Zverev-vs-Benjamin-Bonzi_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Bonzi vs Zverev
+#EXTINF:-1 tvg-id="142203" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court Philippe-Chatrier
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779659243~acl=/*~id=57532946422315149672391649315909~hmac=667faa720c9f4b7c27f6b84b43eaa67c5b1c8e6e10e5ff8dac52d0a41ce32407
 #EXTINF:-1 tvg-id="142130" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="🔸FanCode🔸| Live Events",Day 4 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/142130_english_hls_d2299e4d7e646_1ta-di_h264/index.m3u8
@@ -6486,25 +6484,23 @@ https://in-mc-fblive.fancode.com/mumbai/142130_english_hls_d2299e4d7e646_1ta-di_
 https://in-mc-fblive.fancode.com/mumbai/142132_english_hls_ad865c0d3020364_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142133" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="🔸FanCode🔸| Live Events",Day 4 - Featured Groups
 https://in-mc-fblive.fancode.com/mumbai/142133_english_hls_471b6b2a6324053_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142535" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png" group-title="🔸FanCode🔸| Live Events",ADAC GT Race 2 - Zandvoort
-https://in-mc-fblive.fancode.com/mumbai/142535_english_hls_017965aaad2371_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142131" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="🔸FanCode🔸| Live Events",Day 4 - Marquee Group
 https://in-mc-fblive.fancode.com/mumbai/142131_english_hls_eb214487a576805_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="139688" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg" group-title="🔸FanCode🔸| Live Events",Feature Race
+https://in-mc-fblive.fancode.com/mumbai/139688_english_hls_dc1374eb5265444_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018285/1779601648000453_RG26_Bonzi_vs_Zverev_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Benjamin Bonzi vs Alexander Zverev - Round 1 - 24 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779673992~acl=/*~id=96080156433860730699248003985089~hmac=9010fbcbc1dceede21eefc2c18cb11126fddde0c9a1843993bbd95bb2216f64e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018285/1779601648000453_RG26_Bonzi_vs_Zverev_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Benjamin Bonzi vs Alexander Zverev - Round 1 - 24 May 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/HIN/std_lrh-800300010.m3u8?hdnea=exp=1779673992~acl=/*~id=96080156433860730699248003985089~hmac=9010fbcbc1dceede21eefc2c18cb11126fddde0c9a1843993bbd95bb2216f64e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018285/1779601648000453_RG26_Bonzi_vs_Zverev_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Benjamin Bonzi vs Alexander Zverev - Round 1 - 24 May 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/TAM/std_lrh-800300010.m3u8?hdnea=exp=1779673992~acl=/*~id=96080156433860730699248003985089~hmac=9010fbcbc1dceede21eefc2c18cb11126fddde0c9a1843993bbd95bb2216f64e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018285/1779601648000453_RG26_Bonzi_vs_Zverev_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Benjamin Bonzi vs Alexander Zverev - Round 1 - 24 May 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/TEL/std_lrh-800300010.m3u8?hdnea=exp=1779673992~acl=/*~id=96080156433860730699248003985089~hmac=9010fbcbc1dceede21eefc2c18cb11126fddde0c9a1843993bbd95bb2216f64e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018285/1779601648000453_RG26_Bonzi_vs_Zverev_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Benjamin Bonzi vs Alexander Zverev - Round 1 - 24 May 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/KAN/std_lrh-800300010.m3u8?hdnea=exp=1779673992~acl=/*~id=96080156433860730699248003985089~hmac=9010fbcbc1dceede21eefc2c18cb11126fddde0c9a1843993bbd95bb2216f64e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018237/1779537026869575_VitalityBlast26_Mens_Middlesex_vs_Surrey_23may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Middlesex vs Surrey - 24 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2405/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779673992~acl=/*~id=96080156433860730699248003985089~hmac=9010fbcbc1dceede21eefc2c18cb11126fddde0c9a1843993bbd95bb2216f64e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779677635~acl=/*~id=76258670449791972980794977311246~hmac=2ff65b09c0dd111981003e3758295f8a230193ca8e0e1e9a348ff920580ab843
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/HIN/std_lrh-800300010.m3u8?hdnea=exp=1779677635~acl=/*~id=76258670449791972980794977311246~hmac=2ff65b09c0dd111981003e3758295f8a230193ca8e0e1e9a348ff920580ab843
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/TAM/std_lrh-800300010.m3u8?hdnea=exp=1779677635~acl=/*~id=76258670449791972980794977311246~hmac=2ff65b09c0dd111981003e3758295f8a230193ca8e0e1e9a348ff920580ab843
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/TEL/std_lrh-800300010.m3u8?hdnea=exp=1779677635~acl=/*~id=76258670449791972980794977311246~hmac=2ff65b09c0dd111981003e3758295f8a230193ca8e0e1e9a348ff920580ab843
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/KAN/std_lrh-800300010.m3u8?hdnea=exp=1779677635~acl=/*~id=76258670449791972980794977311246~hmac=2ff65b09c0dd111981003e3758295f8a230193ca8e0e1e9a348ff920580ab843
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
