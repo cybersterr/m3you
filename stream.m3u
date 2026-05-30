@@ -6459,17 +6459,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1780203068~acl=/*~id=20218888152439636326415077374381~hmac=28c0388a6f160ac1f61cfc9ed6c4ab4113fb412f0cfb7764f604c0ed9906d3b6
 #EXTINF:-1 tvg-id="142684" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court Philippe-Chatrier
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1780206732~acl=/*~id=39601520075784319806429027815237~hmac=c6e1b4d1619a5bc10b950e1799798aa50d8e26e2de042bc22035022def9b90c4
-#EXTINF:-1 tvg-id="142897" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - Main Feed
-https://in-mc-fblive.fancode.com/mumbai/142897_english_hls_cf3c7cefd948526_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142899" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - Featured Groups
-https://in-mc-fblive.fancode.com/mumbai/142899_english_hls_8fabe9b13036316_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142896" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - World Feed
 https://in-mc-fblive.fancode.com/mumbai/142896_english_hls_c80b57ab6d25455_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018786/1780059450000777_RG26_Auger-Aliassime_vs_Nakashima_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Felix Auger-Aliassime vs Brandon Nakashima - Men's Singles - 31 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/RG_Phili3005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780218732~acl=/*~id=14139806197172492389018285246601~hmac=d8ff6ffe08e9be98190dff7886d1020bac7a0d511f46289344a1e5eb6121624f
+https://sonydaimenew.akamaized.net/hls/live/2018457/RG_Phili3005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780222366~acl=/*~id=91329295707244763280953695156440~hmac=433045b983b2d6a795930e25da4ade8aae9b3eee523ef38f4d536a48811fcbd5
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
