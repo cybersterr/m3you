@@ -6457,20 +6457,20 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 #EXTINF:-1 tvg-id="143054" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women's-T20I-Tri-Series_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Pakistan Women vs Ireland Women
 https://in-mc-fblive.fancode.com/mumbai/143054_english_hls_f7e6fa20e576812_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142940" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142940_6089_INDW_BDW_FC-Web_1779706389414.jpg" group-title="🔸FanCode🔸| Live Events",India Women vs Bangladesh Women
-https://in-mc-fblive.fancode.com/mumbai/142940_english_hls_c360f1f01712300_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142688" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Jesper-De-Jong-vs-Alexander-Zverev_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",J. De Jong vs A. Zverev
+#EXTINF:-1 tvg-id="143171" tvg-logo="https://images.fancode.com/aig/match/v1779951738033/143171_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Deportivo La Coruna vs Las Palmas
+https://in-mc-fblive.fancode.com/mumbai/143171_english_hls_1c4c4df3be36924_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143170" tvg-logo="https://images.fancode.com/aig/match/v1779951738055/143170_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Castellón vs Eibar
+https://in-mc-fblive.fancode.com/mumbai/143170_english_hls_46045a71d173024_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142688" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court Philippe-Chatrier
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1780260769~acl=/*~id=37250182555781173415072582807206~hmac=339205f0b7b653f03088eabbf14d8ff419f5358102dd354745461b565eb8748d
 #EXTINF:-1 tvg-id="142687" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court Suzanne-Lenglen
 https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1780260769~acl=/*~id=37250182555781173415072582807206~hmac=339205f0b7b653f03088eabbf14d8ff419f5358102dd354745461b565eb8748d
-#EXTINF:-1 tvg-id="142686" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Mixed Doubles ft. Yuki Bhambri
+#EXTINF:-1 tvg-id="142686" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court Simonne-Mathieu
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1780260769~acl=/*~id=37250182555781173415072582807206~hmac=339205f0b7b653f03088eabbf14d8ff419f5358102dd354745461b565eb8748d
 #EXTINF:-1 tvg-id="142685" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court 14
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1780260769~acl=/*~id=37250182555781173415072582807206~hmac=339205f0b7b653f03088eabbf14d8ff419f5358102dd354745461b565eb8748d
 #EXTINF:-1 tvg-id="142957" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Top seeds in action
 https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780260769~acl=/*~id=37250182555781173415072582807206~hmac=339205f0b7b653f03088eabbf14d8ff419f5358102dd354745461b565eb8748d
-#EXTINF:-1 tvg-id="143222" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Yihan Qu vs Maaya Rajeshwaran Revathi
-https://in-mc-fblive.fancode.com/mumbai/143222_english_hls_6f9404f34d69494_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142902" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/142902_english_hls_5ffd0f041397101_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142904" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - Featured Holes
@@ -6482,18 +6482,10 @@ https://in-mc-fblive.fancode.com/mumbai/142905_english_hls_40281978d075216_1ta-d
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018867/1780127848000364_RG26_De_Jong_vs_Zverev_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Jesper de Jong vs Alexander Zverev - Round 4 - 31 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780285502~acl=/*~id=02786666848574656699778267843930~hmac=0b915d9306e82d1139fb25ff38f317c3ae6f9cbaf644f00ac3da67b4a9cd45d8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018867/1780127848000364_RG26_De_Jong_vs_Zverev_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Jesper de Jong vs Alexander Zverev - Round 4 - 31 May 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780285502~acl=/*~id=02786666848574656699778267843930~hmac=0b915d9306e82d1139fb25ff38f317c3ae6f9cbaf644f00ac3da67b4a9cd45d8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018867/1780127848000364_RG26_De_Jong_vs_Zverev_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Jesper de Jong vs Alexander Zverev - Round 4 - 31 May 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780285502~acl=/*~id=02786666848574656699778267843930~hmac=0b915d9306e82d1139fb25ff38f317c3ae6f9cbaf644f00ac3da67b4a9cd45d8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018867/1780127848000364_RG26_De_Jong_vs_Zverev_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Jesper de Jong vs Alexander Zverev - Round 4 - 31 May 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780285502~acl=/*~id=02786666848574656699778267843930~hmac=0b915d9306e82d1139fb25ff38f317c3ae6f9cbaf644f00ac3da67b4a9cd45d8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018867/1780127848000364_RG26_De_Jong_vs_Zverev_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Jesper de Jong vs Alexander Zverev - Round 4 - 31 May 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780285502~acl=/*~id=02786666848574656699778267843930~hmac=0b915d9306e82d1139fb25ff38f317c3ae6f9cbaf644f00ac3da67b4a9cd45d8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018856/178012785200015_RG26_Andreeva_V_Teichmann_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Mirra Andreeva vs Jil Teichmann - Women's Singles - 31 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/RG_SL_Da3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780289146~acl=/*~id=06302642055193746769330758485614~hmac=2e440c08bbba1af691a00ea7add6b9a50ae505e244ab902ae71fbd5a479a9614
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018842/1780153854379172_VitalityBlast26_Mens_Warwickshire_vs_Northampton_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Warwickshire vs Northampton - 31 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000300/Vitality3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780285502~acl=/*~id=02786666848574656699778267843930~hmac=0b915d9306e82d1139fb25ff38f317c3ae6f9cbaf644f00ac3da67b4a9cd45d8
+https://sonydaimenew.akamaized.net/hls/live/20000300/Vitality3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780289146~acl=/*~id=06302642055193746769330758485614~hmac=2e440c08bbba1af691a00ea7add6b9a50ae505e244ab902ae71fbd5a479a9614
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
