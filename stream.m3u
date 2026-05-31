@@ -6453,29 +6453,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|Cookie=__hdn
 #EXTHTTP:{"Cookie":"hdnea=st=1780257635~exp=1780279235~acl=/*~hmac=ffd16ed36ce3456a258a601ba83d62435e59269ea9a331e07bbd9458d7490eaa","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1780257635~exp=1780279235~acl=/*~hmac=ffd16ed36ce3456a258a601ba83d62435e59269ea9a331e07bbd9458d7490eaa
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="143172" tvg-logo="https://images.fancode.com/aig/match/v1779951738055/143172_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Leganés vs Mirandés
-https://in-mc-fblive.fancode.com/mumbai/143172_english_hls_6966768ce795850_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142688" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Casper-Ruud-vs-Joao-Fonseca_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",J. Fonseca vs C. Ruud
-https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1780289943~acl=/*~id=09251996675634348058647462123808~hmac=b6eefaf8edb6b0684304adda42db2c7a2ebeb5aa4c9fa3948bbaaa472d6a415a
-#EXTINF:-1 tvg-id="142957" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Top seeds in action
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022317/ROLENG/master_mdh.m3u8?hdnea=exp=1780289943~acl=/*~id=09251996675634348058647462123808~hmac=b6eefaf8edb6b0684304adda42db2c7a2ebeb5aa4c9fa3948bbaaa472d6a415a
-#EXTINF:-1 tvg-id="142901" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - World Feed
-https://in-mc-fblive.fancode.com/mumbai/142901_english_hls_4b5e473c8392830_1ta-di_h264/index.m3u8
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018860/1780127854000572_RG26_Ruud_vs_Fonseca_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Casper Ruud vs Joao Fonseca - Round 4 - 31 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780308599~acl=/*~id=98735405094698654712372673067772~hmac=1d4fa1650b9ef32690bd1221e04bf499dd55774de80327da35a84798a5109141
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018860/1780127854000572_RG26_Ruud_vs_Fonseca_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Casper Ruud vs Joao Fonseca - Round 4 - 31 May 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780308599~acl=/*~id=98735405094698654712372673067772~hmac=1d4fa1650b9ef32690bd1221e04bf499dd55774de80327da35a84798a5109141
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018860/1780127854000572_RG26_Ruud_vs_Fonseca_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Casper Ruud vs Joao Fonseca - Round 4 - 31 May 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780308599~acl=/*~id=98735405094698654712372673067772~hmac=1d4fa1650b9ef32690bd1221e04bf499dd55774de80327da35a84798a5109141
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018860/1780127854000572_RG26_Ruud_vs_Fonseca_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Casper Ruud vs Joao Fonseca - Round 4 - 31 May 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780308599~acl=/*~id=98735405094698654712372673067772~hmac=1d4fa1650b9ef32690bd1221e04bf499dd55774de80327da35a84798a5109141
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018860/1780127854000572_RG26_Ruud_vs_Fonseca_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Casper Ruud vs Joao Fonseca - Round 4 - 31 May 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/RG_Multi3105/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780308599~acl=/*~id=98735405094698654712372673067772~hmac=1d4fa1650b9ef32690bd1221e04bf499dd55774de80327da35a84798a5109141
+
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
