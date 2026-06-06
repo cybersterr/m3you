@@ -6461,8 +6461,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="142990" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142990_6094_MM_NC_FC-WEB_1780318028403.jpg" group-title="🔸FanCode🔸| Live Events",Northern Challengers vs Mumbai Marines
-https://in-mc-fblive.fancode.com/mumbai/142990_english_hls_bc5e7c28a633215_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143150" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143150_6108_LRL_GG_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Liege Red Lions vs Ghent Gladiators
 https://in-mc-fblive.fancode.com/mumbai/143150_english_hls_1cb216381c56847_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143195" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Canada vs USA
@@ -6480,14 +6478,20 @@ https://in-mc-fblive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-d
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623306451941_INT_Friendlies26_Portugal_vs_Chile_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Portugal vs Chile - 6 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/UEFA_Por0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780811714~acl=/*~id=20934192994637643818299106210605~hmac=6948987e77f475025272ff94bdbd50825c7a0812a32c7e1df4cccc94958f6fb7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780607275257719_VITALITY_BLAST_2026_Durham_vs_Northampton_5jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Durham vs Northampton - 6 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780811714~acl=/*~id=20934192994637643818299106210605~hmac=6948987e77f475025272ff94bdbd50825c7a0812a32c7e1df4cccc94958f6fb7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019356/1780754570823558_CCPL26_Bastor-Bisons-vs-Raipur-Rhinos_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Bastar Bisons vs Raipur Rhinos - 6 Jun 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2005444/CCPL_Bas0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780807453~acl=/*~id=69744133109655559339290643823957~hmac=62f1f2a169b189007311ad53d83b4ddaa9fdb7a6fa57fe02dd851f72f1c9e493
+https://sonydaimenew.akamaized.net/hls/live/2005444/CCPL_Bas0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780811714~acl=/*~id=20934192994637643818299106210605~hmac=6948987e77f475025272ff94bdbd50825c7a0812a32c7e1df4cccc94958f6fb7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623396404940_INT_Friendlies26_Romania_vs_Wales_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Romania vs Wales - 6 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000295/UEFA_Rom0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780811714~acl=/*~id=20934192994637643818299106210605~hmac=6948987e77f475025272ff94bdbd50825c7a0812a32c7e1df4cccc94958f6fb7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694634028309_SVNS_World_Championship26_Session4_mens_and_womens_Match_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Session 4 - Men's & Women's  Match - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780807453~acl=/*~id=69744133109655559339290643823957~hmac=62f1f2a169b189007311ad53d83b4ddaa9fdb7a6fa57fe02dd851f72f1c9e493
+https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780811714~acl=/*~id=20934192994637643818299106210605~hmac=6948987e77f475025272ff94bdbd50825c7a0812a32c7e1df4cccc94958f6fb7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623504833940_INT_Friendlies26_Albania_vs_Luxembourg_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Albania vs Luxembourg - 6 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000293/UEFA_Alb0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780811714~acl=/*~id=20934192994637643818299106210605~hmac=6948987e77f475025272ff94bdbd50825c7a0812a32c7e1df4cccc94958f6fb7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623035225941_INT_Friendlies26_Gibraltar_vs_Cayman_Islands_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Gibraltar vs Cayman Islands - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000298/UEFA_Gib0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780807453~acl=/*~id=69744133109655559339290643823957~hmac=62f1f2a169b189007311ad53d83b4ddaa9fdb7a6fa57fe02dd851f72f1c9e493
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281429197461_INT_Friendlies26_Estonia_vs_Faroe_Islands_1jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Estonia vs Faroe Islands - 6 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000383/UEFA_Est0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780807453~acl=/*~id=69744133109655559339290643823957~hmac=62f1f2a169b189007311ad53d83b4ddaa9fdb7a6fa57fe02dd851f72f1c9e493
+https://sonydaimenew.akamaized.net/hls/live/20000298/UEFA_Gib0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780811714~acl=/*~id=20934192994637643818299106210605~hmac=6948987e77f475025272ff94bdbd50825c7a0812a32c7e1df4cccc94958f6fb7
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
