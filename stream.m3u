@@ -6461,18 +6461,17 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="142985" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142985_6094_SS_NC_FC-WEB_1780318028391.jpg" group-title="🔸FanCode🔸| Live Events",Southern Spartans vs Northern Challengers
-https://in-mc-fblive.fancode.com/mumbai/142985_english_hls_bd784e8c0c71508_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143196" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143196_6110_NED_USA_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Netherlands vs USA
 https://in-mc-fblive.fancode.com/mumbai/143196_english_hls_6c4772caf187367_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143070" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143070_6102_MWS_IPP_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Malwa Stallions vs Indore Pink Panthers
-https://in-mc-fblive.fancode.com/mumbai/143070_english_hls_0d0c5948dc9779_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143125" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="🔸FanCode🔸| Live Events",Day 1
-https://in-mc-fblive.fancode.com/mumbai/143125_english_hls_a06973084925766_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142974" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",West Indies vs Sri Lanka
+https://in-mc-fblive.fancode.com/mumbai/142974_english_hls_6589216d3e57360_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624118765941_INT_Friendlies26_France_vs_Northern_Ireland_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",France vs Northern Ireland - 9 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000293/IF_Franc0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780990182~acl=/*~id=66540872234480565820255817034198~hmac=ff4ae2875158a9bfd9f4031ce56b1a5ff87f3e0e0a2cf98df8cfa9a69f256d0f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627525081941_INT_Friendlies26_Netherlands_vs_Uzbekistan_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Netherlands vs Uzbekistan - 9 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/IF_NedVs0806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780990182~acl=/*~id=66540872234480565820255817034198~hmac=ff4ae2875158a9bfd9f4031ce56b1a5ff87f3e0e0a2cf98df8cfa9a69f256d0f
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
