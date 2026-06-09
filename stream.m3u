@@ -6389,31 +6389,17 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="142994" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142994_6094_UPBS_SS_FC-WEB_1780318028429.jpg" group-title="🔸FanCode🔸| Live Events",Southern Spartans vs UP Brij Stars
-https://in-mc-fblive.fancode.com/mumbai/142994_english_hls_f304aa51ef86975_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143156" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143156_6108_JB_AA_FC-Web.png" group-title="🔸FanCode🔸| Live Events",JB Bruges vs Antwerp Anchors
-https://in-mc-fblive.fancode.com/mumbai/143156_english_hls_7f582ebd9f475_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143126" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="🔸FanCode🔸| Live Events",Day 2
-https://in-mc-fblive.fancode.com/mumbai/143126_english_hls_b61605301b66122_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143119" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 2
 https://in-mc-fblive.fancode.com/mumbai/143119_english_hls_1329becddb63658_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143350" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="🔸FanCode🔸| Live Events",Day 2 - Court 1
-https://in-mc-fblive.fancode.com/mumbai/143350_english_hls_bc79d6d40f49864_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086321650285_CCPL26_Raipur_Rhinos_vs_Raigarh_Lions_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Raipur Rhinos vs Raigarh Lions - 9 Jun 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780608006324719_VITALITY_BLAST_2026_Essex_vs_Kent_5jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Essex vs Kent - 9 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000297/criclive0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781074677~acl=/*~id=31816480445574986549239802967761~hmac=fab54e444d0cc3c0efedd07f9875cd056adfb1ed0c689123ac8a760597c35520
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624461373941_INT_Friendlies26_Hungary_vs_Kazakhstan_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Hungary vs Kazakhstan  - 9 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/IF_Hunga0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624346659941_INT_Friendlies26_Armenia_vs_Moldova_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Armenia vs Moldova  - 9 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/IF_Armen0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627874146941_INT_Friendlies26_Belarus_vs_Burkina_Faso_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Belarus vs Burkina Faso  - 9 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/IF_Belar0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c
-
-# ---------------=== 🌐 WORLD | Extra ===-------------------
-
-
+https://sonydaimenew.akamaized.net/hls/live/20000292/IF_Hunga0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781074677~acl=/*~id=31816480445574986549239802967761~hmac=fab54e444d0cc3c0efedd07f9875cd056adfb1ed0c689123ac8a760597c35520
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625329802941_INT_Friendlies26_Azerbaijan_vs_San_Marino_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Azerbaijan vs San Marino - 9 Jun 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000293/IF_Azerb0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781074677~acl=/*~id=31816480445574986549239802967761~hmac=fab54e444d0cc3c0efedd07f9875cd056adfb1ed0c689123ac8a760597c35520
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
