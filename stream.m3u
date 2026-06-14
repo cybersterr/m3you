@@ -6393,17 +6393,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|Cookie=__hdn
 #EXTHTTP:{"Cookie":"hdnea=st=1781467256~exp=1781488856~acl=/*~hmac=1778bea16ac38d5d7c969975582bac505a711c03b6121a119a3561fa96d9a3a1","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1781467256~exp=1781488856~acl=/*~hmac=1778bea16ac38d5d7c969975582bac505a711c03b6121a119a3561fa96d9a3a1
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="143391" tvg-logo="https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Málaga vs Almería
-https://in-mc-fblive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143217" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="🔸FanCode🔸| Live Events",Day 4 - Main Feed
-https://in-mc-fblive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143218" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="🔸FanCode🔸| Live Events",Day 4 - Marquee Group
-https://in-mc-fblive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143216" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="🔸FanCode🔸| Live Events",Day 4 - World Feed
-https://in-mc-fblive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/index.m3u8
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 
