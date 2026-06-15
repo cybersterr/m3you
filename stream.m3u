@@ -3022,8 +3022,8 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.
 #EXTINF:-1 tvg-id="1109" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
-#EXTHTTP:{"Cookie":"hdnea=st=1781458823~exp=1781480423~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=aee252e5d3d2ed02b63f4d950aa5c6ac6c1e3e80963cdc1855f2de7f8675b2a2","User-Agent":""}
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1781458823~exp=1781480423~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=aee252e5d3d2ed02b63f4d950aa5c6ac6c1e3e80963cdc1855f2de7f8675b2a2
+#EXTHTTP:{"Cookie":"hdnea=st=1781480706~exp=1781502306~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=ce2632bdbb3da30381d332dd7191f253dbc10119e797b8374f0278074862b9f1","User-Agent":""}
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1781480706~exp=1781502306~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=ce2632bdbb3da30381d332dd7191f253dbc10119e797b8374f0278074862b9f1
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Star Movies Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
@@ -3126,8 +3126,8 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd|Cook
 #EXTINF:-1 tvg-id="1142" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1749665579801_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
-#EXTHTTP:{"Cookie":"hdnea=st=1781459290~exp=1781480890~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=1a09cacfa62499dfe293f69caa9af854c534af202f9e9477372b3f5a9d2f4ea1","User-Agent":""}
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1781459290~exp=1781480890~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=1a09cacfa62499dfe293f69caa9af854c534af202f9e9477372b3f5a9d2f4ea1
+#EXTHTTP:{"Cookie":"hdnea=st=1781481012~exp=1781502612~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=6b731e787a06098a4160e8f24a0493bf4641f363311f1077cfcd5745c4479b7b","User-Agent":""}
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1781481012~exp=1781502612~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=6b731e787a06098a4160e8f24a0493bf4641f363311f1077cfcd5745c4479b7b
 #EXTINF:-1 tvg-id="1143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",Star Utsav
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7fbcce6b77855b8e9eaeebfc0a2ebc4f:1efb331b48f2993c74ec852475e7637f
@@ -6393,18 +6393,27 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|Cookie=__hdn
 #EXTHTTP:{"Cookie":"hdnea=st=1781474453~exp=1781496053~acl=/*~hmac=656bead5a00c0cec27b0c1a8adcd4f9e14dfbe118aa838a9a54cb9115ef1c37c","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1781474453~exp=1781496053~acl=/*~hmac=656bead5a00c0cec27b0c1a8adcd4f9e14dfbe118aa838a9a54cb9115ef1c37c
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="142977" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Sri Lanka vs West Indies
+https://in-mc-fblive.fancode.com/mumbai/142977_english_hls_6f073467f892321_1ta-di_h264/index.m3u8
+
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019536/1781175347180423_UFC_Freedom_250_Topuria_vs_Gaethje_landscape_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",UFC Freedom 250 - Topuria vs Gaethje - 15 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/UFC_Free1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781523821~acl=/*~id=71416580347752740395784931160989~hmac=0fcf75ab1aa150b384c55ba68363291be0bf75d42923f9309a5435e4f3dc2580
+https://sonydaimenew.akamaized.net/hls/live/20000292/UFC_Free1406/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781532370~acl=/*~id=07600026283346400171161328014683~hmac=4df0bf1580da4de1f272dc1bdb8b9a697db2dcdc92b21c736e7ff74cc4242f83
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019536/1781175347180423_UFC_Freedom_250_Topuria_vs_Gaethje_landscape_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",UFC Freedom 250 - Topuria vs Gaethje - 15 Jun 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000292/UFC_Free1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781523821~acl=/*~id=71416580347752740395784931160989~hmac=0fcf75ab1aa150b384c55ba68363291be0bf75d42923f9309a5435e4f3dc2580
+https://sonydaimenew.akamaized.net/hls/live/20000292/UFC_Free1406/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781532370~acl=/*~id=07600026283346400171161328014683~hmac=4df0bf1580da4de1f272dc1bdb8b9a697db2dcdc92b21c736e7ff74cc4242f83
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019536/1781175347180423_UFC_Freedom_250_Topuria_vs_Gaethje_landscape_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",UFC Freedom 250 - Topuria vs Gaethje - 15 Jun 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000292/UFC_Free1406/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781523821~acl=/*~id=71416580347752740395784931160989~hmac=0fcf75ab1aa150b384c55ba68363291be0bf75d42923f9309a5435e4f3dc2580
+https://sonydaimenew.akamaized.net/hls/live/20000292/UFC_Free1406/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781532370~acl=/*~id=07600026283346400171161328014683~hmac=4df0bf1580da4de1f272dc1bdb8b9a697db2dcdc92b21c736e7ff74cc4242f83
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019536/1781175347180423_UFC_Freedom_250_Topuria_vs_Gaethje_landscape_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",UFC Freedom 250 - Topuria vs Gaethje - 15 Jun 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000292/UFC_Free1406/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781523821~acl=/*~id=71416580347752740395784931160989~hmac=0fcf75ab1aa150b384c55ba68363291be0bf75d42923f9309a5435e4f3dc2580
+https://sonydaimenew.akamaized.net/hls/live/20000292/UFC_Free1406/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781532370~acl=/*~id=07600026283346400171161328014683~hmac=4df0bf1580da4de1f272dc1bdb8b9a697db2dcdc92b21c736e7ff74cc4242f83
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019536/1781175347180423_UFC_Freedom_250_Topuria_vs_Gaethje_landscape_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",UFC Freedom 250 - Topuria vs Gaethje - 15 Jun 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000292/UFC_Free1406/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781523821~acl=/*~id=71416580347752740395784931160989~hmac=0fcf75ab1aa150b384c55ba68363291be0bf75d42923f9309a5435e4f3dc2580
+https://sonydaimenew.akamaized.net/hls/live/20000292/UFC_Free1406/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781532370~acl=/*~id=07600026283346400171161328014683~hmac=4df0bf1580da4de1f272dc1bdb8b9a697db2dcdc92b21c736e7ff74cc4242f83
+
+# ---------------=== 🌐 WORLD | Extra ===-------------------
+
+
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
