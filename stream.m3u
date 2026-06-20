@@ -6478,12 +6478,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="143192" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png" group-title="🔸FanCode🔸| Live Events",Stockholm City vs Vasteras United
-https://in-mc-fblive.fancode.com/mumbai/143192_english_hls_0a5226cb9032584_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143416" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Shivamogga Yodhas vs Mysore Warriors
 https://in-mc-fblive.fancode.com/mumbai/143416_english_hls_7f3da9432298046_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143250" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - World Feed
-https://in-mc-fblive.fancode.com/mumbai/143250_english_hls_b5bbb3ea9c56042_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143263" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="🔸FanCode🔸| Live Events",Day 4 - World Feed
 https://in-mc-fblive.fancode.com/mumbai/143263_english_hls_433a91742541852_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143542" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - Doubles Semifinal 2
@@ -6492,11 +6488,13 @@ https://in-mc-fblive.fancode.com/mumbai/143542_english_hls_b9af3784f850775_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143541" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="🔸FanCode🔸| Live Events",Day 4 - Doubles Semifinal 2
 https://in-mc-fblive.fancode.com/mumbai/143541_english_hls_8d22f2a05d66851_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143192" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png" group-title="🔸FanCode🔸| Live Events",Stockholm City vs Vasteras United
+https://in-mc-fblive.fancode.com/mumbai/143192_english_hls_0a5226cb9032584_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019769/1781933880852681_ENGvsNZ_2nd_test_day4_watch_free_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 4 - 20 Jun 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/England_2006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782014186~acl=/*~id=23354106030237555848262881206320~hmac=15ad033d5f8c266e42da6e425f79e576d7d304268e372ccc9639cad8637a49ee
+https://sonydaimenew.akamaized.net/hls/live/20000296/England_2006/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782020255~acl=/*~id=39430357619875804896854835135175~hmac=e9ca3a545fd50401879f2d8e96840bf4dc4560e7c44fa2d1c2587edb59af9262
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
