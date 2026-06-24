@@ -335,7 +335,7 @@ https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=17
 # ---------------=== 🎬 OTT | ZEE5 ===-------------------
 
 #EXTM3U
-#Generated on 1782268108
+#Generated on 1782310118
 
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="🎬 OTT | ZEE5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -6397,20 +6397,16 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 #EXTINF:-1 tvg-id="143287" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143287_6120_PAN_BAH_fc-web_1782137828231.jpg" group-title="🔸FanCode🔸| Live Events",Panama vs Bahamas
 https://in-mc-fblive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143551" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Bahadurgarh Royals vs ACA Gurugram Vipers
-https://in-mc-fblive.fancode.com/mumbai/143551_english_hls_74e30ebb5f89225_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143424" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143424_6134_HT_SY_FC-WEB_1782272593122.jpg" group-title="🔸FanCode🔸| Live Events",Shivamogga Yodhas vs Hubli Tigers
 https://in-mc-fblive.fancode.com/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143552" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Flying Fire Delhi Chargers vs Karim Capital Chargers
+https://in-mc-fblive.fancode.com/mumbai/143552_english_hls_d56e97fbf474930_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143279" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Day 3
 https://in-mc-fblive.fancode.com/mumbai/143279_english_hls_40545e7b7360888_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143273" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 4
 https://in-mc-fblive.fancode.com/mumbai/143273_english_hls_280ef435f641717_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
-
-
-
-# ---------------=== 🌐 WORLD | Extra ===-------------------
 
 
 # =========================================
