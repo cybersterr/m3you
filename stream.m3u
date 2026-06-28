@@ -1522,8 +1522,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Food_Food_MOB/WDVLive/index.mpd|User-Agen
 #EXTINF:-1 tvg-id="562" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="⭕️ JIOTV+ | LIFESTYLE",Travelxp HD Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb
-#EXTHTTP:{"Cookie":"hdnea=st=1782660055~exp=1782681655~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=7ce5a0d20837a6ebe353b8ef18e00135e580433cdd7c330d10ebc11467ba02d9","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1782660055~exp=1782681655~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=7ce5a0d20837a6ebe353b8ef18e00135e580433cdd7c330d10ebc11467ba02d9
+#EXTHTTP:{"Cookie":"hdnea=st=1782681912~exp=1782703512~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=3061dd3c2e8a26a4f31b7c1313441b278bae20c2f906e8f5cbf05538dbfcfced","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1782681912~exp=1782703512~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=3061dd3c2e8a26a4f31b7c1313441b278bae20c2f906e8f5cbf05538dbfcfced
 #EXTINF:-1 tvg-id="563" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="⭕️ JIOTV+ | MALAYALAM",Kaumudy TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11b2468a2aaf5b6cab8aed101783e444:cb302b5c4c15bfc3b4571859865a813b
@@ -6472,16 +6472,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="143577" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 4
-https://in-mc-fblive.fancode.com/mumbai/143577_english_hls_b092d1020664926_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143300" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="🔸FanCode🔸| Live Events",World Feed - Day 4
 https://in-mc-fblive.fancode.com/mumbai/143300_english_hls_bf7747d2d593854_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
-
-
-
-# ---------------=== 🌐 WORLD | Extra ===-------------------
 
 
 # =========================================
