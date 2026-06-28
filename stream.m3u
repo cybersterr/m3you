@@ -335,7 +335,7 @@ https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=17
 # ---------------=== 🎬 OTT | ZEE5 ===-------------------
 
 #EXTM3U
-#Generated on 1782565946
+#Generated on 1782614284
 
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="🎬 OTT | ZEE5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -6395,11 +6395,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|User-Agent=D
 #EXTHTTP:{"Cookie":"hdnea=st=1782590453~exp=1782612053~acl=/*~hmac=fc0f1fa3d36c612c1a14b837a0b672c591fc59a6a9059730e3b5929d162181ca","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|User-Agent=Droovy&Cookie=__hdnea__=st=1782590453~exp=1782612053~acl=/*~hmac=fc0f1fa3d36c612c1a14b837a0b672c591fc59a6a9059730e3b5929d162181ca
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="143639" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2 -  Fuji
+https://in-mc-fblive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/index.m3u8
+
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
-
-
-
-# ---------------=== 🌐 WORLD | Extra ===-------------------
 
 
 # =========================================
