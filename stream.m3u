@@ -6472,18 +6472,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="142979" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Sri Lanka vs West Indies
-https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143667" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 2 - Main Feed
-https://in-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143666" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 2 - World Feed
-https://in-mc-fblive.fancode.com/mumbai/143666_english_hls_25c91452b317294_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143673" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2 - PM
 https://in-mc-fblive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020217/1782814322611920_ABB_FIA_FormulaE_WC26_RD12_Shanghai_EPrix_Qualifying_Race_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",R12 - Shanghai E-Prix  - Qualifying Race - 04 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/FormulaE0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783164127~acl=/*~id=73683257604021926893968544580625~hmac=93145d49287a2991369ad988e85d62263d050b4f66f9ff33457f29ea0ffe3378
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
