@@ -6472,17 +6472,25 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
+#EXTINF:-1 tvg-id="142979" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Sri Lanka vs West Indies
+https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143438" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143438_6134_HT_KBB_FC-WEB_1782272593678.jpg" group-title="🔸FanCode🔸| Live Events",Hubli Tigers vs Kalyani Bengaluru Blasters
+https://in-mc-fblive.fancode.com/mumbai/143438_english_hls_2f72e75e0078957_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143667" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 2 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139722" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg" group-title="🔸FanCode🔸| Live Events",Qualifying Session
-https://in-mc-fblive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143409" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png" group-title="🔸FanCode🔸| Live Events",Day 2
+https://in-mc-fblive.fancode.com/mumbai/143409_english_hls_382c4d145c98322_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="139463" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Sprint Qualifying
+https://in-mc-fblive.fancode.com/mumbai/139463_english_hls_442347a3fa69557_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143579" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2 - AM
+https://in-mc-fblive.fancode.com/mumbai/143579_english_hls_de4fe019d813090_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020254/1782914652425720_VitalityBlast26_Womens_The_Blaze_vs_Surrey_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",The Blaze vs Surrey Women - 3 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/VB_TheBl0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783127103~acl=/*~id=67359293187287067677560175103840~hmac=fb0150e5b18f07b81b7f778c94e03c5f487e9bebc9346afff1e27ce763a9e76a
+https://sonydaimenew.akamaized.net/hls/live/20000301/VB_TheBl0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783135613~acl=/*~id=67699191672001879545359664596523~hmac=248eb79c0cd555543894b11e1b7f3e3474817ed6bd9d4ad1f51d08e89f80aa6b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782289920055701_DP_World_Tour_BMW_International_Open_day2_24jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",BMW International Open - Day 2 - 3 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/DP_World0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783127103~acl=/*~id=67359293187287067677560175103840~hmac=fb0150e5b18f07b81b7f778c94e03c5f487e9bebc9346afff1e27ce763a9e76a
+https://sonydaimenew.akamaized.net/hls/live/20000292/DP_World0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783135613~acl=/*~id=67699191672001879545359664596523~hmac=248eb79c0cd555543894b11e1b7f3e3474817ed6bd9d4ad1f51d08e89f80aa6b
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
