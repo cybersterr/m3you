@@ -6478,14 +6478,15 @@ https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d392190_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/143438_english_hls_2f72e75e0078957_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143667" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 2 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143409" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png" group-title="🔸FanCode🔸| Live Events",Day 2
-https://in-mc-fblive.fancode.com/mumbai/143409_english_hls_382c4d145c98322_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143579" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2 - AM
 https://in-mc-fblive.fancode.com/mumbai/143579_english_hls_de4fe019d813090_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139689" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg" group-title="🔸FanCode🔸| Live Events",Qualifying Session
-https://in-mc-fblive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020113/1782568458930277_VB26_mens_Nottinghamshire_vs_Lancashire_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Nottinghamshire vs Lancashire - 3 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000296/criclive0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783145330~acl=/*~id=05364113529826044146122811052264~hmac=b3253c853543c86c45892b525e0dc09de82051438c94d806ee9e091faf02a007
+
+# ---------------=== 🌐 WORLD | Extra ===-------------------
 
 
 # =========================================
