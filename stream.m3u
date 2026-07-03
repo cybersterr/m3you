@@ -6480,19 +6480,12 @@ https://in-mc-fblive.fancode.com/mumbai/143438_english_hls_2f72e75e0078957_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143409" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png" group-title="🔸FanCode🔸| Live Events",Day 2
 https://in-mc-fblive.fancode.com/mumbai/143409_english_hls_382c4d145c98322_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139463" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Sprint Qualifying
-https://in-mc-fblive.fancode.com/mumbai/139463_english_hls_442347a3fa69557_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143579" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2 - AM
 https://in-mc-fblive.fancode.com/mumbai/143579_english_hls_de4fe019d813090_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="139689" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg" group-title="🔸FanCode🔸| Live Events",Qualifying Session
+https://in-mc-fblive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020254/1782914652425720_VitalityBlast26_Womens_The_Blaze_vs_Surrey_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",The Blaze vs Surrey Women - 3 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/VB_TheBl0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783135613~acl=/*~id=67699191672001879545359664596523~hmac=248eb79c0cd555543894b11e1b7f3e3474817ed6bd9d4ad1f51d08e89f80aa6b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782289920055701_DP_World_Tour_BMW_International_Open_day2_24jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",BMW International Open - Day 2 - 3 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/DP_World0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783135613~acl=/*~id=67699191672001879545359664596523~hmac=248eb79c0cd555543894b11e1b7f3e3474817ed6bd9d4ad1f51d08e89f80aa6b
-
-# ---------------=== 🌐 WORLD | Extra ===-------------------
 
 
 # =========================================
