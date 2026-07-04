@@ -6476,14 +6476,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 https://in-mc-fblive.fancode.com/mumbai/143538_english_hls_4aa183e4be91805_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143629" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Namibia vs Vidarbha
 https://in-mc-fblive.fancode.com/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139723" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg" group-title="🔸FanCode🔸| Live Events",Sprint Race
-https://in-mc-fblive.fancode.com/mumbai/139723_english_hls_03f3ad310468079_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143588" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143588_6148_AM_MAK_fc-web_1782725011430.jpg" group-title="🔸FanCode🔸| Live Events",Mis-e-Ainak Knights vs Amo Sharks
 https://in-mc-fblive.fancode.com/mumbai/143588_english_hls_f77d103b6628288_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="139464" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web_1782801083974.jpg" group-title="🔸FanCode🔸| Live Events",Sprint
+https://in-mc-fblive.fancode.com/mumbai/139464_english_hls_9926c4ec5990941_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143669" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 3 - Main Feed
+https://in-mc-fblive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143674" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg" group-title="🔸FanCode🔸| Live Events",F1 Kids 2026
+https://in-mc-fblive.fancode.com/mumbai/143674_english_hls_d23c685e1e26142_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782289927122701_DP_World_Tour_BMW_International_Open_day3_24jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",BMW International Open - Day 3 - 04 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000293/BMWopen_0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783207182~acl=/*~id=21258458215702053798959844968785~hmac=1f2875bde9c6b686165a393e37b050fb1e713b3778e9785f98fdeb9a103f8a88
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
