@@ -6478,10 +6478,15 @@ https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d328674_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143580" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143580_6147_PGA_LOC_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3
 https://in-mc-fblive.fancode.com/mumbai/143580_english_hls_5d8b0b63e717024_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143410" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png" group-title="🔸FanCode🔸| Live Events",Day 3
-https://in-mc-fblive.fancode.com/mumbai/143410_english_hls_1d04ae6f6288662_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="139691" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg" group-title="🔸FanCode🔸| Live Events",Reverse Grid Race
+https://in-mc-fblive.fancode.com/mumbai/139691_english_hls_b2f79739f527535_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020113/1782573308813277_VB26_mens_Gloucestershire_vs_Surrey_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Gloucestershire vs Surrey - 4 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000295/Cricket_0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783229626~acl=/*~id=82612385316048988943805147872253~hmac=d4d92d4ad37f9141f5475b6e0d406e04ad1fd6da35948074cb08205851a6dea4
+
+# ---------------=== 🌐 WORLD | Extra ===-------------------
 
 
 # =========================================
