@@ -6472,15 +6472,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="143537" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg" group-title="🔸FanCode🔸| Live Events",TBC vs TBC
-https://in-mc-fblive.fancode.com/mumbai/143537_english_hls_3ee783f9f97534_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143538" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg" group-title="🔸FanCode🔸| Live Events",TBC vs TBC
+https://in-mc-fblive.fancode.com/mumbai/143538_english_hls_4aa183e4be91805_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143629" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Namibia vs Vidarbha
+https://in-mc-fblive.fancode.com/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143587" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg" group-title="🔸FanCode🔸| Live Events",Speen Ghar Tigers vs Bost Defenders
 https://in-mc-fblive.fancode.com/mumbai/143587_english_hls_ec13c73b3631566_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143622" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png" group-title="🔸FanCode🔸| Live Events",DTM Qualifying 1 - Norisring
+https://in-mc-fblive.fancode.com/mumbai/143622_english_hls_001f103fec16849_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020217/1782814334474920_ABB_FIA_FormulaE_WC26_RD12_Shanghai_EPrix_final_Race_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Round 12 - Shanghai E-Prix  - Final Race - 04 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000299/FormulaE0407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783183548~acl=/*~id=24410788717468152700023344135311~hmac=8d4c9a60106b3d80fab59070e2f622bfb65931f5866158e4190aa649a4d91be1
+
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
