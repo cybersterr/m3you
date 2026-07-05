@@ -6476,11 +6476,15 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 https://in-mc-fblive.fancode.com/mumbai/143439_english_hls_a8f1bdb2d133941_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143590" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg" group-title="🔸FanCode🔸| Live Events",Speen Ghar Tigers vs Amo Sharks
 https://in-mc-fblive.fancode.com/mumbai/143590_english_hls_2f2ece70f85189_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143625" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png" group-title="🔸FanCode🔸| Live Events",DTM Race 2 - Norisring
+https://in-mc-fblive.fancode.com/mumbai/143625_english_hls_3ff7be17b74727_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143671" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 4 - Main Feed
+https://in-mc-fblive.fancode.com/mumbai/143671_english_hls_dbce60092317548_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782289934988701_DP_World_Tour_BMW_International_Open_day4_24jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",BMW International Open - Day 4 - 5 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783288436~acl=/*~id=09770662974176730870976726412242~hmac=3ae49fac9fa882961b07127e0047313acb2aa4991347f9528d7b2dc48dae3a17
+https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783294515~acl=/*~id=72255316117402274375196991646559~hmac=aa35b83baab016e54797541d95666b4794453ac13dfceb27c90cc7f3957d3008
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
