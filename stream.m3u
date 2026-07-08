@@ -6470,20 +6470,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|User-Agent=D
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|User-Agent=Droovy
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="4246560" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="🔸FanCode🔸| Live Events",Norway vs Hungary
-https://in-mc-fblive.fancode.com/mumbai/4246560_english_hls_bd477ef13b64791_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143444" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143444_6134_CKM_GMY_FC-WEB_1782272593098.jpg" group-title="🔸FanCode🔸| Live Events",Coastal Kings Mangaluru vs Gulbarga Mystics
-https://in-mc-fblive.fancode.com/mumbai/143444_english_hls_7a926fed8277948_1ta-di_h264/index.m3u8
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
-
-# ---------------=== 🌐 WORLD | Extra ===-------------------
-
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020392/1783439510941166_VB26_mens_surrey_vs_sussex_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Surrey vs Sussex - 8 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/VB_Mens_0807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783577531~acl=/*~id=50645949900782510555832664447807~hmac=5cb4445d27d4f9ba65b92f94058edf47f55145782e8fcac290e5d80a5d21a9de
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
