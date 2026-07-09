@@ -6470,17 +6470,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|User-Agent=D
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|User-Agent=Droovy
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="4246566" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="🔸FanCode🔸| Live Events",Estonia vs Norway
-https://in-mc-fblive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143401" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png" group-title="🔸FanCode🔸| Live Events",Zimbabwe vs Bangladesh
-https://in-mc-fblive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/index.m3u8
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290184826701_DP_World_Tour_GENESIS_SCOTTISH_Open_day1_24jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Genesis Scottish Open - Day 1 - 9 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783658124~acl=/*~id=18804892909188814082475198050822~hmac=697172be1755aaf69fb88ae6884938d2c8904b1f351c4f826f878f029ea8c917
+
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -6578,7 +6570,7 @@ https://mactom3u.vodep39240327.workers.dev/5670.m3u8?host=tv.saartv.cc&path=%2Fs
 https://mactom3u.vodep39240327.workers.dev/5671.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="WEATHER CHANNEL USA 4K" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5672.png" group-title="ENGLISH | NEWS",WEATHER CHANNEL USA 4K
 https://mactom3u.vodep39240327.workers.dev/5672.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="spectrumnews.us" tvg-name="SPECTRUM NEWS NY1" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/70035.png" group-title="ENGLISH | NEWS",SPECTRUM NEWS NY1
+#EXTINF:-1 tvg-id="default" tvg-name="SPECTRUM NEWS NY1" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/70035.png" group-title="ENGLISH | NEWS",SPECTRUM NEWS NY1
 https://mactom3u.vodep39240327.workers.dev/473373.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="france24.fr" tvg-name="FRANCE 24 HD." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/70686.jpg" group-title="ENGLISH | NEWS",FRANCE 24 HD.
 https://mactom3u.vodep39240327.workers.dev/474007.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -6618,9 +6610,9 @@ https://mactom3u.vodep39240327.workers.dev/474490.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/474503.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_1012" tvg-name="4K APPLE TV TRENDING 2025" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71178.png" group-title="ENGLISH | 24X7 OTT SERIES",4K APPLE TV TRENDING 2025
 https://mactom3u.vodep39240327.workers.dev/474502.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="" tvg-name="4K APPLE TV MOST WATCHED SERIES" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71176.png" group-title="ENGLISH | 24X7 OTT SERIES",4K APPLE TV MOST WATCHED SERIES
+#EXTINF:-1 tvg-id="channel_1013" tvg-name="4K APPLE TV MOST WATCHED SERIES" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71176.png" group-title="ENGLISH | 24X7 OTT SERIES",4K APPLE TV MOST WATCHED SERIES
 https://mactom3u.vodep39240327.workers.dev/474500.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="" tvg-name="4K APPLE TV ALL TIME FAVOURITE SERIES" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71177.png" group-title="ENGLISH | 24X7 OTT SERIES",4K APPLE TV ALL TIME FAVOURITE SERIES
+#EXTINF:-1 tvg-id="channel_1077" tvg-name="4K APPLE TV ALL TIME FAVOURITE SERIES" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71177.png" group-title="ENGLISH | 24X7 OTT SERIES",4K APPLE TV ALL TIME FAVOURITE SERIES
 https://mactom3u.vodep39240327.workers.dev/474501.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="" tvg-name="4K DISNEY TRENDING 2026" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71120.png" group-title="ENGLISH | 24X7 OTT SERIES",4K DISNEY TRENDING 2026
 https://mactom3u.vodep39240327.workers.dev/474444.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -6670,13 +6662,13 @@ https://mactom3u.vodep39240327.workers.dev/474532.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/474534.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="" tvg-name="4K PEACOCK ALL TIME FAVOURITE SERIES" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71209.png" group-title="ENGLISH | 24X7 OTT SERIES",4K PEACOCK ALL TIME FAVOURITE SERIES
 https://mactom3u.vodep39240327.workers.dev/474533.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="" tvg-name="4K AMC+ TRENDING 2026" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71218.jpeg" group-title="ENGLISH | 24X7 OTT SERIES",4K AMC+ TRENDING 2026
+#EXTINF:-1 tvg-id="channel_1078" tvg-name="4K AMC+ TRENDING 2026" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71218.jpeg" group-title="ENGLISH | 24X7 OTT SERIES",4K AMC+ TRENDING 2026
 https://mactom3u.vodep39240327.workers.dev/474542.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="" tvg-name="4K AMC+ TRENDING 2025" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71219.jpeg" group-title="ENGLISH | 24X7 OTT SERIES",4K AMC+ TRENDING 2025
+#EXTINF:-1 tvg-id="channel_1079" tvg-name="4K AMC+ TRENDING 2025" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71219.jpeg" group-title="ENGLISH | 24X7 OTT SERIES",4K AMC+ TRENDING 2025
 https://mactom3u.vodep39240327.workers.dev/474543.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="" tvg-name="4K AMC+ MOST WATCHED SERIES" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71221.jpeg" group-title="ENGLISH | 24X7 OTT SERIES",4K AMC+ MOST WATCHED SERIES
+#EXTINF:-1 tvg-id="channel_1080" tvg-name="4K AMC+ MOST WATCHED SERIES" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71221.jpeg" group-title="ENGLISH | 24X7 OTT SERIES",4K AMC+ MOST WATCHED SERIES
 https://mactom3u.vodep39240327.workers.dev/474545.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="" tvg-name="4K AMC+ ALL TIME FAVOURITE SERIES" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71220.jpeg" group-title="ENGLISH | 24X7 OTT SERIES",4K AMC+ ALL TIME FAVOURITE SERIES
+#EXTINF:-1 tvg-id="channel_1082" tvg-name="4K AMC+ ALL TIME FAVOURITE SERIES" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71220.jpeg" group-title="ENGLISH | 24X7 OTT SERIES",4K AMC+ ALL TIME FAVOURITE SERIES
 https://mactom3u.vodep39240327.workers.dev/474544.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="" tvg-name="4K NAT GEO TRENDING 2026" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71229.png" group-title="ENGLISH | 24X7 OTT SERIES",4K NAT GEO TRENDING 2026
 https://mactom3u.vodep39240327.workers.dev/474553.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -9025,7 +9017,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
