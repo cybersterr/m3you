@@ -6470,23 +6470,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|User-Agent=D
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|User-Agent=Droovy
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="143143" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png" group-title="🔸FanCode🔸| Live Events",Ireland Women vs West Indies Women
-https://in-mc-fblive.fancode.com/mumbai/143143_english_hls_19c0236ea87043_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4246563" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="🔸FanCode🔸| Live Events",Belgium vs Serbia
-https://in-mc-fblive.fancode.com/mumbai/4246563_english_hls_b2b272f11b64555_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4246571" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="🔸FanCode🔸| Live Events",Turkiye vs Norway
-https://in-mc-fblive.fancode.com/mumbai/4246571_english_hls_5048d7c46058811_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143446" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143423_6134_CKM_KBB_FC-WEB_1782272592980.jpg" group-title="🔸FanCode🔸| Live Events",Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru
-https://in-mc-fblive.fancode.com/mumbai/143446_english_hls_b3244a52ba58490_1ta-di_h264/index.m3u8
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630181321637_Eng_W_vs_Ind_W_2026_one_off_test_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - One-Off Test - 10 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783741778~acl=/*~id=20666781886461907399853848116461~hmac=5657b75c474e6a1e75d0d90ed1abe65d4abf832ae6b2146d1392d76c92514320
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020113/1782572188250277_VB26_mens_Lancashire_vs_Yorkshire_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Lancashire vs Yorkshire - 10 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000296/Lancashi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783748463~acl=/*~id=59248267117107843670290937226627~hmac=29d3bbe3b9414bf1787c313ee0efd7a882683863795aa1c96faf0fe94bdaad96
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290177365701_DP_World_Tour_GENESIS_SCOTTISH_Open_day2_24jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Genesis Scottish Open - Day 2 - 10 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/DP_World1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783741778~acl=/*~id=20666781886461907399853848116461~hmac=5657b75c474e6a1e75d0d90ed1abe65d4abf832ae6b2146d1392d76c92514320
+https://sonydaimenew.akamaized.net/hls/live/20000291/DP_World1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783748463~acl=/*~id=59248267117107843670290937226627~hmac=29d3bbe3b9414bf1787c313ee0efd7a882683863795aa1c96faf0fe94bdaad96
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
