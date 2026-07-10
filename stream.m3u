@@ -6474,21 +6474,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 #EXTINF:-1 tvg-id="143143" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png" group-title="🔸FanCode🔸| Live Events",Ireland Women vs West Indies Women
 https://in-mc-fblive.fancode.com/mumbai/143143_english_hls_19c0236ea87043_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143632" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Namibia vs Vidarbha
-https://in-mc-fblive.fancode.com/mumbai/143632_english_hls_92bfd80b5622922_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139957" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Day 1
-https://in-mc-fblive.fancode.com/mumbai/139957_english_hls_365866262751348_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143597" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143597_6148_BOS_BD_fc-web_1782725011549.jpg" group-title="🔸FanCode🔸| Live Events",Bost Defenders vs Band-e-Amir Dragons
-https://in-mc-fblive.fancode.com/mumbai/143597_english_hls_24fb1ae5995567_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4246563" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="🔸FanCode🔸| Live Events",Belgium vs Serbia
+https://in-mc-fblive.fancode.com/mumbai/4246563_english_hls_b2b272f11b64555_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4246571" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="🔸FanCode🔸| Live Events",Turkiye vs Norway
+https://in-mc-fblive.fancode.com/mumbai/4246571_english_hls_5048d7c46058811_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143446" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143423_6134_CKM_KBB_FC-WEB_1782272592980.jpg" group-title="🔸FanCode🔸| Live Events",Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru
 https://in-mc-fblive.fancode.com/mumbai/143446_english_hls_b3244a52ba58490_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630181321637_Eng_W_vs_Ind_W_2026_one_off_test_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - One-Off Test - 10 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783733231~acl=/*~id=06947551509225344192492953702882~hmac=62083043f4536285f1a9ad80f94b8e3e2390d63a89f860f37b5ae27a59e91e2f
+https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783741778~acl=/*~id=20666781886461907399853848116461~hmac=5657b75c474e6a1e75d0d90ed1abe65d4abf832ae6b2146d1392d76c92514320
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290177365701_DP_World_Tour_GENESIS_SCOTTISH_Open_day2_24jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Genesis Scottish Open - Day 2 - 10 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/DP_World1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783733231~acl=/*~id=06947551509225344192492953702882~hmac=62083043f4536285f1a9ad80f94b8e3e2390d63a89f860f37b5ae27a59e91e2f
+https://sonydaimenew.akamaized.net/hls/live/20000291/DP_World1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783741778~acl=/*~id=20666781886461907399853848116461~hmac=5657b75c474e6a1e75d0d90ed1abe65d4abf832ae6b2146d1392d76c92514320
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -9033,7 +9031,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
