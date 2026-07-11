@@ -6480,17 +6480,15 @@ https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di
 https://in-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143599" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143599_6148_BOS_MAK_fc-web_1782725011567.jpg" group-title="🔸FanCode🔸| Live Events",Bost Defenders vs Mis-e-Ainak Knights
 https://in-mc-fblive.fancode.com/mumbai/143599_english_hls_2b072631a123245_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143693" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png" group-title="🔸FanCode🔸| Live Events",ADAC GT Master Race 1 - Nurburgring
+https://in-mc-fblive.fancode.com/mumbai/143693_english_hls_a9a9e428fe96137_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630262250637_Eng_W_vs_Ind_W_2026_one_off_test_day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - One-Off Test - 11 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783811462~acl=/*~id=02950427398163578437994579259547~hmac=1ffb8ee12c1ea5a1db7bfa2896187894a9b2a83e2f6a5854e618b602403cd56f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688436687820_ArcheryWC26_MADRID_OPEN_stage4_Compound_Team_finals_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Compound Team Finals - 11 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783811462~acl=/*~id=02950427398163578437994579259547~hmac=1ffb8ee12c1ea5a1db7bfa2896187894a9b2a83e2f6a5854e618b602403cd56f
-
-# ---------------=== 🌐 WORLD | Extra ===-------------------
-
-
+https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783814498~acl=/*~id=17680489486153165206359262797430~hmac=03d9c0092f1e90e8efe0e210afb7d96709ed82bdf7adeb21fab8e331d75fb51b
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688409738820_ArcheryWC26_MADRID_OPEN_stage4_Compound_mixed_Team_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Compound Mixed Team & Individual Finals - 11 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783814498~acl=/*~id=17680489486153165206359262797430~hmac=03d9c0092f1e90e8efe0e210afb7d96709ed82bdf7adeb21fab8e331d75fb51b
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
