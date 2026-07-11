@@ -6470,17 +6470,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|User-Agent=D
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|User-Agent=Droovy
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="139958" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Day 2
-https://in-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/index.m3u8
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630262250637_Eng_W_vs_Ind_W_2026_one_off_test_day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - One-Off Test - 11 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783828466~acl=/*~id=88019828889018074150440861193670~hmac=ed69107bd47a5b8bb823bb827159e375940debb0711fc344a022e51f6f35eb78
+https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783832112~acl=/*~id=65500960096037438232774282149160~hmac=dc2ecce2a08a11549d965605a22faa7b3c0e9c1c8408dd1137a8953978f93a13
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290170644701_DP_World_Tour_GENESIS_SCOTTISH_Open_day3_24jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Genesis Scottish Open - Day 3 - 11 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/DP_World1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783828466~acl=/*~id=88019828889018074150440861193670~hmac=ed69107bd47a5b8bb823bb827159e375940debb0711fc344a022e51f6f35eb78
+https://sonydaimenew.akamaized.net/hls/live/20000301/DP_World1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783832112~acl=/*~id=65500960096037438232774282149160~hmac=dc2ecce2a08a11549d965605a22faa7b3c0e9c1c8408dd1137a8953978f93a13
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
