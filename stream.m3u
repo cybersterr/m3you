@@ -6472,6 +6472,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
+#EXTINF:-1 tvg-id="143402" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png" group-title="🔸FanCode🔸| Live Events",Zimbabwe vs Bangladesh
+https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143447" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143436_6134_CKM_SY_FC-WEB_1782272593179.jpg" group-title="🔸FanCode🔸| Live Events",Coastal Kings Mangaluru vs Shivamogga Yodhas
+https://in-mc-fblive.fancode.com/mumbai/143447_english_hls_df6d68cf8c2463_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143598" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143598_6148_SG_AM_fc-web_1782725011587.jpg" group-title="🔸FanCode🔸| Live Events",Speen Ghar Tigers vs Amo Sharks
 https://in-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="139958" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Day 2
@@ -6479,7 +6483,8 @@ https://in-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-d
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688436687820_ArcheryWC26_MADRID_OPEN_stage4_Compound_Team_finals_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Compound Team Finals - 11 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/Hyundai_1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783802355~acl=/*~id=30734827660776011531335240637323~hmac=31d9cd468d1656889cb85597ecd81f901a4553da43cf6b07df21d60a5f7ea6a0
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
