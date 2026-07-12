@@ -6472,21 +6472,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4246603" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg" group-title="🔸FanCode🔸| Live Events",Day 5
-https://in-mc-fblive.fancode.com/mumbai/4246603_english_hls_76760988db10479_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143600" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143600_6148_MAK_SG_fc-web_1782725012164.jpg" group-title="🔸FanCode🔸| Live Events",Speen Ghar Tigers vs Mis-e-Ainak Knights
+https://in-mc-fblive.fancode.com/mumbai/143600_english_hls_73f1f8258776109_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020444/1783674803754202_UFC_329_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UFC 329 - McGregor vs Holloway 2 - 12 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/UFC329_M1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783871531~acl=/*~id=21059864103063409623510828263579~hmac=6a77d97b7f8aa805ce399e5cb82b4548742d392eaf3205f66629efc5c9915115
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020444/1783674803754202_UFC_329_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UFC 329 - McGregor vs Holloway 2 - 12 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000293/UFC329_M1107/HIN/std_lrh-800300010.m3u8?hdnea=exp=1783871531~acl=/*~id=21059864103063409623510828263579~hmac=6a77d97b7f8aa805ce399e5cb82b4548742d392eaf3205f66629efc5c9915115
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020444/1783674803754202_UFC_329_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UFC 329 - McGregor vs Holloway 2 - 12 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000293/UFC329_M1107/TAM/std_lrh-800300010.m3u8?hdnea=exp=1783871531~acl=/*~id=21059864103063409623510828263579~hmac=6a77d97b7f8aa805ce399e5cb82b4548742d392eaf3205f66629efc5c9915115
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020444/1783674803754202_UFC_329_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UFC 329 - McGregor vs Holloway 2 - 12 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000293/UFC329_M1107/TEL/std_lrh-800300010.m3u8?hdnea=exp=1783871531~acl=/*~id=21059864103063409623510828263579~hmac=6a77d97b7f8aa805ce399e5cb82b4548742d392eaf3205f66629efc5c9915115
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020444/1783674803754202_UFC_329_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UFC 329 - McGregor vs Holloway 2 - 12 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000293/UFC329_M1107/KAN/std_lrh-800300010.m3u8?hdnea=exp=1783871531~acl=/*~id=21059864103063409623510828263579~hmac=6a77d97b7f8aa805ce399e5cb82b4548742d392eaf3205f66629efc5c9915115
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290170644701_DP_World_Tour_GENESIS_SCOTTISH_Open_day3_24jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Genesis Scottish Open - Day 3 - 12 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_DpW1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783880624~acl=/*~id=39266897696090775714196662073422~hmac=7c6fe5a340a1b195e4ee6cbbe0362d5e6431fdc627cb1055ec36b03272cf3809
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
