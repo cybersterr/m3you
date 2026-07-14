@@ -6472,10 +6472,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4246605" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg" group-title="🔸FanCode🔸| Live Events",Day 7
-https://in-mc-fblive.fancode.com/mumbai/4246605_english_hls_40eaacc9368631_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143602" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143587_6148_BOS_SG_fc-web_1782725012178.jpg" group-title="🔸FanCode🔸| Live Events",Bost Defenders vs Speen Ghar Tigers
-https://in-mc-fblive.fancode.com/mumbai/143602_english_hls_e76593f89d88088_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4246581" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="🔸FanCode🔸| Live Events",Serbia vs Estonia
+https://in-mc-fblive.fancode.com/mumbai/4246581_english_hls_8faf96cf9657167_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4246582" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="🔸FanCode🔸| Live Events",Belgium vs Hungary
+https://in-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143491" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2 - World Feed
+https://in-mc-fblive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
