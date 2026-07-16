@@ -6468,6 +6468,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|Cookie=__hdn
 #EXTHTTP:{"Cookie":"hdnea=st=1784147437~exp=1784169037~acl=/*~hmac=53d0dbb8ee18a07375c200fb0d8505af4a20e9a95f615771715970e3b59f1148","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1784147437~exp=1784169037~acl=/*~hmac=53d0dbb8ee18a07375c200fb0d8505af4a20e9a95f615771715970e3b59f1148
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="4246607" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg" group-title="🔸FanCode🔸| Live Events",Day 9
+https://in-mc-fblive.fancode.com/mumbai/4246607_english_hls_d8a2b1573c67728_1ta-di_h264/index.m3u8
+
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 
