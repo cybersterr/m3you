@@ -6478,11 +6478,17 @@ https://in-mc-pdlive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-
 https://in-mc-pdlive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143487" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 5 - World Feed
 https://in-mc-pdlive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="139467" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="🔸FanCode🔸| Live Events",Practice 1
+https://india-mpv2.fancode.com/out/v1/ap-south-1/139467_english_323077/ad-h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020610/1784111308675411_VitalityBlast26_Womens_Surrey_vs_The_Blaze_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Surrey Women vs The Blaze Women - 17 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Criclive1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784328569~acl=/*~id=95516252555909109182993565023777~hmac=f833b5d73b6caf1c3faf888561b4335dc17f5bdfd0193f386c7b6d5aef5ae624
+https://sonydaimenew.akamaized.net/hls/live/20000291/Criclive1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784332811~acl=/*~id=27311354292527954756962488017646~hmac=d79ab9eeaaf72729b18873781915c40248479fb886aff971683669b5cfd1f1a8
+
+# ---------------=== 🌐 WORLD | Extra ===-------------------
+
+
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
