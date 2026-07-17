@@ -6470,23 +6470,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="143404" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png" group-title="🔸FanCode🔸| Live Events",Bangladesh vs Zimbabwe
-https://in-mc-pdlive.fancode.com/mumbai/143404_english_hls_1aad62edde47741_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4246710" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Jaffna Kings vs Galle Gallants
+#EXTINF:-1 tvg-id="4246710" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Galle Gallants vs Jaffna Kings
 https://in-mc-pdlive.fancode.com/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246809" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2
 https://in-mc-pdlive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143494" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="🔸FanCode🔸| Live Events",Day 5 - World Feed
 https://in-mc-pdlive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143487" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 5 - World Feed
-https://in-mc-pdlive.fancode.com/mumbai/143487_english_hls_7868a4d03f93991_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139639" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg" group-title="🔸FanCode🔸| Live Events",Qualifying Session
-https://in-mc-pdlive.fancode.com/mumbai/139639_english_hls_7014410f0621680_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="139468" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="🔸FanCode🔸| Live Events",Practice 2
+https://in-mc-pdlive.fancode.com/mumbai/139468_english_hls_b0f123ce9b83862_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020610/1784111825021411_VitalityBlast26_Womens_Hampshire_vs_Durham_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Hampshire Women vs Durham Women - 17 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/Criclive1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784339483~acl=/*~id=28000931582336211310565512944709~hmac=3ceb28952347babee223cdcd3e067df24f5255a07325100aa195000bd6253fb7
+https://sonydaimenew.akamaized.net/hls/live/20000292/Criclive1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784345557~acl=/*~id=50719678280664986020246352430412~hmac=6ec16a311c529d8bc9e1e87a09942600b495024ef1f33a32f10d2367353038b2
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
