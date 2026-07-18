@@ -6478,10 +6478,13 @@ https://in-mc-pdlive.fancode.com/mumbai/143495_english_hls_6dc180ef1426625_1ta-d
 https://in-mc-pdlive.fancode.com/mumbai/4246810_english_hls_e89f2284cd25454_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="139469" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="🔸FanCode🔸| Live Events",Practice 3
 https://in-mc-pdlive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143488" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Semi-Finals
+https://in-mc-pdlive.fancode.com/mumbai/143488_english_hls_bccff4cf4958691_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020654/1784224983801454_VB26_SF_mens_Northampton_vs_Somerset_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Northamptonshire vs Somerset - Semi-final - 18 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000295/criclive1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784418339~acl=/*~id=32981156879831919006820248405362~hmac=f9f7e9d2b09f5ccdf1175b8632b686654ccc9b1cf4f6b7566357305329035867
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
