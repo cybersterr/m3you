@@ -6470,12 +6470,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="139731" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg" group-title="🔸FanCode🔸| Live Events",Sprint Race
-https://in-mc-pdlive.fancode.com/mumbai/139731_english_hls_a8fdedd78d52655_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4246709" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246709_52991_KRL_DS_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Dambulla Sixers vs Kandy Royals
+https://in-mc-pdlive.fancode.com/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143495" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="🔸FanCode🔸| Live Events",Semi-Finals
+https://in-mc-pdlive.fancode.com/mumbai/143495_english_hls_6dc180ef1426625_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4246810" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3
+https://in-mc-pdlive.fancode.com/mumbai/4246810_english_hls_e89f2284cd25454_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143609" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg" group-title="🔸FanCode🔸| Live Events",Qualifying Session
+https://in-mc-pdlive.fancode.com/mumbai/143609_english_hls_b26d8348b214225_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020654/1784224983801454_VB26_SF_mens_Northampton_vs_Somerset_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Northamptonshire vs Somerset - Semi-final - 18 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000295/criclive1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784411024~acl=/*~id=29633206352405842679353716498786~hmac=55d6394145b6eaaf9ce8fb4f458f7ae28913cc2b33c2f5d3b977812db316ca60
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
