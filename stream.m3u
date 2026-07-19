@@ -6470,14 +6470,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4246717" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246717_52991_DS_JK_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Dambulla Sixers vs Jaffna Kings
-https://in-mc-pdlive.fancode.com/mumbai/4246717_english_hls_9dee290f0090463_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143405" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png" group-title="🔸FanCode🔸| Live Events",Zimbabwe vs Bangladesh
 https://in-mc-pdlive.fancode.com/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143606" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png" group-title="🔸FanCode🔸| Live Events",West Indies vs New Zealand
+https://in-mc-pdlive.fancode.com/mumbai/143606_english_hls_da7fa7ed2c55813_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4246712" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246712_52991_CK_KRL_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Kandy Royals vs Colombo Kaps
+https://in-mc-pdlive.fancode.com/mumbai/4246712_english_hls_eeccc6729d52047_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246811" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4
 https://in-mc-pdlive.fancode.com/mumbai/4246811_english_hls_4492dd440847598_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143489" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Men's Final
-https://in-mc-pdlive.fancode.com/mumbai/143489_english_hls_7e09492a8c79814_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143701" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Europe - Race 2
 https://in-mc-pdlive.fancode.com/mumbai/143701_english_hls_a533b77c7995207_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="139471" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png" group-title="🔸FanCode🔸| Live Events",Race
