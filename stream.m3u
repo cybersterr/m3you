@@ -6470,8 +6470,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4247195" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club--ODI-old-.jpg" group-title="🔸FanCode🔸| Live Events",Malaysia XI vs Sea Hawks Cricket Club
-https://in-mc-pdlive.fancode.com/mumbai/4247195_english_hls_613e033c5699763_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4246703" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246703_52990_NEP_NAM_fc-Web.png" group-title="🔸FanCode🔸| Live Events",Nepal vs Namibia
+https://in-mc-pdlive.fancode.com/mumbai/4246703_english_hls_88f844cf1d98968_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143504" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2
+https://in-mc-pdlive.fancode.com/mumbai/143504_english_hls_e6cdd43c4252496_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
