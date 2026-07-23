@@ -3087,18 +3087,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd|Cookie
 #EXTINF:-1 tvg-id="1106" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-#EXTHTTP:{"Cookie":"hdnea=st=1784779945~exp=1784801545~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=a0ee9c621a1fdb6911ee4133e1b2c87fd2ad499b6883d7956c90ffc1d21fdbd3","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784779945~exp=1784801545~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=a0ee9c621a1fdb6911ee4133e1b2c87fd2ad499b6883d7956c90ffc1d21fdbd3
+#EXTHTTP:{"Cookie":"hdnea=st=1784791800~exp=1784813400~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=a7a2d9b66f86aed4eba150b639f8e0509d76bfe1459fc41608c2f4bb4b66c4d8","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784791800~exp=1784813400~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=a7a2d9b66f86aed4eba150b639f8e0509d76bfe1459fc41608c2f4bb4b66c4d8
 #EXTINF:-1 tvg-id="1108" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-#EXTHTTP:{"Cookie":"hdnea=st=1784779945~exp=1784801545~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=0520e576e65fe25312a6cc906f3413217d217e9ebf9489cdb1a11162c14af8ce","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784779945~exp=1784801545~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=0520e576e65fe25312a6cc906f3413217d217e9ebf9489cdb1a11162c14af8ce
+#EXTHTTP:{"Cookie":"hdnea=st=1784791800~exp=1784813400~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=fffd01bfcbca4622a78f99c36f31b50c4c9ba2f55d3f6a9018f2068419dc6c6d","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784791800~exp=1784813400~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=fffd01bfcbca4622a78f99c36f31b50c4c9ba2f55d3f6a9018f2068419dc6c6d
 #EXTINF:-1 tvg-id="1109" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
-#EXTHTTP:{"Cookie":"hdnea=st=1784779945~exp=1784801545~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=706790010b77595a2812f5f79e3742ab2f5a0c20d58097d579d4c79e1a4b5d6e","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784779945~exp=1784801545~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=706790010b77595a2812f5f79e3742ab2f5a0c20d58097d579d4c79e1a4b5d6e
+#EXTHTTP:{"Cookie":"hdnea=st=1784791800~exp=1784813400~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=e5281306a918e70ac7def426c68da3479da32832c28c720dd63c31ae640395ec","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784791800~exp=1784813400~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=e5281306a918e70ac7def426c68da3479da32832c28c720dd63c31ae640395ec
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Star Movies Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
@@ -4421,8 +4421,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaHD_MOB/WDVLive/index.mpd|Cookie=
 #EXTINF:-1 tvg-id="1984" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
-#EXTHTTP:{"Cookie":"hdnea=st=1784779945~exp=1784801545~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=7ff6195ba232f66b0918bb0958a5b178320ec8133b0e066012d5371ee8dd6e8e","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784779945~exp=1784801545~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=7ff6195ba232f66b0918bb0958a5b178320ec8133b0e066012d5371ee8dd6e8e
+#EXTHTTP:{"Cookie":"hdnea=st=1784791800~exp=1784813400~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=b09bcde87906b5994ad2d08d51b33b0a7afde147f834676379960683447e14d2","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784791800~exp=1784813400~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=b09bcde87906b5994ad2d08d51b33b0a7afde147f834676379960683447e14d2
 #EXTINF:-1 tvg-id="1985" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
@@ -6476,23 +6476,27 @@ https://in-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-
 https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246723" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246723_52991_KRL_CK_FC-WEB_1784539180470.jpg" group-title="🔸FanCode🔸| Live Events",Colombo Kaps vs Kandy Royals
 https://in-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143351" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Zimbabwe vs India
+https://in-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4247416" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="🔸FanCode🔸| Live Events",Day 1 - World Feed
 https://in-mc-pdlive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143506" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4
 https://in-mc-pdlive.fancode.com/mumbai/143506_english_hls_e9c5d7161439256_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143512" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="🔸FanCode🔸| Live Events",ATP 250 - Millenium Estoril Open 2026
+https://in-mc-pdlive.fancode.com/mumbai/143512_english_hls_f0a7cbbf8d12306_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",New Zealand vs Tonga - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784842464~acl=/*~id=97843924859087984998124857906794~hmac=f0de821f8e1565d6de074d133c8399d0e1e10a323a74792106328c4f8c6155fc
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",New Zealand vs Tonga - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784842464~acl=/*~id=97843924859087984998124857906794~hmac=f0de821f8e1565d6de074d133c8399d0e1e10a323a74792106328c4f8c6155fc
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",New Zealand vs Tonga - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784842464~acl=/*~id=97843924859087984998124857906794~hmac=f0de821f8e1565d6de074d133c8399d0e1e10a323a74792106328c4f8c6155fc
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",New Zealand vs Tonga - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784842464~acl=/*~id=97843924859087984998124857906794~hmac=f0de821f8e1565d6de074d133c8399d0e1e10a323a74792106328c4f8c6155fc
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",New Zealand vs Tonga - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784842464~acl=/*~id=97843924859087984998124857906794~hmac=f0de821f8e1565d6de074d133c8399d0e1e10a323a74792106328c4f8c6155fc
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Northern Ireland vs Singapore - Women's Pairs - Bowls and Para Bowls - 23 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784849155~acl=/*~id=53903226428038981735181760932518~hmac=d4e303c817d42b0737a400875906c032d054c5606b52bc1f7201ccf1a841af00
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Northern Ireland vs Singapore - Women's Pairs - Bowls and Para Bowls - 23 Jul 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784849155~acl=/*~id=53903226428038981735181760932518~hmac=d4e303c817d42b0737a400875906c032d054c5606b52bc1f7201ccf1a841af00
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Northern Ireland vs Singapore - Women's Pairs - Bowls and Para Bowls - 23 Jul 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784849155~acl=/*~id=53903226428038981735181760932518~hmac=d4e303c817d42b0737a400875906c032d054c5606b52bc1f7201ccf1a841af00
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Northern Ireland vs Singapore - Women's Pairs - Bowls and Para Bowls - 23 Jul 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784849155~acl=/*~id=53903226428038981735181760932518~hmac=d4e303c817d42b0737a400875906c032d054c5606b52bc1f7201ccf1a841af00
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536267/thumbnail/1784751986829_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Northern Ireland vs Singapore - Women's Pairs - Bowls and Para Bowls - 23 Jul 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784849155~acl=/*~id=53903226428038981735181760932518~hmac=d4e303c817d42b0737a400875906c032d054c5606b52bc1f7201ccf1a841af00
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -7831,7 +7835,7 @@ https://mactom3u.vodep39240327.workers.dev/474894.m3u8?host=tv.saartv.cc&path=%2
 #EXTINF:-1 tvg-id="channel_255" tvg-name="HINDI BOX OFFICE COLLECTION (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71489.jpg" group-title="HINDI | 24X7 MOVIES",HINDI BOX OFFICE COLLECTION (4K)
 https://mactom3u.vodep39240327.workers.dev/474815.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_223" tvg-name="FILMFARE WINNING MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71490.jpeg" group-title="HINDI | 24X7 MOVIES",FILMFARE WINNING MOVIES (4K)
-https://mactom3u.vodep39240327.workers.dev/http://23.237.105.114/247_4K_FILMFARE_WINNING_MOVIES/index.m3u8.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/482253.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_354" tvg-name="HINDI NEW SUPERHITS MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76221.jpg" group-title="HINDI | 24X7 MOVIES",HINDI NEW SUPERHITS MOVIES (4K)
 https://mactom3u.vodep39240327.workers.dev/479851.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_222" tvg-name="HINDI CLASSIC BLOCKBUSTER (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76224.jpg" group-title="HINDI | 24X7 MOVIES",HINDI CLASSIC BLOCKBUSTER (4K)
@@ -9037,7 +9041,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
@@ -10015,7 +10019,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
