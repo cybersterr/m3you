@@ -3087,18 +3087,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd|Cookie
 #EXTINF:-1 tvg-id="1106" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-#EXTHTTP:{"Cookie":"hdnea=st=1784890845~exp=1784912445~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d043d498e7eb4138470401c6b9f2bad4dd9f26c8c620d2843355d41d67299259","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784890845~exp=1784912445~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d043d498e7eb4138470401c6b9f2bad4dd9f26c8c620d2843355d41d67299259
+#EXTHTTP:{"Cookie":"hdnea=st=1784906567~exp=1784928167~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=abc8ef91fb8b406767e533850f0fca501d0b1852f120ab9c3edd0f9a995461e8","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784906567~exp=1784928167~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=abc8ef91fb8b406767e533850f0fca501d0b1852f120ab9c3edd0f9a995461e8
 #EXTINF:-1 tvg-id="1108" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-#EXTHTTP:{"Cookie":"hdnea=st=1784890845~exp=1784912445~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7608c47b24affe415b000cd744585f054f7069a202bff52141afc2ffb82ad60a","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784890845~exp=1784912445~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7608c47b24affe415b000cd744585f054f7069a202bff52141afc2ffb82ad60a
+#EXTHTTP:{"Cookie":"hdnea=st=1784906567~exp=1784928167~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=ecb8c21ceccba0c4d35ffd6d7b7a78f50a67703ac180815af71831819b6c4621","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784906567~exp=1784928167~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=ecb8c21ceccba0c4d35ffd6d7b7a78f50a67703ac180815af71831819b6c4621
 #EXTINF:-1 tvg-id="1109" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
-#EXTHTTP:{"Cookie":"hdnea=st=1784890845~exp=1784912445~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=af6975635730a1fe1699d71f20ac798f9ad8430916c44f7c2e238337ade89aae","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784890845~exp=1784912445~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=af6975635730a1fe1699d71f20ac798f9ad8430916c44f7c2e238337ade89aae
+#EXTHTTP:{"Cookie":"hdnea=st=1784906568~exp=1784928168~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=53b7e008bd9cc0cc8190ba7ca33a9981bcdc5a3fd78087898fab55b328feb3ba","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784906568~exp=1784928168~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=53b7e008bd9cc0cc8190ba7ca33a9981bcdc5a3fd78087898fab55b328feb3ba
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Star Movies Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
@@ -4421,8 +4421,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaHD_MOB/WDVLive/index.mpd|Cookie=
 #EXTINF:-1 tvg-id="1984" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
-#EXTHTTP:{"Cookie":"hdnea=st=1784890845~exp=1784912445~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=69d3d306f7d9f7be8335f9f4e91531c51d672d329263816313f2e75e1415f06e","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784890845~exp=1784912445~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=69d3d306f7d9f7be8335f9f4e91531c51d672d329263816313f2e75e1415f06e
+#EXTHTTP:{"Cookie":"hdnea=st=1784906568~exp=1784928168~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=3a047ca689746958128eec84fdeae30e3ea137318c8bb09f9f73441ee67afd9c","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784906568~exp=1784928168~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=3a047ca689746958128eec84fdeae30e3ea137318c8bb09f9f73441ee67afd9c
 #EXTINF:-1 tvg-id="1985" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
@@ -6472,33 +6472,35 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 #EXTINF:-1 tvg-id="4247438" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247438_53000_LAH_DV_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Lahore Qalandars vs Desert Vipers
 https://in-mc-pdlive.fancode.com/mumbai/4247438_english_hls_409d14a5796247_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4248010" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Club-Friendlies-old-match-card.png" group-title="🔸FanCode🔸| Live Events",Rosenborg BK vs Manchester United
+https://in-mc-pdlive.fancode.com/mumbai/4248010_english_hls_49c4c0e1ba57062_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143513" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="🔸FanCode🔸| Live Events",Day 5
 https://in-mc-pdlive.fancode.com/mumbai/143513_english_hls_3b01c8cfce63305_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246801" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",Day 2 - Main Feed
 https://in-mc-pdlive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139473" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="🔸FanCode🔸| Live Events",Practice 2
-https://in-mc-pdlive.fancode.com/mumbai/139473_english_hls_10b0d13ce763588_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143611" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg" group-title="🔸FanCode🔸| Live Events",Practice Session
+https://in-mc-pdlive.fancode.com/mumbai/143611_english_hls_2477d8504f7640_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020894/1784888457648149_CWG_BOWLS_INDIA_v_SOUTH_AFRICA_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India vs South Africa - Men's Pairs - Bowls and Para Bowls - 24 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784947663~acl=/*~id=82677425489611849615747165358311~hmac=41dfad653981b669574a67cbe6ed6d50eec9cb7cf8cfc9a39828cd4b02bbcc95
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020894/1784888457648149_CWG_BOWLS_INDIA_v_SOUTH_AFRICA_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India vs South Africa - Men's Pairs - Bowls and Para Bowls - 24 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre2407/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784947663~acl=/*~id=82677425489611849615747165358311~hmac=41dfad653981b669574a67cbe6ed6d50eec9cb7cf8cfc9a39828cd4b02bbcc95
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020894/1784888457648149_CWG_BOWLS_INDIA_v_SOUTH_AFRICA_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India vs South Africa - Men's Pairs - Bowls and Para Bowls - 24 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre2407/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784947663~acl=/*~id=82677425489611849615747165358311~hmac=41dfad653981b669574a67cbe6ed6d50eec9cb7cf8cfc9a39828cd4b02bbcc95
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020894/1784888457648149_CWG_BOWLS_INDIA_v_SOUTH_AFRICA_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India vs South Africa - Men's Pairs - Bowls and Para Bowls - 24 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2407/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784947663~acl=/*~id=82677425489611849615747165358311~hmac=41dfad653981b669574a67cbe6ed6d50eec9cb7cf8cfc9a39828cd4b02bbcc95
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020894/1784888457648149_CWG_BOWLS_INDIA_v_SOUTH_AFRICA_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India vs South Africa - Men's Pairs - Bowls and Para Bowls - 24 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2407/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784947663~acl=/*~id=82677425489611849615747165358311~hmac=41dfad653981b669574a67cbe6ed6d50eec9cb7cf8cfc9a39828cd4b02bbcc95
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Canada vs Kenya - Women's Pairs - 24 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784954366~acl=/*~id=89659962380014153411263360321712~hmac=4231fb63372ae4ff99f08613d1be198eab9c74553d3215e7912bff07f2fd303a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Canada vs Kenya - Women's Pairs - 24 Jul 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre2407/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784954366~acl=/*~id=89659962380014153411263360321712~hmac=4231fb63372ae4ff99f08613d1be198eab9c74553d3215e7912bff07f2fd303a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Canada vs Kenya - Women's Pairs - 24 Jul 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre2407/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784954366~acl=/*~id=89659962380014153411263360321712~hmac=4231fb63372ae4ff99f08613d1be198eab9c74553d3215e7912bff07f2fd303a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Canada vs Kenya - Women's Pairs - 24 Jul 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2407/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784954366~acl=/*~id=89659962380014153411263360321712~hmac=4231fb63372ae4ff99f08613d1be198eab9c74553d3215e7912bff07f2fd303a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Canada vs Kenya - Women's Pairs - 24 Jul 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2407/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784954366~acl=/*~id=89659962380014153411263360321712~hmac=4231fb63372ae4ff99f08613d1be198eab9c74553d3215e7912bff07f2fd303a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073773096_LIV_Golf_UK_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UK - Day 2 - 24 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_UK_2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784947663~acl=/*~id=82677425489611849615747165358311~hmac=41dfad653981b669574a67cbe6ed6d50eec9cb7cf8cfc9a39828cd4b02bbcc95
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020889/178488424048277_POWERLIFTING_Jaspreet_Kaur_Suman_Devi_live_landsacpe_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Women's Lightweight - Para Powerlifting - 24 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784947663~acl=/*~id=82677425489611849615747165358311~hmac=41dfad653981b669574a67cbe6ed6d50eec9cb7cf8cfc9a39828cd4b02bbcc95
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784904247843_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Scotland vs Cayman Islands - Men - Basketball - 24 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784947663~acl=/*~id=82677425489611849615747165358311~hmac=41dfad653981b669574a67cbe6ed6d50eec9cb7cf8cfc9a39828cd4b02bbcc95
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647781782819_CWG26_Gymnastics_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men - Gymnastics - 24 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784947663~acl=/*~id=82677425489611849615747165358311~hmac=41dfad653981b669574a67cbe6ed6d50eec9cb7cf8cfc9a39828cd4b02bbcc95
+https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_UK_2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784954366~acl=/*~id=89659962380014153411263360321712~hmac=4231fb63372ae4ff99f08613d1be198eab9c74553d3215e7912bff07f2fd303a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784906468911_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Jason Banks vs Mohammed Ayub Qureshi - Men's Singles - Bowls and Para Bowls - 24 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784954366~acl=/*~id=89659962380014153411263360321712~hmac=4231fb63372ae4ff99f08613d1be198eab9c74553d3215e7912bff07f2fd303a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784910589674_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Australia vs Nigeria - Men - Basketball - 24 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784954366~acl=/*~id=89659962380014153411263360321712~hmac=4231fb63372ae4ff99f08613d1be198eab9c74553d3215e7912bff07f2fd303a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784906466774_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Rajnesh Prasad vs Robert Simpson - Men's Singles - Bowls and Para Bowls - 24 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784954366~acl=/*~id=89659962380014153411263360321712~hmac=4231fb63372ae4ff99f08613d1be198eab9c74553d3215e7912bff07f2fd303a
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
