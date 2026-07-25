@@ -3087,18 +3087,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd|Cookie
 #EXTINF:-1 tvg-id="1106" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-#EXTHTTP:{"Cookie":"hdnea=st=1784950291~exp=1784971891~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=f45bfd4f8b74e0000cae0723ce731355cfe403202384ac8bc0ff69c2e25f202e","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784950291~exp=1784971891~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=f45bfd4f8b74e0000cae0723ce731355cfe403202384ac8bc0ff69c2e25f202e
+#EXTHTTP:{"Cookie":"hdnea=st=1784960042~exp=1784981642~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=ef2780c0e01142a75a1703c39aa8896e9d5886e6544b0763e316d11d3e52a750","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784960042~exp=1784981642~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=ef2780c0e01142a75a1703c39aa8896e9d5886e6544b0763e316d11d3e52a750
 #EXTINF:-1 tvg-id="1108" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-#EXTHTTP:{"Cookie":"hdnea=st=1784950291~exp=1784971891~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7dceed1d52a9c14bfa337affa8df8ce027bcee3ba6dee173d4c058704dc6f8c5","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784950291~exp=1784971891~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7dceed1d52a9c14bfa337affa8df8ce027bcee3ba6dee173d4c058704dc6f8c5
+#EXTHTTP:{"Cookie":"hdnea=st=1784960042~exp=1784981642~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=4d92375d0d7f851d6a63c29c751f39530388cdb899b393fdd24ed9135c0a5bdb","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784960042~exp=1784981642~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=4d92375d0d7f851d6a63c29c751f39530388cdb899b393fdd24ed9135c0a5bdb
 #EXTINF:-1 tvg-id="1109" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
-#EXTHTTP:{"Cookie":"hdnea=st=1784950291~exp=1784971891~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=7d54f174c9d5b608e566af691d437520c1b5f22eb4fa3e85034abffe9ff0172d","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784950291~exp=1784971891~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=7d54f174c9d5b608e566af691d437520c1b5f22eb4fa3e85034abffe9ff0172d
+#EXTHTTP:{"Cookie":"hdnea=st=1784960042~exp=1784981642~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=351753378d7f4124996063e8bf40f8d9d5bed7cf2922a2a11f8846912ffe5e16","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784960042~exp=1784981642~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=351753378d7f4124996063e8bf40f8d9d5bed7cf2922a2a11f8846912ffe5e16
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Star Movies Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
@@ -4421,8 +4421,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaHD_MOB/WDVLive/index.mpd|Cookie=
 #EXTINF:-1 tvg-id="1984" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
-#EXTHTTP:{"Cookie":"hdnea=st=1784950291~exp=1784971891~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=862c2fc68352de0bf96e70970f1af90f32303e1fd798de01f244dbf69952d328","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784950291~exp=1784971891~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=862c2fc68352de0bf96e70970f1af90f32303e1fd798de01f244dbf69952d328
+#EXTHTTP:{"Cookie":"hdnea=st=1784960042~exp=1784981642~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=4824a798d7efca43576f843d9a5523491c2d329f5270c27e5b5c2ff856b78b32","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784960042~exp=1784981642~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=4824a798d7efca43576f843d9a5523491c2d329f5270c27e5b5c2ff856b78b32
 #EXTINF:-1 tvg-id="1985" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
@@ -6472,33 +6472,35 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 #EXTINF:-1 tvg-id="4247426" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="🔸FanCode🔸| Live Events",Pakistan Women vs Sri Lanka Women
 https://in-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4246705" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-Web.png" group-title="🔸FanCode🔸| Live Events",Netherlands vs Namibia
+https://in-mc-pdlive.fancode.com/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4246722" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246722_52991_GG_KRL_FC-WEB_1784539180374.jpg" group-title="🔸FanCode🔸| Live Events",Galle Gallants vs Kandy Royals
+https://in-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4247198" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="🔸FanCode🔸| Live Events",Malaysia XI vs Sea Hawks Cricket Club
 https://in-mc-pdlive.fancode.com/mumbai/4247198_english_hls_4e2b6a33c555878_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143794" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png" group-title="🔸FanCode🔸| Live Events",Japan - Race 1
-https://in-mc-pdlive.fancode.com/mumbai/143794_english_hls_fafc6faf7b4112_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143798" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="🔸FanCode🔸| Live Events",Qualifying 1
-https://in-mc-pdlive.fancode.com/mumbai/143798_english_hls_fc60976a9313337_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="139735" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg" group-title="🔸FanCode🔸| Live Events",Sprint Race
 https://in-mc-pdlive.fancode.com/mumbai/139735_english_hls_aee5160e7e79607_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Gary Kelly vs Liam Hill - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785010826~acl=/*~id=38647369619054347678212119945781~hmac=45cf2d8cfc8869ac8478cebb04850601baacfeca176affd72eb9d9acb2cc81ae
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Gary Kelly vs Liam Hill - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2507/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785010826~acl=/*~id=38647369619054347678212119945781~hmac=45cf2d8cfc8869ac8478cebb04850601baacfeca176affd72eb9d9acb2cc81ae
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Gary Kelly vs Liam Hill - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2507/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785010826~acl=/*~id=38647369619054347678212119945781~hmac=45cf2d8cfc8869ac8478cebb04850601baacfeca176affd72eb9d9acb2cc81ae
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Gary Kelly vs Liam Hill - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre2507/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785010826~acl=/*~id=38647369619054347678212119945781~hmac=45cf2d8cfc8869ac8478cebb04850601baacfeca176affd72eb9d9acb2cc81ae
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Gary Kelly vs Liam Hill - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2507/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785010826~acl=/*~id=38647369619054347678212119945781~hmac=45cf2d8cfc8869ac8478cebb04850601baacfeca176affd72eb9d9acb2cc81ae
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784966422360_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",New Zealand vs Scotland - Netball - Netball - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785010826~acl=/*~id=38647369619054347678212119945781~hmac=45cf2d8cfc8869ac8478cebb04850601baacfeca176affd72eb9d9acb2cc81ae
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784964301617_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Australia vs Isle of Man - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785010826~acl=/*~id=38647369619054347678212119945781~hmac=45cf2d8cfc8869ac8478cebb04850601baacfeca176affd72eb9d9acb2cc81ae
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784964303517_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Royden Aperau vs Mark McGreal - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785010826~acl=/*~id=38647369619054347678212119945781~hmac=45cf2d8cfc8869ac8478cebb04850601baacfeca176affd72eb9d9acb2cc81ae
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Jason Banks vs Rajnesh Prasad - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785016306~acl=/*~id=40251018357536833046219295100176~hmac=cdad7241b6e35ac0bb5a2019fbc5101df6be787ee25de74745a3b78dbea8c557
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Jason Banks vs Rajnesh Prasad - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2507/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785016306~acl=/*~id=40251018357536833046219295100176~hmac=cdad7241b6e35ac0bb5a2019fbc5101df6be787ee25de74745a3b78dbea8c557
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Jason Banks vs Rajnesh Prasad - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2507/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785016306~acl=/*~id=40251018357536833046219295100176~hmac=cdad7241b6e35ac0bb5a2019fbc5101df6be787ee25de74745a3b78dbea8c557
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Jason Banks vs Rajnesh Prasad - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre2507/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785016306~acl=/*~id=40251018357536833046219295100176~hmac=cdad7241b6e35ac0bb5a2019fbc5101df6be787ee25de74745a3b78dbea8c557
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Jason Banks vs Rajnesh Prasad - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2507/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785016306~acl=/*~id=40251018357536833046219295100176~hmac=cdad7241b6e35ac0bb5a2019fbc5101df6be787ee25de74745a3b78dbea8c557
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020959/1784932568263224_ABB_FIA_FormulaE_WC26_RD14_Tokyo_EPrix_final_Race_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",R14 - Tokyo E-Prix - Final  Race - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000298/FormulaE2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785016306~acl=/*~id=40251018357536833046219295100176~hmac=cdad7241b6e35ac0bb5a2019fbc5101df6be787ee25de74745a3b78dbea8c557
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784972695217_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Women's 200m Freestyle - Aquatics - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785016306~acl=/*~id=40251018357536833046219295100176~hmac=cdad7241b6e35ac0bb5a2019fbc5101df6be787ee25de74745a3b78dbea8c557
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784969533862_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Guernsey vs Zambia - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785016306~acl=/*~id=40251018357536833046219295100176~hmac=cdad7241b6e35ac0bb5a2019fbc5101df6be787ee25de74745a3b78dbea8c557
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784970221577_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Women - Gymnastics - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785016306~acl=/*~id=40251018357536833046219295100176~hmac=cdad7241b6e35ac0bb5a2019fbc5101df6be787ee25de74745a3b78dbea8c557
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
