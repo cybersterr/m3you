@@ -3087,18 +3087,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd|Cookie
 #EXTINF:-1 tvg-id="1106" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-#EXTHTTP:{"Cookie":"hdnea=st=1784975996~exp=1784997596~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=5706015774ed29462fac9f3131573f7434703d42bc9c983519edf279b164f949","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784975996~exp=1784997596~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=5706015774ed29462fac9f3131573f7434703d42bc9c983519edf279b164f949
+#EXTHTTP:{"Cookie":"hdnea=st=1784980837~exp=1785002437~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=2ca488af7744527badd4fe49138db1ae5b8bb8192d14d014328db0e2d5315b31","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784980837~exp=1785002437~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=2ca488af7744527badd4fe49138db1ae5b8bb8192d14d014328db0e2d5315b31
 #EXTINF:-1 tvg-id="1108" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-#EXTHTTP:{"Cookie":"hdnea=st=1784975996~exp=1784997596~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=2c61ae861016f2d48699cdf5b82303d111a2eb6359538f68948de221f3a508bc","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784975996~exp=1784997596~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=2c61ae861016f2d48699cdf5b82303d111a2eb6359538f68948de221f3a508bc
+#EXTHTTP:{"Cookie":"hdnea=st=1784980837~exp=1785002437~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=da74f6c5fe767479d9812675b73e4435b20259f4f8e00678497e375417cf16bd","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784980837~exp=1785002437~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=da74f6c5fe767479d9812675b73e4435b20259f4f8e00678497e375417cf16bd
 #EXTINF:-1 tvg-id="1109" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
-#EXTHTTP:{"Cookie":"hdnea=st=1784975996~exp=1784997596~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=799cb566d5074d744c076e8ef54ad4c1aca74ecb2a954a377cbc3ea4b9a9a19a","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784975996~exp=1784997596~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=799cb566d5074d744c076e8ef54ad4c1aca74ecb2a954a377cbc3ea4b9a9a19a
+#EXTHTTP:{"Cookie":"hdnea=st=1784980838~exp=1785002438~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=603ea5d5d572626ff6a5a05a488662c605de551b05efaa3f06aa504279bf3912","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784980838~exp=1785002438~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=603ea5d5d572626ff6a5a05a488662c605de551b05efaa3f06aa504279bf3912
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Star Movies Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
@@ -4421,8 +4421,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaHD_MOB/WDVLive/index.mpd|Cookie=
 #EXTINF:-1 tvg-id="1984" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
-#EXTHTTP:{"Cookie":"hdnea=st=1784975996~exp=1784997596~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=3354b577fe442151e41efe39aa8c6d25fee63126d7df9d685f110ae1344222f8","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784975996~exp=1784997596~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=3354b577fe442151e41efe39aa8c6d25fee63126d7df9d685f110ae1344222f8
+#EXTHTTP:{"Cookie":"hdnea=st=1784980838~exp=1785002438~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=d9f391e740559d459a3b1ed4fc3d6d07135a70b8b45c36e9259da62195d4d873","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1784980838~exp=1785002438~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=d9f391e740559d459a3b1ed4fc3d6d07135a70b8b45c36e9259da62195d4d873
 #EXTINF:-1 tvg-id="1985" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
@@ -6470,8 +6470,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="143352" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",India vs Zimbabwe
-https://in-mc-pdlive.fancode.com/mumbai/143352_english_hls_cd4f806e1b92407_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246705" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-Web.png" group-title="🔸FanCode🔸| Live Events",Netherlands vs Namibia
 https://in-mc-pdlive.fancode.com/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246721" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246721_52991_DS_CK_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Colombo Kaps vs Dambulla Sixers
@@ -6482,31 +6480,27 @@ https://in-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-d
 https://in-mc-pdlive.fancode.com/mumbai/4247419_english_hls_7529753d6233196_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246803" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",Day 3 - Main Feed
 https://in-mc-pdlive.fancode.com/mumbai/4246803_english_hls_7c0d958ec349342_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143805" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="🔸FanCode🔸| Live Events",ADAC GT Race 1 - Oschersleben
-https://in-mc-pdlive.fancode.com/mumbai/143805_english_hls_0b4437940a64141_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139475" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="🔸FanCode🔸| Live Events",Qualifying
-https://in-mc-pdlive.fancode.com/mumbai/139475_english_hls_a385b5276b60495_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020999/1784977580599894_CWG_BOWLS_and_PARA_BOWLS_MALAYSIAvsIND_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Malaysia vs India - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785032160~acl=/*~id=60949433259552068094138337306027~hmac=2785c9923b96b593e633b8631caf643e9ea96d3c5337c583fc41302ea2c59152
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020999/1784977580599894_CWG_BOWLS_and_PARA_BOWLS_MALAYSIAvsIND_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Malaysia vs India - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2507/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785032160~acl=/*~id=60949433259552068094138337306027~hmac=2785c9923b96b593e633b8631caf643e9ea96d3c5337c583fc41302ea2c59152
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020999/1784977580599894_CWG_BOWLS_and_PARA_BOWLS_MALAYSIAvsIND_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Malaysia vs India - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2507/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785032160~acl=/*~id=60949433259552068094138337306027~hmac=2785c9923b96b593e633b8631caf643e9ea96d3c5337c583fc41302ea2c59152
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020999/1784977580599894_CWG_BOWLS_and_PARA_BOWLS_MALAYSIAvsIND_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Malaysia vs India - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre2507/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785032160~acl=/*~id=60949433259552068094138337306027~hmac=2785c9923b96b593e633b8631caf643e9ea96d3c5337c583fc41302ea2c59152
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020999/1784977580599894_CWG_BOWLS_and_PARA_BOWLS_MALAYSIAvsIND_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Malaysia vs India - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2507/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785032160~acl=/*~id=60949433259552068094138337306027~hmac=2785c9923b96b593e633b8631caf643e9ea96d3c5337c583fc41302ea2c59152
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020828/1784789924611352_CWG_generic_day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785036424~acl=/*~id=90788536319585136809117026472342~hmac=05a92a479a22e07ffe46811cfee87b40694f8a82ca1416941cce71016ff3301f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020828/1784789924611352_CWG_generic_day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - 25 Jul 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2507/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785036424~acl=/*~id=90788536319585136809117026472342~hmac=05a92a479a22e07ffe46811cfee87b40694f8a82ca1416941cce71016ff3301f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020828/1784789924611352_CWG_generic_day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - 25 Jul 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2507/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785036424~acl=/*~id=90788536319585136809117026472342~hmac=05a92a479a22e07ffe46811cfee87b40694f8a82ca1416941cce71016ff3301f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020828/1784789924611352_CWG_generic_day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - 25 Jul 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre2507/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785036424~acl=/*~id=90788536319585136809117026472342~hmac=05a92a479a22e07ffe46811cfee87b40694f8a82ca1416941cce71016ff3301f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020828/1784789924611352_CWG_generic_day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - 25 Jul 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2507/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785036424~acl=/*~id=90788536319585136809117026472342~hmac=05a92a479a22e07ffe46811cfee87b40694f8a82ca1416941cce71016ff3301f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073064996_LIV_Golf_UK_Day3_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UK - Day 3 - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_LIV2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785032160~acl=/*~id=60949433259552068094138337306027~hmac=2785c9923b96b593e633b8631caf643e9ea96d3c5337c583fc41302ea2c59152
+https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_LIV2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785036424~acl=/*~id=90788536319585136809117026472342~hmac=05a92a479a22e07ffe46811cfee87b40694f8a82ca1416941cce71016ff3301f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021001/1784978952355879_GYMNASTICS_WOMENS_TEAM_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Women - Gymnastics - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785036424~acl=/*~id=90788536319585136809117026472342~hmac=05a92a479a22e07ffe46811cfee87b40694f8a82ca1416941cce71016ff3301f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784987459606_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Wales vs Botswana - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785032160~acl=/*~id=60949433259552068094138337306027~hmac=2785c9923b96b593e633b8631caf643e9ea96d3c5337c583fc41302ea2c59152
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784984220875_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",England vs Northern Ireland - Netball - Netball - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785032160~acl=/*~id=60949433259552068094138337306027~hmac=2785c9923b96b593e633b8631caf643e9ea96d3c5337c583fc41302ea2c59152
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784979411044_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Women - Gymnastics - 25 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785032160~acl=/*~id=60949433259552068094138337306027~hmac=2785c9923b96b593e633b8631caf643e9ea96d3c5337c583fc41302ea2c59152
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785036424~acl=/*~id=90788536319585136809117026472342~hmac=05a92a479a22e07ffe46811cfee87b40694f8a82ca1416941cce71016ff3301f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784990910704_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",England vs Fiji - Men - Basketball - 25 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785036424~acl=/*~id=90788536319585136809117026472342~hmac=05a92a479a22e07ffe46811cfee87b40694f8a82ca1416941cce71016ff3301f
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -10033,7 +10027,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
