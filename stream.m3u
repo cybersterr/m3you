@@ -6470,10 +6470,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4247440" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247440_53000_SFU_DV_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",San Francisco Unicorns vs Desert Vipers
-https://livecf.fancode.com/4247440_english_hls_4a73bf788950453_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4247199" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="🔸FanCode🔸| Live Events",Malaysia XI vs Sea Hawks Cricket Club
+https://livecf.fancode.com/4247199_english_hls_fafdc64d5b45648_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143640" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",World Feed - Day 1
 https://livecf.fancode.com/143640_english_hls_6cd30c2cc670542_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143516" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 1
+https://livecf.fancode.com/143516_english_hls_15cd232f9a95019_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
@@ -10004,7 +10006,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
