@@ -3201,8 +3201,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd|Cooki
 #EXTINF:-1 tvg-id="1142" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1749665579801_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
-#EXTHTTP:{"Cookie":"hdnea=st=1785576928~exp=1785598528~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=10a845d1fbaa1c2a10d671006bb742569d9863d479f66be44a563e535951d4a6","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785576928~exp=1785598528~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=10a845d1fbaa1c2a10d671006bb742569d9863d479f66be44a563e535951d4a6
+#EXTHTTP:{"Cookie":"hdnea=st=1785598837~exp=1785620437~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=df09b8fb98fdf145c597b61c8794e8b63b781bc8c70f371e23a22e4676a34f53","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785598837~exp=1785620437~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=df09b8fb98fdf145c597b61c8794e8b63b781bc8c70f371e23a22e4676a34f53
 #EXTINF:-1 tvg-id="1143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",Star Utsav
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7fbcce6b77855b8e9eaeebfc0a2ebc4f:1efb331b48f2993c74ec852475e7637f
@@ -4064,8 +4064,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd|Cookie=_
 #EXTINF:-1 tvg-id="1668" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png" group-title="⭕️ JIOTV+ | MOVIES",And Xplor HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf8c5d68566451d4a7310000acde7523:92ac70b12af7f68fd49a0578e4765ab9
-#EXTHTTP:{"Cookie":"hdnea=st=1785575997~exp=1785597597~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=c295b6a6fb8727ad94f6196ee769566b04d6cf5eb99007ecfc2690c89ea22f30","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785575997~exp=1785597597~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=c295b6a6fb8727ad94f6196ee769566b04d6cf5eb99007ecfc2690c89ea22f30
+#EXTHTTP:{"Cookie":"hdnea=st=1785597619~exp=1785619219~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=39a69c91cefdb05c88614530656858332c7161d9aa96f62e5a17adcff52e4491","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785597619~exp=1785619219~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=39a69c91cefdb05c88614530656858332c7161d9aa96f62e5a17adcff52e4491
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="⭕️ JIOTV+ | BENGALI",Sun Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549bd1347c255c15affa44e0607a9c05:1922fbb1ebad4a7ba0f3c77c67b34f89
@@ -4421,8 +4421,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaHD_MOB/WDVLive/index.mpd|Cookie=
 #EXTINF:-1 tvg-id="1984" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
-#EXTHTTP:{"Cookie":"hdnea=st=1785578130~exp=1785599730~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=27e619b9e97282c5b9df3164a75f4f166fc5931c4264e808db3a197e1a01f8a6","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785578130~exp=1785599730~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=27e619b9e97282c5b9df3164a75f4f166fc5931c4264e808db3a197e1a01f8a6
+#EXTHTTP:{"Cookie":"hdnea=st=1785600038~exp=1785621638~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=cf733a8a10958d0a24fe715ffa5076a97cea5fe962fb2dd6e715414ad71d074f","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785600038~exp=1785621638~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=cf733a8a10958d0a24fe715ffa5076a97cea5fe962fb2dd6e715414ad71d074f
 #EXTINF:-1 tvg-id="1985" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
@@ -6478,31 +6478,33 @@ https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index
 https://livecf.fancode.com/4248016_english_hls_d97e92363555615_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4248048" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 3
 https://in-ak-pdlive.akamaized.net/mumbai/4248048_english_hls_64ebdbfd1d81621_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4248047" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",World Feed - Day 3
+https://livecf.fancode.com/4248047_english_hls_84d731038268847_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785542050961298_CWG_Boxing_Final_Emma_Sue_vs_Lovlina_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Emma-Sue Greentree vs Lovlina Borgohain - Women's 75 kg - Boxing - Final - 1 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785542050961298_CWG_Boxing_Final_Emma_Sue_vs_Lovlina_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Emma-Sue Greentree vs Lovlina Borgohain - Women's 75 kg - Boxing - Final - 1 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785542050961298_CWG_Boxing_Final_Emma_Sue_vs_Lovlina_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Emma-Sue Greentree vs Lovlina Borgohain - Women's 75 kg - Boxing - Final - 1 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785542050961298_CWG_Boxing_Final_Emma_Sue_vs_Lovlina_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Emma-Sue Greentree vs Lovlina Borgohain - Women's 75 kg - Boxing - Final - 1 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785542050961298_CWG_Boxing_Final_Emma_Sue_vs_Lovlina_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Emma-Sue Greentree vs Lovlina Borgohain - Women's 75 kg - Boxing - Final - 1 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021624/1785593572979106_CWG_Boxing_Final_ANKUSH_vs_DIMEJI_SHITTU_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ankush vs Dimeji Shittu - Men's 80 kg - Boxing - Final - 1 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785649120~acl=/*~id=46980344663968113488225437891994~hmac=06b685757f3fc32a7d56a4468bb1451a6282ab05c7dcb5e00dcb92b741dfb4de
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021624/1785593572979106_CWG_Boxing_Final_ANKUSH_vs_DIMEJI_SHITTU_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ankush vs Dimeji Shittu - Men's 80 kg - Boxing - Final - 1 Aug 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785649120~acl=/*~id=46980344663968113488225437891994~hmac=06b685757f3fc32a7d56a4468bb1451a6282ab05c7dcb5e00dcb92b741dfb4de
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021624/1785593572979106_CWG_Boxing_Final_ANKUSH_vs_DIMEJI_SHITTU_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ankush vs Dimeji Shittu - Men's 80 kg - Boxing - Final - 1 Aug 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785649120~acl=/*~id=46980344663968113488225437891994~hmac=06b685757f3fc32a7d56a4468bb1451a6282ab05c7dcb5e00dcb92b741dfb4de
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021624/1785593572979106_CWG_Boxing_Final_ANKUSH_vs_DIMEJI_SHITTU_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ankush vs Dimeji Shittu - Men's 80 kg - Boxing - Final - 1 Aug 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785649120~acl=/*~id=46980344663968113488225437891994~hmac=06b685757f3fc32a7d56a4468bb1451a6282ab05c7dcb5e00dcb92b741dfb4de
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021624/1785593572979106_CWG_Boxing_Final_ANKUSH_vs_DIMEJI_SHITTU_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ankush vs Dimeji Shittu - Men's 80 kg - Boxing - Final - 1 Aug 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785649120~acl=/*~id=46980344663968113488225437891994~hmac=06b685757f3fc32a7d56a4468bb1451a6282ab05c7dcb5e00dcb92b741dfb4de
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021597/1785571950848789_UFC_Fight_Night_Medic_vs_Rodriguez_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UFC Fight Night - Medic vs Rodriguez - 1 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea
+https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785649120~acl=/*~id=46980344663968113488225437891994~hmac=06b685757f3fc32a7d56a4468bb1451a6282ab05c7dcb5e00dcb92b741dfb4de
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021597/1785571950848789_UFC_Fight_Night_Medic_vs_Rodriguez_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UFC Fight Night - Medic vs Rodriguez - 1 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785599578096_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Women's 1000m Time Trial - Cycling - 1 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785602161349_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Rachael Hawkes vs Charlie Thibault - Women -70 kg - Judo - 1 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Emma-Sue Greentree vs Lovlina Borgohain - Women's 75 kg - Boxing - Final - 1 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785598206201_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Katherine Rednall vs Daphne Arthur-Almond - Women's Singles - Bowls and Para Bowls - 1 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785645455~acl=/*~id=66708108449889857567081331125092~hmac=5498cef8ddb03a4362d12781b136a60bba23ec1b226759c4024bca25f4431cea
+https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785649120~acl=/*~id=46980344663968113488225437891994~hmac=06b685757f3fc32a7d56a4468bb1451a6282ab05c7dcb5e00dcb92b741dfb4de
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021601/1785575010456396_CWG_BOWLS_SOUTH-AFRICA-v-INDIA_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",South Africa vs India - Bowls and Para Bowls - 1 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785649120~acl=/*~id=46980344663968113488225437891994~hmac=06b685757f3fc32a7d56a4468bb1451a6282ab05c7dcb5e00dcb92b741dfb4de
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785604220367_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Men's Sprint - Cycling - 1 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785649120~acl=/*~id=46980344663968113488225437891994~hmac=06b685757f3fc32a7d56a4468bb1451a6282ab05c7dcb5e00dcb92b741dfb4de
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785605348656_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Scott Cusack vs Danny Vojnikovich - Men -90 kg - Judo - 1 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785649120~acl=/*~id=46980344663968113488225437891994~hmac=06b685757f3fc32a7d56a4468bb1451a6282ab05c7dcb5e00dcb92b741dfb4de
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ankush vs Dimeji Shittu - Men's 80 kg - Boxing - Final - 1 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785649120~acl=/*~id=46980344663968113488225437891994~hmac=06b685757f3fc32a7d56a4468bb1451a6282ab05c7dcb5e00dcb92b741dfb4de
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -6571,7 +6573,7 @@ https://mactom3u.vodep39240327.workers.dev/5642.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="Default" tvg-name="GLOBAL NEWS." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5647.png" group-title="ENGLISH | NEWS",GLOBAL NEWS.
 https://mactom3u.vodep39240327.workers.dev/5647.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="msnbc.us" tvg-name="MS NOW" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5650.jpg" group-title="ENGLISH | NEWS",MS NOW
-https://mactom3u.vodep39240327.workers.dev/5650.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/482345.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="NBC NEWS NOW" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5651.png" group-title="ENGLISH | NEWS",NBC NEWS NOW
 https://mactom3u.vodep39240327.workers.dev/5651.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="pbswliw21.us" tvg-name="NEWS 12 LONG ISLAND." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5652.png" group-title="ENGLISH | NEWS",NEWS 12 LONG ISLAND.
@@ -7847,7 +7849,7 @@ https://mactom3u.vodep39240327.workers.dev/480588.m3u8?host=tv.saartv.cc&path=%2
 #EXTINF:-1 tvg-id="channel_255" tvg-name="HINDI BOX OFFICE COLLECTION (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71489.jpg" group-title="HINDI | 24X7 MOVIES",HINDI BOX OFFICE COLLECTION (4K)
 https://mactom3u.vodep39240327.workers.dev/474815.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_223" tvg-name="FILMFARE WINNING MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71490.jpeg" group-title="HINDI | 24X7 MOVIES",FILMFARE WINNING MOVIES (4K)
-https://mactom3u.vodep39240327.workers.dev/482253.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/http://23.237.105.114/247_4K_FILMFARE_WINNING_MOVIES/index.m3u8.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_354" tvg-name="HINDI SUPERHIT MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76221.jpg" group-title="HINDI | 24X7 MOVIES",HINDI SUPERHIT MOVIES (4K)
 https://mactom3u.vodep39240327.workers.dev/479851.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_222" tvg-name="HINDI CLASSIC BLOCKBUSTER (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76224.jpg" group-title="HINDI | 24X7 MOVIES",HINDI CLASSIC BLOCKBUSTER (4K)
@@ -10027,7 +10029,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
