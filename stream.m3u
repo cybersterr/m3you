@@ -666,171 +666,7 @@ https://cloudplay-sonyliv.pages.dev/aath.m3u8
 
 # ---------------=== 🎬 OTT | SUNXT ===-------------------
 
-#EXTINF:-1 tvg-id="194408" tvg-logo="https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg" group-title="🎬 OTT | SUNXT",Sun TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd
-#EXTINF:-1 tvg-id="194403" tvg-logo="https://sund-images.sunnxt.com/194403/640x360_SunTVHD_194403_522c701c-4770-4934-a6d3-47045b0d4fa5.jpg" group-title="🎬 OTT | SUNXT",Sun TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
-#EXTINF:-1 tvg-id="194387" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg" group-title="🎬 OTT | SUNXT",Sun Marathi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31:30899fda5ca4dfb5a4535ce10c4d7341
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_index.mpd
-#EXTINF:-1 tvg-id="194406" tvg-logo="https://sund-images.sunnxt.com/194406/640x360_SunMusicHD_194406_87e8d029-f695-477c-9ace-a3c2cbe15004.jpg" group-title="🎬 OTT | SUNXT",Sun Music HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
-#EXTINF:-1 tvg-id="194410" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" group-title="🎬 OTT | SUNXT",Sun Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21ddc14c4da94c079d4f4c343ecdcd80:5701bee4ee9b625d0c8ed7de032a7478
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/585bb66e95c84ccea3f828c96b3567b5/SunMusicB_IN_index.mpd
-#EXTINF:-1 tvg-id="194391" tvg-logo="https://sund-images.sunnxt.com/194391/640x360_SunLife_194391_d407948a-b7a2-4a1f-8409-56f7261cefa1.jpg" group-title="🎬 OTT | SUNXT",Sun Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
-#EXTINF:-1 tvg-id="194388" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg" group-title="🎬 OTT | SUNXT",Sun Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
-#EXTINF:-1 tvg-id="194404" tvg-logo="https://sund-images.sunnxt.com/194404/640x360_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg" group-title="🎬 OTT | SUNXT",Sun News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4df8f920386e4346ba6b7d7ae935d668:c5fcaa8df5663365d938a50987f71b84
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd
-#EXTINF:-1 tvg-id="194409" tvg-logo="https://sund-images.sunnxt.com/194409/640x360_KTV_194409_91b39445-b996-4e46-bafa-b78548e4da2e.jpg" group-title="🎬 OTT | SUNXT",KTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=426117d115b04497b0b0d425e8095184:aa751ae8a41ac6f87141734163ffe3b2
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd
-#EXTINF:-1 tvg-id="194405" tvg-logo="https://sund-images.sunnxt.com/194405/640x360_KTVHD_194405_3c6880f0-468e-48f4-b09a-89fd5fed775d.jpg" group-title="🎬 OTT | SUNXT",KTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
-#EXTINF:-1 tvg-id="194397" tvg-logo="https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg" group-title="🎬 OTT | SUNXT",Surya HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
-#EXTINF:-1 tvg-id="194398" tvg-logo="https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg" group-title="🎬 OTT | SUNXT",Surya
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56e1f5b5b72e4e45a98b6f287c265ab9:6dee8663e63cc8f8dda8478b8b2f3b71
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd
-#EXTINF:-1 tvg-id="194385" tvg-logo="https://sund-images.sunnxt.com/194385/640x360_SuryaMovies_194385_2d5dbc38-915d-4e41-b8b0-ea98ca6c88d3.jpg" group-title="🎬 OTT | SUNXT",Surya Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
-#EXTINF:-1 tvg-id="194338" tvg-logo="https://sund-images.sunnxt.com/194338/640x360_SuryaMusic_194338_7fe35164-9a93-45ad-92a1-31126e592a84.jpg" group-title="🎬 OTT | SUNXT",Surya Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
-#EXTINF:-1 tvg-id="193251" tvg-logo="https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg" group-title="🎬 OTT | SUNXT",Surya Comedy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
-#EXTINF:-1 tvg-id="194399" tvg-logo="https://sund-images.sunnxt.com/194399/640x360_UdayaTVHD_194399_728eed6e-6e9e-469c-8ad4-b9d1ef48ca8c.jpg" group-title="🎬 OTT | SUNXT",Udaya HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b5f2d0205c4527b7aa3e41f35e1e7f:66ddb1a017753f966e20442ab2f91f18
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream16.sunnxt.com/a8d28f18944c4946ad7133938860e7cf/UdayaTVHDB_IN_index.mpd
-#EXTINF:-1 tvg-id="193239" tvg-logo="https://sund-images.sunnxt.com/193239/640x360_TestChannel_193239_e9155a54-81ab-49a1-9b95-0cd81b234dc0.jpg" group-title="🎬 OTT | SUNXT",Udaya
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3084683c80234b6bbf69abfd5bb258a0:4ae6b547e5c8f51329a12d7953ee4c72
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream5.sunnxt.com/e2f36b5d0be74780a041a8f5b65bc7e6/UdayaTVB_IN_index.mpd
-#EXTINF:-1 tvg-id="194397" tvg-logo="https://sund-images.sunnxt.com/194386/640x360_UdayaMovies_194386_429c7b3b-44a9-4328-8be3-645621c6e167.jpg" group-title="🎬 OTT | SUNXT",Udaya Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4dbffb517824732a955ca02dd6aacd9:83c2aa2946432f1ded7c049efe79feef
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/1c02547243c041eea5dab1c343018e90/UdayaMoviesB_IN_index.mpd
-#EXTINF:-1 tvg-id="194401" tvg-logo="https://sund-images.sunnxt.com/194401/640x360_UdayaMusic_194401_c6816391-ea32-4780-bf8f-25cb839cef89.jpg" group-title="🎬 OTT | SUNXT",Udaya Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ac3472b0040459cab52035ead6fe1ae:ba9fe9dd1b8e5421e2f8c9d23bd86922
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/8034b7519d6a4ab8929aa4279fda1f29/UdayaMusicB_IN_index.mpd
-#EXTINF:-1 tvg-id="194400" tvg-logo="https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg" group-title="🎬 OTT | SUNXT",Udaya Comedy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71329783aeb74e6e9e1014fb9e4c30f4:1e025a9ed7e50fa35b8de2c96cccdd6b
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/8a3d3d8d679b4f9f83a8305b4ead0644/UdayaComedyB_IN_index.mpd
-#EXTINF:-1 tvg-id="194396" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg" group-title="🎬 OTT | SUNXT",Gemini TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ec6fa5b77ff4223a376c2b98032fbf8:afe96f602fd6abedcd9c2c8cdf799afd
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd
-#EXTINF:-1 tvg-id="194392" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg" group-title="🎬 OTT | SUNXT",Gemini HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
-#EXTINF:-1 tvg-id="192537" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg" group-title="🎬 OTT | SUNXT",Gemini Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd
-#EXTINF:-1 tvg-id="194384" tvg-logo="https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg" group-title="🎬 OTT | SUNXT",Gemini Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd
-#EXTINF:-1 tvg-id="194393" tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg" group-title="🎬 OTT | SUNXT",Gemini Music HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76230567f3c04513a7e5d1249ab65983:4ee6dc9a99d894dc41b0878d6ea22790
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
-#EXTINF:-1 tvg-id="194395" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" group-title="🎬 OTT | SUNXT",Gemini Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0faa2e9469fc45fdaf1728333351ec71:ffcf9dee6ede62bd8740dacfaa0c1e59
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
-#EXTINF:-1 tvg-id="194394" tvg-logo="https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg" group-title="🎬 OTT | SUNXT",Gemini Comedy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93e686ceac134f30b0a7bc3ce5a76b26:2c37e97fa0646751e1f2b85bc4b9ff8a
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd
-#EXTINF:-1 tvg-id="194337" tvg-logo="https://sund-images.sunnxt.com/194337/640x360_TestGeminiLife_194337_1927e76e-b04a-428b-a0fc-6aa5ed06fa88.jpg" group-title="🎬 OTT | SUNXT",Gemini Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96d5157791ea4817a66a419e285a137f:d6d0ad2a9a6cc56e18d7557c7c693a37
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
-#EXTINF:-1 tvg-id="194407" tvg-logo="https://sund-images.sunnxt.com/194407/960x540_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg" group-title="🎬 OTT | SUNXT",Adithya TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
-#EXTINF:-1 tvg-id="194346" tvg-logo="https://sund-images.sunnxt.com/194346/960x540_KushiTV_194346_b0eff97b-4670-42fb-9d87-49d78fab6f3a.jpg" group-title="🎬 OTT | SUNXT",Kushi TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e16421cf7c374c57a8f7e91049f58cd9:b7e01aba2c307b1f05057e91a9d150d2
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/4a736d41608849758a0aed36949ded30/KushiTVB_IN_index.mpd
-#EXTINF:-1 tvg-id="194390" tvg-logo="https://sund-images.sunnxt.com/194390/640x360_ChuttiTV_194390_61005292-313a-45b4-b6a8-3ac5128a513e.jpg" group-title="🎬 OTT | SUNXT",Chutti TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
-#EXTINF:-1 tvg-id="194348" tvg-logo="https://sund-images.sunnxt.com/194348/960x540_KochuTV_194348_9777cbfd-685b-4e06-a7cc-f2902c1874e8.jpg" group-title="🎬 OTT | SUNXT",Kochu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7354fb333b0c4159bc6c433c4db13d0f:fbf8b4a11febf7d2eed2283006979176
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd
-#EXTINF:-1 tvg-id="194347" tvg-logo="https://sund-images.sunnxt.com/194347/960x540_ChintuTV_194347_64af5425-0ed0-4c8a-b071-00ef86eaefde.jpg" group-title="🎬 OTT | SUNXT",Chintu TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=19d8a5cc002f411b89b33925acdc33e0:2a9aa7a3f69834c4f348430cc3f658bb
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6"}
-https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
+
 
 # ---------------=== ⭕ JioTv+ ===-------------------
 
@@ -847,8 +683,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd|Cookie=__h
 #EXTINF:-1 tvg-id="146" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",History TV18 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5105a616fb95ce48dbde4fe9d7960ad:272d2bcff8430174fdd5aaf6f93abb6b
-#EXTHTTP:{"Cookie":"hdnea=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8","User-Agent":""}
-https://jiotvmblive.cdn.jio.com/bpk-tv/History_HD_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8
+#EXTHTTP:{"Cookie":"hdnea=st=1785886235~exp=1785907835~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=f78a3fd26e41cca195108d29d65014b0c121473bd8269fe6143930e35678d007","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785886235~exp=1785907835~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=f78a3fd26e41cca195108d29d65014b0c121473bd8269fe6143930e35678d007
 #EXTINF:-1 tvg-id="151" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -872,8 +708,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd|Cookie
 #EXTINF:-1 tvg-id="164" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Travelxp HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=157cd1bd71a256fe8ab763ba280320e5:6befde8b90b6926423cc83775b8dcb59
-#EXTHTTP:{"Cookie":"hdnea=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8","User-Agent":""}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_HD_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8
+#EXTHTTP:{"Cookie":"hdnea=st=1785874987~exp=1785878587~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=0e51e73876f200c206ef69b54e857c8fa974b3b7c06d50740bccaa9f5ac54cc7","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785874987~exp=1785878587~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=0e51e73876f200c206ef69b54e857c8fa974b3b7c06d50740bccaa9f5ac54cc7
 #EXTINF:-1 tvg-id="165" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="⭕️ JIOTV+ | MOVIES",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d51baa27315cbfa26df35c3c3e47b6:c3b38db5542719e8e10008e9193089e6
@@ -1129,8 +965,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeYuva_MOB/WDVLive/index.mpd|Cookie=__hd
 #EXTINF:-1 tvg-id="415" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png" group-title="⭕️ JIOTV+ | MOVIES",Zee Anmol Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5f46c3bb170561ab93db79c032825b5:a834101c520ab2af65add91e5e9a2b61
-#EXTHTTP:{"Cookie":"hdnea=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8","User-Agent":""}
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8
+#EXTHTTP:{"Cookie":"hdnea=st=1785886238~exp=1785907838~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=4be9679869ff86a1d0af5acaaf7cd59da8e1013dedd01116377d9346f6c04b01","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785886238~exp=1785907838~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=4be9679869ff86a1d0af5acaaf7cd59da8e1013dedd01116377d9346f6c04b01
 #EXTINF:-1 tvg-id="417" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="⭕️ JIOTV+ | TAMIL",J Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531467efbbf156d793766adfe62d6a26:3e4eef5502a6da48b91894c33310ea93
@@ -1522,8 +1358,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Food_Food_MOB/WDVLive/index.mpd|Cookie=__
 #EXTINF:-1 tvg-id="562" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="⭕️ JIOTV+ | LIFESTYLE",Travelxp HD Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad093fffe09f50cdbc1afdea17c551e3:939685a7d928a4e9444ec4c47309703c
-#EXTHTTP:{"Cookie":"hdnea=st=1785864013~exp=1785885613~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=526205a1499d7fbef25bd740b679119173a3562c6652180aa1ac15ad1bce3ae7","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785864013~exp=1785885613~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=526205a1499d7fbef25bd740b679119173a3562c6652180aa1ac15ad1bce3ae7
+#EXTHTTP:{"Cookie":"hdnea=st=1785886806~exp=1785908406~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=7268f60f85a2278d53ceaba0b20531e94568e782b43815b3330fccc3b0376af3","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785886806~exp=1785908406~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=7268f60f85a2278d53ceaba0b20531e94568e782b43815b3330fccc3b0376af3
 #EXTINF:-1 tvg-id="563" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="⭕️ JIOTV+ | MALAYALAM",Kaumudy TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11b2468a2aaf5b6cab8aed101783e444:cb302b5c4c15bfc3b4571859865a813b
@@ -2431,8 +2267,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNTamil_MOB/WDVLive/index.mpd|Cookie=__hd
 #EXTINF:-1 tvg-id="821" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="⭕️ JIOTV+ | INFOTAINMENT",Sony BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d533dd92ca057ce85910fbb98be77d5:442690c7c5852ca7c63b63d483ab6bc3
-#EXTHTTP:{"Cookie":"hdnea=st=1785864925~exp=1785886525~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=489e5d93b3557cd4bb4cad97fb2d7f66de4ece668e09513bb466352fa1a6a09d","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785864925~exp=1785886525~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=489e5d93b3557cd4bb4cad97fb2d7f66de4ece668e09513bb466352fa1a6a09d
+#EXTHTTP:{"Cookie":"hdnea=st=1785886808~exp=1785908408~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=233c06070c517397122030c80d99a392721faec799db18ce660e63f032a5c0c7","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785886808~exp=1785908408~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=233c06070c517397122030c80d99a392721faec799db18ce660e63f032a5c0c7
 #EXTINF:-1 tvg-id="824" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="⭕️ JIOTV+ | TAMIL",Puthu Yugam
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52fa7c567015541b99106fc5ad577663:16b6bf1201d5dcc541e099c5ff92f7eb
@@ -3504,13 +3340,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd|Cook
 #EXTINF:-1 tvg-id="1332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=999ce48f3e4d5de8b72c34f213176d9e:13e3ca891d32d158d8108007fef88388
-#EXTHTTP:{"Cookie":"hdnea=st=1785865817~exp=1785887417~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=5cbac19b2dbe078d0320ce567a1dcd635efb6c16c22722fa1b5d5a71d71d522a","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785865817~exp=1785887417~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=5cbac19b2dbe078d0320ce567a1dcd635efb6c16c22722fa1b5d5a71d71d522a
+#EXTHTTP:{"Cookie":"hdnea=st=1785887439~exp=1785909039~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=acc619b7836bd6ca4c7662ae74682a04368ac5ff4f42b617227f8a7ffb2b4919","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785887439~exp=1785909039~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=acc619b7836bd6ca4c7662ae74682a04368ac5ff4f42b617227f8a7ffb2b4919
 #EXTINF:-1 tvg-id="1335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3af1f24c63a5cc2bf71921eed28d1ff:80f4de40d7603bd8e45fe41db53f5198
-#EXTHTTP:{"Cookie":"hdnea=st=1785865819~exp=1785887419~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=8f6fa98c1bcd87dc2b6ae0f8e71135e20d933941a433f542dcddc9007cebc736","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785865819~exp=1785887419~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=8f6fa98c1bcd87dc2b6ae0f8e71135e20d933941a433f542dcddc9007cebc736
+#EXTHTTP:{"Cookie":"hdnea=st=1785887441~exp=1785909041~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=0ff83249e2a668df55f0a102a79515852f233d39032c7777e7d8516567ab0a57","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785887441~exp=1785909041~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=0ff83249e2a668df55f0a102a79515852f233d39032c7777e7d8516567ab0a57
 #EXTINF:-1 tvg-id="1338" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="⭕️ JIOTV+ | ENGLISH",RT India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=646b9977f3dc517b8c1b938b908ed875:7ec4802fd3c2f3a87f2e3b4df9c3f310
@@ -4064,8 +3900,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd|Cookie=_
 #EXTINF:-1 tvg-id="1668" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png" group-title="⭕️ JIOTV+ | MOVIES",And Xplor HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf8c5d68566451d4a7310000acde7523:92ac70b12af7f68fd49a0578e4765ab9
-#EXTHTTP:{"Cookie":"hdnea=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8","User-Agent":""}
-https://jiotvmblive.cdn.jio.com/bpk-tv/AndXploreHD_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8
+#EXTHTTP:{"Cookie":"hdnea=st=1785886813~exp=1785908413~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=3706bfac168618e2be2b37643b4cc87defd6a2a275e77b0770ed8a1822203eec","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1785886813~exp=1785908413~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=3706bfac168618e2be2b37643b4cc87defd6a2a275e77b0770ed8a1822203eec
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="⭕️ JIOTV+ | BENGALI",Sun Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549bd1347c255c15affa44e0607a9c05:1922fbb1ebad4a7ba0f3c77c67b34f89
@@ -6467,17 +6303,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|Cookie=__hdn
 #KODIPROP:inputstream.adaptive.license_key=59414fca13b95985ad38ba9074840a81:16e62faf7f2ef75112ebb98377a2a03e
 #EXTHTTP:{"Cookie":"hdnea=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8
-
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="4248066" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",World Feed
-https://livecf.fancode.com/4248066_english_hls_f60cf3662559481_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4248067" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Rogers Court
-https://livecf.fancode.com/4248067_english_hls_9d75ed2e2276858_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4248068" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court 5
-https://livecf.fancode.com/4248068_english_hls_469771a15198481_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4248069" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Center Court
-https://livecf.fancode.com/4248069_english_hls_1f03754f4d12088_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
