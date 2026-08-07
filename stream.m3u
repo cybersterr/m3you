@@ -6472,13 +6472,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 #EXTINF:-1 tvg-id="4247973" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247973_53005_EDR_WDL_fc-Web.png" group-title="🔸FanCode🔸| Live Events",East Delhi Riders vs West Delhi Lions
 https://in-mc-flive.fancode.com/mumbai/4247973_english_hls_f38b335ba477974_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786175423~_GO=Generated~acl=/mumbai/4247973_english_hls_f38b335ba477974_1ta-di_h264/*~Signature=AYCJ36Qytvey170Xnfmk26QMxOftejlBLbn9tQc1WLYyGiwxhEtpMpjm1qDYqeMm8sAnvSsVOzB-BH2roX67AVThoy0H
+#EXTINF:-1 tvg-id="4248052" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png" group-title="🔸FanCode🔸| Live Events",Ireland vs Afghanistan
+https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC
+#EXTINF:-1 tvg-id="4248214" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248214_53013_SCO_CAN_fc-Web.png" group-title="🔸FanCode🔸| Live Events",Scotland vs Canada
+https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786182705~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TPyATvJOlcWk-_DiXSRpvWrlvRt23xp70nTcorjOm-X_2sq1kS-gEwfmWRjBilD_5Xqul8b4UFrB59f5pdRbMP
 #EXTINF:-1 tvg-id="139960" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png" group-title="🔸FanCode🔸| Live Events",Great Britain GP
 https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021882/1786078899750452_SLvsIND_warmup_match1_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - SLC XI vs IND - Warm-Up Match - 7 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786137032~acl=/*~id=76687997338698381756147204087788~hmac=f943ee828d65ff7aef10903fbe6f2ea6e85a3edeb9add911b6784a5c80aa0af6
+https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786140674~acl=/*~id=09536140694845532045583274198237~hmac=7c75493d77caec70f81393b3fef6f04b0058df3ae791bf22666a5cec2bbde3cb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707590058385_DC26_SC_DELHI_vs_Defenders_FC_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",SC DELHI vs Defenders FC - 7 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786140674~acl=/*~id=09536140694845532045583274198237~hmac=7c75493d77caec70f81393b3fef6f04b0058df3ae791bf22666a5cec2bbde3cb
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -8075,7 +8081,7 @@ https://mactom3u.vodep39240327.workers.dev/481501.m3u8?host=tv.saartv.cc&path=%2
 #EXTINF:-1 tvg-id="channel_1390" tvg-name="HINDI KIDS MOVIES 2014 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77858.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 2014 (4K)
 https://mactom3u.vodep39240327.workers.dev/481502.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_1391" tvg-name="HINDI KIDS MOVIES 2013 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77859.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 2013 (4K)
-https://mactom3u.vodep39240327.workers.dev/482337.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/481503.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_1506" tvg-name="HINDI KIDS NETFLIX MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77860.jpeg" group-title="HINDI | KIDS",HINDI KIDS NETFLIX MOVIES (4K)
 https://mactom3u.vodep39240327.workers.dev/481504.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_1507" tvg-name="HINDI KIDS AMAZON MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77861.jpeg" group-title="HINDI | KIDS",HINDI KIDS AMAZON MOVIES (4K)
@@ -9017,7 +9023,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
