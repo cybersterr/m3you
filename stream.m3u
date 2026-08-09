@@ -6316,13 +6316,15 @@ https://in-mc-flive.fancode.com/mumbai/4248251_english_hls_a55b374f6f72356_1ta-d
 https://in-mc-flive.fancode.com/mumbai/4248252_english_hls_f60f2cbc1825320_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786340664~_GO=Generated~acl=/mumbai/4248252_english_hls_f60f2cbc1825320_1ta-di_h264/*~Signature=AYCJ36TIZUx42NcWaT8bU3kXQbPFZv-r3fgknqYRH5trIIN0iwakVUKXEuxzTVW1ZLQlTB-vuOa1OrADpT-LE91ruYwH
 #EXTINF:-1 tvg-id="139962" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png" group-title="🔸FanCode🔸| Live Events",Great Britain GP
 https://in-mc-flive.fancode.com/mumbai/139962_english_hls_ca15573da914817_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786346740~_GO=Generated~acl=/mumbai/139962_english_hls_ca15573da914817_1ta-di_h264/*~Signature=AYCJ36RFBIJioixeiSFySXzxfTFt4FWIeyhn4AVfzRYui2LEiv9f_8hk16qmQJbAKzWDbIMddwPXS9j1YyP8VN7hi0QB
+#EXTINF:-1 tvg-id="4248188" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png" group-title="🔸FanCode🔸| Live Events",Day 4 - Main Feed
+https://in-mc-flive.fancode.com/mumbai/4248188_english_hls_d4ba5c1f0f69476_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786358896~_GO=Generated~acl=/mumbai/4248188_english_hls_d4ba5c1f0f69476_1ta-di_h264/*~Signature=AYCJ36RxvGZOTgvcubXhqDDpkhXdx5WtF7RUX_vNqzgjArA0nVBMZAd-pgn0QYy8yi4C_ha-eXxRjNlbfm4ttBSqIa8A
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127931146710_SLvsIND_warm_up_match_day3_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 3 - SLC XI vs IND - Warm-Up Match - 9 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786313681~acl=/*~id=61594196718580166268673482175791~hmac=8290bdcdf95588c9942fa3b130f4be8ea1b29c41d17caa2bcf848d08cb14820d
+https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786316125~acl=/*~id=31343816140316972220886035606528~hmac=36db334d7190c12a0982441ecedb2528f04950a477ea0bcf9dd79c882f47c6b8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708165809385_DC26_Trau_FC_vs_Indian_Navy_FT_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Trau FC vs Indian Navy FT - 9 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/Football0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786313681~acl=/*~id=61594196718580166268673482175791~hmac=8290bdcdf95588c9942fa3b130f4be8ea1b29c41d17caa2bcf848d08cb14820d
+https://sonydaimenew.akamaized.net/hls/live/20000296/Football0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786316125~acl=/*~id=31343816140316972220886035606528~hmac=36db334d7190c12a0982441ecedb2528f04950a477ea0bcf9dd79c882f47c6b8
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -9821,7 +9823,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
