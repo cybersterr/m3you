@@ -6330,15 +6330,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 https://in-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786773292~_GO=Generated~acl=/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/*~Signature=AVMBkTWAPh_0-4AuZ8EPEPsOMN-oIVH2KuYPE3PK4hapWjw1wJ1dLAPsIQcS4VRuVwOo0UJzn-aG-X9mrsnsRJogb1kB
 #EXTINF:-1 tvg-id="4248258" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png" group-title="🔸FanCode🔸| Live Events",Singapore vs Italy
 https://in-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786773293~_GO=Generated~acl=/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/*~Signature=AVMBkTWvYYudURw5xHsNjSJxL_rqXbq9eI1vgrcaXxOy35WRTNsMscCcjfdHxqVk1rJUJGPJpyw1NyHWeqLJe7YOQCwI
-#EXTINF:-1 tvg-id="4248372" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248372_53031_FIN_ESP_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Finland vs Spain
-https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H
-#EXTINF:-1 tvg-id="4248380" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248380_53031_ISR_POR_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Portugal vs Israel
-https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN
+#EXTINF:-1 tvg-id="4248407" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 2
+https://in-mc-flive.fancode.com/mumbai/4248407_english_hls_19c2e970ef23640_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786794558~_GO=Generated~acl=/mumbai/4248407_english_hls_19c2e970ef23640_1ta-di_h264/*~Signature=AVMBkTUdIpLJgysVoz1pVLdCMDn8UrAPFQn4JaOICM8KkXiIHptTFAuIHHCjI3axmG-URYhHYfkSrgS4_or7sZfjTCUM
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703350892390_DP_World_Tour_Danish_Golf_Championship_day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Danish Golf Championship - Day 2 - 14 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786749527~acl=/*~id=75465450598204802022484479108791~hmac=6aa2a7cc82f8e41c95a05cf7ed4269170db44780860fe646cf76c4f276cdc9b6
+https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786751955~acl=/*~id=03332257484153915104450631001796~hmac=2b9da438d2878b578d14274745cb6b9cef6b486476dd58ebb62acca859ca8c14
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -7671,7 +7669,7 @@ https://mactom3u.vodep39240327.workers.dev/480588.m3u8?host=tv.saartv.cc&path=%2
 #EXTINF:-1 tvg-id="channel_255" tvg-name="HINDI BOX OFFICE COLLECTION (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71489.jpg" group-title="HINDI | 24X7 MOVIES",HINDI BOX OFFICE COLLECTION (4K)
 https://mactom3u.vodep39240327.workers.dev/474815.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_223" tvg-name="FILMFARE WINNING MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71490.jpeg" group-title="HINDI | 24X7 MOVIES",FILMFARE WINNING MOVIES (4K)
-https://mactom3u.vodep39240327.workers.dev/482253.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/http://23.237.105.114/247_4K_FILMFARE_WINNING_MOVIES/index.m3u8.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_354" tvg-name="HINDI SUPERHIT MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76221.jpg" group-title="HINDI | 24X7 MOVIES",HINDI SUPERHIT MOVIES (4K)
 https://mactom3u.vodep39240327.workers.dev/479851.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_222" tvg-name="HINDI CLASSIC BLOCKBUSTER (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76224.jpg" group-title="HINDI | 24X7 MOVIES",HINDI CLASSIC BLOCKBUSTER (4K)
