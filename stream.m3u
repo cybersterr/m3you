@@ -3359,8 +3359,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd|Cook
 #EXTINF:-1 tvg-id="1332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=999ce48f3e4d5de8b72c34f213176d9e:13e3ca891d32d158d8108007fef88388
-#EXTHTTP:{"Cookie":"hdnea=st=1786792809~exp=1786814409~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=e70bca95096ff76819e3798e07cd5c2a6fdcb8fbc0a4e73117dc95bc201f1749","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786792809~exp=1786814409~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=e70bca95096ff76819e3798e07cd5c2a6fdcb8fbc0a4e73117dc95bc201f1749
+#EXTHTTP:{"Cookie":"hdnea=st=1786788037~exp=1786809637~acl=/*~hmac=5837b0d3a87b249b4b11fb240d6dc3a7d669d73a3a28f0397c838b66f6e3fae3","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1786788037~exp=1786809637~acl=/*~hmac=5837b0d3a87b249b4b11fb240d6dc3a7d669d73a3a28f0397c838b66f6e3fae3
 #EXTINF:-1 tvg-id="1335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3af1f24c63a5cc2bf71921eed28d1ff:80f4de40d7603bd8e45fe41db53f5198
@@ -6328,8 +6328,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 #EXTINF:-1 tvg-id="4248336" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web_1786702852057.png" group-title="🔸FanCode🔸| Live Events",Lucknow Falcons vs Gaur Gorakhpur Lions
 https://in-mc-flive.fancode.com/mumbai/4248336_hindi_hls_4ea7034b4f81248_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786888435~_GO=Generated~acl=/mumbai/4248336_hindi_hls_4ea7034b4f81248_1ta-di_h264/*~Signature=AVMBkTVM7D64US7yLrKgpyCVWhUw6Rjoy7MDlDfeSRK85EnJX53edzPqwhr0Qz03bwyJ6_ruyEIyVE_aZDQko7nUrB8K
-#EXTINF:-1 tvg-id="4247469" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247469_52993_SHF_BIR_fc-web_1786657253100.jpg" group-title="🔸FanCode🔸| Live Events",Sheffield United F.C. vs Birmingham City F.C.
-https://in-mc-flive.fancode.com/mumbai/4247469_english_hls_87ddacb9a812444_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786897028~_GO=Generated~acl=/mumbai/4247469_english_hls_87ddacb9a812444_1ta-di_h264/*~Signature=AVMBkTWOLDU2zTgeuCpcK9FT9JqR5swF5KH9ZVe9hr7nZgIvYbEGeTBysq7zMpN8ILV1R59ZPL-XTICNdAHkEF4-m7wI
 #EXTINF:-1 tvg-id="4247576" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247576_53004_ALA_GEF_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Deportivo Alaves vs Getafe CF
 https://in-mc-flive.fancode.com/mumbai/4247576_english_hls_24b7f1367d58903_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786900090~_GO=Generated~acl=/mumbai/4247576_english_hls_24b7f1367d58903_1ta-di_h264/*~Signature=AVMBkTVqgGSYSndgm3LHP7E0CpxRmRce-fOgSGNS5smZkM1n65hx0kOSoQwNmT5e2LpAEYuYv5ipe-og989w4hUUACUA
 #EXTINF:-1 tvg-id="4248268" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248268_53025_ITT_ALK_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Al-Ittihad vs Al-Kholood Club
@@ -7946,7 +7944,7 @@ https://mactom3u.vodep39240327.workers.dev/481501.m3u8?host=tv.saartv.cc&path=%2
 #EXTINF:-1 tvg-id="channel_1390" tvg-name="HINDI KIDS MOVIES 2014 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77858.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 2014 (4K)
 https://mactom3u.vodep39240327.workers.dev/481502.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_1391" tvg-name="HINDI KIDS MOVIES 2013 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77859.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 2013 (4K)
-https://mactom3u.vodep39240327.workers.dev/482337.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/481503.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_1506" tvg-name="HINDI KIDS NETFLIX MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77860.jpeg" group-title="HINDI | KIDS",HINDI KIDS NETFLIX MOVIES (4K)
 https://mactom3u.vodep39240327.workers.dev/481504.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_1507" tvg-name="HINDI KIDS AMAZON MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77861.jpeg" group-title="HINDI | KIDS",HINDI KIDS AMAZON MOVIES (4K)
