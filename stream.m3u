@@ -6344,8 +6344,6 @@ https://in-mc-flive.fancode.com/mumbai/4248219_english_hls_e200f7d9ea95245_1ta-d
 https://in-mc-flive.fancode.com/mumbai/4248162_english_hls_6ba65125816914_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786887821~_GO=Generated~acl=/mumbai/4248162_english_hls_6ba65125816914_1ta-di_h264/*~Signature=AVMBkTWXDelEVWLPV6wgX32SBS-YlyX6CH6uf1jBjMdQ7bEJSceRqsBSVfBV9nLt8YBm68FQLaOukTVbFwppGGw4yJ4B
 #EXTINF:-1 tvg-id="4248365" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png" group-title="🔸FanCode🔸| Live Events",Oman vs Goa
 https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN
-#EXTINF:-1 tvg-id="4248322" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/VP-Bank-Swiss-Ladies-Open-old.png" group-title="🔸FanCode🔸| Live Events",Day 3
-https://in-mc-flive.fancode.com/mumbai/4248322_english_hls_db6424c64d59013_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786879288~_GO=Generated~acl=/mumbai/4248322_english_hls_db6424c64d59013_1ta-di_h264/*~Signature=AVMBkTUpikkHhEiUk5jyBG3lcT_8pzV4WfwdCG82SD5umvyfjetYTdv7RbuTkkvSwskhXcxk0UdVFcZFGG_ppLNW0woI
 #EXTINF:-1 tvg-id="4248408" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 3
 https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB
 #EXTINF:-1 tvg-id="4248114" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="🔸FanCode🔸| Live Events",Champions' Court
@@ -6356,11 +6354,9 @@ https://in-mc-flive.fancode.com/mumbai/4248115_english_hls_cd4923856285672_1ta-d
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182953294520_Vitality_Mixed_Disability_5th_T20i_England_vs_India_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",England vs India - 5th T20I - 15 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786849836~acl=/*~id=04408783886044805535633993934482~hmac=25a9fa04b79b44339bece1cfbeb7462cdabbb02b1d388a4b7d129654bdb91494
+https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786851052~acl=/*~id=28354052379321134646386108597882~hmac=2976fe59408e0ad75de5aa60a6e84b4924b2cc7315b1e52d40e77b4ccf838037
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704538113524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_final_Race_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",R16 - Hankook London E-Prix - Final Race - 15 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786849836~acl=/*~id=04408783886044805535633993934482~hmac=25a9fa04b79b44339bece1cfbeb7462cdabbb02b1d388a4b7d129654bdb91494
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703357342390_DP_World_Tour_Danish_Golf_Championship_day3_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Danish Golf Championship - Day 3 - 15 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786849836~acl=/*~id=04408783886044805535633993934482~hmac=25a9fa04b79b44339bece1cfbeb7462cdabbb02b1d388a4b7d129654bdb91494
+https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786851052~acl=/*~id=28354052379321134646386108597882~hmac=2976fe59408e0ad75de5aa60a6e84b4924b2cc7315b1e52d40e77b4ccf838037
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
