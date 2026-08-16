@@ -6326,8 +6326,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4248340" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248340_53029_KAS_KAN_FC-Web_1786702852064.png" group-title="🔸FanCode🔸| Live Events",Kanpur Superstars vs Kashi Rudras
-https://in-mc-flive.fancode.com/mumbai/4248340_hindi_hls_9102373cf934876_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786957900~_GO=Generated~acl=/mumbai/4248340_hindi_hls_9102373cf934876_1ta-di_h264/*~Signature=AVMBkTWt3ZcsR6FWp_cvrNkIF3EivXiUbb2VTtsV9g-XR1xTzPpZTPk7Wqpb-ja3sr_kbAUlz4bvDi7uhF0e1Z-jDgAP
 #EXTINF:-1 tvg-id="4247998" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png" group-title="🔸FanCode🔸| Live Events",Outer Delhi Warriors vs Purani Dilli-6
 https://in-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786972506~_GO=Generated~acl=/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/*~Signature=AVMBkTUYR9dPdpu5R2dyKACPBDiZxwlB-Jx_aBjWdsLrELCyS1X19y0axfaL1JTwFlhZzeFNkDudX9Cx2lgwFfiKwPkO
 #EXTINF:-1 tvg-id="4247470" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247470_52993_WAT_SOU_fc-web_1786657253801.jpg" group-title="🔸FanCode🔸| Live Events",Watford F.C. vs Southampton F.C.
@@ -6340,11 +6338,15 @@ https://in-mc-flive.fancode.com/mumbai/143819_english_hls_21cc682cee32625_1ta-di
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182960054520_Vitality_Mixed_Disability_6th_T20i_England_vs_India_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",England vs India - 6th T20I - 16 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929309~acl=/*~id=70404287039559275841211849110771~hmac=6cff3cfc6fc30da81a4b2da9f7c631eaad08c44700b945f1287cb86070369dda
+https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786931146~acl=/*~id=09265742911811405569706461220679~hmac=dbab53db08ed01d2d12350aed3bf583f7ffa0883bfa03a950a55eb5e3de10dae
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704735257524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_final_Race_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",R17 - London E-Prix - Final Race - 16 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929309~acl=/*~id=70404287039559275841211849110771~hmac=6cff3cfc6fc30da81a4b2da9f7c631eaad08c44700b945f1287cb86070369dda
+https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786931146~acl=/*~id=09265742911811405569706461220679~hmac=dbab53db08ed01d2d12350aed3bf583f7ffa0883bfa03a950a55eb5e3de10dae
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Danish Golf Championship - Day 4 - 16 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929309~acl=/*~id=70404287039559275841211849110771~hmac=6cff3cfc6fc30da81a4b2da9f7c631eaad08c44700b945f1287cb86070369dda
+https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786931146~acl=/*~id=09265742911811405569706461220679~hmac=dbab53db08ed01d2d12350aed3bf583f7ffa0883bfa03a950a55eb5e3de10dae
+
+# ---------------=== 🌐 WORLD | Extra ===-------------------
+
+
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
