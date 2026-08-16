@@ -6328,13 +6328,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 #EXTINF:-1 tvg-id="4247990" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png" group-title="🔸FanCode🔸| Live Events",North Delhi Strikers vs Central Delhi Kings
 https://in-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786953039~_GO=Generated~acl=/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/*~Signature=AVMBkTVKoVggKBIh-FoRwMSVhA0rLIfAdS2Qc36IBvvB3k-Pq8Kyj_LIjuB4kdqAHpCuvoHSLjGLtOJch_Up_NzGrDUO
+#EXTINF:-1 tvg-id="4248340" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248340_53029_KAS_KAN_FC-Web_1786702852064.png" group-title="🔸FanCode🔸| Live Events",Kanpur Superstars vs Kashi Rudras
+https://in-mc-flive.fancode.com/mumbai/4248340_hindi_hls_9102373cf934876_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786957900~_GO=Generated~acl=/mumbai/4248340_hindi_hls_9102373cf934876_1ta-di_h264/*~Signature=AVMBkTWt3ZcsR6FWp_cvrNkIF3EivXiUbb2VTtsV9g-XR1xTzPpZTPk7Wqpb-ja3sr_kbAUlz4bvDi7uhF0e1Z-jDgAP
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704728475524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_Qualifying_Race_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",R17 - London E-Prix - Qualifying Race - 16 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786914106~acl=/*~id=94094110652952042894115051268195~hmac=0f96b7cf44d9aa2cb4f306217cbd0700c6dc3028ee8267c167e629eb48f44f12
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Danish Golf Championship - Day 4 - 16 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786914106~acl=/*~id=94094110652952042894115051268195~hmac=0f96b7cf44d9aa2cb4f306217cbd0700c6dc3028ee8267c167e629eb48f44f12
+
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -9827,7 +9826,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
