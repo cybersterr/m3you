@@ -708,8 +708,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd|Cookie
 #EXTINF:-1 tvg-id="164" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Travelxp HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=157cd1bd71a256fe8ab763ba280320e5:6befde8b90b6926423cc83775b8dcb59
-#EXTHTTP:{"Cookie":"hdnea=st=1786846119~exp=1786849719~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=1ac325442d3980adcbff721bb22f339d7c96458caebfba26ee5592318eee7893","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786846119~exp=1786849719~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=1ac325442d3980adcbff721bb22f339d7c96458caebfba26ee5592318eee7893
+#EXTHTTP:{"Cookie":"hdnea=st=1786860006~exp=1786881606~acl=/*~hmac=f0bb4cccafa70085b2d2065e519eaf0d295c1111893f655aeb4a0b9d730c4109","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_HD_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1786860006~exp=1786881606~acl=/*~hmac=f0bb4cccafa70085b2d2065e519eaf0d295c1111893f655aeb4a0b9d730c4109
 #EXTINF:-1 tvg-id="165" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="⭕️ JIOTV+ | MOVIES",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d51baa27315cbfa26df35c3c3e47b6:c3b38db5542719e8e10008e9193089e6
@@ -6326,6 +6326,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
+#EXTINF:-1 tvg-id="4247990" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247990_53005_NDS_CDK_fc-Web.png" group-title="🔸FanCode🔸| Live Events",North Delhi Strikers vs Central Delhi Kings
+https://in-mc-flive.fancode.com/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786953039~_GO=Generated~acl=/mumbai/4247990_english_hls_f21a8ad85389293_1ta-di_h264/*~Signature=AVMBkTVKoVggKBIh-FoRwMSVhA0rLIfAdS2Qc36IBvvB3k-Pq8Kyj_LIjuB4kdqAHpCuvoHSLjGLtOJch_Up_NzGrDUO
 #EXTINF:-1 tvg-id="143816" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png" group-title="🔸FanCode🔸| Live Events",Race 2
 https://in-mc-flive.fancode.com/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786950590~_GO=Generated~acl=/mumbai/143816_english_hls_85ab8495db11060_1ta-di_h264/*~Signature=AVMBkTXZV5hW_fjkfe3AdLHQAGrmhfzqI9ed-wVcdunjdoshMG8kO4vhg32z-clUSXa2rgJr3abvEL3-mHEloFKwi6sB
 
@@ -8850,7 +8852,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
