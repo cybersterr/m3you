@@ -708,8 +708,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd|Cookie
 #EXTINF:-1 tvg-id="164" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Travelxp HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=157cd1bd71a256fe8ab763ba280320e5:6befde8b90b6926423cc83775b8dcb59
-#EXTHTTP:{"Cookie":"hdnea=st=1787091771~exp=1787095371~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=5f08c3e70e412e463df4ad149c0d7f8f0fbf00c80bbb1a479aae2b65ee148d1e","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1787091771~exp=1787095371~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=5f08c3e70e412e463df4ad149c0d7f8f0fbf00c80bbb1a479aae2b65ee148d1e
+#EXTHTTP:{"Cookie":"hdnea=st=1787109792~exp=1787113392~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=cd45496999da18837d1249129b7136696a14eea77627ae1d9be18beb57c47231","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1787109792~exp=1787113392~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=cd45496999da18837d1249129b7136696a14eea77627ae1d9be18beb57c47231
 #EXTINF:-1 tvg-id="165" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="⭕️ JIOTV+ | MOVIES",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d51baa27315cbfa26df35c3c3e47b6:c3b38db5542719e8e10008e9193089e6
@@ -6331,16 +6331,16 @@ https://in-mc-flive.fancode.com/mumbai/4248281_english_hls_f190074e9283438_1ta-d
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/88/4/0c82a1f8a9f0574fab8af0495c14040f_1787110564654_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [Kannada]
-https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787154652~acl=/*~id=02942366725146269801544438882818~hmac=7bcf26ebb4ea6cd020bb0df7d4fc0a509cbbc19e54f98dc20cd02569d0963faa
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/37/77/05f60773a033594593a350ad4d4ed5bf_1787110564732_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787154652~acl=/*~id=02942366725146269801544438882818~hmac=7bcf26ebb4ea6cd020bb0df7d4fc0a509cbbc19e54f98dc20cd02569d0963faa
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/54/5/0667249aeb315c3ca189f5a4bbada909_1787110564707_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [Tamil]
-https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787154652~acl=/*~id=02942366725146269801544438882818~hmac=7bcf26ebb4ea6cd020bb0df7d4fc0a509cbbc19e54f98dc20cd02569d0963faa
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/57/29/5af84c1b01b654c4a2d44f17fc44c610_1787110564688_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [Telugu]
-https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787154652~acl=/*~id=02942366725146269801544438882818~hmac=7bcf26ebb4ea6cd020bb0df7d4fc0a509cbbc19e54f98dc20cd02569d0963faa
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/17/30/c99e220e2dad5b9699dd2a42959cd0ed_1787110564719_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787154652~acl=/*~id=02942366725146269801544438882818~hmac=7bcf26ebb4ea6cd020bb0df7d4fc0a509cbbc19e54f98dc20cd02569d0963faa
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/17/30/c99e220e2dad5b9699dd2a42959cd0ed_1787112908208_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [English]
+https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787157095~acl=/*~id=13843995455033839092919545796783~hmac=e236a77571131aaa9742cfae7a8459fe749501e41009d495c6ca4054d2857f7c
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/88/4/0c82a1f8a9f0574fab8af0495c14040f_1787112908232_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [Kannada]
+https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787157095~acl=/*~id=13843995455033839092919545796783~hmac=e236a77571131aaa9742cfae7a8459fe749501e41009d495c6ca4054d2857f7c
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/37/77/05f60773a033594593a350ad4d4ed5bf_1787112908192_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787157095~acl=/*~id=13843995455033839092919545796783~hmac=e236a77571131aaa9742cfae7a8459fe749501e41009d495c6ca4054d2857f7c
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/54/5/0667249aeb315c3ca189f5a4bbada909_1787112908164_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [Tamil]
+https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787157095~acl=/*~id=13843995455033839092919545796783~hmac=e236a77571131aaa9742cfae7a8459fe749501e41009d495c6ca4054d2857f7c
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/57/29/5af84c1b01b654c4a2d44f17fc44c610_1787112908219_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [Telugu]
+https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787157095~acl=/*~id=13843995455033839092919545796783~hmac=e236a77571131aaa9742cfae7a8459fe749501e41009d495c6ca4054d2857f7c
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -9835,7 +9835,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
