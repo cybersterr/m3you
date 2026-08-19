@@ -6324,23 +6324,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|Cookie=__hdn
 #EXTHTTP:{"Cookie":"hdnea=st=1787106605~exp=1787128205~acl=/*~hmac=bd9c54daf1da1a0203fc7901b1172d8ea280970196bd6e95f6402b90f151827f","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1787106605~exp=1787128205~acl=/*~hmac=bd9c54daf1da1a0203fc7901b1172d8ea280970196bd6e95f6402b90f151827f
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="4248281" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248281_53026_JK_SKN_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Jamaica Kingsmen vs St Kitts and Nevis Patriots
-https://in-mc-flive.fancode.com/mumbai/4248281_english_hls_f190074e9283438_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787182568~_GO=Generated~acl=/mumbai/4248281_english_hls_f190074e9283438_1ta-di_h264/*~Signature=ARceAWP_FWvfpT4u_O3Hd33k5n4JjHFcfwMYWgpoulabPCW5-QECLs6hrsoSa54Hv49IYB-_EHigXvebSlhmX2en9MAI
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/17/30/c99e220e2dad5b9699dd2a42959cd0ed_1787112908208_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787157095~acl=/*~id=13843995455033839092919545796783~hmac=e236a77571131aaa9742cfae7a8459fe749501e41009d495c6ca4054d2857f7c
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/88/4/0c82a1f8a9f0574fab8af0495c14040f_1787112908232_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [Kannada]
-https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787157095~acl=/*~id=13843995455033839092919545796783~hmac=e236a77571131aaa9742cfae7a8459fe749501e41009d495c6ca4054d2857f7c
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/37/77/05f60773a033594593a350ad4d4ed5bf_1787112908192_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787157095~acl=/*~id=13843995455033839092919545796783~hmac=e236a77571131aaa9742cfae7a8459fe749501e41009d495c6ca4054d2857f7c
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/54/5/0667249aeb315c3ca189f5a4bbada909_1787112908164_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [Tamil]
-https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787157095~acl=/*~id=13843995455033839092919545796783~hmac=e236a77571131aaa9742cfae7a8459fe749501e41009d495c6ca4054d2857f7c
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/57/29/5af84c1b01b654c4a2d44f17fc44c610_1787112908219_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 5 - 1st Test - 19 Aug 2026 [Telugu]
-https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787157095~acl=/*~id=13843995455033839092919545796783~hmac=e236a77571131aaa9742cfae7a8459fe749501e41009d495c6ca4054d2857f7c
+
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
