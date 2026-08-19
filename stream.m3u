@@ -6324,15 +6324,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|Cookie=__hdn
 #EXTHTTP:{"Cookie":"hdnea=st=1787137203~exp=1787158803~acl=/*~hmac=8c89f29a457763259621452b9699735ab8763221ca65493fe036d06f9b52dcab","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1787137203~exp=1787158803~acl=/*~hmac=8c89f29a457763259621452b9699735ab8763221ca65493fe036d06f9b52dcab
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="4247997" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247997_53005_NDS_SDS_fc-Web.png" group-title="🔸FanCode🔸| Live Events",North Delhi Strikers vs South Delhi Superstarz
-https://in-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787211742~_GO=Generated~acl=/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/*~Signature=ARceAWP8gUcT6bDPkYBzbIt9jGaM68DBz47FtS67CToXj2BsoGZ054F7mZhdFWt11QQg6uj8HhyjLIJBRcwq2z-i06kN
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/26/82/3351927cebe858f996dcc48366ad739a_1787140623024_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 1st Test - 19 Aug 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787183916~acl=/*~id=06577488198334080105490824511861~hmac=03fa3442269b19e0c0c4bc010ccd597b797003afbcd70c961eb4139483538300
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/26/82/3351927cebe858f996dcc48366ad739a_1787144223121_l_medium.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 1st Test - 19 Aug 2026 [English]
+https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787187566~acl=/*~id=63254526181785265706502133820724~hmac=f4cb4e7effec68b2b4416eef69d78918bb7675654800c71ef5cf3440d1e37876
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
