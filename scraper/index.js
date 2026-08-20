@@ -25,6 +25,8 @@ const SOURCES = {
 
   JSTAR_LIVE_EVENTS: process.env.JSTAR_LIVE_EVENTS,
   WORLDWIDE_EVENTS: process.env.WORLDWIDE_EVENTS,
+
+  WILLOW_LIVE_EVENTS: process.env.WILLOW_LIVE_EVENTS,
 };
 
 // ================= PLAYLIST HEADER =================
@@ -140,7 +142,6 @@ function forceGroup(content, groupName) {
   for (const rawLine of lines) {
     const line = rawLine.trim();
 
-    // Remove source M3U header only
     if (line === "#EXTM3U") continue;
 
     if (line.startsWith("#EXTINF")) {
@@ -162,8 +163,56 @@ function forceGroup(content, groupName) {
       continue;
     }
 
-    // Keep ALL other M3U lines exactly
     out.push(line);
+  }
+
+  return out.join("\n").trim();
+}
+
+// ================= REMOVE SUNXT FIRST ENTRY =================
+function removeSunxtFirstEntry(content) {
+  if (!content) return "";
+
+  const lines = String(content).split(/\r?\n/);
+  const out = [];
+
+  let skipEntry = false;
+
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+
+    if (
+      line.includes('tvg-id="sf-top"') ||
+      line.includes("Join Telegram: @streamstartv") ||
+      line.includes("Install NetX Player")
+    ) {
+      skipEntry = true;
+      continue;
+    }
+
+    // Skip Telegram URL belonging to first entry
+    if (
+      skipEntry &&
+      line.includes("t.me/streamstartv")
+    ) {
+      skipEntry = false;
+      continue;
+    }
+
+    // If next actual entry starts, stop skipping
+    if (
+      skipEntry &&
+      line.startsWith("#EXTINF")
+    ) {
+      skipEntry = false;
+    }
+
+    if (!skipEntry) {
+      // Remove duplicate source header
+      if (line === "#EXTM3U") continue;
+
+      out.push(line);
+    }
   }
 
   return out.join("\n").trim();
@@ -264,7 +313,6 @@ function convertSonyJsonChannels(content) {
 
     out.push(updatedLine);
 
-    // Keep metadata lines until URL
     let j = i + 1;
 
     while (j < lines.length) {
@@ -293,10 +341,7 @@ function convertSonyJsonChannels(content) {
 
 // ================= ICC TV =================
 function convertIccTvJson(json) {
-  if (!json) {
-    console.log("ICC TV: Empty JSON");
-    return "";
-  }
+  if (!json) return "";
 
   const events =
     Array.isArray(json.live)
@@ -304,8 +349,6 @@ function convertIccTvJson(json) {
       : Array.isArray(json.matches)
         ? json.matches
         : [];
-
-  console.log(`ICC TV events found: ${events.length}`);
 
   if (!events.length) return "";
 
@@ -322,12 +365,7 @@ function convertIccTvJson(json) {
         playback.mpd ||
         "";
 
-      if (!playbackUrl) {
-        console.log(
-          `ICC event ${index}: No playback URL`
-        );
-        return;
-      }
+      if (!playbackUrl) return;
 
       const videoId =
         fields.videoId ||
@@ -364,24 +402,24 @@ function convertIccTvJson(json) {
       let referer = "";
       let origin = "";
 
-      const headers =
-        playback.headers || [];
+      const headers = playback.headers || [];
 
       if (Array.isArray(headers)) {
         headers.forEach(header => {
-          const index = String(header).indexOf(":");
+          const colonIndex =
+            String(header).indexOf(":");
 
-          if (index === -1) return;
+          if (colonIndex === -1) return;
 
           const key =
             String(header)
-              .substring(0, index)
+              .substring(0, colonIndex)
               .trim()
               .toLowerCase();
 
           const value =
             String(header)
-              .substring(index + 1)
+              .substring(colonIndex + 1)
               .trim();
 
           if (key === "user-agent") {
@@ -396,28 +434,6 @@ function convertIccTvJson(json) {
             origin = value;
           }
         });
-      }
-
-      // Supports object-style headers too
-      if (
-        headers &&
-        !Array.isArray(headers) &&
-        typeof headers === "object"
-      ) {
-        userAgent =
-          headers["User-Agent"] ||
-          headers["user-agent"] ||
-          userAgent;
-
-        referer =
-          headers["Referer"] ||
-          headers["referer"] ||
-          referer;
-
-        origin =
-          headers["Origin"] ||
-          headers["origin"] ||
-          origin;
       }
 
       out.push(
@@ -438,7 +454,6 @@ function convertIccTvJson(json) {
 
       if (
         jwk &&
-        typeof jwk === "object" &&
         Array.isArray(jwk.keys) &&
         jwk.keys.length
       ) {
@@ -496,9 +511,7 @@ function convertIccTvJson(json) {
 // ================= FANCODE =================
 function extractObjects(obj, arr = []) {
   if (Array.isArray(obj)) {
-    obj.forEach(o =>
-      extractObjects(o, arr)
-    );
+    obj.forEach(o => extractObjects(o, arr));
   } else if (
     obj &&
     typeof obj === "object"
@@ -520,46 +533,31 @@ async function run() {
 
   out.push(PLAYLIST_HEADER.trim());
 
-  // ================= HOTSTAR =================
+  // HOTSTAR
   const hotstar =
-    await fetchM3U(
-      SOURCES.HOTSTAR_M3U,
-      "HOTSTAR"
-    );
+    await fetchM3U(SOURCES.HOTSTAR_M3U, "HOTSTAR");
 
   if (hotstar) {
     out.push(
       section("🎬 OTT | JIOHOTSTAR"),
-      forceGroup(
-        hotstar,
-        "🎬 OTT | JIOHOTSTAR"
-      )
+      forceGroup(hotstar, "🎬 OTT | JIOHOTSTAR")
     );
   }
 
-  // ================= ZEE5 =================
+  // ZEE5
   const zee5 =
-    await fetchM3U(
-      SOURCES.ZEE5_M3U,
-      "ZEE5"
-    );
+    await fetchM3U(SOURCES.ZEE5_M3U, "ZEE5");
 
   if (zee5) {
     out.push(
       section("🎬 OTT | ZEE5"),
-      forceGroup(
-        zee5,
-        "🎬 OTT | ZEE5"
-      )
+      forceGroup(zee5, "🎬 OTT | ZEE5")
     );
   }
 
-  // ================= SONYLIV DIGITAL =================
+  // SONYLIV DIGITAL
   const digital =
-    await fetchM3U(
-      SOURCES.SONYLIV_M3U,
-      "SONYLIV DIGITAL"
-    );
+    await fetchM3U(SOURCES.SONYLIV_M3U, "SONYLIV DIGITAL");
 
   if (digital) {
     out.push(
@@ -568,29 +566,25 @@ async function run() {
     );
   }
 
-  // ================= SUNXT =================
+  // SUNXT - EXCLUDE FIRST ENTRY
   const sunxt =
-    await fetchM3U(
-      SOURCES.SUNXT_M3U,
-      "SUNXT"
-    );
+    await fetchM3U(SOURCES.SUNXT_M3U, "SUNXT");
 
   if (sunxt) {
-    out.push(
-      section("🎬 OTT | SUNXT"),
-      forceGroup(
-        sunxt,
-        "🎬 OTT | SUNXT"
-      )
-    );
+    const cleanedSunxt =
+      removeSunxtFirstEntry(sunxt);
+
+    if (cleanedSunxt) {
+      out.push(
+        section("🎬 OTT | SUNXT"),
+        cleanedSunxt
+      );
+    }
   }
 
-  // ================= JIO =================
+  // JIO
   const jio =
-    await fetchJSON(
-      SOURCES.JIO_JSON,
-      "JIO"
-    );
+    await fetchJSON(SOURCES.JIO_JSON, "JIO");
 
   if (jio) {
     const converted =
@@ -604,12 +598,9 @@ async function run() {
     }
   }
 
-  // ================= FANCODE =================
+  // FANCODE
   const fan =
-    await fetchJSON(
-      SOURCES.FANCODE_JSON,
-      "FANCODE"
-    );
+    await fetchJSON(SOURCES.FANCODE_JSON, "FANCODE");
 
   if (fan) {
     const all =
@@ -618,10 +609,7 @@ async function run() {
     const valid =
       all.filter(o =>
         o.match_id &&
-        (
-          o.adfree_url ||
-          o.dai_url
-        )
+        (o.adfree_url || o.dai_url)
       );
 
     valid.sort((a, b) =>
@@ -637,8 +625,7 @@ async function run() {
       );
 
       converted.push(
-        e.adfree_url ||
-        e.dai_url
+        e.adfree_url || e.dai_url
       );
     });
 
@@ -650,7 +637,7 @@ async function run() {
     }
   }
 
-  // ================= SONYLIV LIVE EVENTS =================
+  // SONYLIV LIVE EVENTS
   const sony =
     await fetchJSON(
       SOURCES.SONYLIV_JSON,
@@ -669,7 +656,7 @@ async function run() {
     }
   }
 
-  // ================= ICC TV =================
+  // ICC TV
   const icc =
     await fetchJSON(
       SOURCES.ICC_TV_JSON,
@@ -685,14 +672,10 @@ async function run() {
         section("📺 ICC TV"),
         converted
       );
-    } else {
-      console.log(
-        "ICC TV conversion produced no channels"
-      );
     }
   }
 
-  // ================= JSTAR =================
+  // JSTAR
   const jstar =
     await fetchM3U(
       SOURCES.JSTAR_LIVE_EVENTS,
@@ -709,7 +692,7 @@ async function run() {
     );
   }
 
-  // ================= WORLDWIDE =================
+  // WORLDWIDE
   const worldwide =
     await fetchM3U(
       SOURCES.WORLDWIDE_EVENTS,
@@ -726,6 +709,20 @@ async function run() {
     );
   }
 
+  // WILLOW LIVE EVENTS - GENERATED AS IS
+  const willow =
+    await fetchM3U(
+      SOURCES.WILLOW_LIVE_EVENTS,
+      "WILLOW LIVE EVENTS"
+    );
+
+  if (willow) {
+    out.push(
+      section("🏏 WILLOW | LIVE EVENTS"),
+      willow
+    );
+  }
+
   out.push(PLAYLIST_FOOTER.trim());
 
   fs.writeFileSync(
@@ -734,16 +731,10 @@ async function run() {
     "utf8"
   );
 
-  console.log(
-    "stream.m3u generated successfully"
-  );
+  console.log("stream.m3u generated successfully");
 }
 
 run().catch(error => {
-  console.error(
-    "Fatal error:",
-    error
-  );
-
+  console.error("Fatal error:", error);
   process.exit(1);
 });
