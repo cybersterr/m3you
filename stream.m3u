@@ -1433,152 +1433,150 @@ https://cloudplay-sonyliv.pages.dev/aath.m3u8
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="sf-top" tvg-name="Join Telegram: @streamstartv" tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif" group-title="🎬 OTT | SUNXT" , Install NetX Player
-https://t.me/streamstartv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=2424
-#EXTINF:-1 tvg-id="2424" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="🎬 OTT | SUNXT",Sun Marathi
+#EXTINF:-1 tvg-id="2424" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="Marathi",Sun Marathi
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Marathi_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=729
-#EXTINF:-1 tvg-id="729" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="🎬 OTT | SUNXT",Sun Gemini Comedy
+#EXTINF:-1 tvg-id="729" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="Telugu",Sun Gemini Comedy
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=684
-#EXTINF:-1 tvg-id="684" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="🎬 OTT | SUNXT",Sun Gemini Life
+#EXTINF:-1 tvg-id="684" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Telugu",Sun Gemini Life
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=899
-#EXTINF:-1 tvg-id="899" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="🎬 OTT | SUNXT",Sun Gemini Movies HD
+#EXTINF:-1 tvg-id="899" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="Telugu",Sun Gemini Movies HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Movies_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=898
-#EXTINF:-1 tvg-id="898" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="🎬 OTT | SUNXT",Sun Gemini Music HD
+#EXTINF:-1 tvg-id="898" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Telugu",Sun Gemini Music HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Music_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=897
-#EXTINF:-1 tvg-id="897" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="🎬 OTT | SUNXT",Sun Gemini HD
+#EXTINF:-1 tvg-id="897" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="Telugu",Sun Gemini HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_TV_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=896
-#EXTINF:-1 tvg-id="896" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="🎬 OTT | SUNXT",Sun TV HD
+#EXTINF:-1 tvg-id="896" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=682
-#EXTINF:-1 tvg-id="682" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="🎬 OTT | SUNXT",Sun Life
+#EXTINF:-1 tvg-id="682" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="Tamil",Sun Life
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Life_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=895
-#EXTINF:-1 tvg-id="895" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="🎬 OTT | SUNXT",Sun Music HD
+#EXTINF:-1 tvg-id="895" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Music_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=676
-#EXTINF:-1 tvg-id="676" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png" group-title="🎬 OTT | SUNXT",Sun News
+#EXTINF:-1 tvg-id="676" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png" group-title="Tamil",Sun News
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_News_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=901
-#EXTINF:-1 tvg-id="901" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_HD.png" group-title="🎬 OTT | SUNXT",Sun Udaya HD
+#EXTINF:-1 tvg-id="901" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_HD.png" group-title="Kannada",Sun Udaya HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=733
-#EXTINF:-1 tvg-id="733" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Comedy.png" group-title="🎬 OTT | SUNXT",Sun Udaya Comedy
+#EXTINF:-1 tvg-id="733" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Comedy.png" group-title="Kannada",Sun Udaya Comedy
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Comedy_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=678
-#EXTINF:-1 tvg-id="678" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png" group-title="🎬 OTT | SUNXT",Sun Udaya Movies
+#EXTINF:-1 tvg-id="678" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png" group-title="Kannada",Sun Udaya Movies
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Movies_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=744
-#EXTINF:-1 tvg-id="744" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Music.png" group-title="🎬 OTT | SUNXT",Sun Udaya Music
+#EXTINF:-1 tvg-id="744" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Music.png" group-title="Kannada",Sun Udaya Music
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Music_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=900
-#EXTINF:-1 tvg-id="900" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="🎬 OTT | SUNXT",Sun Surya HD
+#EXTINF:-1 tvg-id="900" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam",Sun Surya HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=1662
-#EXTINF:-1 tvg-id="1662" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="🎬 OTT | SUNXT",Sun Surya Comedy
+#EXTINF:-1 tvg-id="1662" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Malayalam",Sun Surya Comedy
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_Comedy_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=1754
-#EXTINF:-1 tvg-id="1754" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="🎬 OTT | SUNXT",Sun Surya Movies
+#EXTINF:-1 tvg-id="1754" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="Malayalam",Sun Surya Movies
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_Movies_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=747
-#EXTINF:-1 tvg-id="747" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="🎬 OTT | SUNXT",Sun Surya Music
+#EXTINF:-1 tvg-id="747" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="Malayalam",Sun Surya Music
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_Music_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=1669
-#EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="🎬 OTT | SUNXT",Sun Bangla
+#EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Bengali",Sun Bangla
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Bangla_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=3083
-#EXTINF:-1 tvg-id="3083" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sundrani_TV.png" group-title="🎬 OTT | SUNXT",Sundrani TV
+#EXTINF:-1 tvg-id="3083" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sundrani_TV.png" group-title="English",Sundrani TV
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sundrani_TV_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=3088
-#EXTINF:-1 tvg-id="3088" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="🎬 OTT | SUNXT",Sun Neo HD
+#EXTINF:-1 tvg-id="3088" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="Tamil",Sun Neo HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1787235924~exp=1787257524~acl=/*~hmac=deb5fe53d3f9f1d1ef760c05e7a05468eaefeaf69613f9a9ec1c023377f40b0e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SUN_Neo_MOB/WDVLive/index.mpd
@@ -7255,21 +7253,21 @@ https://in-mc-flive.fancode.com/mumbai/4248410_english_hls_35049d909265233_1ta-d
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702519612697_LIV_Golf_Indianapolis_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Indianapolis - Day 1 - 20 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296365~acl=/*~id=84283896717786759815260797192850~hmac=51dcf58a719a107e46013e1c42b879bcb9676340e076d9dc4e0c721ba822b997
+https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296974~acl=/*~id=32081794378576153463147558464299~hmac=009926423832a816705abd083b35b12e512aebb2d89ebca0175ff75c2720db54
 
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
 # Playlist generated by Hotstar Extractor
 # Playlist Created By @rtxcric
 # Mode: NORMAL FHD 30 MINUTES AUTO-UPDATE
-# Generated: 2026-08-21 12:44:38 AM
+# Generated: 2026-08-21 12:51:38 AM
 
-#EXTINF:-1 tvg-id="584530873" tvg-name="Belgium vs Ireland ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3627/1787224123627-b" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787255078~acl=/hls/live/2123138/inallow-fihwwc-2026/eng/1540075927/15mindvrm030f0c8b009bd84f2d8b81a9065632ab3e20august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=dhBxNOqT0N3vyYYzOS8lLw0VfscHMFnelVu0QNNguQop-did=JtnpPYQfu0a63mHyWuIopVVfEzRF4XGw1EZIMtHmnS3w-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.08.09.8-ut=paid-ttl=1800-type=paid-raf=1787253878-~hmac=a339d4429bedbb30b05818bb4cc95cf5455b89ed68ca8351e796b579238b15f8"}
+#EXTINF:-1 tvg-id="653801254" tvg-name="Belgium vs Ireland ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3627/1787224123627-b" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787255498~acl=/hls/live/2123138/inallow-fihwwc-2026/eng/1540075927/15mindvrm030f0c8b009bd84f2d8b81a9065632ab3e20august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uFsMcvoLAutGM3chclOyRLW4Nvwut5wMtlaIekdU4Jt9-did=3sND54jOmfy29ArJQS07IVIuUKdg83IvuWdiIUBVl1QR-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.09.15.1-ut=paid-ttl=1800-type=paid-raf=1787254298-~hmac=06981cfc70f208c1ddd7ae4d654697e5c76a8757e27a02f905c24f10f066c0c8"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live14p.hotstar.com/hls/live/2123138/inallow-fihwwc-2026/eng/1540075927/15mindvrm030f0c8b009bd84f2d8b81a9065632ab3e20august2026/master_ap.m3u8?a=ns&hdnea=exp=1787255078~acl=/hls/live/2123138/inallow-fihwwc-2026/eng/1540075927/15mindvrm030f0c8b009bd84f2d8b81a9065632ab3e20august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=dhBxNOqT0N3vyYYzOS8lLw0VfscHMFnelVu0QNNguQop-did=JtnpPYQfu0a63mHyWuIopVVfEzRF4XGw1EZIMtHmnS3w-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.08.09.8-ut=paid-ttl=1800-type=paid-raf=1787253878-~hmac=a339d4429bedbb30b05818bb4cc95cf5455b89ed68ca8351e796b579238b15f8
+https://live14p.hotstar.com/hls/live/2123138/inallow-fihwwc-2026/eng/1540075927/15mindvrm030f0c8b009bd84f2d8b81a9065632ab3e20august2026/master_ap.m3u8?a=ns&hdnea=exp=1787255498~acl=/hls/live/2123138/inallow-fihwwc-2026/eng/1540075927/15mindvrm030f0c8b009bd84f2d8b81a9065632ab3e20august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uFsMcvoLAutGM3chclOyRLW4Nvwut5wMtlaIekdU4Jt9-did=3sND54jOmfy29ArJQS07IVIuUKdg83IvuWdiIUBVl1QR-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.09.15.1-ut=paid-ttl=1800-type=paid-raf=1787254298-~hmac=06981cfc70f208c1ddd7ae4d654697e5c76a8757e27a02f905c24f10f066c0c8
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
