@@ -7239,21 +7239,17 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4248158" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248158_53014_SHFF_BC_fc-web.png" group-title="🔸FanCode🔸| Live Events",Sheffield Wednesday F.C. vs Bradford City
-https://in-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787338128~_GO=Generated~acl=/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/*~Signature=ARceAWPnnZahtLUbeGyms4_DNiJ3KUS2t7bZSAowVeanUE_wBjODhELZgFquyGCUyCopxDrHd0xSn4iAXksKlikcK6YL
 #EXTINF:-1 tvg-id="4248414" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 1
 https://in-mc-flive.fancode.com/mumbai/4248414_english_hls_2d2575e67562810_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787321095~_GO=Generated~acl=/mumbai/4248414_english_hls_2d2575e67562810_1ta-di_h264/*~Signature=ARceAWMC2bUtfcuSH_3rKagJFLJgXugXCszGGyoJSu9d3WovKGbBK-uVNbL_tXWccNPEUTo9maw8kNEAI0O0I8CToqQC
 #EXTINF:-1 tvg-id="4248410" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="🔸FanCode🔸| Live Events",World Feed - Day 1
 https://in-mc-flive.fancode.com/mumbai/4248410_english_hls_35049d909265233_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787339346~_GO=Generated~acl=/mumbai/4248410_english_hls_35049d909265233_1ta-di_h264/*~Signature=ARceAWOUqT8278FjGO2YYxMXdDDEJZ6UBJ0lwxSYbyIVEJAyM23LYV1y18EyBBoBkcR6s0z5-m4si6bI87cyQ6aL5T4I
 #EXTINF:-1 tvg-id="4248134" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="🔸FanCode🔸| Live Events",World Feed 1
 https://in-mc-flive.fancode.com/mumbai/4248134_english_hls_4933b1ad3f22404_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787341781~_GO=Generated~acl=/mumbai/4248134_english_hls_4933b1ad3f22404_1ta-di_h264/*~Signature=ARceAWMnrYVLG3EzDQqscOdj66k83J-GWqnhTiK7kMPkEiT-s7SpLTXMEeUMUzlR8KtONk0aCpv296lAfcr4unrZ3O0O
-#EXTINF:-1 tvg-id="4247586" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247586_53004_RVL_ALA_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Rayo Vallecano vs Deportivo Alaves
-https://in-mc-flive.fancode.com/mumbai/4247586_english_hls_5013cf25ff5328_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787337518~_GO=Generated~acl=/mumbai/4247586_english_hls_5013cf25ff5328_1ta-di_h264/*~Signature=ARceAWORyeuKApVUl23BORWv2XhX9KHcaTtn54ZOvP9tGMCyvNg-E5vnJ4KDjGmXr0wgopHZXBTloDW2IwnUDX3BnUwD
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702519612697_LIV_Golf_Indianapolis_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Indianapolis - Day 1 - 20 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787303057~acl=/*~id=98456274756440069809280256498715~hmac=6bd2211aac374dbed3fa7272bce04dbe4fc7749662cba199a8951c2d54f2b5ff
+https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787305488~acl=/*~id=26273664946416559109867308256204~hmac=a67afc78d61b19c66c7198798287892fa94e7f160bd94f5781b25e3ada6045d8
 
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
@@ -7333,42 +7329,6 @@ https://live.666666.zip/live/4562395.m3u8?
 #EXTINF:-1 tvg-id="11670" tvg-name="Sheffield Wednesday vs Bradford City | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sheffield Wednesday vs Bradford City | LOW SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.45/hls/RRRRRAA.m3u8?
-
-#EXTINF:-1 tvg-id="11681" tvg-name="Milwaukee Brewers vs Seattle Mariners | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Milwaukee Brewers vs Seattle Mariners | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/54918/load-playlist?
-
-#EXTINF:-1 tvg-id="11681" tvg-name="Milwaukee Brewers vs Seattle Mariners | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Milwaukee Brewers vs Seattle Mariners | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/bzagLHzach19.m3u8
-
-#EXTINF:-1 tvg-id="11681" tvg-name="Milwaukee Brewers vs Seattle Mariners | LOW QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Milwaukee Brewers vs Seattle Mariners | LOW QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/ETTTAAAAAA.m3u8
-
-#EXTINF:-1 tvg-id="11682" tvg-name="Chicago White Sox vs Atlanta Braves | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Chicago White Sox vs Atlanta Braves | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/54917/load-playlist?
-
-#EXTINF:-1 tvg-id="11682" tvg-name="Chicago White Sox vs Atlanta Braves | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Chicago White Sox vs Atlanta Braves | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/jkzahzadach20.m3u8
-
-#EXTINF:-1 tvg-id="11682" tvg-name="Chicago White Sox vs Atlanta Braves | LOW QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Chicago White Sox vs Atlanta Braves | LOW QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/ETTTAAAA.m3u8
-
-#EXTINF:-1 tvg-id="11683" tvg-name="Kansas City Royals vs Athletics | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Kansas City Royals vs Athletics | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/54916/load-playlist?
-
-#EXTINF:-1 tvg-id="11683" tvg-name="Kansas City Royals vs Athletics | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Kansas City Royals vs Athletics | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/Czajafjihafch18.m3u8
-
-#EXTINF:-1 tvg-id="11683" tvg-name="Kansas City Royals vs Athletics | LOW QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Kansas City Royals vs Athletics | LOW QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/ETTTAAAAA.m3u8
 
 #EXTINF:-1 tvg-id="591" tvg-name="Formula 1 | Sky via Apple TV - AQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png" group-title="🔵 LIVE | WORLDWIDE EVENTS",Formula 1 | Sky via Apple TV - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7793,11 +7753,47 @@ https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.41/hls/ETTT.m3u8
 
+#EXTINF:-1 tvg-id="11681" tvg-name="Milwaukee Brewers vs Seattle Mariners | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Milwaukee Brewers vs Seattle Mariners | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/54918/load-playlist?
+
+#EXTINF:-1 tvg-id="11681" tvg-name="Milwaukee Brewers vs Seattle Mariners | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Milwaukee Brewers vs Seattle Mariners | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/bzagLHzach19.m3u8
+
+#EXTINF:-1 tvg-id="11681" tvg-name="Milwaukee Brewers vs Seattle Mariners | LOW QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Milwaukee Brewers vs Seattle Mariners | LOW QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/ETTTAAAAAA.m3u8
+
+#EXTINF:-1 tvg-id="11682" tvg-name="Chicago White Sox vs Atlanta Braves | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Chicago White Sox vs Atlanta Braves | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/54917/load-playlist?
+
+#EXTINF:-1 tvg-id="11682" tvg-name="Chicago White Sox vs Atlanta Braves | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Chicago White Sox vs Atlanta Braves | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/jkzahzadach20.m3u8
+
+#EXTINF:-1 tvg-id="11682" tvg-name="Chicago White Sox vs Atlanta Braves | LOW QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Chicago White Sox vs Atlanta Braves | LOW QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/ETTTAAAA.m3u8
+
+#EXTINF:-1 tvg-id="11683" tvg-name="Kansas City Royals vs Athletics | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Kansas City Royals vs Athletics | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/54916/load-playlist?
+
+#EXTINF:-1 tvg-id="11683" tvg-name="Kansas City Royals vs Athletics | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Kansas City Royals vs Athletics | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/Czajafjihafch18.m3u8
+
+#EXTINF:-1 tvg-id="11683" tvg-name="Kansas City Royals vs Athletics | LOW QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Kansas City Royals vs Athletics | LOW QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/ETTTAAAAA.m3u8
+
 # ---------------=== 🏏 WILLOW | LIVE EVENTS ===-------------------
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:02 AM 21-08-2026
+#LAST_UPDATE:03:32 AM 21-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
