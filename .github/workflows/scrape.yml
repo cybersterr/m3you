@@ -38,6 +38,7 @@ jobs:
           SUNXT_M3U: ${{ secrets.SUNXT_M3U }}
           JSTAR_LIVE_EVENTS: ${{ secrets.JSTAR_LIVE_EVENTS }}
           WORLDWIDE_EVENTS: ${{ secrets.WORLDWIDE_EVENTS }}
+          WILLOW_LIVE_EVENTS: ${{ secrets.WILLOW_LIVE_EVENTS }}
         run: npm start
 
       - name: Commit and Push stream.m3u
