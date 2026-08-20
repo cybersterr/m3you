@@ -7239,8 +7239,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4247586" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247586_53004_RVL_ALA_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Rayo Vallecano vs Deportivo Alaves
-https://in-mc-flive.fancode.com/mumbai/4247586_english_hls_5013cf25ff5328_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787337518~_GO=Generated~acl=/mumbai/4247586_english_hls_5013cf25ff5328_1ta-di_h264/*~Signature=ARceAWORyeuKApVUl23BORWv2XhX9KHcaTtn54ZOvP9tGMCyvNg-E5vnJ4KDjGmXr0wgopHZXBTloDW2IwnUDX3BnUwD
 #EXTINF:-1 tvg-id="4248158" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248158_53014_SHFF_BC_fc-web.png" group-title="🔸FanCode🔸| Live Events",Sheffield Wednesday F.C. vs Bradford City
 https://in-mc-flive.fancode.com/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787338128~_GO=Generated~acl=/mumbai/4248158_english_hls_5fcd54caf288579_1ta-di_h264/*~Signature=ARceAWPnnZahtLUbeGyms4_DNiJ3KUS2t7bZSAowVeanUE_wBjODhELZgFquyGCUyCopxDrHd0xSn4iAXksKlikcK6YL
 #EXTINF:-1 tvg-id="4248414" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 1
@@ -7249,11 +7247,13 @@ https://in-mc-flive.fancode.com/mumbai/4248414_english_hls_2d2575e67562810_1ta-d
 https://in-mc-flive.fancode.com/mumbai/4248410_english_hls_35049d909265233_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787339346~_GO=Generated~acl=/mumbai/4248410_english_hls_35049d909265233_1ta-di_h264/*~Signature=ARceAWOUqT8278FjGO2YYxMXdDDEJZ6UBJ0lwxSYbyIVEJAyM23LYV1y18EyBBoBkcR6s0z5-m4si6bI87cyQ6aL5T4I
 #EXTINF:-1 tvg-id="4248134" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="🔸FanCode🔸| Live Events",World Feed 1
 https://in-mc-flive.fancode.com/mumbai/4248134_english_hls_4933b1ad3f22404_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787341781~_GO=Generated~acl=/mumbai/4248134_english_hls_4933b1ad3f22404_1ta-di_h264/*~Signature=ARceAWMnrYVLG3EzDQqscOdj66k83J-GWqnhTiK7kMPkEiT-s7SpLTXMEeUMUzlR8KtONk0aCpv296lAfcr4unrZ3O0O
+#EXTINF:-1 tvg-id="4247586" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247586_53004_RVL_ALA_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Rayo Vallecano vs Deportivo Alaves
+https://in-mc-flive.fancode.com/mumbai/4247586_english_hls_5013cf25ff5328_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787337518~_GO=Generated~acl=/mumbai/4247586_english_hls_5013cf25ff5328_1ta-di_h264/*~Signature=ARceAWORyeuKApVUl23BORWv2XhX9KHcaTtn54ZOvP9tGMCyvNg-E5vnJ4KDjGmXr0wgopHZXBTloDW2IwnUDX3BnUwD
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702519612697_LIV_Golf_Indianapolis_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Indianapolis - Day 1 - 20 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787301843~acl=/*~id=69669326175093620980855355011087~hmac=88739d42e4b8c663bceb1e62c9ba4236e8d4d92d9ef434bbef4a1445368b1075
+https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787303057~acl=/*~id=98456274756440069809280256498715~hmac=6bd2211aac374dbed3fa7272bce04dbe4fc7749662cba199a8951c2d54f2b5ff
 
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
@@ -7307,27 +7307,6 @@ https://live.666666.zip/live/4565335.m3u8?
 #EXTINF:-1 tvg-id="11668" tvg-name="Rayo Vallecano vs Deportivo Alaves | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Rayo Vallecano vs Deportivo Alaves | LOW SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.45/hls/RRRRRA.m3u8?
-
-#EXTINF:-1 tvg-id="11669" tvg-name="Al-Fayha vs Al-Hilal | SportDigital Fussball" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Fayha vs Al-Hilal | SportDigital Fussball
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
-
-#EXTINF:-1 tvg-id="11669" tvg-name="Al-Fayha vs Al-Hilal | FANCODE - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Fayha vs Al-Hilal | FANCODE - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="11669" tvg-name="Al-Fayha vs Al-Hilal | FOX SOCCER+ HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Fayha vs Al-Hilal | FOX SOCCER+ HD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/54911/load-playlist?
-
-#EXTINF:-1 tvg-id="11669" tvg-name="Al-Fayha vs Al-Hilal | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Fayha vs Al-Hilal | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/ETTTAAA.m3u8?
 
 #EXTINF:-1 tvg-id="11670" tvg-name="Sheffield Wednesday vs Bradford City | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sheffield Wednesday vs Bradford City | beiN ENGLISH - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7757,6 +7736,27 @@ https://chatgpt.hereisman.net/playlist/54878/load-playlist?
 #KODIPROP:inputstream.adaptive.license_key=8dfcbc2f71d1f5f509391115fad72926:f433b39284188d6e7defb076ec8037e0
 https://abgrq4vaaaaaaaampsyx3sspvxzan.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/auq2ercnt0/out/v1/7ee50ab92ef94ab98a855d948be207b3/5a495046-7ef3-4f47-946c-4a3af3107708-cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.242020.0&encoding=segmentBase
 
+#EXTINF:-1 tvg-id="11669" tvg-name="Al-Fayha vs Al-Hilal | SportDigital Fussball" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Fayha vs Al-Hilal | SportDigital Fussball
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
+
+#EXTINF:-1 tvg-id="11669" tvg-name="Al-Fayha vs Al-Hilal | FANCODE - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Fayha vs Al-Hilal | FANCODE - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="11669" tvg-name="Al-Fayha vs Al-Hilal | FOX SOCCER+ HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Fayha vs Al-Hilal | FOX SOCCER+ HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/54911/load-playlist?
+
+#EXTINF:-1 tvg-id="11669" tvg-name="Al-Fayha vs Al-Hilal | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Fayha vs Al-Hilal | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/ETTTAAA.m3u8?
+
 #EXTINF:-1 tvg-id="11678" tvg-name="Cincinnati Reds vs St. Louis Cardinals | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Cincinnati Reds vs St. Louis Cardinals | CRICFy LIVE
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/54912/load-playlist?
@@ -7797,7 +7797,7 @@ http://193.47.62.41/hls/ETTT.m3u8
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:32 AM 21-08-2026
+#LAST_UPDATE:03:02 AM 21-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
