@@ -8,16 +8,21 @@ const SOURCES = {
   HOTSTAR_M3U: process.env.HOTSTAR_M3U,
   ZEE5_M3U: process.env.ZEE5_M3U,
 
-  JIO_JSON: "https://raw.githubusercontent.com/cybersterr/jeeyo/main/stream.json",
-  SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
-  FANCODE_JSON: "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json",
+  JIO_JSON:
+    "https://raw.githubusercontent.com/cybersterr/jeeyo/main/stream.json",
 
-  ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.jso",
+  SONYLIV_JSON:
+    "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
+
+  FANCODE_JSON:
+    "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json",
+
+  ICC_TV_JSON:
+    "https://icc.vodep39240327.workers.dev/icctv.jso",
 
   SONYLIV_M3U: process.env.SONYLIV_M3U,
   SUNXT_M3U: process.env.SUNXT_M3U,
 
-  // GitHub Secrets
   JSTAR_LIVE_EVENTS: process.env.JSTAR_LIVE_EVENTS,
   WORLDWIDE_EVENTS: process.env.WORLDWIDE_EVENTS,
 };
@@ -41,17 +46,101 @@ function section(title) {
   return `\n# ---------------=== ${title} ===-------------------\n`;
 }
 
-// ================= FORCE M3U GROUP =================
-function forceGroup(content, groupName) {
-  if (!content || typeof content !== "string") return "";
+// ================= FETCH RAW M3U =================
+async function fetchM3U(url, name) {
+  try {
+    if (!url) {
+      console.log(`${name}: Secret URL missing`);
+      return "";
+    }
 
-  const lines = content.split(/\r?\n/);
+    console.log(`Fetching ${name}...`);
+
+    const res = await axios.get(url.trim(), {
+      timeout: 60000,
+      responseType: "text",
+      maxRedirects: 10,
+      validateStatus: () => true,
+      headers: {
+        "User-Agent": "Mozilla/5.0"
+      }
+    });
+
+    console.log(
+      `${name}: HTTP ${res.status} | ${String(res.data || "").length} bytes`
+    );
+
+    if (res.status < 200 || res.status >= 300) {
+      return "";
+    }
+
+    return String(res.data || "").trim();
+
+  } catch (error) {
+    console.error(
+      `${name} fetch error:`,
+      error.message
+    );
+
+    return "";
+  }
+}
+
+// ================= FETCH JSON =================
+async function fetchJSON(url, name) {
+  try {
+    if (!url) {
+      console.log(`${name}: URL missing`);
+      return null;
+    }
+
+    console.log(`Fetching ${name}...`);
+
+    const res = await axios.get(url.trim(), {
+      timeout: 60000,
+      responseType: "text",
+      maxRedirects: 10,
+      validateStatus: () => true,
+      headers: {
+        "User-Agent": "Mozilla/5.0"
+      }
+    });
+
+    console.log(
+      `${name}: HTTP ${res.status} | ${String(res.data || "").length} bytes`
+    );
+
+    if (res.status < 200 || res.status >= 300) {
+      return null;
+    }
+
+    const text = String(res.data || "").trim();
+
+    if (!text) return null;
+
+    return JSON.parse(text);
+
+  } catch (error) {
+    console.error(
+      `${name} JSON error:`,
+      error.message
+    );
+
+    return null;
+  }
+}
+
+// ================= FORCE GROUP =================
+function forceGroup(content, groupName) {
+  if (!content) return "";
+
+  const lines = String(content).split(/\r?\n/);
   const out = [];
 
   for (const rawLine of lines) {
     const line = rawLine.trim();
 
-    // Skip source playlist headers
+    // Remove source M3U header only
     if (line === "#EXTM3U") continue;
 
     if (line.startsWith("#EXTINF")) {
@@ -70,9 +159,11 @@ function forceGroup(content, groupName) {
       }
 
       out.push(updated);
-    } else {
-      out.push(line);
+      continue;
     }
+
+    // Keep ALL other M3U lines exactly
+    out.push(line);
   }
 
   return out.join("\n").trim();
@@ -80,8 +171,9 @@ function forceGroup(content, groupName) {
 
 // ================= JIO =================
 function convertJioJson(json) {
-  const out = [];
+  if (!json) return "";
 
+  const out = [];
   const channels = json.channels || json;
 
   for (const id in channels) {
@@ -99,7 +191,9 @@ function convertJioJson(json) {
 `#EXTINF:-1 tvg-id="${ch.tvg_id || id}" tvg-logo="${ch.tvg_logo || ""}" group-title="⭕️ JIOTV+ | ${category}",${ch.channel_name || id}`
     );
 
-    out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
+    out.push(
+      `#KODIPROP:inputstream.adaptive.license_type=clearkey`
+    );
 
     if (ch.kid && ch.key) {
       out.push(
@@ -126,12 +220,13 @@ function convertJioJson(json) {
 
 // ================= SONYLIV LIVE EVENTS =================
 function convertSony(json) {
-  if (!json.matches) return "";
+  if (!json || !json.matches) return "";
 
   return json.matches
     .filter(m => m.isLive)
     .map(m => {
       const url = m.dai_url || m.pub_url;
+
       if (!url) return null;
 
       return `#EXTINF:-1 tvg-logo="${m.src || ""}" group-title="🔹️SonyLiv Live🔹️",${m.match_name || "Sony Live"}\n${url}`;
@@ -141,247 +236,261 @@ function convertSony(json) {
 }
 
 // ================= SONYLIV DIGITAL =================
-function convertSonyJsonChannels(json) {
-  if (!json) return "";
+function convertSonyJsonChannels(content) {
+  if (!content) return "";
 
   const out = [];
+  const lines = String(content).split(/\r?\n/);
 
-  const lines =
-    typeof json === "string"
-      ? json.split(/\r?\n/)
-      : [];
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim();
 
-  if (lines.length) {
-    for (let i = 0; i < lines.length; i++) {
-      const line = lines[i].trim();
+    if (!line.startsWith("#EXTINF")) continue;
 
-      if (line.startsWith("#EXTINF")) {
-        if (line.includes('tvg-id="CloudPlay"')) {
-          i++;
-          continue;
-        }
-
-        const updatedLine =
-          line.match(/group-title="[^"]*"/)
-            ? line.replace(
-                /group-title="[^"]*"/,
-                'group-title="🎬 OTT | SONY LIV"'
-              )
-            : line.replace(
-                "#EXTINF:-1",
-                '#EXTINF:-1 group-title="🎬 OTT | SONY LIV"'
-              );
-
-        out.push(updatedLine);
-
-        if (lines[i + 1]) {
-          out.push(lines[i + 1].trim());
-          i++;
-        }
-      }
+    if (line.includes('tvg-id="CloudPlay"')) {
+      continue;
     }
 
-    return out.join("\n");
-  }
+    const updatedLine =
+      /group-title="[^"]*"/.test(line)
+        ? line.replace(
+            /group-title="[^"]*"/,
+            'group-title="🎬 OTT | SONY LIV"'
+          )
+        : line.replace(
+            "#EXTINF:-1",
+            '#EXTINF:-1 group-title="🎬 OTT | SONY LIV"'
+          );
 
-  if (typeof json !== "object") return "";
+    out.push(updatedLine);
 
-  for (const id in json) {
-    const ch = json[id];
-    if (!ch.url) continue;
+    // Keep metadata lines until URL
+    let j = i + 1;
 
-    const tvgId = ch.tvg_id || `${id}.in`;
-    const tvgName =
-      ch.tvg_name ||
-      ch.channel_name ||
-      id;
+    while (j < lines.length) {
+      const next = lines[j].trim();
 
-    const logo = ch.tvg_logo || "";
-    const name = ch.channel_name || id;
+      if (next.startsWith("#EXTINF")) break;
 
-    out.push(
-`#EXTINF:-1 tvg-id="${tvgId}" tvg-name="${tvgName}" group-title="🎬 OTT | SONY LIV" tvg-logo="${logo}",${name}`
-    );
+      out.push(next);
 
-    out.push(ch.url);
+      if (
+        next.startsWith("http://") ||
+        next.startsWith("https://")
+      ) {
+        j++;
+        break;
+      }
+
+      j++;
+    }
+
+    i = j - 1;
   }
 
   return out.join("\n");
 }
 
-// ================= ICC TV JSON TO M3U =================
+// ================= ICC TV =================
 function convertIccTvJson(json) {
-  if (!json || !Array.isArray(json.live)) return "";
+  if (!json) {
+    console.log("ICC TV: Empty JSON");
+    return "";
+  }
+
+  const events =
+    Array.isArray(json.live)
+      ? json.live
+      : Array.isArray(json.matches)
+        ? json.matches
+        : [];
+
+  console.log(`ICC TV events found: ${events.length}`);
+
+  if (!events.length) return "";
 
   const out = [];
 
-  json.live.forEach((match) => {
-    const playback = match.playback || {};
-    const fields = match.fields || {};
-    const keys = playback.keys || {};
+  events.forEach((match, index) => {
+    try {
+      const playback = match.playback || {};
+      const fields = match.fields || {};
 
-    const playbackUrl =
-      playback.playbackUrl || "";
+      const playbackUrl =
+        playback.playbackUrl ||
+        playback.url ||
+        playback.mpd ||
+        "";
 
-    if (!playbackUrl) return;
+      if (!playbackUrl) {
+        console.log(
+          `ICC event ${index}: No playback URL`
+        );
+        return;
+      }
 
-    const videoId =
-      fields.videoId ||
-      match._entityId ||
-      "";
+      const videoId =
+        fields.videoId ||
+        match.videoId ||
+        match._entityId ||
+        `icc-${index}`;
 
-    const title =
-      match.title ||
-      "ICC Live";
+      const title =
+        match.title ||
+        match.name ||
+        "ICC Live";
 
-    const logo =
-      match.thumbnail?.thumbnailUrl ||
-      "";
+      const logo =
+        match.thumbnail?.thumbnailUrl ||
+        match.thumbnail?.url ||
+        match.image ||
+        "";
 
-    const audioTrack =
-      playback.audioTracks?.[0]?.displayName ||
-      "English";
+      const audioTrack =
+        playback.audioTracks?.[0]?.displayName ||
+        "English";
 
-    const jwk =
-      keys.jwk || {};
+      const jwk =
+        playback.keys?.jwk ||
+        playback.jwk ||
+        null;
 
-    const hexKey =
-      keys.hex || "";
+      const hexKey =
+        playback.keys?.hex ||
+        playback.key ||
+        "";
 
-    const headers =
-      playback.headers || [];
+      let userAgent = "";
+      let referer = "";
+      let origin = "";
 
-    let userAgent = "";
-    let referer = "";
-    let origin = "";
+      const headers =
+        playback.headers || [];
 
-    headers.forEach((header) => {
-      const index = header.indexOf(":");
+      if (Array.isArray(headers)) {
+        headers.forEach(header => {
+          const index = String(header).indexOf(":");
 
-      if (index === -1) return;
+          if (index === -1) return;
 
-      const key =
-        header.substring(0, index)
-          .trim()
-          .toLowerCase();
+          const key =
+            String(header)
+              .substring(0, index)
+              .trim()
+              .toLowerCase();
 
-      const value =
-        header.substring(index + 1)
-          .trim();
+          const value =
+            String(header)
+              .substring(index + 1)
+              .trim();
 
-      if (key === "user-agent") userAgent = value;
-      if (key === "referer") referer = value;
-      if (key === "origin") origin = value;
-    });
+          if (key === "user-agent") {
+            userAgent = value;
+          }
 
-    out.push(
+          if (key === "referer") {
+            referer = value;
+          }
+
+          if (key === "origin") {
+            origin = value;
+          }
+        });
+      }
+
+      // Supports object-style headers too
+      if (
+        headers &&
+        !Array.isArray(headers) &&
+        typeof headers === "object"
+      ) {
+        userAgent =
+          headers["User-Agent"] ||
+          headers["user-agent"] ||
+          userAgent;
+
+        referer =
+          headers["Referer"] ||
+          headers["referer"] ||
+          referer;
+
+        origin =
+          headers["Origin"] ||
+          headers["origin"] ||
+          origin;
+      }
+
+      out.push(
 `#EXTINF:-1 tvg-id="${videoId}" tvg-logo="${logo}" tvg-lang="${audioTrack}" group-title="📺 ICC TV",${audioTrack} | ${title}`
-    );
+      );
 
-    out.push(
-`#KODIPROP:inputstream=inputstream.adaptive`
-    );
-
-    out.push(
-`#KODIPROP:inputstream.adaptive.manifest_type=mpd`
-    );
-
-    out.push(
-`#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha`
-    );
-
-    if (
-      jwk &&
-      Array.isArray(jwk.keys) &&
-      jwk.keys.length
-    ) {
       out.push(
+        `#KODIPROP:inputstream=inputstream.adaptive`
+      );
+
+      out.push(
+        `#KODIPROP:inputstream.adaptive.manifest_type=mpd`
+      );
+
+      out.push(
+        `#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha`
+      );
+
+      if (
+        jwk &&
+        typeof jwk === "object" &&
+        Array.isArray(jwk.keys) &&
+        jwk.keys.length
+      ) {
+        out.push(
 `#KODIPROP:inputstream.adaptive.license_key=${JSON.stringify(jwk)}`
-      );
-    } else if (hexKey) {
-      out.push(
+        );
+      } else if (hexKey) {
+        out.push(
 `#KODIPROP:inputstream.adaptive.license_key=${hexKey}`
-      );
-    }
+        );
+      }
 
-    if (userAgent) {
-      out.push(
+      if (userAgent) {
+        out.push(
 `#EXTVLCOPT:http-user-agent=${userAgent}`
-      );
-    }
+        );
+      }
 
-    if (referer) {
-      out.push(
+      if (referer) {
+        out.push(
 `#EXTVLCOPT:http-referrer=${referer}`
-      );
-    }
+        );
+      }
 
-    if (origin) {
-      out.push(
+      if (origin) {
+        out.push(
 `#EXTVLCOPT:http-origin=${origin}`
-      );
-    }
+        );
+      }
 
-    const extHttp = {};
+      const extHttp = {};
 
-    if (referer) {
-      extHttp.referer = referer;
-    }
+      if (referer) extHttp.referer = referer;
+      if (origin) extHttp.origin = origin;
 
-    if (origin) {
-      extHttp.origin = origin;
-    }
-
-    if (Object.keys(extHttp).length) {
-      out.push(
+      if (Object.keys(extHttp).length) {
+        out.push(
 `#EXTHTTP:${JSON.stringify(extHttp)}`
+        );
+      }
+
+      out.push(playbackUrl);
+
+    } catch (error) {
+      console.error(
+        `ICC event ${index} conversion error:`,
+        error.message
       );
     }
-
-    out.push(playbackUrl);
   });
 
   return out.join("\n");
-}
-
-// ================= SAFE FETCH =================
-async function safeFetch(url) {
-  try {
-    if (!url) return null;
-
-    const res = await axios.get(url, {
-      timeout: 60000,
-      responseType: "text",
-      headers: {
-        "User-Agent": "Mozilla/5.0"
-      }
-    });
-
-    const data = res.data;
-
-    if (typeof data === "string") {
-      const trimmed = data.trim();
-
-      if (
-        trimmed.startsWith("{") ||
-        trimmed.startsWith("[")
-      ) {
-        try {
-          return JSON.parse(trimmed);
-        } catch {}
-      }
-    }
-
-    return data;
-
-  } catch (error) {
-    console.error(
-      `Fetch failed: ${url}`,
-      error.message
-    );
-
-    return null;
-  }
 }
 
 // ================= FANCODE =================
@@ -409,49 +518,48 @@ async function run() {
 
   const out = [];
 
-  out.push(
-    PLAYLIST_HEADER.trim()
-  );
+  out.push(PLAYLIST_HEADER.trim());
 
   // ================= HOTSTAR =================
   const hotstar =
-    await safeFetch(SOURCES.HOTSTAR_M3U);
+    await fetchM3U(
+      SOURCES.HOTSTAR_M3U,
+      "HOTSTAR"
+    );
 
   if (hotstar) {
-    const groupedHotstar =
+    out.push(
+      section("🎬 OTT | JIOHOTSTAR"),
       forceGroup(
-        String(hotstar),
+        hotstar,
         "🎬 OTT | JIOHOTSTAR"
-      );
-
-    if (groupedHotstar) {
-      out.push(
-        section("🎬 OTT | JIOHOTSTAR"),
-        groupedHotstar
-      );
-    }
+      )
+    );
   }
 
   // ================= ZEE5 =================
   const zee5 =
-    await safeFetch(SOURCES.ZEE5_M3U);
+    await fetchM3U(
+      SOURCES.ZEE5_M3U,
+      "ZEE5"
+    );
 
   if (zee5) {
-    const fixedZee5 =
-      String(zee5).replace(
-        /group-title="[^"]*"/g,
-        'group-title="🎬 OTT | ZEE5"'
-      );
-
     out.push(
       section("🎬 OTT | ZEE5"),
-      fixedZee5
+      forceGroup(
+        zee5,
+        "🎬 OTT | ZEE5"
+      )
     );
   }
 
   // ================= SONYLIV DIGITAL =================
   const digital =
-    await safeFetch(SOURCES.SONYLIV_M3U);
+    await fetchM3U(
+      SOURCES.SONYLIV_M3U,
+      "SONYLIV DIGITAL"
+    );
 
   if (digital) {
     out.push(
@@ -461,44 +569,49 @@ async function run() {
   }
 
   // ================= SUNXT =================
-  // Raw M3U output exactly as source provides it
   const sunxt =
-    await safeFetch(SOURCES.SUNXT_M3U);
+    await fetchM3U(
+      SOURCES.SUNXT_M3U,
+      "SUNXT"
+    );
 
   if (sunxt) {
-    const sunxtContent =
-      String(sunxt).trim();
+    out.push(
+      section("🎬 OTT | SUNXT"),
+      forceGroup(
+        sunxt,
+        "🎬 OTT | SUNXT"
+      )
+    );
+  }
 
-    if (sunxtContent) {
+  // ================= JIO =================
+  const jio =
+    await fetchJSON(
+      SOURCES.JIO_JSON,
+      "JIO"
+    );
+
+  if (jio) {
+    const converted =
+      convertJioJson(jio);
+
+    if (converted) {
       out.push(
-        section("🎬 OTT | SUNXT"),
-        sunxtContent
+        section("⭕ JioTv+"),
+        converted
       );
     }
   }
 
-  // ================= JIOTV+ =================
-  const jio =
-    await safeFetch(SOURCES.JIO_JSON);
-
-  if (
-    jio &&
-    typeof jio === "object"
-  ) {
-    out.push(
-      section("⭕ JioTv+"),
-      convertJioJson(jio)
-    );
-  }
-
   // ================= FANCODE =================
   const fan =
-    await safeFetch(SOURCES.FANCODE_JSON);
+    await fetchJSON(
+      SOURCES.FANCODE_JSON,
+      "FANCODE"
+    );
 
-  if (
-    fan &&
-    typeof fan === "object"
-  ) {
+  if (fan) {
     const all =
       extractObjects(fan);
 
@@ -539,85 +652,98 @@ async function run() {
 
   // ================= SONYLIV LIVE EVENTS =================
   const sony =
-    await safeFetch(SOURCES.SONYLIV_JSON);
-
-  if (
-    sony &&
-    typeof sony === "object"
-  ) {
-    out.push(
-      section("🔹SonyLiv🔹| Live Events"),
-      convertSony(sony)
+    await fetchJSON(
+      SOURCES.SONYLIV_JSON,
+      "SONYLIV LIVE EVENTS"
     );
+
+  if (sony) {
+    const converted =
+      convertSony(sony);
+
+    if (converted) {
+      out.push(
+        section("🔹SonyLiv🔹| Live Events"),
+        converted
+      );
+    }
   }
 
   // ================= ICC TV =================
   const icc =
-    await safeFetch(SOURCES.ICC_TV_JSON);
+    await fetchJSON(
+      SOURCES.ICC_TV_JSON,
+      "ICC TV"
+    );
 
-  if (
-    icc &&
-    typeof icc === "object"
-  ) {
-    const convertedIcc =
+  if (icc) {
+    const converted =
       convertIccTvJson(icc);
 
-    if (convertedIcc) {
+    if (converted) {
       out.push(
         section("📺 ICC TV"),
-        convertedIcc
+        converted
+      );
+    } else {
+      console.log(
+        "ICC TV conversion produced no channels"
       );
     }
   }
 
-  // ================= JSTAR LIVE EVENTS =================
+  // ================= JSTAR =================
   const jstar =
-    await safeFetch(SOURCES.JSTAR_LIVE_EVENTS);
+    await fetchM3U(
+      SOURCES.JSTAR_LIVE_EVENTS,
+      "JSTAR LIVE EVENTS"
+    );
 
   if (jstar) {
-    const groupedJstar =
+    out.push(
+      section("🔴 LIVE | JSTAR LIVE EVENTS"),
       forceGroup(
-        String(jstar),
+        jstar,
         "🔴 LIVE | JSTAR LIVE EVENTS"
-      );
-
-    if (groupedJstar) {
-      out.push(
-        section("🔴 LIVE | JSTAR LIVE EVENTS"),
-        groupedJstar
-      );
-    }
+      )
+    );
   }
 
-  // ================= WORLDWIDE EVENTS =================
+  // ================= WORLDWIDE =================
   const worldwide =
-    await safeFetch(SOURCES.WORLDWIDE_EVENTS);
+    await fetchM3U(
+      SOURCES.WORLDWIDE_EVENTS,
+      "WORLDWIDE EVENTS"
+    );
 
   if (worldwide) {
-    const groupedWorldwide =
+    out.push(
+      section("🔵 LIVE | WORLDWIDE EVENTS"),
       forceGroup(
-        String(worldwide),
+        worldwide,
         "🔵 LIVE | WORLDWIDE EVENTS"
-      );
-
-    if (groupedWorldwide) {
-      out.push(
-        section("🔵 LIVE | WORLDWIDE EVENTS"),
-        groupedWorldwide
-      );
-    }
+      )
+    );
   }
 
-  out.push(
-    PLAYLIST_FOOTER.trim()
-  );
+  out.push(PLAYLIST_FOOTER.trim());
 
   fs.writeFileSync(
     OUTPUT_FILE,
-    out.join("\n") + "\n"
+    out.join("\n") + "\n",
+    "utf8"
   );
 
-  console.log("stream.m3u generated");
+  console.log(
+    "stream.m3u generated successfully"
+  );
 }
 
-run();
+run().catch(error => {
+  console.error(
+    "Fatal error:",
+    error
+  );
+
+  process.exit(1);
+});
