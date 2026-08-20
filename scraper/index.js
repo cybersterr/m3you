@@ -567,20 +567,23 @@ async function run() {
   }
 
   // SUNXT - EXCLUDE FIRST ENTRY
-  const sunxt =
-    await fetchM3U(SOURCES.SUNXT_M3U, "SUNXT");
+const sunxt =
+  await fetchM3U(SOURCES.SUNXT_M3U, "SUNXT");
 
-  if (sunxt) {
-    const cleanedSunxt =
-      removeSunxtFirstEntry(sunxt);
+if (sunxt) {
+  const cleanedSunxt =
+    removeSunxtFirstEntry(sunxt);
 
-    if (cleanedSunxt) {
-      out.push(
-        section("🎬 OTT | SUNXT"),
-        cleanedSunxt
-      );
-    }
+  if (cleanedSunxt) {
+    out.push(
+      section("🎬 OTT | SUNXT"),
+      forceGroup(
+        cleanedSunxt,
+        "🎬 OTT | SUNXT"
+      )
+    );
   }
+}
 
   // JIO
   const jio =
