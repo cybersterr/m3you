@@ -5,40 +5,42 @@ on:
     - cron: '*/10 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   fetch-json:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
           ref: main
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scraper/package-lock.json
 
       - name: Install Dependencies
-        run: |
-          cd scraper
-          npm install
+        working-directory: scraper
+        run: npm install
 
       - name: Run Fetch Script
+        working-directory: scraper
         env:
           HOTSTAR_M3U: ${{ secrets.HOTSTAR_M3U }}
           ZEE5_M3U: ${{ secrets.ZEE5_M3U }}
-          SPORTS1_JSON: ${{ secrets.SPORTS1_JSON }}
-          SPORTS2_JSON: ${{ secrets.SPORTS2_JSON }}
           SONYLIV_M3U: ${{ secrets.SONYLIV_M3U }}
-          SUNXT_JSON: ${{ secrets.SUNXT_JSON }}
-          NEW_M3U: ${{ secrets.NEW_M3U }}
-        run: |
-          cd scraper
-          npm start
+          SUNXT_M3U: ${{ secrets.SUNXT_M3U }}
+          JSTAR_LIVE_EVENTS: ${{ secrets.JSTAR_LIVE_EVENTS }}
+          WORLDWIDE_EVENTS: ${{ secrets.WORLDWIDE_EVENTS }}
+        run: npm start
 
       - name: Commit and Push stream.m3u
         env:
@@ -46,6 +48,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
 
           git pull --rebase origin main
@@ -53,10 +56,9 @@ jobs:
           cp scraper/stream.m3u stream.m3u
           git add stream.m3u
 
-          git diff-index --quiet HEAD || git commit -m "📥 updated stream.m3u from remote source"
-
-          if [ "$(git rev-parse HEAD)" != "$(git rev-parse @{u})" ]; then
-            git push origin main
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
           else
-            echo "No changes to push."
+            git commit -m "📥 updated stream.m3u from remote source"
+            git push origin main
           fi
