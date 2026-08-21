@@ -7239,12 +7239,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4248415" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 2
-https://in-mc-flive.fancode.com/mumbai/4248415_english_hls_8a74f317c698406_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787436632~_GO=Generated~acl=/mumbai/4248415_english_hls_8a74f317c698406_1ta-di_h264/*~Signature=ARceAWNn_yEPZxpfGJSMa2FAskE88_PX7zl3OsZAuvUtUoMGn5RpuU6b8nlkGitJLfeVI5Q5Qje76yhfHOOnj9NCVckL
 #EXTINF:-1 tvg-id="4248141" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="🔸FanCode🔸| Live Events",World Feed
 https://in-mc-flive.fancode.com/mumbai/4248141_english_hls_bbbb829c2882287_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787424489~_GO=Generated~acl=/mumbai/4248141_english_hls_bbbb829c2882287_1ta-di_h264/*~Signature=ARceAWPIjE1riX4d3cgTpiQhq1_bwZYc2L4ecd0ax4gvVT8YzAj3N3Cczuuc-c0lZrCei7rC8IoNrYYeeCxrANtF5c8N
 #EXTINF:-1 tvg-id="4248411" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="🔸FanCode🔸| Live Events",World Feed - Day 2
 https://in-mc-flive.fancode.com/mumbai/4248411_english_hls_1da0d5a196542_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787424490~_GO=Generated~acl=/mumbai/4248411_english_hls_1da0d5a196542_1ta-di_h264/*~Signature=ARceAWMKFnWlPt6QW-98BFvBtnuPxWl1Z1ewxtpnoG3LxjUE6i4hf458u82u6X9WMuX33QDVK7hf53dD1Lvf6s8xpagK
+#EXTINF:-1 tvg-id="4248291" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248291_53026_SLK_JK_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Jamaica Kingsmen vs Saint Lucia Kings
+https://in-mc-flive.fancode.com/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787438456~_GO=Generated~acl=/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/*~Signature=ARceAWOHh-75K3w-8lQemeVVnXcis0wJJB1-1cKHb2g-4dOacYo3FDphfqmrDezxPVzO40M0x8SNXF9PjJUpscxlHfIB
 
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
@@ -7261,6 +7261,10 @@ https://in-mc-flive.fancode.com/mumbai/4248411_english_hls_1da0d5a196542_1ta-di_
 https://live09p.hotstar.com/mp1/inallow-epl-2026-27-1540076792/35ec698da65d4fccb766d14409d963b9/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=exp=1787350820~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=MvISaqI2FYVs2hFhqNpcd73cTKyRjBGv7AjYE1HiUCCa-did=baaL0afg6SjtaBx9aQWdttssJH5mVKD2iWzDcqqaUuli-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.09.26.9-ut=paid-ttl=1800-type=paid-raf=1787349620-~hmac=b0ab09d3b3636ca700b1ee986a4ad513bee2fbb6eeeaf70e5eb37b0365a91447
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
+
+#EXTINF:-1 tvg-id="11728" tvg-name="Philadelphia Phillies vs St. Louis Cardinals | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Philadelphia Phillies vs St. Louis Cardinals | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8
 
 #EXTINF:-1 tvg-id="11729" tvg-name="Milwaukee Brewers vs Atlanta Braves | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Milwaukee Brewers vs Atlanta Braves | HD QUALITY
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
@@ -7562,10 +7566,6 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="11727" tvg-name="Espanyol vs Real Madrid |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Espanyol vs Real Madrid |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="11728" tvg-name="Philadelphia Phillies vs St. Louis Cardinals | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Philadelphia Phillies vs St. Louis Cardinals | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8
-
 #EXTINF:-1 tvg-id="11730" tvg-name="New York Yankees vs Toronto Blue Jays | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",New York Yankees vs Toronto Blue Jays | HD QUALITY
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
 https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8
@@ -7804,7 +7804,7 @@ http://193.47.62.41/hls/fvvvaaaa.m3u8?
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:02 AM 22-08-2026
+#LAST_UPDATE:04:32 AM 22-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
