@@ -7241,6 +7241,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 #EXTINF:-1 tvg-id="4248290" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248290_53026_ABF_SKN_FC-Web.png" group-title="🔸FanCode🔸| Live Events",St Kitts and Nevis Patriots vs Antigua & Barbuda Falcons
 https://in-mc-flive.fancode.com/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787351498~_GO=Generated~acl=/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/*~Signature=ARceAWMKy-qLMgp7nh9nwms9aR4yyhFDMl405H0JnsKyXtL8wwcl-ixeevnm4cHzoBHuSdBouig1FUpulx4Wp4e1dbYN
+#EXTINF:-1 tvg-id="4248136" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="🔸FanCode🔸| Live Events",World Feed 2
+https://in-mc-flive.fancode.com/mumbai/4248136_english_hls_59738eb12a5493_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787358178~_GO=Generated~acl=/mumbai/4248136_english_hls_59738eb12a5493_1ta-di_h264/*~Signature=ARceAWOW_IRG74dAebw8dIW6XuGIWxVQygpEwZxF4p2XCktcIADLy_46ofOd3R8_FWSDBux_6wap3LRxMcUp3y5TlNQJ
+#EXTINF:-1 tvg-id="4248427" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC-WebTVBG_fc-web-1.jpg" group-title="🔸FanCode🔸| Live Events",Hobart Hurricanes Academy vs Victoria Academy
+https://in-mc-flive.fancode.com/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787358180~_GO=Generated~acl=/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/*~Signature=ARceAWP0WV2-y_YCdPiOjKuP8to_jkkm6ig3es08771suDLxZ3DRtyA52fkNFEiLsY78rA4JGtiTskeOWjjPd1a0HUAF
 
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
@@ -7284,41 +7288,61 @@ https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8
 #EXTINF:-1 tvg-id="11180" tvg-name="CPL Caribbean Premier League | FOX CRICKET HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="🔵 LIVE | WORLDWIDE EVENTS",CPL Caribbean Premier League | FOX CRICKET HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 
-#EXTINF:-1 tvg-id="11671" tvg-name="Macara vs Santos | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Macara vs Santos | beiN ENGLISH - AQ
+#EXTINF:-1 tvg-id="11673" tvg-name="Botafogo vs Cienciano | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Botafogo vs Cienciano | beiN ENGLISH - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
 
-#EXTINF:-1 tvg-id="11671" tvg-name="Macara vs Santos | SportDigital Fussball" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Macara vs Santos | SportDigital Fussball
+#EXTINF:-1 tvg-id="11673" tvg-name="Botafogo vs Cienciano | D SPORTS+ - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Botafogo vs Cienciano | D SPORTS+ - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+
+#EXTINF:-1 tvg-id="11673" tvg-name="Botafogo vs Cienciano | SportDigital Fussball" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Botafogo vs Cienciano | SportDigital Fussball
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
 
-#EXTINF:-1 tvg-id="11671" tvg-name="Macara vs Santos | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Macara vs Santos | SPORT TV HD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolodechocolate.fit/
-https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?
-
-#EXTINF:-1 tvg-id="11672" tvg-name="Olimpia vs Vasco da Gama | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Olimpia vs Vasco da Gama | SPORT TV HD
+#EXTINF:-1 tvg-id="11673" tvg-name="Botafogo vs Cienciano | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Botafogo vs Cienciano | SPORT TV HD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolodechocolate.fit/
 https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?
 
-#EXTINF:-1 tvg-id="11675" tvg-name="LDU vs Mirassol | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",LDU vs Mirassol | beiN ENGLISH - AQ
+#EXTINF:-1 tvg-id="11674" tvg-name="Corinthians vs Rosario Central | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Corinthians vs Rosario Central | beiN ENGLISH - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="11675" tvg-name="LDU vs Mirassol | ESPN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",LDU vs Mirassol | ESPN SPORTS HD
+#EXTINF:-1 tvg-id="11674" tvg-name="Corinthians vs Rosario Central | ESPN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Corinthians vs Rosario Central | ESPN SPORTS HD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolodechocolate.fit/
-https://rdcstream.life/live/espn4/index.m3u8?
+https://rdcstream.life/live/espn1/index.m3u8?
+
+#EXTINF:-1 tvg-id="11674" tvg-name="Corinthians vs Rosario Central | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Corinthians vs Rosario Central | SPORT TV HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolodechocolate.fit/
+https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?
+
+#EXTINF:-1 tvg-id="11676" tvg-name="Houston Texans vs Las Vegas Raiders | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Houston Texans vs Las Vegas Raiders | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8
+
+#EXTINF:-1 tvg-id="11684" tvg-name="Texas Rangers vs Washington Nationals | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Texas Rangers vs Washington Nationals | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/ijfnakfidch22.m3u8
 
 #EXTINF:-1 tvg-id="11685" tvg-name="Baltimore Orioles vs New York Yankees | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Baltimore Orioles vs New York Yankees | HD QUALITY
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
 https://edgestream2.pro/hls/ojzkajnach21.m3u8
+
+#EXTINF:-1 tvg-id="11686" tvg-name="Houston Astros vs Los Angeles Angels | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Houston Astros vs Los Angeles Angels | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8
 
 #EXTINF:-1 tvg-id="591" tvg-name="Formula 1 | Sky via Apple TV - AQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png" group-title="🔵 LIVE | WORLDWIDE EVENTS",Formula 1 | Sky via Apple TV - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7537,61 +7561,9 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/England_2008/ENG/master
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.194/hls/QQQQ.m3u8?
 
-#EXTINF:-1 tvg-id="11673" tvg-name="Botafogo vs Cienciano | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Botafogo vs Cienciano | beiN ENGLISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-
-#EXTINF:-1 tvg-id="11673" tvg-name="Botafogo vs Cienciano | D SPORTS+ - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Botafogo vs Cienciano | D SPORTS+ - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-
-#EXTINF:-1 tvg-id="11673" tvg-name="Botafogo vs Cienciano | SportDigital Fussball" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Botafogo vs Cienciano | SportDigital Fussball
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
-
-#EXTINF:-1 tvg-id="11673" tvg-name="Botafogo vs Cienciano | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Botafogo vs Cienciano | SPORT TV HD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolodechocolate.fit/
-https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?
-
-#EXTINF:-1 tvg-id="11674" tvg-name="Corinthians vs Rosario Central | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Corinthians vs Rosario Central | beiN ENGLISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="11674" tvg-name="Corinthians vs Rosario Central | ESPN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Corinthians vs Rosario Central | ESPN SPORTS HD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolodechocolate.fit/
-https://rdcstream.life/live/espn1/index.m3u8?
-
-#EXTINF:-1 tvg-id="11674" tvg-name="Corinthians vs Rosario Central | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Corinthians vs Rosario Central | SPORT TV HD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolodechocolate.fit/
-https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?
-
-#EXTINF:-1 tvg-id="11676" tvg-name="Houston Texans vs Las Vegas Raiders | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Houston Texans vs Las Vegas Raiders | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8
-
 #EXTINF:-1 tvg-id="11677" tvg-name="Los Angeles Chargers vs San Francisco 49ers | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Los Angeles Chargers vs San Francisco 49ers | HD QUALITY
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
 https://edgestream2.pro/hls/sfjnzabacah31.m3u8
-
-#EXTINF:-1 tvg-id="11684" tvg-name="Texas Rangers vs Washington Nationals | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Texas Rangers vs Washington Nationals | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/ijfnakfidch22.m3u8
-
-#EXTINF:-1 tvg-id="11686" tvg-name="Houston Astros vs Los Angeles Angels | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Houston Astros vs Los Angeles Angels | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8
 
 #EXTINF:-1 tvg-id="11687" tvg-name="Real Betis vs Real Sociedad |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Real Betis vs Real Sociedad |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -7708,6 +7680,38 @@ https://live.666666.zip/live/4562395.m3u8?
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.45/hls/RRRRRAA.m3u8?
 
+#EXTINF:-1 tvg-id="11671" tvg-name="Macara vs Santos | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Macara vs Santos | beiN ENGLISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+
+#EXTINF:-1 tvg-id="11671" tvg-name="Macara vs Santos | SportDigital Fussball" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Macara vs Santos | SportDigital Fussball
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="11671" tvg-name="Macara vs Santos | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Macara vs Santos | SPORT TV HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolodechocolate.fit/
+https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?
+
+#EXTINF:-1 tvg-id="11672" tvg-name="Olimpia vs Vasco da Gama | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Olimpia vs Vasco da Gama | SPORT TV HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolodechocolate.fit/
+https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?
+
+#EXTINF:-1 tvg-id="11675" tvg-name="LDU vs Mirassol | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",LDU vs Mirassol | beiN ENGLISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="11675" tvg-name="LDU vs Mirassol | ESPN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",LDU vs Mirassol | ESPN SPORTS HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolodechocolate.fit/
+https://rdcstream.life/live/espn4/index.m3u8?
+
 #EXTINF:-1 tvg-id="11678" tvg-name="Cincinnati Reds vs St. Louis Cardinals | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Cincinnati Reds vs St. Louis Cardinals | CRICFy LIVE
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/54912/load-playlist?
@@ -7784,18 +7788,25 @@ http://193.47.62.41/hls/ETTTAAAAA.m3u8
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:32 AM 21-08-2026
+#LAST_UPDATE:07:32 AM 21-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0HB6V5WQK" tvg-name="Caribbean Premier League 2026 - 12th Match - Antigua And Barbuda Falcons vs St Kitts And Nevis Patriots" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d74f3eaa-08a1-4ccf-a4d4-1321edfe27db/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 12th Match - Antigua And Barbuda Falcons vs St Kitts And Nevis Patriots
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=801687d4b86a4df1854437ae7b891915:c46c0c435a4eabecc232d2b3fb580950
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wpcqh5sqtu/out/v1/14f0ec73c32f45bd80fc18df1cc56f9b/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wpcqh5sqtu/out/v1/14f0ec73c32f45bd80fc18df1cc56f9b/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H891V7C3" tvg-name="Top End T20 Series 2026 - 1st Match - Victoria vs Hobart Hurricanes" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c689b42e-92d1-42e3-bf94-4248fe6af479/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 1st Match - Victoria vs Hobart Hurricanes
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52ce4a444d2e2b467000271898cea5fd:1bbd9c09c1aaa10a72e9b85355504696
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1ihwsbg9yq/out/v1/5225f51c79464a2a8cd7ab228d341e10/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
