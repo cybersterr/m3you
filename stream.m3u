@@ -4872,8 +4872,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd?__hdnea_
 #EXTINF:-1 tvg-id="655" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",655
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92ac70b12af7f68fd49a0578e4765ab9
-#EXTHTTP:{"Cookie":"hdnea=st=1787488541~exp=1787510141~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=4721f26cf931755d70a4db6a17776472aaa2282b6f3c1216dcd15bffd33e65b8","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787488541~exp=1787510141~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=4721f26cf931755d70a4db6a17776472aaa2282b6f3c1216dcd15bffd33e65b8
+#EXTHTTP:{"Cookie":"hdnea=st=1787510168~exp=1787531768~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=511103599397d16290bc58fb089945491936da1a914463b9afb19abf9330efa7","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787510168~exp=1787531768~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=511103599397d16290bc58fb089945491936da1a914463b9afb19abf9330efa7
 #EXTINF:-1 tvg-id="656" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",656
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1922fbb1ebad4a7ba0f3c77c67b34f89
@@ -7464,6 +7464,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 #EXTINF:-1 tvg-id="4247584_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247584_53004_GEF_RAC_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Getafe CF vs Racing Club de Santander [English]
 https://in-mc-flive.fancode.com/mumbai/4247584_english_hls_6f81107c3712088_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787590982~_GO=Generated~acl=/mumbai/4247584_english_hls_6f81107c3712088_1ta-di_h264/*~Signature=ARceAWMoAmJsQU3KGjyXPOsMZDS2Tpzg3cTuZefBnEla7SMb-X9e-FCxoOgBHlhprGWEUlg7i5VBez1Ai7cY7AFHhksC
+#EXTINF:-1 tvg-id="4247581_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Elche CF vs FC Barcelona [English]
+https://in-mc-flive.fancode.com/mumbai/4247581_english_hls_f643d6067a38495_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787598262~_GO=Generated~acl=/mumbai/4247581_english_hls_f643d6067a38495_1ta-di_h264/*~Signature=ARceAWO0qO_zUN5DyeYl7N_0oRpezCUvWkFbU_HgTsjclxZB4qm0kDmsPQhDH3UPA6Em8NhXNodL7IvrM766ar-PqIEI
 #EXTINF:-1 tvg-id="4248417_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 4 [English]
 https://in-mc-flive.fancode.com/mumbai/4248417_english_hls_523079a4ce80996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787585785~_GO=Generated~acl=/mumbai/4248417_english_hls_523079a4ce80996_1ta-di_h264/*~Signature=ARceAWP1lrim7iXD3JDtDGS41lEDs3ldR7ho7ZqSn4LlgQdqzawa9ajQ7EeM3BPUjG0tWMxXWsDRro_8i_5aYbomruUN
 #EXTINF:-1 tvg-id="4248413_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="🔸FanCode🔸| Live Events",World Feed - Day 4 [English]
@@ -7472,134 +7474,132 @@ https://in-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-d
 https://in-mc-flive.fancode.com/mumbai/4248148_english_hls_012334bd0283018_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787594017~_GO=Generated~acl=/mumbai/4248148_english_hls_012334bd0283018_1ta-di_h264/*~Signature=ARceAWMniCjulQvhTGC-5ouHyMDk0cSTqAOMFOvNgXIKR6A88DHFSDIeRlRPCFGeyscyIkjgJAyugskqzJ3XKjYssP0G
 #EXTINF:-1 tvg-id="4248528_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png" group-title="🔸FanCode🔸| Live Events",Day 2 [English]
 https://in-mc-flive.fancode.com/mumbai/4248528_english_hls_2cba71094556931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787594018~_GO=Generated~acl=/mumbai/4248528_english_hls_2cba71094556931_1ta-di_h264/*~Signature=ARceAWPKWkVmD6W_V4n-CQTnz5fPFxzbJ4zQKAbZcdKhg8OrnCxjDSgLgm842i4AdEoYk8ePvuXQY9CkrIpjCoBKo6QI
+#EXTINF:-1 tvg-id="4248150_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787597655~_GO=Generated~acl=/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/*~Signature=ARceAWNJAMw1MSKbcjWBSA64UifUc9zwGPw4afXFDsKHJQvLMs5V2smWF8SsoH1WlYu-jrP2M1pbpriSZiZIcwra5ncE
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702497412697_LIV_Golf_Indianapolis_day4_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Indianapolis - Day 4 - 23 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787553893~acl=/*~id=37463810321733401493704088352804~hmac=750a1fb7fdb5f6e839b4cb9db522b1066c2d41344b45ad04efcbe6c79b459c9c
+https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787555108~acl=/*~id=00360524259542360643972446100726~hmac=efa5e0d3599c6aca7e6bf091470e974b8d3e3a8bacebfb343ef00f43dfe86f8c
 
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
 # Playlist generated by Hotstar Extractor
 # Playlist Created By @rtxcric
 # Mode: NORMAL FHD 30 MINUTES AUTO-UPDATE
-# Generated: 2026-08-24 12:10:03 AM
+# Generated: 2026-08-24 12:33:04 AM
 
-#EXTINF:-1 tvg-id="130035232" tvg-name="Rennes vs Paris Saint-Germain" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5151/1787482695151-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
+#EXTINF:-1 tvg-id="6399651452" tvg-name="Rennes vs Paris Saint-Germain" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5151/1787482695151-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1d192361d8414db66edb19f1a60000:9288aa35bd144008b71ad2a229cab33c
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787512126~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.05.16.3-ut=paid-ttl=1800-type=paid-raf=1787510926-~hmac=dfe4ca619ea73c73b11fe5ae3ebca4fda2054414cba132bc13f76db971773499|Cookie=hdntl=exp=1787512126~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.05.16.3-ut=paid-ttl=1800-type=paid-raf=1787510926-~hmac=dfe4ca619ea73c73b11fe5ae3ebca4fda2054414cba132bc13f76db971773499"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787512126~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.05.16.3-ut=paid-ttl=1800-type=paid-raf=1787510926-~hmac=dfe4ca619ea73c73b11fe5ae3ebca4fda2054414cba132bc13f76db971773499|Cookie=hdntl=exp=1787512126~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.05.16.3-ut=paid-ttl=1800-type=paid-raf=1787510926-~hmac=dfe4ca619ea73c73b11fe5ae3ebca4fda2054414cba132bc13f76db971773499
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787513559~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.02.02.6-ut=paid-ttl=1800-type=paid-raf=1787512359-~hmac=7917a7a1b15491e0ab46cd5082389c2c3eb5116837a8aa15cb4b5388d08c5c35|Cookie=hdntl=exp=1787513559~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.02.02.6-ut=paid-ttl=1800-type=paid-raf=1787512359-~hmac=7917a7a1b15491e0ab46cd5082389c2c3eb5116837a8aa15cb4b5388d08c5c35"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787513559~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.02.02.6-ut=paid-ttl=1800-type=paid-raf=1787512359-~hmac=7917a7a1b15491e0ab46cd5082389c2c3eb5116837a8aa15cb4b5388d08c5c35|Cookie=hdntl=exp=1787513559~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.02.02.6-ut=paid-ttl=1800-type=paid-raf=1787512359-~hmac=7917a7a1b15491e0ab46cd5082389c2c3eb5116837a8aa15cb4b5388d08c5c35
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live09p.hotstar.com/mp2/inallow-ligue1-2026-1540077284/019955af2064466385b7bf8d355162b8/index.mpd?a=ns&ttl=86400&hdnea=exp=1787512126~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.05.16.3-ut=paid-ttl=1800-type=paid-raf=1787510926-~hmac=dfe4ca619ea73c73b11fe5ae3ebca4fda2054414cba132bc13f76db971773499|Cookie=hdntl=exp=1787512126~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.05.16.3-ut=paid-ttl=1800-type=paid-raf=1787510926-~hmac=dfe4ca619ea73c73b11fe5ae3ebca4fda2054414cba132bc13f76db971773499&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=bd1d192361d8414db66edb19f1a60000:9288aa35bd144008b71ad2a229cab33c
-#EXTINF:-1 tvg-id="3913644897" tvg-name="India vs Australia" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/8670/1787409918670-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787512173~acl=/hls/live/2123002/inallow-fihmwc-2026/hin/1540077245/15mindvrm01df63b8a74c1143b39b3f0572c7430d0523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=24.01.23.6-ut=paid-ttl=1800-type=paid-raf=1787510973-~hmac=76251b9ee3d9d94ca8e2e21ff757976589ea614be4ce4d4aaa0021db3e1b8b73"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787512173~acl=/hls/live/2123002/inallow-fihmwc-2026/hin/1540077245/15mindvrm01df63b8a74c1143b39b3f0572c7430d0523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=24.01.23.6-ut=paid-ttl=1800-type=paid-raf=1787510973-~hmac=76251b9ee3d9d94ca8e2e21ff757976589ea614be4ce4d4aaa0021db3e1b8b73
+https://live09p.hotstar.com/mp2/inallow-ligue1-2026-1540077284/019955af2064466385b7bf8d355162b8/index.mpd?a=ns&ttl=86400&hdnea=exp=1787513559~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.02.02.6-ut=paid-ttl=1800-type=paid-raf=1787512359-~hmac=7917a7a1b15491e0ab46cd5082389c2c3eb5116837a8aa15cb4b5388d08c5c35|Cookie=hdntl=exp=1787513559~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.02.02.6-ut=paid-ttl=1800-type=paid-raf=1787512359-~hmac=7917a7a1b15491e0ab46cd5082389c2c3eb5116837a8aa15cb4b5388d08c5c35&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=bd1d192361d8414db66edb19f1a60000:9288aa35bd144008b71ad2a229cab33c
+#EXTINF:-1 tvg-id="1538460192" tvg-name="St. Louis Cardinals @ Philadelphia Phillies" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9585/1787472239585-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787513583~acl=/hls/live/2123129/inallow-mlb-2026/eng/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.12.14.5-ut=paid-ttl=1800-type=paid-raf=1787512383-~hmac=1885b0816c1381ea43437a5ac2a45177c82ce3dd3f7a969c781e9ca80b3f7280"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787513583~acl=/hls/live/2123129/inallow-mlb-2026/eng/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.12.14.5-ut=paid-ttl=1800-type=paid-raf=1787512383-~hmac=1885b0816c1381ea43437a5ac2a45177c82ce3dd3f7a969c781e9ca80b3f7280
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live12p.hotstar.com/hls/live/2123002/inallow-fihmwc-2026/hin/1540077245/15mindvrm01df63b8a74c1143b39b3f0572c7430d0523august2026/master_ap.m3u8?a=ns&hdnea=exp=1787512173~acl=/hls/live/2123002/inallow-fihmwc-2026/hin/1540077245/15mindvrm01df63b8a74c1143b39b3f0572c7430d0523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=24.01.23.6-ut=paid-ttl=1800-type=paid-raf=1787510973-~hmac=76251b9ee3d9d94ca8e2e21ff757976589ea614be4ce4d4aaa0021db3e1b8b73
-#EXTINF:-1 tvg-id="5756565898" tvg-name="India vs Australia" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/8670/1787409918670-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787512176~acl=/hls/live/2122939/inallow-fihmwc-2026/eng/1540077245/15mindvrm01df63b8a74c1143b39b3f0572c7430d0523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=26.01.19.8-ut=paid-ttl=1800-type=paid-raf=1787510976-~hmac=3a7637e68f9498e0cefa26b6f57c354632f2068a09720e75481f8827dca295fa"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787512176~acl=/hls/live/2122939/inallow-fihmwc-2026/eng/1540077245/15mindvrm01df63b8a74c1143b39b3f0572c7430d0523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=26.01.19.8-ut=paid-ttl=1800-type=paid-raf=1787510976-~hmac=3a7637e68f9498e0cefa26b6f57c354632f2068a09720e75481f8827dca295fa
+https://live14p.hotstar.com/hls/live/2123129/inallow-mlb-2026/eng/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap.m3u8?a=ns&hdnea=exp=1787513583~acl=/hls/live/2123129/inallow-mlb-2026/eng/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.12.14.5-ut=paid-ttl=1800-type=paid-raf=1787512383-~hmac=1885b0816c1381ea43437a5ac2a45177c82ce3dd3f7a969c781e9ca80b3f7280
+#EXTINF:-1 tvg-id="5430620777" tvg-name="St. Louis Cardinals @ Philadelphia Phillies" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9585/1787472239585-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787513584~acl=/hls/live/2123051/inallow-mlb-2026/hin/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.04.23.0-ut=paid-ttl=1800-type=paid-raf=1787512384-~hmac=987c571ed36998afb548a44681c9b83028616d3b751717456839f74aaea0b709"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787513584~acl=/hls/live/2123051/inallow-mlb-2026/hin/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.04.23.0-ut=paid-ttl=1800-type=paid-raf=1787512384-~hmac=987c571ed36998afb548a44681c9b83028616d3b751717456839f74aaea0b709
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live11p.hotstar.com/hls/live/2122939/inallow-fihmwc-2026/eng/1540077245/15mindvrm01df63b8a74c1143b39b3f0572c7430d0523august2026/master_ap.m3u8?a=ns&hdnea=exp=1787512176~acl=/hls/live/2122939/inallow-fihmwc-2026/eng/1540077245/15mindvrm01df63b8a74c1143b39b3f0572c7430d0523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=26.01.19.8-ut=paid-ttl=1800-type=paid-raf=1787510976-~hmac=3a7637e68f9498e0cefa26b6f57c354632f2068a09720e75481f8827dca295fa
-#EXTINF:-1 tvg-id="1072395208" tvg-name="Final: Barpeta Braves vs Guwahati Royals" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9102/1787423369102-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787512151~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075244/15mindvrm015544bc11d47d4599901e2d7d02f0d2d423august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=26.05.14.7-ut=paid-ttl=1800-type=paid-raf=1787510951-~hmac=54908bfd253d8e54f28cfca24cbf4eabbdd703d1a367fb45f89462f7351966ae"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787512151~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075244/15mindvrm015544bc11d47d4599901e2d7d02f0d2d423august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=26.05.14.7-ut=paid-ttl=1800-type=paid-raf=1787510951-~hmac=54908bfd253d8e54f28cfca24cbf4eabbdd703d1a367fb45f89462f7351966ae
+https://live13p.hotstar.com/hls/live/2123051/inallow-mlb-2026/hin/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap.m3u8?a=ns&hdnea=exp=1787513584~acl=/hls/live/2123051/inallow-mlb-2026/hin/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.04.23.0-ut=paid-ttl=1800-type=paid-raf=1787512384-~hmac=987c571ed36998afb548a44681c9b83028616d3b751717456839f74aaea0b709
+#EXTINF:-1 tvg-id="4489467831" tvg-name="Spain vs Belgium" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7173/1787482177173-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787513575~acl=/hls/live/2123107/inallow-fihmwc-2026/eng/1540077069/15mindvrm047ada44a1a12c43d6a4aa62dc812fc86a23august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.07.10.5-ut=paid-ttl=1800-type=paid-raf=1787512375-~hmac=3c7653de240348b70ac889eb5d388ef50f59e100b26bd6dc54654bb63880d2c2"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787513575~acl=/hls/live/2123107/inallow-fihmwc-2026/eng/1540077069/15mindvrm047ada44a1a12c43d6a4aa62dc812fc86a23august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.07.10.5-ut=paid-ttl=1800-type=paid-raf=1787512375-~hmac=3c7653de240348b70ac889eb5d388ef50f59e100b26bd6dc54654bb63880d2c2
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live14p.hotstar.com/hls/live/2003906/inallow-assampl-2026/hin/1540075244/15mindvrm015544bc11d47d4599901e2d7d02f0d2d423august2026/master_ap.m3u8?a=ns&hdnea=exp=1787512151~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075244/15mindvrm015544bc11d47d4599901e2d7d02f0d2d423august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=26.05.14.7-ut=paid-ttl=1800-type=paid-raf=1787510951-~hmac=54908bfd253d8e54f28cfca24cbf4eabbdd703d1a367fb45f89462f7351966ae
-#EXTINF:-1 tvg-id="8705254749" tvg-name="St. Louis Cardinals @ Philadelphia Phillies" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9585/1787472239585-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787512166~acl=/hls/live/2123051/inallow-mlb-2026/hin/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=26.03.24.8-ut=paid-ttl=1800-type=paid-raf=1787510966-~hmac=2bbaaf1eee19b33f4377d43ace970ca8ebd1fc128471aa70646b9acb14530d29"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787512166~acl=/hls/live/2123051/inallow-mlb-2026/hin/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=26.03.24.8-ut=paid-ttl=1800-type=paid-raf=1787510966-~hmac=2bbaaf1eee19b33f4377d43ace970ca8ebd1fc128471aa70646b9acb14530d29
+https://live15p.hotstar.com/hls/live/2123107/inallow-fihmwc-2026/eng/1540077069/15mindvrm047ada44a1a12c43d6a4aa62dc812fc86a23august2026/master_ap.m3u8?a=ns&hdnea=exp=1787513575~acl=/hls/live/2123107/inallow-fihmwc-2026/eng/1540077069/15mindvrm047ada44a1a12c43d6a4aa62dc812fc86a23august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.07.10.5-ut=paid-ttl=1800-type=paid-raf=1787512375-~hmac=3c7653de240348b70ac889eb5d388ef50f59e100b26bd6dc54654bb63880d2c2
+#EXTINF:-1 tvg-id="2202977059" tvg-name="Meerut Mavericks vs Gorakhpur Lions" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9632/1787408389632-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787513580~acl=/hls/live/2123124/inallow-upt20-2026/hin/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.07.08.1-ut=paid-ttl=1800-type=paid-raf=1787512380-~hmac=37a798e74e14b386e15bc433b7178d54d54910c1f158f46d3b98b3c20ac34e7b"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787513580~acl=/hls/live/2123124/inallow-upt20-2026/hin/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.07.08.1-ut=paid-ttl=1800-type=paid-raf=1787512380-~hmac=37a798e74e14b386e15bc433b7178d54d54910c1f158f46d3b98b3c20ac34e7b
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2123051/inallow-mlb-2026/hin/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap.m3u8?a=ns&hdnea=exp=1787512166~acl=/hls/live/2123051/inallow-mlb-2026/hin/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=26.03.24.8-ut=paid-ttl=1800-type=paid-raf=1787510966-~hmac=2bbaaf1eee19b33f4377d43ace970ca8ebd1fc128471aa70646b9acb14530d29
-#EXTINF:-1 tvg-id="6759113002" tvg-name="St. Louis Cardinals @ Philadelphia Phillies" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9585/1787472239585-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787512166~acl=/hls/live/2123129/inallow-mlb-2026/eng/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=26.06.13.3-ut=paid-ttl=1800-type=paid-raf=1787510966-~hmac=502cfb0d5b01a07e63146deb7646fd0b61df8b3cd407b0f9244addadad0b9ece"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787512166~acl=/hls/live/2123129/inallow-mlb-2026/eng/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=26.06.13.3-ut=paid-ttl=1800-type=paid-raf=1787510966-~hmac=502cfb0d5b01a07e63146deb7646fd0b61df8b3cd407b0f9244addadad0b9ece
+https://live14p.hotstar.com/hls/live/2123124/inallow-upt20-2026/hin/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap.m3u8?a=ns&hdnea=exp=1787513580~acl=/hls/live/2123124/inallow-upt20-2026/hin/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.07.08.1-ut=paid-ttl=1800-type=paid-raf=1787512380-~hmac=37a798e74e14b386e15bc433b7178d54d54910c1f158f46d3b98b3c20ac34e7b
+#EXTINF:-1 tvg-id="6698378399" tvg-name="Meerut Mavericks vs Gorakhpur Lions" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9632/1787408389632-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", BHOJPURI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787513580~acl=/hls/live/2123129/inallow-upt20-2026/bho/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.10.27.7-ut=paid-ttl=1800-type=paid-raf=1787512380-~hmac=5fed9a49eb96471b711bbbe1c0d83645e52662008e70e51ccff415b237b83bdf"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787513580~acl=/hls/live/2123129/inallow-upt20-2026/bho/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.10.27.7-ut=paid-ttl=1800-type=paid-raf=1787512380-~hmac=5fed9a49eb96471b711bbbe1c0d83645e52662008e70e51ccff415b237b83bdf
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live14p.hotstar.com/hls/live/2123129/inallow-mlb-2026/eng/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap.m3u8?a=ns&hdnea=exp=1787512166~acl=/hls/live/2123129/inallow-mlb-2026/eng/1540075972/15mindvrm012cb66361520c4bb08cc07df71dd7934523august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=26.06.13.3-ut=paid-ttl=1800-type=paid-raf=1787510966-~hmac=502cfb0d5b01a07e63146deb7646fd0b61df8b3cd407b0f9244addadad0b9ece
-#EXTINF:-1 tvg-id="4880770681" tvg-name="Spain vs Belgium" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7173/1787482177173-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787512198~acl=/hls/live/2123107/inallow-fihmwc-2026/eng/1540077069/15mindvrm047ada44a1a12c43d6a4aa62dc812fc86a23august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.06.21.8-ut=paid-ttl=1800-type=paid-raf=1787510998-~hmac=edf9a8a0f42d6e4ccd7c12b34681872f759483ae16c16ff06d2f192af7b6bdcb"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787512198~acl=/hls/live/2123107/inallow-fihmwc-2026/eng/1540077069/15mindvrm047ada44a1a12c43d6a4aa62dc812fc86a23august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.06.21.8-ut=paid-ttl=1800-type=paid-raf=1787510998-~hmac=edf9a8a0f42d6e4ccd7c12b34681872f759483ae16c16ff06d2f192af7b6bdcb
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2123107/inallow-fihmwc-2026/eng/1540077069/15mindvrm047ada44a1a12c43d6a4aa62dc812fc86a23august2026/master_ap.m3u8?a=ns&hdnea=exp=1787512198~acl=/hls/live/2123107/inallow-fihmwc-2026/eng/1540077069/15mindvrm047ada44a1a12c43d6a4aa62dc812fc86a23august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.06.21.8-ut=paid-ttl=1800-type=paid-raf=1787510998-~hmac=edf9a8a0f42d6e4ccd7c12b34681872f759483ae16c16ff06d2f192af7b6bdcb
-#EXTINF:-1 tvg-id="8394281803" tvg-name="Meerut Mavericks vs Gorakhpur Lions" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9632/1787408389632-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787512202~acl=/hls/live/2123124/inallow-upt20-2026/hin/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.05.27.5-ut=paid-ttl=1800-type=paid-raf=1787511002-~hmac=ba2ffb6c1154987baffd4eb63c154d0ca796d4f7fe50062ba3d9c1b141c7e857"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787512202~acl=/hls/live/2123124/inallow-upt20-2026/hin/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.05.27.5-ut=paid-ttl=1800-type=paid-raf=1787511002-~hmac=ba2ffb6c1154987baffd4eb63c154d0ca796d4f7fe50062ba3d9c1b141c7e857
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live14p.hotstar.com/hls/live/2123124/inallow-upt20-2026/hin/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap.m3u8?a=ns&hdnea=exp=1787512202~acl=/hls/live/2123124/inallow-upt20-2026/hin/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=25.05.27.5-ut=paid-ttl=1800-type=paid-raf=1787511002-~hmac=ba2ffb6c1154987baffd4eb63c154d0ca796d4f7fe50062ba3d9c1b141c7e857
-#EXTINF:-1 tvg-id="1848440782" tvg-name="Meerut Mavericks vs Gorakhpur Lions" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9632/1787408389632-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", BHOJPURI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787512202~acl=/hls/live/2123129/inallow-upt20-2026/bho/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=24.05.13.6-ut=paid-ttl=1800-type=paid-raf=1787511002-~hmac=c011e21527bc42dd6245b2ddc552fd2e03b6581d59c4982fa8fc31e90eff2d32"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787512202~acl=/hls/live/2123129/inallow-upt20-2026/bho/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=24.05.13.6-ut=paid-ttl=1800-type=paid-raf=1787511002-~hmac=c011e21527bc42dd6245b2ddc552fd2e03b6581d59c4982fa8fc31e90eff2d32
-#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live14p.hotstar.com/hls/live/2123129/inallow-upt20-2026/bho/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap.m3u8?a=ns&hdnea=exp=1787512202~acl=/hls/live/2123129/inallow-upt20-2026/bho/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Q4kxNHEwK95i4yYGEPCiTOnGcT0if1zoq9lyXMcLCgyU-did=AuIk7WTGUvwPaUlDI26mJ9kLDDfPAcGbe17V31tJigL6-cc=in-bl=jhs-de=3-pl=androidtv-ap=24.05.13.6-ut=paid-ttl=1800-type=paid-raf=1787511002-~hmac=c011e21527bc42dd6245b2ddc552fd2e03b6581d59c4982fa8fc31e90eff2d32
+https://live14p.hotstar.com/hls/live/2123129/inallow-upt20-2026/bho/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap.m3u8?a=ns&hdnea=exp=1787513580~acl=/hls/live/2123129/inallow-upt20-2026/bho/1540076033/15mindvrm02721063d6787c4d08921a6c9a99fbfdd123august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0xZrhzHN4upPtiuNPRZVCWcDzJC3Jlxpc7OP1Q9sTJYH-did=FHlE9FRfQwpAIWwLSSQteOBPIN6SwcuLHFOoYtCmeUxE-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.10.27.7-ut=paid-ttl=1800-type=paid-raf=1787512380-~hmac=5fed9a49eb96471b711bbbe1c0d83645e52662008e70e51ccff415b237b83bdf
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
-#EXTINF:-1 tvg-id="11814" tvg-name="Frosinone vs Juventus | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Frosinone vs Juventus | beiN ENGLISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="11814" tvg-name="Frosinone vs Juventus | CBS SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Frosinone vs Juventus | CBS SPORTS - AQ
+#EXTINF:-1 tvg-id="11816" tvg-name="Atalanta vs Sassuolo | CBS SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atalanta vs Sassuolo | CBS SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
-#EXTINF:-1 tvg-id="11814" tvg-name="Frosinone vs Juventus | PARAMOUNT+ HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Frosinone vs Juventus | PARAMOUNT+ HD
+#EXTINF:-1 tvg-id="11816" tvg-name="Atalanta vs Sassuolo | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atalanta vs Sassuolo | SPORT TV HD
+https://tmaxapp.site/pt658svs/sporttv6.m3u8
+
+#EXTINF:-1 tvg-id="11816" tvg-name="Atalanta vs Sassuolo | PARAMOUNT+ HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atalanta vs Sassuolo | PARAMOUNT+ HD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/55111/load-playlist?
+https://chatgpt.hereisman.net/playlist/55139/load-playlist?
 
-#EXTINF:-1 tvg-id="11814" tvg-name="Frosinone vs Juventus | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Frosinone vs Juventus | CRICFy LIVE
-https://live1.kinxie.com/live/71944894_05168bebd4a9035de5ec900d73c0b608_1080p.m3u8?auth_key=1787516921-0-0-126bb193c81f0dd5d97a35ff44754531
+#EXTINF:-1 tvg-id="11816" tvg-name="Atalanta vs Sassuolo | HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atalanta vs Sassuolo | HD SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream3.pro/hls/hflfkrtib42.m3u8?
 
-#EXTINF:-1 tvg-id="11814" tvg-name="Frosinone vs Juventus | HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Frosinone vs Juventus | HD SERVER
+#EXTINF:-1 tvg-id="11816" tvg-name="Atalanta vs Sassuolo | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atalanta vs Sassuolo | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.51/hls/KVVV.m3u8?
+
+#EXTINF:-1 tvg-id="11817" tvg-name="Torino vs AC Milan | TNT SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Torino vs AC Milan | TNT SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="11817" tvg-name="Torino vs AC Milan | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Torino vs AC Milan | beiN ENGLISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="11817" tvg-name="Torino vs AC Milan | FUBO SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Torino vs AC Milan | FUBO SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-id="11817" tvg-name="Torino vs AC Milan | SPORT1 CZ - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Torino vs AC Milan | SPORT1 CZ - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="11817" tvg-name="Torino vs AC Milan | PARAMOUNT+ HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Torino vs AC Milan | PARAMOUNT+ HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/55138/load-playlist?
+
+#EXTINF:-1 tvg-id="11817" tvg-name="Torino vs AC Milan | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Torino vs AC Milan | SPORT TV HD
+https://tmaxapp.site/pt658svs/sporttv3.m3u8
+
+#EXTINF:-1 tvg-id="11817" tvg-name="Torino vs AC Milan | HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Torino vs AC Milan | HD SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 https://edgestream3.pro/hls/syaLqucEne4k.m3u8?
 
-#EXTINF:-1 tvg-id="11814" tvg-name="Frosinone vs Juventus | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Frosinone vs Juventus | SPORT TV HD
-https://tmaxapp.site/pt658svs/sporttv3.m3u8
-
-#EXTINF:-1 tvg-id="11814" tvg-name="Frosinone vs Juventus | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Frosinone vs Juventus | LOW SERVER
+#EXTINF:-1 tvg-id="11817" tvg-name="Torino vs AC Milan | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Torino vs AC Milan | LOW SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/TIIIIAAAAAA.m3u8?
-
-#EXTINF:-1 tvg-id="11815" tvg-name="Venezia vs Lecce | PARAMOUNT+ HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Venezia vs Lecce | PARAMOUNT+ HD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/55110/load-playlist?
-
-#EXTINF:-1 tvg-id="11815" tvg-name="Venezia vs Lecce | HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Venezia vs Lecce | HD SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-https://edgestream5.pro/hls/hflfkrtib42.m3u8?
-
-#EXTINF:-1 tvg-id="11815" tvg-name="Venezia vs Lecce | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Venezia vs Lecce | SPORT TV HD
-https://tmaxapp.site/pt658svs/sporttv6.m3u8
-
-#EXTINF:-1 tvg-id="11815" tvg-name="Venezia vs Lecce | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Venezia vs Lecce | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/TIIIIAAAAAAA.m3u8?
+http://193.47.62.51/hls/KVVVA.m3u8?
 
 #EXTINF:-1 tvg-id="11818" tvg-name="Getafe vs Real Racing Club | PREMIER SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Getafe vs Real Racing Club | PREMIER SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7621,6 +7621,31 @@ https://chatgpt.hereisman.net/playlist/55117/load-playlist?
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.44/hls/ADDDAAAA.m3u8?
 
+#EXTINF:-1 tvg-id="11823" tvg-name="Stade Rennais vs Paris Saint-Germain | PRIME VIDEO - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Stade Rennais vs Paris Saint-Germain | PRIME VIDEO - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62dbac124bbef865507610070019f875:3dca8ca0a86cca296de7f91583d88939
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/78yadthwhn/out/v1/7ce475ea35b74693abdf651e2ee2fef3/cenc.mpd
+
+#EXTINF:-1 tvg-id="11823" tvg-name="Stade Rennais vs Paris Saint-Germain | beIN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Stade Rennais vs Paris Saint-Germain | beIN SPORTS HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/55101/load-playlist?
+
+#EXTINF:-1 tvg-id="11823" tvg-name="Stade Rennais vs Paris Saint-Germain | LIGUE1+ HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Stade Rennais vs Paris Saint-Germain | LIGUE1+ HD
+https://tmaxapp.site/ligue6sc6/ligue1.m3u8
+
+#EXTINF:-1 tvg-id="11823" tvg-name="Stade Rennais vs Paris Saint-Germain | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Stade Rennais vs Paris Saint-Germain | SPORT TV HD
+https://tmaxapp.site/pt658svs/sporttv4.m3u8
+
+#EXTINF:-1 tvg-id="11823" tvg-name="Stade Rennais vs Paris Saint-Germain | HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Stade Rennais vs Paris Saint-Germain | HD SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream6.pro/hls/dza5z8f69.m3u8?
+
+#EXTINF:-1 tvg-id="11823" tvg-name="Stade Rennais vs Paris Saint-Germain | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Stade Rennais vs Paris Saint-Germain | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.51/hls/KVVVAA.m3u8?
+
 #EXTINF:-1 tvg-id="11841" tvg-name="Sporting Gijon vs Burgos Club de Futbol | LaLiga Hypermotion" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sporting Gijon vs Burgos Club de Futbol | LaLiga Hypermotion
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7640,6 +7665,24 @@ https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mp
 #EXTINF:-1 tvg-id="11843" tvg-name="CD Castellon vs CE Sabadell | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",CD Castellon vs CE Sabadell | LOW SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.41/hls/S222AAAAA.m3u8?
+
+#EXTINF:-1 tvg-id="11846" tvg-name="Alanyaspor vs Besiktas JK | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Alanyaspor vs Besiktas JK | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.online909.com/
+https://live.vivo200.com/live/hd-en-1-4581278.m3u8?txSecret=68b158301aa857a53b6e7fc145d6f020&txTime=6A8B4AA4
+
+#EXTINF:-1 tvg-id="11846" tvg-name="Alanyaspor vs Besiktas JK | beiN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Alanyaspor vs Besiktas JK | beiN SPORTS HD
+https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8
+
+#EXTINF:-1 tvg-id="11846" tvg-name="Alanyaspor vs Besiktas JK | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Alanyaspor vs Besiktas JK | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.59/hls/R999AAAAQQQ.m3u8?
+
+#EXTINF:-1 tvg-id="11847" tvg-name="Goztepe vs Genclerbirligi | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Goztepe vs Genclerbirligi | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.59/hls/R999AAAAQQQQ.m3u8?
+
+#EXTINF:-1 tvg-id="11847" tvg-name="Goztepe vs Genclerbirligi | beiN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Goztepe vs Genclerbirligi | beiN SPORTS HD
+https://tmaxapp.site/8wirwjs76erftg/beinsports2tr.m3u8
 
 #EXTINF:-1 tvg-id="11860" tvg-name="New York Yankees vs Toronto Blue Jays | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",New York Yankees vs Toronto Blue Jays | CRICFy LIVE
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
@@ -7696,6 +7739,14 @@ https://chatgpt.hereisman.net/playlist/55125/load-playlist?
 #EXTINF:-1 tvg-id="11866" tvg-name="Houston Astros vs Athletics | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Houston Astros vs Athletics | HD QUALITY
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
 https://edgestream2.pro/hls/bzagLHzach19.m3u8
+
+#EXTINF:-1 tvg-id="11867" tvg-name="Texas Rangers vs Los Angeles Angels | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Texas Rangers vs Los Angeles Angels | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/55129/load-playlist?
+
+#EXTINF:-1 tvg-id="11867" tvg-name="Texas Rangers vs Los Angeles Angels | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Texas Rangers vs Los Angeles Angels | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/ijfnakfidch22.m3u8
 
 #EXTINF:-1 tvg-id="1089" tvg-name="Smack Down | CRICFy LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="🔵 LIVE | WORLDWIDE EVENTS",Smack Down | CRICFy LIVE
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
@@ -7782,13 +7833,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.47/hls/vivivi.m3u8?
 
-#EXTINF:-1 tvg-id="11180" tvg-name="CPL Caribbean Premier League | WILLOW - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="🔵 LIVE | WORLDWIDE EVENTS",CPL Caribbean Premier League | WILLOW - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c6419cad044ff267410bb76fdf63b64:e48d9fab72e98d5b23ef0f1556472607
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eyn28732hv/out/v1/deefe4c97075432a800e1b8bf72af186/cenc.mpd?
-
 #EXTINF:-1 tvg-id="11180" tvg-name="CPL Caribbean Premier League | TNT SPORTS - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="🔵 LIVE | WORLDWIDE EVENTS",CPL Caribbean Premier League | TNT SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7796,18 +7840,21 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 tvg-id="11180" tvg-name="CPL Caribbean Premier League | WILLOW - ALT" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="🔵 LIVE | WORLDWIDE EVENTS",CPL Caribbean Premier League | WILLOW - ALT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=420a02541b220a156ddb135725d34a4c:3118c524b8b750ef584c8b51449d4a0c
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/okfbtyuecp/out/v1/0e389897b69844368a9967b2eeb09c87/cenc.mpd
-
 #EXTINF:-1 tvg-id="11180" tvg-name="CPL Caribbean Premier League | TAPMAD - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="🔵 LIVE | WORLDWIDE EVENTS",CPL Caribbean Premier League | TAPMAD - AQ
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://tapmad.com
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?
 
 #EXTINF:-1 tvg-id="11180" tvg-name="CPL Caribbean Premier League | WILLOW HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="🔵 LIVE | WORLDWIDE EVENTS",CPL Caribbean Premier League | WILLOW HD
 http://tvsen5.aynascope.net/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-id="11180" tvg-name="CPL Caribbean Premier League | SKY SPORT NZ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="🔵 LIVE | WORLDWIDE EVENTS",CPL Caribbean Premier League | SKY SPORT NZ
+https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8
+
+#EXTINF:-1 tvg-id="11180" tvg-name="CPL Caribbean Premier League | FOX CRICKET HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="🔵 LIVE | WORLDWIDE EVENTS",CPL Caribbean Premier League | FOX CRICKET HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+
+#EXTINF:-1 tvg-id="11180" tvg-name="CPL Caribbean Premier League | TEN SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="🔵 LIVE | WORLDWIDE EVENTS",CPL Caribbean Premier League | TEN SPORTS HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
 
 #EXTINF:-1 tvg-id="11180" tvg-name="CPL Caribbean Premier League | FANCODE - IN" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="🔵 LIVE | WORLDWIDE EVENTS",CPL Caribbean Premier League | FANCODE - IN
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -7902,14 +7949,8 @@ http://193.47.62.194/hls/QQQQ.m3u8?
 #EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW - AQ" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc5a85ca10054503c67e27a40f44e3b1:5703934488656b40f3beaf12fc964585
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rtfmzwubqz/out/v1/96db69b89e7c41a5ad6767652065d799/cenc.mpd
-
-#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW - ALT" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW - ALT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc5a85ca10054503c67e27a40f44e3b1:5703934488656b40f3beaf12fc964585
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rtfmzwubqz/out/v1/96db69b89e7c41a5ad6767652065d799/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | T SPORTS HD" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | T SPORTS HD
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
@@ -7923,36 +7964,6 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTINF:-1 tvg-id="11697" tvg-name="Sri Lanka Women vs United Arab Emirates Women |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka Women vs United Arab Emirates Women |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="11816" tvg-name="Atalanta vs Sassuolo | CBS SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atalanta vs Sassuolo | CBS SPORTS - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
-#EXTINF:-1 tvg-id="11816" tvg-name="Atalanta vs Sassuolo | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atalanta vs Sassuolo | SPORT TV HD
-https://tmaxapp.site/pt658svs/sporttv6.m3u8
-
-#EXTINF:-1 tvg-id="11817" tvg-name="Torino vs AC Milan | TNT SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Torino vs AC Milan | TNT SPORTS - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 tvg-id="11817" tvg-name="Torino vs AC Milan | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Torino vs AC Milan | beiN ENGLISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="11817" tvg-name="Torino vs AC Milan | SPORT 1 CZ - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Torino vs AC Milan | SPORT 1 CZ - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="11820" tvg-name="Elche vs FC Barcelona | TSN SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Elche vs FC Barcelona | TSN SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7980,6 +7991,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="11820" tvg-name="Elche vs FC Barcelona | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Elche vs FC Barcelona | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.49/hls/dpdpdpFFFFF.m3u8?
 
 #EXTINF:-1 tvg-id="11824" tvg-name="Fulham vs Chelsea |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Fulham vs Chelsea |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -8050,35 +8065,9 @@ https://tmaxapp.site/pt658svs/sporttv1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
 https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 
-#EXTINF:-1 tvg-id="11846" tvg-name="Alanyaspor vs Besiktas JK | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Alanyaspor vs Besiktas JK | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.online909.com/
-https://live.vivo200.com/live/hd-en-1-4581278.m3u8?txSecret=68b158301aa857a53b6e7fc145d6f020&txTime=6A8B4AA4
-
-#EXTINF:-1 tvg-id="11846" tvg-name="Alanyaspor vs Besiktas JK | beiN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Alanyaspor vs Besiktas JK | beiN SPORTS HD
-https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8
-
-#EXTINF:-1 tvg-id="11846" tvg-name="Alanyaspor vs Besiktas JK | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Alanyaspor vs Besiktas JK | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.59/hls/R999AAAAQQQ.m3u8?
-
-#EXTINF:-1 tvg-id="11847" tvg-name="Goztepe vs Genclerbirligi | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Goztepe vs Genclerbirligi | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.59/hls/R999AAAAQQQQ.m3u8?
-
-#EXTINF:-1 tvg-id="11847" tvg-name="Goztepe vs Genclerbirligi | beiN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Goztepe vs Genclerbirligi | beiN SPORTS HD
-https://tmaxapp.site/8wirwjs76erftg/beinsports2tr.m3u8
-
 #EXTINF:-1 tvg-id="11859" tvg-name="Tennessee Titans vs Seattle Seahawks | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Tennessee Titans vs Seattle Seahawks | HD QUALITY
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
 https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8
-
-#EXTINF:-1 tvg-id="11867" tvg-name="Texas Rangers vs Los Angeles Angels | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Texas Rangers vs Los Angeles Angels | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/55129/load-playlist?
-
-#EXTINF:-1 tvg-id="11867" tvg-name="Texas Rangers vs Los Angeles Angels | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Texas Rangers vs Los Angeles Angels | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/ijfnakfidch22.m3u8
 
 #EXTINF:-1 tvg-id="11868" tvg-name="Colorado Rockies vs Cleveland Guardians | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Colorado Rockies vs Cleveland Guardians | HD QUALITY
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
@@ -8207,7 +8196,7 @@ https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.m
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:32 AM 24-08-2026
+#LAST_UPDATE:01:02 AM 24-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -8218,7 +8207,7 @@ https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef339e47e69b88eb9dd7c0662fb64f3d:d36e7107d85a6bb7e1fd3872222b286b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/afp4hzsimk/out/v1/a19661c905264e2096a319cefaa396df/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/afp4hzsimk/out/v1/a19661c905264e2096a319cefaa396df/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
