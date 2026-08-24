@@ -5252,8 +5252,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index
 #EXTINF:-1 tvg-id="731" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",731
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8147983ad7402ebfc222d28b667a196f
-#EXTHTTP:{"Cookie":"hdnea=st=1787580025~exp=1787601625~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=66f3ece897785585776a8d924c4b9701b0199ba66e166639423d58fd5afda07e","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd?__hdnea__=st=1787580025~exp=1787601625~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=66f3ece897785585776a8d924c4b9701b0199ba66e166639423d58fd5afda07e
+#EXTHTTP:{"Cookie":"hdnea=st=1787601630~exp=1787623230~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=bdacf15f8f4597b532988959035e80468ce6e8f9da815568ea7505888cf63f2a","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd?__hdnea__=st=1787601630~exp=1787623230~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=bdacf15f8f4597b532988959035e80468ce6e8f9da815568ea7505888cf63f2a
 #EXTINF:-1 tvg-id="732" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",732
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=859695076e67fe961836b564db6d689c
@@ -5307,8 +5307,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.m
 #EXTINF:-1 tvg-id="742" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",742
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae62a20c030c918aad24193c1dda229
-#EXTHTTP:{"Cookie":"hdnea=st=1787579873~exp=1787601473~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=f0ac2fa07a02c7fc2f43635f3d63767a5298aaface523139519e8afb6d2edf63","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1787579873~exp=1787601473~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=f0ac2fa07a02c7fc2f43635f3d63767a5298aaface523139519e8afb6d2edf63
+#EXTHTTP:{"Cookie":"hdnea=st=1787601496~exp=1787623096~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=2381e6fe0671642bb667bfe73d21b2cbfc01a351f2addadedba98ed9faafabae","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1787601496~exp=1787623096~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=2381e6fe0671642bb667bfe73d21b2cbfc01a351f2addadedba98ed9faafabae
 #EXTINF:-1 tvg-id="743" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",743
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19c82d3ff094fa06af95820a1572ecb5
@@ -7659,38 +7659,6 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca2a-hd/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.53/hls/ZKKKK.m3u8?
 
-#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | FOX SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | FOX SPORTS - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-
-#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | FOX DEPORTES - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | FOX DEPORTES - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | TAPMAD - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | TAPMAD - AQ
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-
-#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iframe.rumsport10.live/&useragent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca23-backup/chunks.m3u8?is_vip=false&token=1787681016-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-33871e44b6a89bf889968aba5f6e1505
-
-#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | HD SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iframe.rumsport10.live/&useragent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca23/chunks.m3u8?is_vip=false&token=1787681017-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6930fab31fd383455e540e7d703b580f
-
-#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | CRICFy HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | CRICFy HD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iframe.rumsport10.live/&useragent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca23-fhd/chunks.m3u8?is_vip=false&token=1787681015-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2026d0967d9ed91da8b01ab26fe31e71
-
-#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/fzzzaa.m3u8?
-
 #EXTINF:-1 tvg-id="11876" tvg-name="AS Roma vs Fiorentina | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AS Roma vs Fiorentina | beiN ENGLISH - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7760,10 +7728,6 @@ https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mp
 #EXTINF:-1 tvg-id="11881" tvg-name="Granada vs Mallorca | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Granada vs Mallorca | LOW SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.41/hls/eiiiiaaa.m3u8?
-
-#EXTINF:-1 tvg-id="11882" tvg-name="Kocaelispor vs Amed Sportif Faaliyetler | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Kocaelispor vs Amed Sportif Faaliyetler | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/dbbbb.m3u8?
 
 #EXTINF:-1 tvg-id="11886" tvg-name="Hallescher FC vs FC Schalke 04 | DAZN SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Hallescher FC vs FC Schalke 04 | DAZN SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -8080,11 +8044,47 @@ https://edgestream2.pro/hls/fskjanach24.m3u8
 #EXTINF:-1 tvg-id="11903" tvg-name="European T20 Premier League |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",European T20 Premier League |
 ok
 
+#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | FOX SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | FOX SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | FOX DEPORTES - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | FOX DEPORTES - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | TAPMAD - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | TAPMAD - AQ
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+
+#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iframe.rumsport10.live/&useragent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca23-backup/chunks.m3u8?is_vip=false&token=1787681016-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-33871e44b6a89bf889968aba5f6e1505
+
+#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | HD SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iframe.rumsport10.live/&useragent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca23/chunks.m3u8?is_vip=false&token=1787681017-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6930fab31fd383455e540e7d703b580f
+
+#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | CRICFy HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | CRICFy HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iframe.rumsport10.live/&useragent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca23-fhd/chunks.m3u8?is_vip=false&token=1787681015-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2026d0967d9ed91da8b01ab26fe31e71
+
+#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/fzzzaa.m3u8?
+
+#EXTINF:-1 tvg-id="11882" tvg-name="Kocaelispor vs Amed Sportif Faaliyetler | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Kocaelispor vs Amed Sportif Faaliyetler | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/dbbbb.m3u8?
+
 # ---------------=== 🏏 WILLOW | LIVE EVENTS ===-------------------
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:02 AM 25-08-2026
+#LAST_UPDATE:02:32 AM 25-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
