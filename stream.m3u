@@ -1607,8 +1607,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTINF:-1 tvg-id="2" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=272d2bcff8430174fdd5aaf6f93abb6b
-#EXTHTTP:{"Cookie":"hdnea=st=1787526418~exp=1787548018~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6049fa145afcf9a666a2ae7020d5c10f1bdddcbaf55adb50ec36cb05fd6a1647","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787526418~exp=1787548018~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6049fa145afcf9a666a2ae7020d5c10f1bdddcbaf55adb50ec36cb05fd6a1647
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://game.denver69.fun/Jtv/j2Jc4z/Jtv.mpd?id=146
 #EXTINF:-1 tvg-id="3" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=058dec845bd340178a388edd104a015e
@@ -1627,8 +1627,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdne
 #EXTINF:-1 tvg-id="6" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6befde8b90b6926423cc83775b8dcb59
-#EXTHTTP:{"Cookie":"hdnea=st=1787525892~exp=1787529492~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=005a51722062e2e7d1841baac70bd42f09918f649d7ccf39b9d77ab6bc8dfa03","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787525892~exp=1787529492~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=005a51722062e2e7d1841baac70bd42f09918f649d7ccf39b9d77ab6bc8dfa03
+#EXTHTTP:{"Cookie":"hdnea=st=1787543905~exp=1787547505~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=6874ad49e3c38f12cc6270430cbc6e983fdc8233e1e246f23a094166caf3d3e7","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787543905~exp=1787547505~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=6874ad49e3c38f12cc6270430cbc6e983fdc8233e1e246f23a094166caf3d3e7
 #EXTINF:-1 tvg-id="7" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3b38db5542719e8e10008e9193089e6
@@ -7460,66 +7460,56 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8?__hdnea__=st
 #EXTHTTP:{"Cookie":"hdnea=st=1787538606~exp=1787560206~acl=/*~hmac=9032d12167757a1498d9a12ad01a18e2df38712ce5fbf322b6943d5e70a9d7ea","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__hdnea__=st=1787538606~exp=1787560206~acl=/*~hmac=9032d12167757a1498d9a12ad01a18e2df38712ce5fbf322b6943d5e70a9d7ea
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="4248430_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248430_53036_NTS_HYK_fc-web_1787393619300.jpg" group-title="🔸FanCode🔸| Live Events",Northern Territory Strike vs Hyderabad Kingsmen [English]
-https://in-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787617688~_GO=Generated~acl=/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/*~Signature=ARceAWONsE_s-PQW5F6CT_P1O98pWpMr1DaSRjhLcE7sPrkpgEQckCFf5jEumYNWfnQg1g7PMSDBQPcyg08Yy1WINVUF
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 24 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787585453~acl=/*~id=43445113645640688934171323801184~hmac=511d4a1951031a93471270872d900d705c48ee99ef553739577e894d3575ba27
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787588493~acl=/*~id=49642110797954984289726430203738~hmac=92f8f4295c8d0a5802dd3ce769622d06beb3adeca6852dbb7506eef4de6a7c7a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 24 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2408/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787585453~acl=/*~id=43445113645640688934171323801184~hmac=511d4a1951031a93471270872d900d705c48ee99ef553739577e894d3575ba27
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2408/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787588493~acl=/*~id=49642110797954984289726430203738~hmac=92f8f4295c8d0a5802dd3ce769622d06beb3adeca6852dbb7506eef4de6a7c7a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 24 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2408/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787585453~acl=/*~id=43445113645640688934171323801184~hmac=511d4a1951031a93471270872d900d705c48ee99ef553739577e894d3575ba27
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2408/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787588493~acl=/*~id=49642110797954984289726430203738~hmac=92f8f4295c8d0a5802dd3ce769622d06beb3adeca6852dbb7506eef4de6a7c7a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 24 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2408/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787585453~acl=/*~id=43445113645640688934171323801184~hmac=511d4a1951031a93471270872d900d705c48ee99ef553739577e894d3575ba27
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2408/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787588493~acl=/*~id=49642110797954984289726430203738~hmac=92f8f4295c8d0a5802dd3ce769622d06beb3adeca6852dbb7506eef4de6a7c7a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 24 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2408/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787585453~acl=/*~id=43445113645640688934171323801184~hmac=511d4a1951031a93471270872d900d705c48ee99ef553739577e894d3575ba27
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2408/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787588493~acl=/*~id=49642110797954984289726430203738~hmac=92f8f4295c8d0a5802dd3ce769622d06beb3adeca6852dbb7506eef4de6a7c7a
 
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
 # Playlist generated by Hotstar Extractor
 # Playlist Created By @rtxcric
 # Mode: NORMAL FHD 30 MINUTES AUTO-UPDATE
-# Generated: 2026-08-24 09:04:28 AM
+# Generated: 2026-08-24 09:53:14 AM
 
-#EXTINF:-1 tvg-id="9765038614" tvg-name="North Zone vs West Zone: QF, Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9343/1787483439343-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787544268~acl=/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=KvBCW8sNxAjOj2eD9Rn2UvAgNnpQEsNXW9AfBi1IkYMQ-did=l5bi5nMrCyvdKDDzABLNjI1VP8kZay0zMj49QXLz9YrP-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.08.10.9-ut=paid-ttl=1800-type=paid-raf=1787543068-~hmac=02b930ef32035fbb9b66f4bd67f5718b71f489818a21ff6217a114ba0ef65272"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787544268~acl=/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=KvBCW8sNxAjOj2eD9Rn2UvAgNnpQEsNXW9AfBi1IkYMQ-did=l5bi5nMrCyvdKDDzABLNjI1VP8kZay0zMj49QXLz9YrP-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.08.10.9-ut=paid-ttl=1800-type=paid-raf=1787543068-~hmac=02b930ef32035fbb9b66f4bd67f5718b71f489818a21ff6217a114ba0ef65272
+#EXTINF:-1 tvg-id="5632176790" tvg-name="Bhojpuri & Haryanvi Watchalong: Sri Lanka vs India, 2nd Test - Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7538/1787483687538-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", BHOJPURI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787547176~acl=/hls/live/2003898/inallow-indvssrl-2026/bho/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uqXAnB3Y3k4LRQcKQOLZ4my8B4c3xsx5psb7lqouqMii-did=UT1OppNgCmBvQy0UQKt6MWaysngjVD8imX1v6xjnIXge-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.01.17.9-ut=paid-ttl=1800-type=paid-raf=1787545976-~hmac=c128d2892e50f31e99f6407616e08494c7b628f5b041ff60501bd3d2c247bab4"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787547176~acl=/hls/live/2003898/inallow-indvssrl-2026/bho/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uqXAnB3Y3k4LRQcKQOLZ4my8B4c3xsx5psb7lqouqMii-did=UT1OppNgCmBvQy0UQKt6MWaysngjVD8imX1v6xjnIXge-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.01.17.9-ut=paid-ttl=1800-type=paid-raf=1787545976-~hmac=c128d2892e50f31e99f6407616e08494c7b628f5b041ff60501bd3d2c247bab4
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap.m3u8?a=ns&hdnea=exp=1787544268~acl=/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=KvBCW8sNxAjOj2eD9Rn2UvAgNnpQEsNXW9AfBi1IkYMQ-did=l5bi5nMrCyvdKDDzABLNjI1VP8kZay0zMj49QXLz9YrP-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.08.10.9-ut=paid-ttl=1800-type=paid-raf=1787543068-~hmac=02b930ef32035fbb9b66f4bd67f5718b71f489818a21ff6217a114ba0ef65272
-#EXTINF:-1 tvg-id="3474946049" tvg-name="East Zone vs North East Zone: QF, Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/3861/1787483073861-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787544248~acl=/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=KvBCW8sNxAjOj2eD9Rn2UvAgNnpQEsNXW9AfBi1IkYMQ-did=l5bi5nMrCyvdKDDzABLNjI1VP8kZay0zMj49QXLz9YrP-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.01.24.4-ut=paid-ttl=1800-type=paid-raf=1787543048-~hmac=cd145a47ccee461509a152c7a5b60725a7f2d2ce826f51a224d5c68c000f6697"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787544248~acl=/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=KvBCW8sNxAjOj2eD9Rn2UvAgNnpQEsNXW9AfBi1IkYMQ-did=l5bi5nMrCyvdKDDzABLNjI1VP8kZay0zMj49QXLz9YrP-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.01.24.4-ut=paid-ttl=1800-type=paid-raf=1787543048-~hmac=cd145a47ccee461509a152c7a5b60725a7f2d2ce826f51a224d5c68c000f6697
+https://live14p.hotstar.com/hls/live/2003898/inallow-indvssrl-2026/bho/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787547176~acl=/hls/live/2003898/inallow-indvssrl-2026/bho/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uqXAnB3Y3k4LRQcKQOLZ4my8B4c3xsx5psb7lqouqMii-did=UT1OppNgCmBvQy0UQKt6MWaysngjVD8imX1v6xjnIXge-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.01.17.9-ut=paid-ttl=1800-type=paid-raf=1787545976-~hmac=c128d2892e50f31e99f6407616e08494c7b628f5b041ff60501bd3d2c247bab4
+#EXTINF:-1 tvg-id="4038639442" tvg-name="Bhojpuri & Haryanvi Watchalong: Sri Lanka vs India, 2nd Test - Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7538/1787483687538-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HARYANVI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787547175~acl=/hls/live/2004219/inallow-indvssrl-2026/har/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uqXAnB3Y3k4LRQcKQOLZ4my8B4c3xsx5psb7lqouqMii-did=UT1OppNgCmBvQy0UQKt6MWaysngjVD8imX1v6xjnIXge-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.09.03.7-ut=paid-ttl=1800-type=paid-raf=1787545975-~hmac=14cdd93b478ef395fe13d73b1eff4e9f416d3ecabb0b6b0c042da1eda3611589"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787547175~acl=/hls/live/2004219/inallow-indvssrl-2026/har/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uqXAnB3Y3k4LRQcKQOLZ4my8B4c3xsx5psb7lqouqMii-did=UT1OppNgCmBvQy0UQKt6MWaysngjVD8imX1v6xjnIXge-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.09.03.7-ut=paid-ttl=1800-type=paid-raf=1787545975-~hmac=14cdd93b478ef395fe13d73b1eff4e9f416d3ecabb0b6b0c042da1eda3611589
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787544248~acl=/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=KvBCW8sNxAjOj2eD9Rn2UvAgNnpQEsNXW9AfBi1IkYMQ-did=l5bi5nMrCyvdKDDzABLNjI1VP8kZay0zMj49QXLz9YrP-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.01.24.4-ut=paid-ttl=1800-type=paid-raf=1787543048-~hmac=cd145a47ccee461509a152c7a5b60725a7f2d2ce826f51a224d5c68c000f6697
+https://live15p.hotstar.com/hls/live/2004219/inallow-indvssrl-2026/har/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787547175~acl=/hls/live/2004219/inallow-indvssrl-2026/har/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uqXAnB3Y3k4LRQcKQOLZ4my8B4c3xsx5psb7lqouqMii-did=UT1OppNgCmBvQy0UQKt6MWaysngjVD8imX1v6xjnIXge-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.09.03.7-ut=paid-ttl=1800-type=paid-raf=1787545975-~hmac=14cdd93b478ef395fe13d73b1eff4e9f416d3ecabb0b6b0c042da1eda3611589
+#EXTINF:-1 tvg-id="8312830448" tvg-name="East Zone vs North East Zone: QF, Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/3861/1787483073861-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787547193~acl=/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uqXAnB3Y3k4LRQcKQOLZ4my8B4c3xsx5psb7lqouqMii-did=UT1OppNgCmBvQy0UQKt6MWaysngjVD8imX1v6xjnIXge-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.06.15.7-ut=paid-ttl=1800-type=paid-raf=1787545993-~hmac=fc946187d8181b7b1390a826ecb6d02a0f069bbf34db51cf0b8f09c3291e39fd"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787547193~acl=/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uqXAnB3Y3k4LRQcKQOLZ4my8B4c3xsx5psb7lqouqMii-did=UT1OppNgCmBvQy0UQKt6MWaysngjVD8imX1v6xjnIXge-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.06.15.7-ut=paid-ttl=1800-type=paid-raf=1787545993-~hmac=fc946187d8181b7b1390a826ecb6d02a0f069bbf34db51cf0b8f09c3291e39fd
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
+https://live15p.hotstar.com/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787547193~acl=/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uqXAnB3Y3k4LRQcKQOLZ4my8B4c3xsx5psb7lqouqMii-did=UT1OppNgCmBvQy0UQKt6MWaysngjVD8imX1v6xjnIXge-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.06.15.7-ut=paid-ttl=1800-type=paid-raf=1787545993-~hmac=fc946187d8181b7b1390a826ecb6d02a0f069bbf34db51cf0b8f09c3291e39fd
+#EXTINF:-1 tvg-id="4121983751" tvg-name="North Zone vs West Zone: QF, Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9343/1787483439343-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787547186~acl=/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uqXAnB3Y3k4LRQcKQOLZ4my8B4c3xsx5psb7lqouqMii-did=UT1OppNgCmBvQy0UQKt6MWaysngjVD8imX1v6xjnIXge-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.10.22.0-ut=paid-ttl=1800-type=paid-raf=1787545986-~hmac=8f80cdd27b8c9aad73b729309140947c879bcf77dc0fcd4e588d69ec8d0f5ed8"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787547186~acl=/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uqXAnB3Y3k4LRQcKQOLZ4my8B4c3xsx5psb7lqouqMii-did=UT1OppNgCmBvQy0UQKt6MWaysngjVD8imX1v6xjnIXge-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.10.22.0-ut=paid-ttl=1800-type=paid-raf=1787545986-~hmac=8f80cdd27b8c9aad73b729309140947c879bcf77dc0fcd4e588d69ec8d0f5ed8
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
+https://live15p.hotstar.com/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap.m3u8?a=ns&hdnea=exp=1787547186~acl=/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=uqXAnB3Y3k4LRQcKQOLZ4my8B4c3xsx5psb7lqouqMii-did=UT1OppNgCmBvQy0UQKt6MWaysngjVD8imX1v6xjnIXge-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.10.22.0-ut=paid-ttl=1800-type=paid-raf=1787545986-~hmac=8f80cdd27b8c9aad73b729309140947c879bcf77dc0fcd4e588d69ec8d0f5ed8
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
-
-#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW - AQ" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c363b9dd793fe8d953e3d0791191e1d:4bc0ebba6074c80316bbf2cf87f209d6
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gvowmf1r64/out/v1/20f9807e8a5d45d988da5b36a81af1d4/cenc.mpd
-
-#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW - ALT" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW - ALT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c363b9dd793fe8d953e3d0791191e1d:4bc0ebba6074c80316bbf2cf87f209d6
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gvowmf1r64/out/v1/20f9807e8a5d45d988da5b36a81af1d4/cenc.mpd
-
-#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | T SPORTS HD" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | T SPORTS HD
-https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | FANCODE - IN" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | FANCODE - IN
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-https://dai-fancode.pages.dev/mumbai/4248432_english_hls_6dff0812ea23371_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="1089" tvg-name="Smack Down | CRICFy LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="🔵 LIVE | WORLDWIDE EVENTS",Smack Down | CRICFy LIVE
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
@@ -7636,8 +7626,8 @@ https://dai-fancode.pages.dev/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_
 #EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b18ee1fa4688bbfc61b3203a803c90d:d1559280fce999fc6f4f17301e62045d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0braugdism/out/v1/58c7cad63d844b4c94b136f6b4246e25/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uouwsfqlxw/out/v1/4b5eadb9eb274d2b917f870bb1ce9375/cenc.mpd
 
 #EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | TNT SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | TNT SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7649,35 +7639,35 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1
 #EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | WILLOW - ALT" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | WILLOW - ALT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b18ee1fa4688bbfc61b3203a803c90d:d1559280fce999fc6f4f17301e62045d
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0braugdism/out/v1/58c7cad63d844b4c94b136f6b4246e25/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uouwsfqlxw/out/v1/4b5eadb9eb274d2b917f870bb1ce9375/cenc.mpd
 
 #EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | TEN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | TEN SPORTS HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
 
 #EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - English" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - English
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7cda4b5aa5796b852c47ba8cfc8127c-1787455801133
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2308/ENG/master.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=07c6c0ce0fc3ad467d7c7941d6e3ae4c-1787541002706
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2408/ENG/master.m3u8
 
 #EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - Hindi" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - Hindi
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7cda4b5aa5796b852c47ba8cfc8127c-1787455801133
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2308/HIN/master.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=07c6c0ce0fc3ad467d7c7941d6e3ae4c-1787541002706
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2408/HIN/master.m3u8
 
 #EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - Telugu" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - Telugu
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7cda4b5aa5796b852c47ba8cfc8127c-1787455801133
-https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2308/TEL/master.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=07c6c0ce0fc3ad467d7c7941d6e3ae4c-1787541002706
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2408/TEL/master.m3u8
 
 #EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - Tamil" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - Tamil
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7cda4b5aa5796b852c47ba8cfc8127c-1787455801133
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2308/TAM/master.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=07c6c0ce0fc3ad467d7c7941d6e3ae4c-1787541002706
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2408/TAM/master.m3u8
 
 #EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - Kannada" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - Kannada
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7cda4b5aa5796b852c47ba8cfc8127c-1787455801133
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2308/KAN/master.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=07c6c0ce0fc3ad467d7c7941d6e3ae4c-1787541002706
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2408/KAN/master.m3u8
 
 #EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | LOW SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/edddaAAAAAAAa.m3u8?
+http://193.47.62.44/hls/ZEZEZE.m3u8?
 
 #EXTINF:-1 tvg-id="11560" tvg-name="England vs Pakistan | WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",England vs Pakistan | WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7718,6 +7708,25 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2108/ENG/master
 #EXTINF:-1 tvg-id="11560" tvg-name="England vs Pakistan | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",England vs Pakistan | LOW SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.194/hls/QQQQ.m3u8?
+
+#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW - AQ" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c363b9dd793fe8d953e3d0791191e1d:4bc0ebba6074c80316bbf2cf87f209d6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gvowmf1r64/out/v1/20f9807e8a5d45d988da5b36a81af1d4/cenc.mpd
+
+#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW - ALT" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW - ALT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c363b9dd793fe8d953e3d0791191e1d:4bc0ebba6074c80316bbf2cf87f209d6
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gvowmf1r64/out/v1/20f9807e8a5d45d988da5b36a81af1d4/cenc.mpd
+
+#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | T SPORTS HD" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | T SPORTS HD
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | FANCODE - IN" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | FANCODE - IN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4248432_english_hls_6dff0812ea23371_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="11696" tvg-name="Thailand Women vs Hong Kong C. |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Thailand Women vs Hong Kong C. |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -7818,15 +7827,11 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="11902" tvg-name="San Francisco Giants vs Cincinnati Reds |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",San Francisco Giants vs Cincinnati Reds |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="11859" tvg-name="Tennessee Titans vs Seattle Seahawks | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Tennessee Titans vs Seattle Seahawks | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8
-
 # ---------------=== 🏏 WILLOW | LIVE EVENTS ===-------------------
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:32 AM 24-08-2026
+#LAST_UPDATE:10:02 AM 24-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -7837,14 +7842,14 @@ https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c363b9dd793fe8d953e3d0791191e1d:4bc0ebba6074c80316bbf2cf87f209d6
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u3wied73mq/out/v1/b2d8893784804baa9a09125499d1f8c6/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u3wied73mq/out/v1/b2d8893784804baa9a09125499d1f8c6/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
