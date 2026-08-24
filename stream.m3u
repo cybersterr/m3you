@@ -1627,8 +1627,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdne
 #EXTINF:-1 tvg-id="6" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6befde8b90b6926423cc83775b8dcb59
-#EXTHTTP:{"Cookie":"hdnea=st=1787543905~exp=1787547505~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=6874ad49e3c38f12cc6270430cbc6e983fdc8233e1e246f23a094166caf3d3e7","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787543905~exp=1787547505~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=6874ad49e3c38f12cc6270430cbc6e983fdc8233e1e246f23a094166caf3d3e7
+#EXTHTTP:{"Cookie":"hdnea=st=1787561914~exp=1787565514~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=93a81feb1de46ed414283c7198b7af4ea4aa8e410c665bcbd8360733a0a2296f","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787561914~exp=1787565514~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=93a81feb1de46ed414283c7198b7af4ea4aa8e410c665bcbd8360733a0a2296f
 #EXTINF:-1 tvg-id="7" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3b38db5542719e8e10008e9193089e6
@@ -3932,8 +3932,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="467" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",467
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd306a57de1715b0e1256d5c1737f485
-#EXTHTTP:{"Cookie":"hdnea=st=1787540109~exp=1787561709~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=1f581d0e38660ffa487eba99ab40642d2ae9cf8616001a4ada38d3e4e86e5bdc","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1787540109~exp=1787561709~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=1f581d0e38660ffa487eba99ab40642d2ae9cf8616001a4ada38d3e4e86e5bdc
+#EXTHTTP:{"Cookie":"hdnea=st=1787561716~exp=1787583316~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=3bb1b4a4f51a7515e922dc8a6fa82f1a50eff70cf479ed3d01a17233baeae4b5","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1787561716~exp=1787583316~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=3bb1b4a4f51a7515e922dc8a6fa82f1a50eff70cf479ed3d01a17233baeae4b5
 #EXTINF:-1 tvg-id="468" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",468
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null
@@ -5237,18 +5237,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaHD_MOB/WDVLive/index.mpd?__hdnea
 #EXTINF:-1 tvg-id="728" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",728
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2fdc132cbdee65501b845ce414fce39
-#EXTHTTP:{"Cookie":"hdnea=st=1787540113~exp=1787561713~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=b7d6361af9289b731d9a63c8673a631b14fbf04b47120c11982b10fc7b1b307e","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd?__hdnea__=st=1787540113~exp=1787561713~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=b7d6361af9289b731d9a63c8673a631b14fbf04b47120c11982b10fc7b1b307e
+#EXTHTTP:{"Cookie":"hdnea=st=1787561726~exp=1787583326~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=d127e17f852060f280be8b8b3173abb55ed24fa1b24653ce8c6d0aa6c60b2e04","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd?__hdnea__=st=1787561726~exp=1787583326~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=d127e17f852060f280be8b8b3173abb55ed24fa1b24653ce8c6d0aa6c60b2e04
 #EXTINF:-1 tvg-id="729" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",729
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39d5910ca04841b5f32bf24623cdae58
-#EXTHTTP:{"Cookie":"hdnea=st=1787540116~exp=1787561716~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=282e2ff124c589d0c537314ecb17e47484917d8075e3d4dbb0cb31ef71584448","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd?__hdnea__=st=1787540116~exp=1787561716~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=282e2ff124c589d0c537314ecb17e47484917d8075e3d4dbb0cb31ef71584448
+#EXTHTTP:{"Cookie":"hdnea=st=1787561730~exp=1787583330~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=41a7541374688f6c37882fe6afb6473f48a0cda37502f495401d10250edfc9d2","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd?__hdnea__=st=1787561730~exp=1787583330~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=41a7541374688f6c37882fe6afb6473f48a0cda37502f495401d10250edfc9d2
 #EXTINF:-1 tvg-id="730" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",730
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0018944b00adf2078f62386f30c68b74
-#EXTHTTP:{"Cookie":"hdnea=st=1787540113~exp=1787561713~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=1f4425359e528abea5c8bb707580f5da75c1bc4cadad1a250d3d5f399e56682c","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1787540113~exp=1787561713~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=1f4425359e528abea5c8bb707580f5da75c1bc4cadad1a250d3d5f399e56682c
+#EXTHTTP:{"Cookie":"hdnea=st=1787561733~exp=1787583333~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=15a08d612c66b6e68a10dc8da69580f992e35cc79798cd49ff128745121fd503","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1787561733~exp=1787583333~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=15a08d612c66b6e68a10dc8da69580f992e35cc79798cd49ff128745121fd503
 #EXTINF:-1 tvg-id="731" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",731
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8147983ad7402ebfc222d28b667a196f
@@ -5257,53 +5257,53 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mp
 #EXTINF:-1 tvg-id="732" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",732
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=859695076e67fe961836b564db6d689c
-#EXTHTTP:{"Cookie":"hdnea=st=1787540116~exp=1787561716~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=97a6fe1d6b79380747ab9ac7d437f7d7cbf6227adcdf46210b062239ab9c349c","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1787540116~exp=1787561716~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=97a6fe1d6b79380747ab9ac7d437f7d7cbf6227adcdf46210b062239ab9c349c
+#EXTHTTP:{"Cookie":"hdnea=st=1787561738~exp=1787583338~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d6d310f36f36fce592a55d923dead32a3336f1f0346a808e0528e731b9161136","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1787561738~exp=1787583338~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d6d310f36f36fce592a55d923dead32a3336f1f0346a808e0528e731b9161136
 #EXTINF:-1 tvg-id="733" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",733
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff9b6292b1cddbd11a046029cb314634
-#EXTHTTP:{"Cookie":"hdnea=st=1787540119~exp=1787561719~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=87ba523513fbc187a8b9b906b8ab2d1a38049e9f601e43cd00f3d8fd736fd10b","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd?__hdnea__=st=1787540119~exp=1787561719~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=87ba523513fbc187a8b9b906b8ab2d1a38049e9f601e43cd00f3d8fd736fd10b
+#EXTHTTP:{"Cookie":"hdnea=st=1787561740~exp=1787583340~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=483bfe1d6ab92c413465563c03dd17fd73097e281676a9fff733114485ba2db2","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd?__hdnea__=st=1787561740~exp=1787583340~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=483bfe1d6ab92c413465563c03dd17fd73097e281676a9fff733114485ba2db2
 #EXTINF:-1 tvg-id="734" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",734
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d56cb6f07a75b9aff165d534ae2bfc4
-#EXTHTTP:{"Cookie":"hdnea=st=1787540116~exp=1787561716~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=d78e35bdc931ebf860b28e8000b5f67c0a9869bed58260156715d07f5d1920bb","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1787540116~exp=1787561716~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=d78e35bdc931ebf860b28e8000b5f67c0a9869bed58260156715d07f5d1920bb
+#EXTHTTP:{"Cookie":"hdnea=st=1787561738~exp=1787583338~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=cd4dda3dc3b28ffe5b7802e34c2f9718a676902205ae26d2d7439fc8a7b13c64","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1787561738~exp=1787583338~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=cd4dda3dc3b28ffe5b7802e34c2f9718a676902205ae26d2d7439fc8a7b13c64
 #EXTINF:-1 tvg-id="735" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",735
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=350c0aaffedf51cc1502e9543c7c885e
-#EXTHTTP:{"Cookie":"hdnea=st=1787540114~exp=1787561714~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=6802e381db58d096c9287738b4fd00a02c7a6245861bcb1af6671effb8370f98","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1787540114~exp=1787561714~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=6802e381db58d096c9287738b4fd00a02c7a6245861bcb1af6671effb8370f98
+#EXTHTTP:{"Cookie":"hdnea=st=1787561737~exp=1787583337~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=3c0180a4da18d26bf1be0a71f9dc0448559de4273c5d70a6c1ed1956f16e2696","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1787561737~exp=1787583337~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=3c0180a4da18d26bf1be0a71f9dc0448559de4273c5d70a6c1ed1956f16e2696
 #EXTINF:-1 tvg-id="736" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",736
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e620a970cea474c491ac78ae71a4d764
-#EXTHTTP:{"Cookie":"hdnea=st=1787540117~exp=1787561717~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=b71dccd80e4e13d1b68bf0c7043fcb914038f0b2f6fdb91543511ebf696fe50b","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1787540117~exp=1787561717~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=b71dccd80e4e13d1b68bf0c7043fcb914038f0b2f6fdb91543511ebf696fe50b
+#EXTHTTP:{"Cookie":"hdnea=st=1787561741~exp=1787583341~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=03841d021aff7dc752d4669342d3207defe00b1a40dc187f1d9d32eecf22e159","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1787561741~exp=1787583341~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=03841d021aff7dc752d4669342d3207defe00b1a40dc187f1d9d32eecf22e159
 #EXTINF:-1 tvg-id="737" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",737
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4474972fdb4bf8ecb164482853c692
-#EXTHTTP:{"Cookie":"hdnea=st=1787540120~exp=1787561720~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=8e5b815fecb4230cc4d8f5a8b748992ce245d751339d9ebff10cbd5754b18fa4","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd?__hdnea__=st=1787540120~exp=1787561720~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=8e5b815fecb4230cc4d8f5a8b748992ce245d751339d9ebff10cbd5754b18fa4
+#EXTHTTP:{"Cookie":"hdnea=st=1787561742~exp=1787583342~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=1d190d7e3e52f6fe372131c1d7a4f89c67d05b833e253d9392e3806401650744","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd?__hdnea__=st=1787561742~exp=1787583342~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=1d190d7e3e52f6fe372131c1d7a4f89c67d05b833e253d9392e3806401650744
 #EXTINF:-1 tvg-id="738" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",738
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f57f22cba32739ce7beb1fab3f3d060b
-#EXTHTTP:{"Cookie":"hdnea=st=1787540122~exp=1787561722~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=e1623423151a2ea7ccba191bb214a0e28f208556bcd46b697d4c9afaba9cd397","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1787540122~exp=1787561722~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=e1623423151a2ea7ccba191bb214a0e28f208556bcd46b697d4c9afaba9cd397
+#EXTHTTP:{"Cookie":"hdnea=st=1787561745~exp=1787583345~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=1309538e0c3c1606ade575e55d119c03b606cdb3edc5407f8bf33ba42e4a4275","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1787561745~exp=1787583345~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=1309538e0c3c1606ade575e55d119c03b606cdb3edc5407f8bf33ba42e4a4275
 #EXTINF:-1 tvg-id="739" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",739
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67a96992e6406606f3480ab58d7f540c
-#EXTHTTP:{"Cookie":"hdnea=st=1787540124~exp=1787561724~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=1ea52b133ec7fd1644f4d4124ea9e12236a2182637dcd3204c7d8d77cba7d655","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1787540124~exp=1787561724~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=1ea52b133ec7fd1644f4d4124ea9e12236a2182637dcd3204c7d8d77cba7d655
+#EXTHTTP:{"Cookie":"hdnea=st=1787561730~exp=1787583330~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=b3057fbcf9ecf727fad796bf16588efcee504f43a7b600f228365947ce57c377","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1787561730~exp=1787583330~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=b3057fbcf9ecf727fad796bf16588efcee504f43a7b600f228365947ce57c377
 #EXTINF:-1 tvg-id="740" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",740
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d749c9b27505beb0e1a8b6c30ca65de6
-#EXTHTTP:{"Cookie":"hdnea=st=1787540122~exp=1787561722~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=89c811a833257ea6ea44c44169761a539019de5d70d268c969743fd79d788090","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1787540122~exp=1787561722~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=89c811a833257ea6ea44c44169761a539019de5d70d268c969743fd79d788090
+#EXTHTTP:{"Cookie":"hdnea=st=1787561745~exp=1787583345~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=92a509dfee2e6b7d7367356eb303f44bce507bcc885a0bce9a096277eccb871d","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1787561745~exp=1787583345~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=92a509dfee2e6b7d7367356eb303f44bce507bcc885a0bce9a096277eccb871d
 #EXTINF:-1 tvg-id="741" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",741
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=943923934de1d5536ab01c67fca8b337
-#EXTHTTP:{"Cookie":"hdnea=st=1787540052~exp=1787561652~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=d078946e99eb57db554dbe94673eacb46191940a2263499fff8e6a6bacccdee1","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1787540052~exp=1787561652~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=d078946e99eb57db554dbe94673eacb46191940a2263499fff8e6a6bacccdee1
+#EXTHTTP:{"Cookie":"hdnea=st=1787561659~exp=1787583259~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=358eb6a0ccb303077d8e499978759e81ad99244f3638982c9f667f19463dfe93","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1787561659~exp=1787583259~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=358eb6a0ccb303077d8e499978759e81ad99244f3638982c9f667f19463dfe93
 #EXTINF:-1 tvg-id="742" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",742
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae62a20c030c918aad24193c1dda229
@@ -5312,43 +5312,43 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="743" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",743
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19c82d3ff094fa06af95820a1572ecb5
-#EXTHTTP:{"Cookie":"hdnea=st=1787540055~exp=1787561655~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=4ce7ae97f271a92248072f45016109ed81f247ab88d8dd3a9a88b66c76b7075d","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787540055~exp=1787561655~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=4ce7ae97f271a92248072f45016109ed81f247ab88d8dd3a9a88b66c76b7075d
+#EXTHTTP:{"Cookie":"hdnea=st=1787561659~exp=1787583259~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=2d781768a426ef2cb41e5c96cec860986aa2dd967b9d6d5844b928542b67b473","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787561659~exp=1787583259~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=2d781768a426ef2cb41e5c96cec860986aa2dd967b9d6d5844b928542b67b473
 #EXTINF:-1 tvg-id="744" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",744
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f62834669a97e92ea1f3263274853fc
-#EXTHTTP:{"Cookie":"hdnea=st=1787540123~exp=1787561723~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=745db22d3ff6dfb97366a19a2381f7a400b28ff6b19b068ea31669cea8484af7","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd?__hdnea__=st=1787540123~exp=1787561723~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=745db22d3ff6dfb97366a19a2381f7a400b28ff6b19b068ea31669cea8484af7
+#EXTHTTP:{"Cookie":"hdnea=st=1787561747~exp=1787583347~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=6cd4bde8957ae3be177cea77b9c303081c806141523eabf531ae38d9117e0d50","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd?__hdnea__=st=1787561747~exp=1787583347~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=6cd4bde8957ae3be177cea77b9c303081c806141523eabf531ae38d9117e0d50
 #EXTINF:-1 tvg-id="745" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",745
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=791d7444110cec32d731ca0c33ac6c15
-#EXTHTTP:{"Cookie":"hdnea=st=1787540123~exp=1787561723~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=61a3630575098d2bba99221d1710400f76922ae7117f99c760c539c775b65195","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st=1787540123~exp=1787561723~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=61a3630575098d2bba99221d1710400f76922ae7117f99c760c539c775b65195
+#EXTHTTP:{"Cookie":"hdnea=st=1787561745~exp=1787583345~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=8d64628985ffe7343390768e05fde4a369cc0bb34cf763280a2293600a5d5d44","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st=1787561745~exp=1787583345~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=8d64628985ffe7343390768e05fde4a369cc0bb34cf763280a2293600a5d5d44
 #EXTINF:-1 tvg-id="746" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",746
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f992a14e0def17ccdfe16f58c4ce56c5
-#EXTHTTP:{"Cookie":"hdnea=st=1787540119~exp=1787561719~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=75aa6222ef17b81eae38b4ac6f4e8373d09348d1f7a17ddca6ef091c468b2296","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st=1787540119~exp=1787561719~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=75aa6222ef17b81eae38b4ac6f4e8373d09348d1f7a17ddca6ef091c468b2296
+#EXTHTTP:{"Cookie":"hdnea=st=1787561741~exp=1787583341~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=9342d57ba4536aa8c06eba3820574e57e9c857a3f7c69781edd5295c81da3771","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st=1787561741~exp=1787583341~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=9342d57ba4536aa8c06eba3820574e57e9c857a3f7c69781edd5295c81da3771
 #EXTINF:-1 tvg-id="747" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",747
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63e3ae853f483a86752b5b9e6d61eb20
-#EXTHTTP:{"Cookie":"hdnea=st=1787540051~exp=1787561651~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=32b3c22c37ccb9c764ec097ddd3e3a768467493d55ff6fd671afd6fabf9701d5","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787540051~exp=1787561651~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=32b3c22c37ccb9c764ec097ddd3e3a768467493d55ff6fd671afd6fabf9701d5
+#EXTHTTP:{"Cookie":"hdnea=st=1787561658~exp=1787583258~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=6b1743d107661bebb1b642180269d96eabab7ce73f8976b2a6118a11697cfddc","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787561658~exp=1787583258~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=6b1743d107661bebb1b642180269d96eabab7ce73f8976b2a6118a11697cfddc
 #EXTINF:-1 tvg-id="748" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",748
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae12e0e147d3e76cfa62bfb99bc07109
-#EXTHTTP:{"Cookie":"hdnea=st=1787540126~exp=1787561726~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=4da68129360ed7d068a13b88b58119998115c442a17734bdd927ff094a612043","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1787540126~exp=1787561726~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=4da68129360ed7d068a13b88b58119998115c442a17734bdd927ff094a612043
+#EXTHTTP:{"Cookie":"hdnea=st=1787561752~exp=1787583352~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=397fe7ec45fd659c7efa64a5addf1c05a151e7f66972ea4abd2dbe184530a632","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1787561752~exp=1787583352~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=397fe7ec45fd659c7efa64a5addf1c05a151e7f66972ea4abd2dbe184530a632
 #EXTINF:-1 tvg-id="749" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",749
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be7497b59d4ce9e33d29bfd1d38bad1d
-#EXTHTTP:{"Cookie":"hdnea=st=1787540052~exp=1787561652~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=3b9ef913398acc5d385c0d9e3867eb0bf76b77e5126a28cadc6645123590d056","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787540052~exp=1787561652~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=3b9ef913398acc5d385c0d9e3867eb0bf76b77e5126a28cadc6645123590d056
+#EXTHTTP:{"Cookie":"hdnea=st=1787561658~exp=1787583258~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=1b7cb7e03e5a095af42ee7383dd743d59af2ffb9d5236447fec2f53c7eb28133","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787561658~exp=1787583258~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=1b7cb7e03e5a095af42ee7383dd743d59af2ffb9d5236447fec2f53c7eb28133
 #EXTINF:-1 tvg-id="750" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",750
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836ee0f7377d71c156a139361a45be5
-#EXTHTTP:{"Cookie":"hdnea=st=1787540126~exp=1787561726~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=578699e52f59c124657359625e3c3921bb22fc0e3e4dfd66937653f5f3e14c8b","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd?__hdnea__=st=1787540126~exp=1787561726~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=578699e52f59c124657359625e3c3921bb22fc0e3e4dfd66937653f5f3e14c8b
+#EXTHTTP:{"Cookie":"hdnea=st=1787561729~exp=1787583329~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=32065f1c26266ffe5d51c223f59320cfd8e5df90d7a3761af6ad5c8fc3ecc2eb","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd?__hdnea__=st=1787561729~exp=1787583329~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=32065f1c26266ffe5d51c223f59320cfd8e5df90d7a3761af6ad5c8fc3ecc2eb
 #EXTINF:-1 tvg-id="751" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",751
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bf1dfb1b9ddb500ee334f511cc9593a
@@ -6687,8 +6687,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd?__hdne
 #EXTINF:-1 tvg-id="1018" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1018
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null
-#EXTHTTP:{"Cookie":"hdnea=st=1787540112~exp=1787561712~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=4c7724e1a5040046f5e67518366c6190218da29c8d940ff63643dffd127ee9bd","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1787540112~exp=1787561712~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=4c7724e1a5040046f5e67518366c6190218da29c8d940ff63643dffd127ee9bd
+#EXTHTTP:{"Cookie":"hdnea=st=1787561722~exp=1787583322~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=6f9b7499f103395be29a17328ceee46e341641c355a2fbc173b5229284a362dd","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1787561722~exp=1787583322~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=6f9b7499f103395be29a17328ceee46e341641c355a2fbc173b5229284a362dd
 #EXTINF:-1 tvg-id="1019" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1019
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b85980e71af02b532054322d846b468
@@ -7462,73 +7462,93 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
+#EXTINF:-1 tvg-id="4248352_HIN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png" group-title="🔸FanCode🔸| Live Events",Lucknow Falcons vs Kashi Rudras [Hindi]
+https://in-mc-flive.fancode.com/mumbai/4248352_hindi_hls_35cc2e3af442591_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787649271~_GO=Generated~acl=/mumbai/4248352_hindi_hls_35cc2e3af442591_1ta-di_h264/*~Signature=ARB3KG3coJ2zZnSNID_aqkAtkGNa3W_0lbxD8smD0HbKRGfXkt228DvMeV89DVRSNz4a7KpZHBFRmFPJkpDwk8sKwGsN
+#EXTINF:-1 tvg-id="4248352_BHO" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png" group-title="🔸FanCode🔸| Live Events",Lucknow Falcons vs Kashi Rudras [Bhojpuri]
+https://in-mc-flive.fancode.com/mumbai/4248352_bhojpuri_hls_b6ac438cc125592_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787649272~_GO=Generated~acl=/mumbai/4248352_bhojpuri_hls_b6ac438cc125592_1ta-di_h264/*~Signature=ARB3KG221YPviGM0LZMDOpox3j8p-luov7BJTGqTPD3BF-oU5cn06SsDL40LevPQ1yylER_7isjTioTIAcrK4CUZt4oA
 #EXTINF:-1 tvg-id="4248512_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248512_53041_SW_BK_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Someshwar Warriors vs Baragaddi Kings [English]
 https://in-mc-flive.fancode.com/mumbai/4248512_english_hls_9cfd358f1552150_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787644338~_GO=Generated~acl=/mumbai/4248512_english_hls_9cfd358f1552150_1ta-di_h264/*~Signature=ARceAWP3kpM76kIwSk3BwwP_8bDFWD4RY6l87lkdrKzRHcUUzT6eO-EsP50zzhE1pxrwKZW7xydn8KCUGb7YZJHvuP8C
 #EXTINF:-1 tvg-id="4247553_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247553_53003_CDQ_SDS-W_FC-Web_1787555685229.png" group-title="🔸FanCode🔸| Live Events",Central Delhi Queens vs South Delhi Superstarz Women [English]
 https://in-mc-flive.fancode.com/mumbai/4247553_english_hls_6b872f507b99405_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787644339~_GO=Generated~acl=/mumbai/4247553_english_hls_6b872f507b99405_1ta-di_h264/*~Signature=ARceAWN-KYmS66HzAF23TNRhK8a3I-t0_SaoHDtyDj5wIC0IqTHvBtg07qfFAojT1YaqECDwKRDAAhRWjntFqPsx9aMG
+#EXTINF:-1 tvg-id="4248444_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg" group-title="🔸FanCode🔸| Live Events",Hobart Hurricanes Academy vs Nepal [English]
+https://in-mc-flive.fancode.com/mumbai/4248444_english_hls_c408f5caa688583_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787649881~_GO=Generated~acl=/mumbai/4248444_english_hls_c408f5caa688583_1ta-di_h264/*~Signature=ARB3KG1C15Mgvvihn6osJ2f4gFMjcZasjw8Zh07i1VQ57mK9-LidjNi8S82x5tgD84phEzmjS5m8V8SqcZloFfYbfNMD
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - 2nd Test - 24 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787604894~acl=/*~id=64612929856220205334560589844986~hmac=4076447ce1bede85c0330bce57c0aae6cf9f423da72f0f7107dde272ced6e50e
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787607937~acl=/*~id=96519567113546029122454935612543~hmac=bb17dd3a47cc86ddd2e9d39561f1390f72b2f66ddf012457add7eccb83c6528c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - 2nd Test - 24 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2408/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787604894~acl=/*~id=64612929856220205334560589844986~hmac=4076447ce1bede85c0330bce57c0aae6cf9f423da72f0f7107dde272ced6e50e
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2408/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787607937~acl=/*~id=96519567113546029122454935612543~hmac=bb17dd3a47cc86ddd2e9d39561f1390f72b2f66ddf012457add7eccb83c6528c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - 2nd Test - 24 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2408/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787604894~acl=/*~id=64612929856220205334560589844986~hmac=4076447ce1bede85c0330bce57c0aae6cf9f423da72f0f7107dde272ced6e50e
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2408/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787607937~acl=/*~id=96519567113546029122454935612543~hmac=bb17dd3a47cc86ddd2e9d39561f1390f72b2f66ddf012457add7eccb83c6528c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - 2nd Test - 24 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2408/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787604894~acl=/*~id=64612929856220205334560589844986~hmac=4076447ce1bede85c0330bce57c0aae6cf9f423da72f0f7107dde272ced6e50e
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2408/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787607937~acl=/*~id=96519567113546029122454935612543~hmac=bb17dd3a47cc86ddd2e9d39561f1390f72b2f66ddf012457add7eccb83c6528c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - 2nd Test - 24 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2408/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787604894~acl=/*~id=64612929856220205334560589844986~hmac=4076447ce1bede85c0330bce57c0aae6cf9f423da72f0f7107dde272ced6e50e
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2408/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787607937~acl=/*~id=96519567113546029122454935612543~hmac=bb17dd3a47cc86ddd2e9d39561f1390f72b2f66ddf012457add7eccb83c6528c
 
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
 # Playlist generated by Hotstar Extractor
 # Playlist Created By @rtxcric
 # Mode: NORMAL FHD 30 MINUTES AUTO-UPDATE
-# Generated: 2026-08-24 02:25:58 PM
+# Generated: 2026-08-24 02:41:52 PM
 
-#EXTINF:-1 tvg-id="9692195824" tvg-name="Bhojpuri & Haryanvi Watchalong: Sri Lanka vs India, 2nd Test - Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7538/1787483687538-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", BHOJPURI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787563532~acl=/hls/live/2003898/inallow-indvssrl-2026/bho/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.11.28.7-ut=paid-ttl=1800-type=paid-raf=1787562332-~hmac=55d125d1cad9eb9481e501cfdaab2a588795f93b689ab4385ab7710be8b1e8a9"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787563532~acl=/hls/live/2003898/inallow-indvssrl-2026/bho/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.11.28.7-ut=paid-ttl=1800-type=paid-raf=1787562332-~hmac=55d125d1cad9eb9481e501cfdaab2a588795f93b689ab4385ab7710be8b1e8a9
+#EXTINF:-1 tvg-id="5526397498" tvg-name="Bhojpuri & Haryanvi Watchalong: Sri Lanka vs India, 2nd Test - Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7538/1787483687538-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", BHOJPURI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787564467~acl=/hls/live/2003898/inallow-indvssrl-2026/bho/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.04.06.2-ut=paid-ttl=1800-type=paid-raf=1787563267-~hmac=3e0509e20a271641251d2bc5c953d4480b278359b6acacc9d223def21440484d"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787564467~acl=/hls/live/2003898/inallow-indvssrl-2026/bho/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.04.06.2-ut=paid-ttl=1800-type=paid-raf=1787563267-~hmac=3e0509e20a271641251d2bc5c953d4480b278359b6acacc9d223def21440484d
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live14p.hotstar.com/hls/live/2003898/inallow-indvssrl-2026/bho/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787563532~acl=/hls/live/2003898/inallow-indvssrl-2026/bho/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.11.28.7-ut=paid-ttl=1800-type=paid-raf=1787562332-~hmac=55d125d1cad9eb9481e501cfdaab2a588795f93b689ab4385ab7710be8b1e8a9
-#EXTINF:-1 tvg-id="8257006137" tvg-name="Bhojpuri & Haryanvi Watchalong: Sri Lanka vs India, 2nd Test - Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7538/1787483687538-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HARYANVI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787563532~acl=/hls/live/2004219/inallow-indvssrl-2026/har/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.12.17.7-ut=paid-ttl=1800-type=paid-raf=1787562332-~hmac=b8f5f08ddfabd25e96d32b6e8eaa8aa63f124138286e1cb5bff4800c5bfb07e0"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787563532~acl=/hls/live/2004219/inallow-indvssrl-2026/har/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.12.17.7-ut=paid-ttl=1800-type=paid-raf=1787562332-~hmac=b8f5f08ddfabd25e96d32b6e8eaa8aa63f124138286e1cb5bff4800c5bfb07e0
+https://live14p.hotstar.com/hls/live/2003898/inallow-indvssrl-2026/bho/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787564467~acl=/hls/live/2003898/inallow-indvssrl-2026/bho/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.04.06.2-ut=paid-ttl=1800-type=paid-raf=1787563267-~hmac=3e0509e20a271641251d2bc5c953d4480b278359b6acacc9d223def21440484d
+#EXTINF:-1 tvg-id="5684981496" tvg-name="Bhojpuri & Haryanvi Watchalong: Sri Lanka vs India, 2nd Test - Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7538/1787483687538-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HARYANVI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787564466~acl=/hls/live/2004219/inallow-indvssrl-2026/har/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.02.28.7-ut=paid-ttl=1800-type=paid-raf=1787563266-~hmac=6b87479db6d2aafe62acdb480c0614b88426f4f4e164dbe68c7b6254a9b1b4b1"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787564466~acl=/hls/live/2004219/inallow-indvssrl-2026/har/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.02.28.7-ut=paid-ttl=1800-type=paid-raf=1787563266-~hmac=6b87479db6d2aafe62acdb480c0614b88426f4f4e164dbe68c7b6254a9b1b4b1
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004219/inallow-indvssrl-2026/har/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787563532~acl=/hls/live/2004219/inallow-indvssrl-2026/har/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.12.17.7-ut=paid-ttl=1800-type=paid-raf=1787562332-~hmac=b8f5f08ddfabd25e96d32b6e8eaa8aa63f124138286e1cb5bff4800c5bfb07e0
-#EXTINF:-1 tvg-id="2959303619" tvg-name="East Zone vs North East Zone: QF, Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/3861/1787483073861-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787563531~acl=/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.08.15.7-ut=paid-ttl=1800-type=paid-raf=1787562331-~hmac=2a06dfba18e41d7b41c11554fb68f48ded2f0568901f5e771087cca18a864f07"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787563531~acl=/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.08.15.7-ut=paid-ttl=1800-type=paid-raf=1787562331-~hmac=2a06dfba18e41d7b41c11554fb68f48ded2f0568901f5e771087cca18a864f07
+https://live15p.hotstar.com/hls/live/2004219/inallow-indvssrl-2026/har/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787564466~acl=/hls/live/2004219/inallow-indvssrl-2026/har/1540076165/15mindvrm0119da499b8603427da325d8e6fdbd9efe24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.02.28.7-ut=paid-ttl=1800-type=paid-raf=1787563266-~hmac=6b87479db6d2aafe62acdb480c0614b88426f4f4e164dbe68c7b6254a9b1b4b1
+#EXTINF:-1 tvg-id="5604961316" tvg-name="East Zone vs North East Zone: QF, Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/3861/1787483073861-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787564480~acl=/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.12.03.3-ut=paid-ttl=1800-type=paid-raf=1787563280-~hmac=8da1232a8a5ac9bf4f3cbf0afe737fcaa7866b2c6831b61822475df830bc3944"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787564480~acl=/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.12.03.3-ut=paid-ttl=1800-type=paid-raf=1787563280-~hmac=8da1232a8a5ac9bf4f3cbf0afe737fcaa7866b2c6831b61822475df830bc3944
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787563531~acl=/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.08.15.7-ut=paid-ttl=1800-type=paid-raf=1787562331-~hmac=2a06dfba18e41d7b41c11554fb68f48ded2f0568901f5e771087cca18a864f07
-#EXTINF:-1 tvg-id="6214334841" tvg-name="North Zone vs West Zone: QF, Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9343/1787483439343-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787563537~acl=/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.09.25.0-ut=paid-ttl=1800-type=paid-raf=1787562337-~hmac=6bfd7d38a644a1f5e60bd5763bc587dac3a1746044595d58a35f13ce9790b981"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787563537~acl=/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.09.25.0-ut=paid-ttl=1800-type=paid-raf=1787562337-~hmac=6bfd7d38a644a1f5e60bd5763bc587dac3a1746044595d58a35f13ce9790b981
+https://live15p.hotstar.com/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787564480~acl=/hls/live/2004209/inallow-duleep-2026/hin/1540076899/15mindvrm013b9262630cb7428097d0d7ebf8c9a2db24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.12.03.3-ut=paid-ttl=1800-type=paid-raf=1787563280-~hmac=8da1232a8a5ac9bf4f3cbf0afe737fcaa7866b2c6831b61822475df830bc3944
+#EXTINF:-1 tvg-id="1202870996" tvg-name="North Zone vs West Zone: QF, Day 2" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/9343/1787483439343-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787564469~acl=/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.06.17.6-ut=paid-ttl=1800-type=paid-raf=1787563269-~hmac=9f974e948c8a00f5bdc9fecbe1d1946007a578da5e814384a60de3321d438233"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787564469~acl=/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.06.17.6-ut=paid-ttl=1800-type=paid-raf=1787563269-~hmac=9f974e948c8a00f5bdc9fecbe1d1946007a578da5e814384a60de3321d438233
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap.m3u8?a=ns&hdnea=exp=1787563537~acl=/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.09.25.0-ut=paid-ttl=1800-type=paid-raf=1787562337-~hmac=6bfd7d38a644a1f5e60bd5763bc587dac3a1746044595d58a35f13ce9790b981
-#EXTINF:-1 tvg-id="5762253938" tvg-name="Central Delhi Queens vs South Delhi Superstarz" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/4546/1787554174546-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787563513~acl=/hls/live/2123216/inallow-wdpl-2026/hin/1540076842/15mindvrm019dfc0d35edc64c5887ac341488a2bcee24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.04.12.9-ut=paid-ttl=1800-type=paid-raf=1787562313-~hmac=990a281e0365d9ae542f541a5d61403f5ff133706a001cfe4e2ba7c63c8ea47a"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787563513~acl=/hls/live/2123216/inallow-wdpl-2026/hin/1540076842/15mindvrm019dfc0d35edc64c5887ac341488a2bcee24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.04.12.9-ut=paid-ttl=1800-type=paid-raf=1787562313-~hmac=990a281e0365d9ae542f541a5d61403f5ff133706a001cfe4e2ba7c63c8ea47a
+https://live15p.hotstar.com/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap.m3u8?a=ns&hdnea=exp=1787564469~acl=/hls/live/2004207/inallow-duleep-2026/hin/1540076902/15mindvrm02e83b3e792bb04c858e56f083b0eb935924august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.06.17.6-ut=paid-ttl=1800-type=paid-raf=1787563269-~hmac=9f974e948c8a00f5bdc9fecbe1d1946007a578da5e814384a60de3321d438233
+#EXTINF:-1 tvg-id="6958437816" tvg-name="Calicut Globstars vs Alleppey Ripples" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/6108/1787485606108-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787564472~acl=/hls/live/2123084/inallow-kcl-2026/eng/1540076264/15mindvrm010f022912560941c58e771cb0885c4cb324august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.12.08.5-ut=paid-ttl=1800-type=paid-raf=1787563272-~hmac=0e030c4d69178cdccc41e0fc86a3f4b5daffbda9b472cfb5707ca9b237034701"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787564472~acl=/hls/live/2123084/inallow-kcl-2026/eng/1540076264/15mindvrm010f022912560941c58e771cb0885c4cb324august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.12.08.5-ut=paid-ttl=1800-type=paid-raf=1787563272-~hmac=0e030c4d69178cdccc41e0fc86a3f4b5daffbda9b472cfb5707ca9b237034701
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2123216/inallow-wdpl-2026/hin/1540076842/15mindvrm019dfc0d35edc64c5887ac341488a2bcee24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787563513~acl=/hls/live/2123216/inallow-wdpl-2026/hin/1540076842/15mindvrm019dfc0d35edc64c5887ac341488a2bcee24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.04.12.9-ut=paid-ttl=1800-type=paid-raf=1787562313-~hmac=990a281e0365d9ae542f541a5d61403f5ff133706a001cfe4e2ba7c63c8ea47a
-#EXTINF:-1 tvg-id="1536701396" tvg-name="Japan vs Wales" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7690/1787483987690-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787563557~acl=/hls/live/2123207/inallow-fihmwc-2026/eng/1540077072/15mindvrm01e7c4eefe905c4553aae59284309f4dfb24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.04.16.1-ut=paid-ttl=1800-type=paid-raf=1787562357-~hmac=0248d53dbaf668862b7a6a6d192c46c012a367d35c75670d72b2743299191505"}
-#EXTVLCOPT:http-cookie=hdntl=exp=1787563557~acl=/hls/live/2123207/inallow-fihmwc-2026/eng/1540077072/15mindvrm01e7c4eefe905c4553aae59284309f4dfb24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.04.16.1-ut=paid-ttl=1800-type=paid-raf=1787562357-~hmac=0248d53dbaf668862b7a6a6d192c46c012a367d35c75670d72b2743299191505
+https://live13p.hotstar.com/hls/live/2123084/inallow-kcl-2026/eng/1540076264/15mindvrm010f022912560941c58e771cb0885c4cb324august2026/master_ap.m3u8?a=ns&hdnea=exp=1787564472~acl=/hls/live/2123084/inallow-kcl-2026/eng/1540076264/15mindvrm010f022912560941c58e771cb0885c4cb324august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.12.08.5-ut=paid-ttl=1800-type=paid-raf=1787563272-~hmac=0e030c4d69178cdccc41e0fc86a3f4b5daffbda9b472cfb5707ca9b237034701
+#EXTINF:-1 tvg-id="8566884574" tvg-name="Calicut Globstars vs Alleppey Ripples" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/6108/1787485606108-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", MALAYALAM FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787564475~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076264/15mindvrm010f022912560941c58e771cb0885c4cb324august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.01.16.0-ut=paid-ttl=1800-type=paid-raf=1787563275-~hmac=f41f2e1634fe2f6883e17717f96621455011ba8a9dcbef84f4304b023ba06799"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787564475~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076264/15mindvrm010f022912560941c58e771cb0885c4cb324august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.01.16.0-ut=paid-ttl=1800-type=paid-raf=1787563275-~hmac=f41f2e1634fe2f6883e17717f96621455011ba8a9dcbef84f4304b023ba06799
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2123207/inallow-fihmwc-2026/eng/1540077072/15mindvrm01e7c4eefe905c4553aae59284309f4dfb24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787563557~acl=/hls/live/2123207/inallow-fihmwc-2026/eng/1540077072/15mindvrm01e7c4eefe905c4553aae59284309f4dfb24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Wz46k4UX4RRFAyGOWOn2bHKwEtqOvEUR0pdhPcrHChXH-did=T1SPBp9j15oM0jEFjlXtwvHRHBbc3PgYxxrXFqZpUA4h-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.04.16.1-ut=paid-ttl=1800-type=paid-raf=1787562357-~hmac=0248d53dbaf668862b7a6a6d192c46c012a367d35c75670d72b2743299191505
+https://live14p.hotstar.com/hls/live/2123147/inallow-kcl-2026/mal/1540076264/15mindvrm010f022912560941c58e771cb0885c4cb324august2026/master_ap.m3u8?a=ns&hdnea=exp=1787564475~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076264/15mindvrm010f022912560941c58e771cb0885c4cb324august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.01.16.0-ut=paid-ttl=1800-type=paid-raf=1787563275-~hmac=f41f2e1634fe2f6883e17717f96621455011ba8a9dcbef84f4304b023ba06799
+#EXTINF:-1 tvg-id="2651284872" tvg-name="Central Delhi Queens vs South Delhi Superstarz" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/4546/1787554174546-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787564511~acl=/hls/live/2123216/inallow-wdpl-2026/hin/1540076842/15mindvrm019dfc0d35edc64c5887ac341488a2bcee24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.08.04.2-ut=paid-ttl=1800-type=paid-raf=1787563311-~hmac=9231e855e7e4e9990633f90e81d678171dc80ada86c7942f0b459c19f213193a"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787564511~acl=/hls/live/2123216/inallow-wdpl-2026/hin/1540076842/15mindvrm019dfc0d35edc64c5887ac341488a2bcee24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.08.04.2-ut=paid-ttl=1800-type=paid-raf=1787563311-~hmac=9231e855e7e4e9990633f90e81d678171dc80ada86c7942f0b459c19f213193a
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
+https://live15p.hotstar.com/hls/live/2123216/inallow-wdpl-2026/hin/1540076842/15mindvrm019dfc0d35edc64c5887ac341488a2bcee24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787564511~acl=/hls/live/2123216/inallow-wdpl-2026/hin/1540076842/15mindvrm019dfc0d35edc64c5887ac341488a2bcee24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=25.08.04.2-ut=paid-ttl=1800-type=paid-raf=1787563311-~hmac=9231e855e7e4e9990633f90e81d678171dc80ada86c7942f0b459c19f213193a
+#EXTINF:-1 tvg-id="351556580" tvg-name="Japan vs Wales" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/7690/1787483987690-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787564512~acl=/hls/live/2123207/inallow-fihmwc-2026/eng/1540077072/15mindvrm01e7c4eefe905c4553aae59284309f4dfb24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.07.17.4-ut=paid-ttl=1800-type=paid-raf=1787563312-~hmac=b8c73bbc6c1aef97fe0d549e118fef6b3daaf6cb489d42d829ac944ba71039e0"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1787564512~acl=/hls/live/2123207/inallow-fihmwc-2026/eng/1540077072/15mindvrm01e7c4eefe905c4553aae59284309f4dfb24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.07.17.4-ut=paid-ttl=1800-type=paid-raf=1787563312-~hmac=b8c73bbc6c1aef97fe0d549e118fef6b3daaf6cb489d42d829ac944ba71039e0
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
+https://live15p.hotstar.com/hls/live/2123207/inallow-fihmwc-2026/eng/1540077072/15mindvrm01e7c4eefe905c4553aae59284309f4dfb24august2026/master_ap.m3u8?a=ns&hdnea=exp=1787564512~acl=/hls/live/2123207/inallow-fihmwc-2026/eng/1540077072/15mindvrm01e7c4eefe905c4553aae59284309f4dfb24august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=wyDfTNWngFD0Q3hTQJ4b60O8q6rkDGOBM4ddMW8eK0P0-did=APjyRDGN2MovF92XKkwwP2tP3oK9R1lDoNPTiFXoww9z-cc=in-bl=jhs-de=7-pl=androidtv-ap=26.07.17.4-ut=paid-ttl=1800-type=paid-raf=1787563312-~hmac=b8c73bbc6c1aef97fe0d549e118fef6b3daaf6cb489d42d829ac944ba71039e0
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7588,14 +7608,14 @@ http://193.47.62.44/hls/ZEZEZE.m3u8?
 #EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW - AQ" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31ded111f927aa48f07118d9c049632f:95a6ab67798b183acafcbf94968db0ff
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mzz0htm5dn/out/v1/56c31860317c4251ace04fb9a1498822/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=bf1e65f466c96e820f1864d3c83f24b7:487857d720603a20a3b0e1bdbdb7cad6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tfdpskpy5j/out/v1/fef1b4edddbe486a90e3d4de5fb9128f/cenc.mpd
 
 #EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW - ALT" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW - ALT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31ded111f927aa48f07118d9c049632f:95a6ab67798b183acafcbf94968db0ff
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mzz0htm5dn/out/v1/56c31860317c4251ace04fb9a1498822/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=bf1e65f466c96e820f1864d3c83f24b7:487857d720603a20a3b0e1bdbdb7cad6
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tfdpskpy5j/out/v1/fef1b4edddbe486a90e3d4de5fb9128f/cenc.mpd
 
 #EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | T SPORTS HD" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | T SPORTS HD
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
@@ -7762,29 +7782,104 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="11697" tvg-name="Sri Lanka Women vs United Arab Emirates Women |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka Women vs United Arab Emirates Women |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="11824" tvg-name="Fulham vs Chelsea |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Fulham vs Chelsea |
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="11824" tvg-name="Fulham vs Chelsea | FUBO SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Fulham vs Chelsea | FUBO SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-id="11824" tvg-name="Fulham vs Chelsea | SKY SPORT EPL HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Fulham vs Chelsea | SKY SPORT EPL HD
+https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8
+
+#EXTINF:-1 tvg-id="11824" tvg-name="Fulham vs Chelsea | USA NETWROK HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Fulham vs Chelsea | USA NETWROK HD
+https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8
 
 #EXTINF:-1 tvg-id="11831" tvg-name="Botafogo vs Athletico |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Botafogo vs Athletico |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="11832" tvg-name="Neom SC vs Al-Qadsiah |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Neom SC vs Al-Qadsiah |
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="11832" tvg-name="Neom SC vs Al-Qadsiah | FOX DEPORTES - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Neom SC vs Al-Qadsiah | FOX DEPORTES - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
-#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem |
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | FOX SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | FOX SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="11876" tvg-name="AS Roma vs Fiorentina |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AS Roma vs Fiorentina |
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="11833" tvg-name="Al-Ittihad vs Al-Hazem | FOX DEPORTES - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Hazem | FOX DEPORTES - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
-#EXTINF:-1 tvg-id="11877" tvg-name="Osasuna vs Levante UD |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Osasuna vs Levante UD |
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="11876" tvg-name="AS Roma vs Fiorentina | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AS Roma vs Fiorentina | beiN ENGLISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="11878" tvg-name="Malaga CF vs Deportivo de A Coruna |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Malaga CF vs Deportivo de A Coruna |
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="11876" tvg-name="AS Roma vs Fiorentina | FUBO SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AS Roma vs Fiorentina | FUBO SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b91a2794be508748d3799a24b4ee0f3f:517fe2a7ab2b4d81eb6575dbdba6a214
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssxpsgkjtp/out/v1/9030b59b336d4deabda16d8ab696670d/cenc.mpd
 
-#EXTINF:-1 tvg-id="11879" tvg-name="Gil Vicente vs Casa Pia |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Gil Vicente vs Casa Pia |
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="11876" tvg-name="AS Roma vs Fiorentina | CBS SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AS Roma vs Fiorentina | CBS SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="11876" tvg-name="AS Roma vs Fiorentina | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AS Roma vs Fiorentina | SPORT TV HD
+https://tmaxapp.site/pt658svs/sporttv2.m3u8
+
+#EXTINF:-1 tvg-id="11877" tvg-name="Osasuna vs Levante UD | PREMIER SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Osasuna vs Levante UD | PREMIER SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="11877" tvg-name="Osasuna vs Levante UD | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Osasuna vs Levante UD | beiN ENGLISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="11877" tvg-name="Osasuna vs Levante UD | FANCODE - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Osasuna vs Levante UD | FANCODE - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="11878" tvg-name="Malaga CF vs Deportivo de A Coruna | PREMIER SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Malaga CF vs Deportivo de A Coruna | PREMIER SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="11878" tvg-name="Malaga CF vs Deportivo de A Coruna | D SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Malaga CF vs Deportivo de A Coruna | D SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+
+#EXTINF:-1 tvg-id="11878" tvg-name="Malaga CF vs Deportivo de A Coruna | FANCODE - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Malaga CF vs Deportivo de A Coruna | FANCODE - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="11879" tvg-name="Gil Vicente vs Casa Pia | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Gil Vicente vs Casa Pia | SPORT TV HD
+https://tmaxapp.site/pt658svs/sporttv1.m3u8
 
 #EXTINF:-1 tvg-id="11880" tvg-name="Celta Fortuna vs FC Andorra |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Celta Fortuna vs FC Andorra |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -7858,29 +7953,53 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="11903" tvg-name="European T20 Premier League |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",European T20 Premier League |
 ok
 
+#EXTINF:-1 tvg-id="11904" tvg-name="Bologna vs Lazio | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bologna vs Lazio | beiN ENGLISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="11904" tvg-name="Bologna vs Lazio | FUBO SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bologna vs Lazio | FUBO SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+#EXTINF:-1 tvg-id="11904" tvg-name="Bologna vs Lazio | CBS NETWORK HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bologna vs Lazio | CBS NETWORK HD
+https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8
+
 # ---------------=== 🏏 WILLOW | LIVE EVENTS ===-------------------
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:32 PM 24-08-2026
+#LAST_UPDATE:03:32 PM 24-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/out/v1/a7eb6c5c6a42479c83e0cc569b54731c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFTF4BYJ" tvg-name="Top End T20 Series 2026 - 11th Match - Victoria vs Bangladesh HP" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36ba9ef5-b764-46de-8f17-a44848b23f81/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 11th Match - Victoria vs Bangladesh HP
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31ded111f927aa48f07118d9c049632f:95a6ab67798b183acafcbf94968db0ff
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bm8quleefe/out/v1/a9527c6278684886b8bc40add3eaa431/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bm8quleefe/out/v1/a9527c6278684886b8bc40add3eaa431/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HFBF5Z3D" tvg-name="Top End T20 Series 2026 - 12th Match - Nepal vs Hobart Hurricanes" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fd379414-b100-4e8e-b28f-75048687dd58/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 12th Match - Nepal vs Hobart Hurricanes
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf1e65f466c96e820f1864d3c83f24b7:487857d720603a20a3b0e1bdbdb7cad6
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sivtxjxex/out/v1/ccd2772b4ac34b35bdee514bbb5d5b6a/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
