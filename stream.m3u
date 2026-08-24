@@ -4307,8 +4307,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_MOB/WDVLive/index.mpd?__h
 #EXTINF:-1 tvg-id="542" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",542
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80f4de40d7603bd8e45fe41db53f5198
-#EXTHTTP:{"Cookie":"hdnea=st=1787574926~exp=1787596526~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=c8abab52a7e5146c9f88ed19b6e942d30e1e6ca44187891afdaf911bd93f5d90","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787574926~exp=1787596526~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=c8abab52a7e5146c9f88ed19b6e942d30e1e6ca44187891afdaf911bd93f5d90
+#EXTHTTP:{"Cookie":"hdnea=st=1787583610~exp=1787605210~acl=/*~hmac=ae7438eb7163b757fef1f5fb55351e307ddb4db0fbae8873a7d8f834bfe11f38","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787583610~exp=1787605210~acl=/*~hmac=ae7438eb7163b757fef1f5fb55351e307ddb4db0fbae8873a7d8f834bfe11f38
 #EXTINF:-1 tvg-id="543" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",543
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ec4802fd3c2f3a87f2e3b4df9c3f310
@@ -4872,8 +4872,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd?__hdnea_
 #EXTINF:-1 tvg-id="655" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",655
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92ac70b12af7f68fd49a0578e4765ab9
-#EXTHTTP:{"Cookie":"hdnea=st=1787575514~exp=1787597114~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=aa1be899377966b401f4ea9686f63c97d39af107e6957c71f537e4831695f1b8","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787575514~exp=1787597114~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=aa1be899377966b401f4ea9686f63c97d39af107e6957c71f537e4831695f1b8
+#EXTHTTP:{"Cookie":"hdnea=st=1787583610~exp=1787605210~acl=/*~hmac=ae7438eb7163b757fef1f5fb55351e307ddb4db0fbae8873a7d8f834bfe11f38","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/AndXploreHD_MOB/WDVLive/index.mpd?__hdnea__=st=1787583610~exp=1787605210~acl=/*~hmac=ae7438eb7163b757fef1f5fb55351e307ddb4db0fbae8873a7d8f834bfe11f38
 #EXTINF:-1 tvg-id="656" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",656
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1922fbb1ebad4a7ba0f3c77c67b34f89
@@ -7470,8 +7470,6 @@ https://in-mc-flive.fancode.com/mumbai/4247587_english_hls_ba7433a2c221805_1ta-d
 https://in-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787685765~_GO=Generated~acl=/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/*~Signature=ARB3KG09ELWAhwuXu7mPJi3S7rN--MotrY0MNZizOI3NxbH1YZ5YODIfsXvXzUBd3wHVFYxnJVofcAkMNwjQ0PJ0fgIC
 #EXTINF:-1 tvg-id="4248151_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787680293~_GO=Generated~acl=/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/*~Signature=ARB3KG1THe_YT04WcRn79rSoiKbiTMAo5js0e35qS8ElkX-caNUDtN0wr23knZ_LJlDg_-3GmHsDUbyYCRc0KdoVQgUF
-#EXTINF:-1 tvg-id="4247579_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png" group-title="🔸FanCode🔸| Live Events",CA Osasuna vs Levante [English]
-https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH
 
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
@@ -7655,6 +7653,10 @@ https://edgestream2.pro/hls/griogoehvn2.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
 
+#EXTINF:-1 tvg-id="11824" tvg-name="Fulham vs Chelsea | CRICFy HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Fulham vs Chelsea | CRICFy HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iframe.rumsport10.live/&useragent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca2a-hd/chunks.m3u8?is_vip=false&token=1787683658-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-55454cf55744359b4b1b16ce9ec5bea5
+
 #EXTINF:-1 tvg-id="11824" tvg-name="Fulham vs Chelsea | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Fulham vs Chelsea | LOW SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.53/hls/ZKKKK.m3u8?
@@ -7716,45 +7718,50 @@ https://tmaxapp.site/pt658svs/sporttv2.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.41/hls/dbbbbaaa.m3u8?
 
-#EXTINF:-1 tvg-id="11877" tvg-name="Osasuna vs Levante UD | PREMIER SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Osasuna vs Levante UD | PREMIER SPORTS - AQ
+#EXTINF:-1 tvg-id="11878" tvg-name="Malaga CF vs Deportivo de A Coruna | PREMIER SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Malaga CF vs Deportivo de A Coruna | PREMIER SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1 tvg-id="11877" tvg-name="Osasuna vs Levante UD | beiN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Osasuna vs Levante UD | beiN ENGLISH - AQ
+#EXTINF:-1 tvg-id="11878" tvg-name="Malaga CF vs Deportivo de A Coruna | D SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Malaga CF vs Deportivo de A Coruna | D SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
-#EXTINF:-1 tvg-id="11877" tvg-name="Osasuna vs Levante UD | FANCODE - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Osasuna vs Levante UD | FANCODE - AQ
+#EXTINF:-1 tvg-id="11878" tvg-name="Malaga CF vs Deportivo de A Coruna | FANCODE - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Malaga CF vs Deportivo de A Coruna | FANCODE - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="11877" tvg-name="Osasuna vs Levante UD | ESPN DEPORTES HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Osasuna vs Levante UD | ESPN DEPORTES HD
+#EXTINF:-1 tvg-id="11878" tvg-name="Malaga CF vs Deportivo de A Coruna | ESPN DEPORTES HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Malaga CF vs Deportivo de A Coruna | ESPN DEPORTES HD
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/55161/load-playlist?
+https://chatgpt.hereisman.net/playlist/55164/load-playlist?
 
-#EXTINF:-1 tvg-id="11877" tvg-name="Osasuna vs Levante UD | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Osasuna vs Levante UD | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iframe.rumsport10.live/&useragent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1787678254-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a7e20be5fcb2049f2d0b06346f6bb3af
-
-#EXTINF:-1 tvg-id="11877" tvg-name="Osasuna vs Levante UD | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Osasuna vs Levante UD | LOW SERVER
+#EXTINF:-1 tvg-id="11878" tvg-name="Malaga CF vs Deportivo de A Coruna | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Malaga CF vs Deportivo de A Coruna | LOW SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/G444AAAaaaa.m3u8?
+http://193.47.62.41/hls/eiiiiaaaa.m3u8?
 
-#EXTINF:-1 tvg-id="11880" tvg-name="Celta Fortuna vs FC Andorra | LaLiga Hypermotion" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Celta Fortuna vs FC Andorra | LaLiga Hypermotion
+#EXTINF:-1 tvg-id="11879" tvg-name="Gil Vicente vs Casa Pia | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Gil Vicente vs Casa Pia | SPORT TV HD
+https://tmaxapp.site/pt658svs/sporttv1.m3u8
+
+#EXTINF:-1 tvg-id="11879" tvg-name="Gil Vicente vs Casa Pia | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Gil Vicente vs Casa Pia | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/eiiii.m3u8?
+
+#EXTINF:-1 tvg-id="11881" tvg-name="Granada vs Mallorca | LaLiga Hypermotion" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Granada vs Mallorca | LaLiga Hypermotion
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
 https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 
-#EXTINF:-1 tvg-id="11880" tvg-name="Celta Fortuna vs FC Andorra | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Celta Fortuna vs FC Andorra | LOW SERVER
+#EXTINF:-1 tvg-id="11881" tvg-name="Granada vs Mallorca | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Granada vs Mallorca | LOW SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/GZZZQQQ.m3u8?
+http://193.47.62.41/hls/eiiiiaaa.m3u8?
 
 #EXTINF:-1 tvg-id="11882" tvg-name="Kocaelispor vs Amed Sportif Faaliyetler | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Kocaelispor vs Amed Sportif Faaliyetler | LOW SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
@@ -8014,42 +8021,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
-#EXTINF:-1 tvg-id="11878" tvg-name="Malaga CF vs Deportivo de A Coruna | PREMIER SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Malaga CF vs Deportivo de A Coruna | PREMIER SPORTS - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="11878" tvg-name="Malaga CF vs Deportivo de A Coruna | D SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Malaga CF vs Deportivo de A Coruna | D SPORTS - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-
-#EXTINF:-1 tvg-id="11878" tvg-name="Malaga CF vs Deportivo de A Coruna | FANCODE - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Malaga CF vs Deportivo de A Coruna | FANCODE - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 tvg-id="11879" tvg-name="Gil Vicente vs Casa Pia | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Gil Vicente vs Casa Pia | SPORT TV HD
-https://tmaxapp.site/pt658svs/sporttv1.m3u8
-
-#EXTINF:-1 tvg-id="11879" tvg-name="Gil Vicente vs Casa Pia | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Gil Vicente vs Casa Pia | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/eiiii.m3u8?
-
-#EXTINF:-1 tvg-id="11881" tvg-name="Granada vs Mallorca | LaLiga Hypermotion" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Granada vs Mallorca | LaLiga Hypermotion
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
-https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
-
-#EXTINF:-1 tvg-id="11881" tvg-name="Granada vs Mallorca | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Granada vs Mallorca | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/eiiiiaaa.m3u8?
-
 #EXTINF:-1 tvg-id="11887" tvg-name="Valencia vs Real Betis |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Valencia vs Real Betis |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
@@ -8115,7 +8086,7 @@ ok
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:02 AM 25-08-2026
+#LAST_UPDATE:01:32 AM 25-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
