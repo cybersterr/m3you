@@ -7468,15 +7468,13 @@ https://in-mc-flive.fancode.com/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-d
 https://in-mc-flive.fancode.com/mumbai/4248354_hindi_hls_add508635c1531_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787751936~_GO=Generated~acl=/mumbai/4248354_hindi_hls_add508635c1531_1ta-di_h264/*~Signature=ARB3KG1pXkIjU2mbQE7Kkh-NsddK3QeyV0MuLSi8RmiAuyAldIVRpHGFemRb_h_bq-lOcPeVaxY5XU4WNwVPwb1FBF0L
 #EXTINF:-1 tvg-id="4248354_BHO" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png" group-title="🔸FanCode🔸| Live Events",Kashi Rudras vs Lucknow Falcons [Bhojpuri]
 https://in-mc-flive.fancode.com/mumbai/4248354_bhojpuri_hls_fa7af942e667778_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787751937~_GO=Generated~acl=/mumbai/4248354_bhojpuri_hls_fa7af942e667778_1ta-di_h264/*~Signature=ARB3KG20bKP_5NqFN1JC5g-g-9tjDSmy0ZUK3HmilT6Nrct_xT9S_3TQLLpFeo13C1i2tyn6Kjci0E1H_qzIhwZk874G
-#EXTINF:-1 tvg-id="4248515_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Rawain Royals vs Baragaddi Kings [English]
-https://in-mc-flive.fancode.com/mumbai/4248515_english_hls_3c390b0e0028871_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787746471~_GO=Generated~acl=/mumbai/4248515_english_hls_3c390b0e0028871_1ta-di_h264/*~Signature=ARB3KG1rnuR0rZebxK4wxzxDvaTnI33obFWkOluKVyjdfhxv8vUooiXRqy_609aVt9aMiQyXyBKlQwog_-ifgSJuLcgE
 #EXTINF:-1 tvg-id="4248277_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248277_53025_ABC_AKH_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Abha vs Al Khaleej FC [English]
 https://in-mc-flive.fancode.com/mumbai/4248277_english_hls_8a4acdd26847016_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787759855~_GO=Generated~acl=/mumbai/4248277_english_hls_8a4acdd26847016_1ta-di_h264/*~Signature=ARB3KG3tp1UXBakS5BvDKeMFGq0GnvErYt_09I2NIOQ4feh_83SN6p4e5uwRbNYF6BGV8nLSDojxbMXsrWMweMOrt5AP
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022867/1787641635206448_JPL26_ROYALS_HYDERABAD_vs_MUMBAI_SOBO_STARS_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Royals Hyderabad vs Mumbai Sobo Stars - 25 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787718405~acl=/*~id=76939230871479526220642450008504~hmac=368d0ddc50215b179ebaa8d5f6f8631fa863bea517a215482e4722d5d47481e5
+https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787720846~acl=/*~id=58081820795993885695052821899569~hmac=786a938ae2c57b6c68f8024788501512034c911c3faf65a32e03e6ea3b87b42c
 
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
@@ -7644,6 +7642,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="11889" tvg-name="Abha vs Al-Khaleej | FANCODE - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abha vs Al-Khaleej | FANCODE - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
 #EXTINF:-1 tvg-id="11889" tvg-name="Abha vs Al-Khaleej | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abha vs Al-Khaleej | CRICFy LIVE
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.online909.com/
 https://live.vivo200.com/live/sd-1-4599560.m3u8?txSecret=5f3f922ce3ec4f6e9a63d7e6ea1500da&txTime=6A8DCC54
@@ -7651,6 +7655,17 @@ https://live.vivo200.com/live/sd-1-4599560.m3u8?txSecret=5f3f922ce3ec4f6e9a63d7e
 #EXTINF:-1 tvg-id="11889" tvg-name="Abha vs Al-Khaleej | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abha vs Al-Khaleej | LOW SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.41/hls/DGPPPAA.m3u8?
+
+#EXTINF:-1 tvg-id="11890" tvg-name="Al-Taawoun vs Al-Fayha | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Taawoun vs Al-Fayha | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.online909.com/
+https://live.vivo200.com/live/sd-1-4599561.m3u8?txSecret=a2bd86fa4a520e3bc34ad7f063ae8b40&txTime=6A8DCC84
+
+#EXTINF:-1 tvg-id="11890" tvg-name="Al-Taawoun vs Al-Fayha | HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Taawoun vs Al-Fayha | HD SERVER
+https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8
+
+#EXTINF:-1 tvg-id="11890" tvg-name="Al-Taawoun vs Al-Fayha | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Taawoun vs Al-Fayha | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/DGPPPAAA.m3u8?
 
 #EXTINF:-1 tvg-id="1089" tvg-name="Smack Down | CRICFy LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="🔵 LIVE | WORLDWIDE EVENTS",Smack Down | CRICFy LIVE
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
@@ -7900,14 +7915,6 @@ https://edgestream2.pro/hls/sqdahach1ax.m3u8
 #EXTINF:-1 tvg-id="11888" tvg-name="Real Madrid vs Real Sociedad |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Real Madrid vs Real Sociedad |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="11890" tvg-name="Al-Taawoun vs Al-Fayha | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Taawoun vs Al-Fayha | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.online909.com/
-https://live.vivo200.com/live/sd-1-4599561.m3u8?txSecret=a2bd86fa4a520e3bc34ad7f063ae8b40&txTime=6A8DCC84
-
-#EXTINF:-1 tvg-id="11890" tvg-name="Al-Taawoun vs Al-Fayha | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Taawoun vs Al-Fayha | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.41/hls/DGPPPAAA.m3u8?
-
 #EXTINF:-1 tvg-id="11891" tvg-name="Al-Shabab vs Al-Riyadh |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Shabab vs Al-Riyadh |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
@@ -8111,7 +8118,7 @@ https://edgestream2.pro/hls/dazhfiach15.m3u8
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:32 PM 25-08-2026
+#LAST_UPDATE:11:02 PM 25-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
