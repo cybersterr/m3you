@@ -7483,13 +7483,6 @@ https://in-mc-flive.fancode.com/mumbai/4248503_english_hls_c82f9499c819112_1ta-d
 #EXTINF:-1 tvg-id="4248152_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4248152_english_hls_9b97d8377551599_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787766550~_GO=Generated~acl=/mumbai/4248152_english_hls_9b97d8377551599_1ta-di_h264/*~Signature=ARB3KG0pcJEA55xTLGA1M6zqtIIH2rziM9bVMB-dSaYlXddAgSD7KHNhOb9SVz09rS3ohM1NHr9-jNE3OiIoujXZ_D8K
 
-# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022595/1787037914304926_UCL_26_Play-offs-Leg2_Lask-vs-Celtic_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",LASK vs Celtic- Play-offs - Leg 2 - 26 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000295/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787730008~acl=/*~id=24881640884276659751061983667984~hmac=561140a9c4a344be211fa6e39e5917a9b6542fc81f94d74585d4744194dfb5d6
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022855/1787636422132922_UCL_26_Play-offs-Leg2_Bodo-Glimt-vs-NEC_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Bodo/Glimt  vs N.E.C. - Play-offs - Leg 2 - 26 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787730008~acl=/*~id=24881640884276659751061983667984~hmac=561140a9c4a344be211fa6e39e5917a9b6542fc81f94d74585d4744194dfb5d6
-
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
 #EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS",📢 OFFICIAL ANNOUNCEMENT - @rtxcric
@@ -8216,7 +8209,7 @@ http://193.47.62.49/hls/ZSZSZSX.m3u8
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:32 AM 26-08-2026
+#LAST_UPDATE:02:02 AM 26-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
