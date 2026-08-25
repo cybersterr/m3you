@@ -7470,13 +7470,17 @@ https://in-mc-flive.fancode.com/mumbai/4248354_hindi_hls_add508635c1531_1ta-di_h
 https://in-mc-flive.fancode.com/mumbai/4248354_bhojpuri_hls_fa7af942e667778_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787751937~_GO=Generated~acl=/mumbai/4248354_bhojpuri_hls_fa7af942e667778_1ta-di_h264/*~Signature=ARB3KG20bKP_5NqFN1JC5g-g-9tjDSmy0ZUK3HmilT6Nrct_xT9S_3TQLLpFeo13C1i2tyn6Kjci0E1H_qzIhwZk874G
 #EXTINF:-1 tvg-id="4248277_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248277_53025_ABC_AKH_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Abha vs Al Khaleej FC [English]
 https://in-mc-flive.fancode.com/mumbai/4248277_english_hls_8a4acdd26847016_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787759855~_GO=Generated~acl=/mumbai/4248277_english_hls_8a4acdd26847016_1ta-di_h264/*~Signature=ARB3KG3tp1UXBakS5BvDKeMFGq0GnvErYt_09I2NIOQ4feh_83SN6p4e5uwRbNYF6BGV8nLSDojxbMXsrWMweMOrt5AP
+#EXTINF:-1 tvg-id="4248278_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248278_53025_ETT_ANF_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Al-Ettifaq vs Al-Nassr FC [English]
+https://in-mc-flive.fancode.com/mumbai/4248278_english_hls_69bf822e2980299_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787766548~_GO=Generated~acl=/mumbai/4248278_english_hls_69bf822e2980299_1ta-di_h264/*~Signature=ARB3KG1y8MIs4FgKXRIfbtOSA_6aSZ6I75iG42Vx2er7AQvf1lmm90o1L1-GV1XX2MyQVPp03FfnzE3l9lgY4iVioGYA
+#EXTINF:-1 tvg-id="4248152_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4248152_english_hls_9b97d8377551599_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787766550~_GO=Generated~acl=/mumbai/4248152_english_hls_9b97d8377551599_1ta-di_h264/*~Signature=ARB3KG0pcJEA55xTLGA1M6zqtIIH2rziM9bVMB-dSaYlXddAgSD7KHNhOb9SVz09rS3ohM1NHr9-jNE3OiIoujXZ_D8K
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022867/1787641635206448_JPL26_ROYALS_HYDERABAD_vs_MUMBAI_SOBO_STARS_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Royals Hyderabad vs Mumbai Sobo Stars - 25 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/criclive2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787722674~acl=/*~id=95794532097791040171717555776411~hmac=c37c59e2a02e7538100c6e723afbd4fc2b7c810f4ca575b8ec370746f394b8c0
+https://sonydaimenew.akamaized.net/hls/live/20000293/criclive2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787724511~acl=/*~id=60745023129868244341117981971366~hmac=27ccaea991e6676800106af40f45369ac3c402b10fb6e898268fcdecf351e2b5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022595/1787036925019926_UCL_26_Play-offs-Leg2_Sabah-vs-H-Beer-Sheva_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sabah vs H Beer-Sheva - Play-offs - Leg 2 - 25 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787722674~acl=/*~id=95794532097791040171717555776411~hmac=c37c59e2a02e7538100c6e723afbd4fc2b7c810f4ca575b8ec370746f394b8c0
+https://sonydaimenew.akamaized.net/hls/live/20000292/UCL_matc2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787724511~acl=/*~id=60745023129868244341117981971366~hmac=27ccaea991e6676800106af40f45369ac3c402b10fb6e898268fcdecf351e2b5
 
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
@@ -7917,8 +7921,9 @@ https://edgestream2.pro/hls/sqdahach1ax.m3u8
 #EXTINF:-1 tvg-id="11888" tvg-name="Real Madrid vs Real Sociedad |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Real Madrid vs Real Sociedad |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="11891" tvg-name="Al-Shabab vs Al-Riyadh |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Shabab vs Al-Riyadh |
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="11891" tvg-name="Al-Shabab vs Al-Riyadh | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Shabab vs Al-Riyadh | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/FUUUZAAA.m3u8?
 
 #EXTINF:-1 tvg-id="11892" tvg-name="Al-Ettifaq vs Al-Nassr | FOX SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ettifaq vs Al-Nassr | FOX SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7937,6 +7942,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="11892" tvg-name="Al-Ettifaq vs Al-Nassr | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ettifaq vs Al-Nassr | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/55190/load-playlist?
+
+#EXTINF:-1 tvg-id="11892" tvg-name="Al-Ettifaq vs Al-Nassr | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ettifaq vs Al-Nassr | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/FUUUZAA.m3u8?
 
 #EXTINF:-1 tvg-id="11903" tvg-name="European T20 Premier League |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",European T20 Premier League |
 ok
@@ -7980,8 +7993,13 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1
 #EXTINF:-1 tvg-id="11907" tvg-name="Vietnam vs Thailand |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Vietnam vs Thailand |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="11908" tvg-name="Cardiff City vs Norwich City |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Cardiff City vs Norwich City |
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="11908" tvg-name="Cardiff City vs Norwich City | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Cardiff City vs Norwich City | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/55175/load-playlist?
+
+#EXTINF:-1 tvg-id="11908" tvg-name="Cardiff City vs Norwich City | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Cardiff City vs Norwich City | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.58/hls/GAGAGA.m3u8?
 
 #EXTINF:-1 tvg-id="11909" tvg-name="Doncaster Rovers vs Middlesbrough |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Doncaster Rovers vs Middlesbrough |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -8120,7 +8138,7 @@ https://edgestream2.pro/hls/dazhfiach15.m3u8
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:32 PM 25-08-2026
+#LAST_UPDATE:12:02 AM 26-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
