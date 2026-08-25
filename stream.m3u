@@ -7621,6 +7621,18 @@ http://stopped.server/stream70.m3u8
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
+#EXTINF:-1 tvg-id="11925" tvg-name="Miami Marlins vs Boston Red Sox | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Miami Marlins vs Boston Red Sox | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/dazhfiach15.m3u8
+
+#EXTINF:-1 tvg-id="11926" tvg-name="Detroit Tigers vs Tampa Bay Rays | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Detroit Tigers vs Tampa Bay Rays | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8
+
+#EXTINF:-1 tvg-id="11927" tvg-name="Washington Nationals vs Colorado Rockies | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Washington Nationals vs Colorado Rockies | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8
+
 #EXTINF:-1 tvg-id="1089" tvg-name="Smack Down | CRICFy LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="🔵 LIVE | WORLDWIDE EVENTS",Smack Down | CRICFy LIVE
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/54963/load-playlist?
@@ -7886,18 +7898,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1
 
 #EXTINF:-1 tvg-id="11907" tvg-name="Vietnam vs Thailand |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Vietnam vs Thailand |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="11925" tvg-name="Miami Marlins vs Boston Red Sox | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Miami Marlins vs Boston Red Sox | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/dazhfiach15.m3u8
-
-#EXTINF:-1 tvg-id="11926" tvg-name="Detroit Tigers vs Tampa Bay Rays | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Detroit Tigers vs Tampa Bay Rays | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8
-
-#EXTINF:-1 tvg-id="11927" tvg-name="Washington Nationals vs Colorado Rockies | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Washington Nationals vs Colorado Rockies | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8
 
 #EXTINF:-1 tvg-id="11928" tvg-name="New York Yankees vs Houston Astros | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",New York Yankees vs Houston Astros | HD QUALITY
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
@@ -8193,7 +8193,7 @@ http://193.47.62.50/hls/GTGTGTQQQQQ.m3u8?
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:32 AM 26-08-2026
+#LAST_UPDATE:05:02 AM 26-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -8204,7 +8204,7 @@ http://193.47.62.50/hls/GTGTGTQQQQQ.m3u8?
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57df6a4c7b2f3d79491836b1cb164376:d23efbd1cff9e0c5f4d7d8329a16460c
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ympwnwu3du/out/v1/72c7db6ec94b4d3097f546ba657f2e01/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ympwnwu3du/out/v1/72c7db6ec94b4d3097f546ba657f2e01/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
