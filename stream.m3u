@@ -1607,8 +1607,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTINF:-1 tvg-id="2" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=272d2bcff8430174fdd5aaf6f93abb6b
-#EXTHTTP:{"Cookie":"hdnea=st=1787711857~exp=1787715457~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=b2edbc6a7743af1fa9bdc857cf8953774f91d181c8b949848b7a533e17cb5463","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787711857~exp=1787715457~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=b2edbc6a7743af1fa9bdc857cf8953774f91d181c8b949848b7a533e17cb5463
+#EXTHTTP:{"Cookie":"hdnea=st=1787715377~exp=1787718977~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=aedd7e229d00afba6a2d753daf8ffbb83da66abe0444baf87c08ef03d64bbec5","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787715377~exp=1787718977~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=aedd7e229d00afba6a2d753daf8ffbb83da66abe0444baf87c08ef03d64bbec5
 #EXTINF:-1 tvg-id="3" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=058dec845bd340178a388edd104a015e
@@ -1627,8 +1627,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdne
 #EXTINF:-1 tvg-id="6" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6befde8b90b6926423cc83775b8dcb59
-#EXTHTTP:{"Cookie":"hdnea=st=1787711858~exp=1787715458~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=c0d89a9718d4d052e194eee67ef774fab29c75b3fdaacf133d0b8ade4a7a3fc5","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787711858~exp=1787715458~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=c0d89a9718d4d052e194eee67ef774fab29c75b3fdaacf133d0b8ade4a7a3fc5
+#EXTHTTP:{"Cookie":"hdnea=st=1787715378~exp=1787718978~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=ef95590820a02063520740e7cc1480ec31526f61a9b0c9b5f4f0147661402289","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787715378~exp=1787718978~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=ef95590820a02063520740e7cc1480ec31526f61a9b0c9b5f4f0147661402289
 #EXTINF:-1 tvg-id="7" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3b38db5542719e8e10008e9193089e6
@@ -1642,8 +1642,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNTelugu_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTINF:-1 tvg-id="9" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4215cd7cf5915d1c4f704137ad211f45
-#EXTHTTP:{"Cookie":"hdnea=st=1787711859~exp=1787715459~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=fc77e1eddad07d6cb626a61bfa6d40036bfeafe29804a8870035de0a7f2d0047","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787711859~exp=1787715459~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=fc77e1eddad07d6cb626a61bfa6d40036bfeafe29804a8870035de0a7f2d0047
+#EXTHTTP:{"Cookie":"hdnea=st=1787715378~exp=1787718978~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=743780e27f6063918b5bb72ac69fa3cd47e9a9d54faae2f107dbf60d5e52f12a","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787715378~exp=1787718978~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=743780e27f6063918b5bb72ac69fa3cd47e9a9d54faae2f107dbf60d5e52f12a
 #EXTINF:-1 tvg-id="10" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81941582803cabe21a8b080189089004
@@ -1887,8 +1887,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeYuva_MOB/WDVLive/index.mpd?__hdnea__=s
 #EXTINF:-1 tvg-id="58" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",58
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a834101c520ab2af65add91e5e9a2b61
-#EXTHTTP:{"Cookie":"hdnea=st=1787711861~exp=1787715461~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=ad26222a60e0768a7f8d1be7bce15c97a0797f3a07297ba2281045cea45c2229","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1787711861~exp=1787715461~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=ad26222a60e0768a7f8d1be7bce15c97a0797f3a07297ba2281045cea45c2229
+#EXTHTTP:{"Cookie":"hdnea=st=1787715380~exp=1787718980~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=f4b2c1bed457d29630505e373d57204eae8f2ff7bc04a3ab79520cc1c14abb7a","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1787715380~exp=1787718980~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=f4b2c1bed457d29630505e373d57204eae8f2ff7bc04a3ab79520cc1c14abb7a
 #EXTINF:-1 tvg-id="59" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",59
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e4eef5502a6da48b91894c33310ea93
@@ -1982,8 +1982,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTINF:-1 tvg-id="77" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",77
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91a7ebf70d1fd76f59b9970c9525dad7
-#EXTHTTP:{"Cookie":"hdnea=st=1787710147~exp=1787713747~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=6d2412f2c263ccdb56b20cd467e6f0d29b42e6923e4a4864e643d0263c5d1849","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787710147~exp=1787713747~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=6d2412f2c263ccdb56b20cd467e6f0d29b42e6923e4a4864e643d0263c5d1849
+#EXTHTTP:{"Cookie":"hdnea=st=1787713699~exp=1787717299~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=913b7888326f7ad894bf385f2aa07c2e84c2f10b11fd5060a6b726da2aae2706","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787713699~exp=1787717299~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=913b7888326f7ad894bf385f2aa07c2e84c2f10b11fd5060a6b726da2aae2706
 #EXTINF:-1 tvg-id="78" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",78
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=227a41f602baeac002e6cdc46c000e19
@@ -2292,8 +2292,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Food_Food_MOB/WDVLive/index.mpd?__hdnea__
 #EXTINF:-1 tvg-id="139" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",139
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=939685a7d928a4e9444ec4c47309703c
-#EXTHTTP:{"Cookie":"hdnea=st=1787711868~exp=1787715468~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=7fa7340a9c94b0a95e0ef2f1be035316616ddf7f308a2310b08d3f0e56902e17","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1787711868~exp=1787715468~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=7fa7340a9c94b0a95e0ef2f1be035316616ddf7f308a2310b08d3f0e56902e17
+#EXTHTTP:{"Cookie":"hdnea=st=1787715387~exp=1787718987~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=a39c3dceb858fa9e0fd30994aace1542665c4fb157244a749baedbe96c288b4f","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1787715387~exp=1787718987~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=a39c3dceb858fa9e0fd30994aace1542665c4fb157244a749baedbe96c288b4f
 #EXTINF:-1 tvg-id="140" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",140
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb302b5c4c15bfc3b4571859865a813b
@@ -3242,8 +3242,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNTamil_MOB/WDVLive/index.mpd?__hdnea__=s
 #EXTINF:-1 tvg-id="329" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",329
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=442690c7c5852ca7c63b63d483ab6bc3
-#EXTHTTP:{"Cookie":"hdnea=st=1787711484~exp=1787715084~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=d94830bd23c4a4a453bb119dea37aae417f3777e4e1f8c4ad312d33a76fbdf92","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1787711484~exp=1787715084~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=d94830bd23c4a4a453bb119dea37aae417f3777e4e1f8c4ad312d33a76fbdf92
+#EXTHTTP:{"Cookie":"hdnea=st=1787714990~exp=1787718590~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=6ce183512333a97d813ed7bc84f0967f03a560458c929263aa7b1f68cefefedf","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1787714990~exp=1787718590~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=6ce183512333a97d813ed7bc84f0967f03a560458c929263aa7b1f68cefefedf
 #EXTINF:-1 tvg-id="330" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",330
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16b6bf1201d5dcc541e099c5ff92f7eb
@@ -3932,8 +3932,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="467" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",467
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd306a57de1715b0e1256d5c1737f485
-#EXTHTTP:{"Cookie":"hdnea=st=1787691951~exp=1787713551~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=e15fed52091b7e1918567a1e2c3f4e1440aa0f9bb10710dafd80ed118972d93b","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1787691951~exp=1787713551~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=e15fed52091b7e1918567a1e2c3f4e1440aa0f9bb10710dafd80ed118972d93b
+#EXTHTTP:{"Cookie":"hdnea=st=1787713824~exp=1787735424~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=0b7348d8accf0ab2da156c7003d996ea26e327b0d521a13cc331023539dcae16","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1787713824~exp=1787735424~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=0b7348d8accf0ab2da156c7003d996ea26e327b0d521a13cc331023539dcae16
 #EXTINF:-1 tvg-id="468" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",468
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null
@@ -4302,13 +4302,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd?__hd
 #EXTINF:-1 tvg-id="541" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",541
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13e3ca891d32d158d8108007fef88388
-#EXTHTTP:{"Cookie":"hdnea=st=1787711883~exp=1787715483~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=38e48507147692d8ffd8290b84eae45e8ecdaa49914b1cd3996d8ea80ad76f03","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787711883~exp=1787715483~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=38e48507147692d8ffd8290b84eae45e8ecdaa49914b1cd3996d8ea80ad76f03
+#EXTHTTP:{"Cookie":"hdnea=st=1787715403~exp=1787719003~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=6157bd4f99877073f049043cd57798e8edcfa2d83586c2536e183ad160c307ae","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787715403~exp=1787719003~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=6157bd4f99877073f049043cd57798e8edcfa2d83586c2536e183ad160c307ae
 #EXTINF:-1 tvg-id="542" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",542
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80f4de40d7603bd8e45fe41db53f5198
-#EXTHTTP:{"Cookie":"hdnea=st=1787709795~exp=1787713395~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=84ca4d17534cef80872b5e38890ec3ff99e93648dabe0203c2e9b3f21b88086a","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787709795~exp=1787713395~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=84ca4d17534cef80872b5e38890ec3ff99e93648dabe0203c2e9b3f21b88086a
+#EXTHTTP:{"Cookie":"hdnea=st=1787713436~exp=1787717036~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=ed048b0f2e1f0f926d90f754382145ec690f537910316df784c563ec70e5c552","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787713436~exp=1787717036~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=ed048b0f2e1f0f926d90f754382145ec690f537910316df784c563ec70e5c552
 #EXTINF:-1 tvg-id="543" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",543
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ec4802fd3c2f3a87f2e3b4df9c3f310
@@ -4872,8 +4872,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd?__hdnea_
 #EXTINF:-1 tvg-id="655" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",655
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92ac70b12af7f68fd49a0578e4765ab9
-#EXTHTTP:{"Cookie":"hdnea=st=1787710695~exp=1787714295~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=f5b11bc5e6bea38268daa6305a47525574727cd8d708bcc3948d5ebcacd996d9","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787710695~exp=1787714295~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=f5b11bc5e6bea38268daa6305a47525574727cd8d708bcc3948d5ebcacd996d9
+#EXTHTTP:{"Cookie":"hdnea=st=1787714301~exp=1787717901~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=c87dc13cd33572d634050f7c130d9d36372bafdf40d1da10139680d0654037a9","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787714301~exp=1787717901~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=c87dc13cd33572d634050f7c130d9d36372bafdf40d1da10139680d0654037a9
 #EXTINF:-1 tvg-id="656" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",656
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1922fbb1ebad4a7ba0f3c77c67b34f89
@@ -6142,8 +6142,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/NDTV_Marathi_MOB/WDVLive/index.mpd?__hdne
 #EXTINF:-1 tvg-id="909" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",909
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5121c719b63f0442e423db860b8c517f
-#EXTHTTP:{"Cookie":"hdnea=st=1787710698~exp=1787714298~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=0d9d952a30207cc67198abd04bbe74fc2fe22e81fd2abc682311cb79ce633d8a","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787710698~exp=1787714298~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=0d9d952a30207cc67198abd04bbe74fc2fe22e81fd2abc682311cb79ce633d8a
+#EXTHTTP:{"Cookie":"hdnea=st=1787714303~exp=1787717903~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=6397079e7acd015539936162ddc8171dab452ebd397842bb63678805ba6d4d19","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787714303~exp=1787717903~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=6397079e7acd015539936162ddc8171dab452ebd397842bb63678805ba6d4d19
 #EXTINF:-1 tvg-id="910" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",910
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb42ae3bb74b9172e79e986b59d40085
@@ -6687,8 +6687,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd?__hdne
 #EXTINF:-1 tvg-id="1018" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1018
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null
-#EXTHTTP:{"Cookie":"hdnea=st=1787692642~exp=1787714242~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=7f7a872529c18a4745f73bb4069edd29501b041529903a14edd832f2585187ea","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1787692642~exp=1787714242~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=7f7a872529c18a4745f73bb4069edd29501b041529903a14edd832f2585187ea
+#EXTHTTP:{"Cookie":"hdnea=st=1787714426~exp=1787736026~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=ec3a2386ec51997c38288fe0fc979140384870c68cbcf964e783eea42a6f3de6","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1787714426~exp=1787736026~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=ec3a2386ec51997c38288fe0fc979140384870c68cbcf964e783eea42a6f3de6
 #EXTINF:-1 tvg-id="1019" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1019
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b85980e71af02b532054322d846b468
@@ -7460,6 +7460,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8?__hdnea__=st
 #EXTHTTP:{"Cookie":"hdnea=st=1787711544~exp=1787733144~acl=/*~hmac=ea11576e0ccdb0cf133a05cab8dbd031305f865653b48e555dc7541aa6365d0c","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__hdnea__=st=1787711544~exp=1787733144~acl=/*~hmac=ea11576e0ccdb0cf133a05cab8dbd031305f865653b48e555dc7541aa6365d0c
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="4248442_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248442_53036_ACA_HHA_fc-web_1787393618760.jpg" group-title="🔸FanCode🔸| Live Events",Adelaide Strikers Academy vs Hobart Hurricanes Academy [English]
+https://in-mc-flive.fancode.com/mumbai/4248442_english_hls_9dcd9a24b148467_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787806032~_GO=Generated~acl=/mumbai/4248442_english_hls_9dcd9a24b148467_1ta-di_h264/*~Signature=ARB3KG2bD28713XuTeVtTrmDm2wV5KFwlFPXowgL16rkcYsny88ZuyhMduYgbLRXoBMW3r67KQ8IFel7b0cCtjVFfOMC
+
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
 #EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS",📢 OFFICIAL ANNOUNCEMENT - @rtxcric
@@ -7614,27 +7619,58 @@ http://stopped.server/stream70.m3u8
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
-#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW - AQ" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW - AQ
+#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3135d0a72c3ea3170425888a64bc272:e0d6515b5400358ef79a4637ac2f8671
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i62ybobyvi/out/v1/3484fdc786484db59cb3b9c0f76e9688/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uco516bnrm/out/v1/18af9eadf25d4479b5b3238fed0b27d4/cenc.mpd
 
-#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW - ALT" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW - ALT
+#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | TNT SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | TNT SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3135d0a72c3ea3170425888a64bc272:e0d6515b5400358ef79a4637ac2f8671
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/i62ybobyvi/out/v1/3484fdc786484db59cb3b9c0f76e9688/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW HD" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW HD
+#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | WILLOW - ALT" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | WILLOW - ALT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uco516bnrm/out/v1/18af9eadf25d4479b5b3238fed0b27d4/cenc.mpd
 
-#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | FANCODE - IN" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | FANCODE - IN
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-https://dai-fancode.pages.dev/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | TAPMAD - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | TAPMAD - AQ
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | FOX CRICKET HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | FOX CRICKET HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+
+#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | TEN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | TEN SPORTS HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
+
+#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - English" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - English
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
+https://sonymtmnew.akamaized.net/hls/live/2043696/cricodi2608/ENG/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a
+
+#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - Hindi" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - Hindi
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
+https://sonymtmnew.akamaized.net/hls/live/2105080/cricodi2608/HIN/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a
+
+#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - Telugu" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - Telugu
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
+https://sonymtmnew.akamaized.net/hls/live/2105079/cricodi2608/TEL/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a
+
+#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - Tamil" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - Tamil
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
+https://sonymtmnew.akamaized.net/hls/live/2094590/cricodi2608/TAM/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a
+
+#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - Kannada" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - Kannada
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
+https://sonymtmnew.akamaized.net/hls/live/2037143/cricodi2608/KAN/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a
+
+#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.59/hls/IGGGAAaA.m3u8?
 
 #EXTINF:-1 tvg-id="11933" tvg-name="Los Angeles Angels vs Cleveland Guardians | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Los Angeles Angels vs Cleveland Guardians | HD QUALITY
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
@@ -7760,59 +7796,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 https://dai-fancode.pages.dev/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | WILLOW - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3448cef71b3ff74e7ccf1ceb639320cb:e096d49c986fe62f713fcb489bbf8d91
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qc3g1qukb/out/v1/0c2c7c41bdd54fcc9cc086a83b28e5f5/cenc.mpd
-
-#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | TNT SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | TNT SPORTS - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | WILLOW - ALT" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | WILLOW - ALT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3448cef71b3ff74e7ccf1ceb639320cb:e096d49c986fe62f713fcb489bbf8d91
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5qc3g1qukb/out/v1/0c2c7c41bdd54fcc9cc086a83b28e5f5/cenc.mpd
-
-#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | TAPMAD - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | TAPMAD - AQ
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | FOX CRICKET HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | FOX CRICKET HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-
-#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | TEN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | TEN SPORTS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
-
-#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - English" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - English
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2508/ENG/master.m3u8
-
-#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - Hindi" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - Hindi
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2508/HIN/master.m3u8
-
-#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - Telugu" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - Telugu
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2508/TEL/master.m3u8
-
-#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - Tamil" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - Tamil
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2508/TAM/master.m3u8
-
-#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | SonyLiv - Kannada" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | SonyLiv - Kannada
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
-https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2508/KAN/master.m3u8
-
-#EXTINF:-1 tvg-id="11462" tvg-name="Sri Lanka vs India | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka vs India | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-http://193.47.62.44/hls/ZEZEZE.m3u8?
-
 #EXTINF:-1 tvg-id="11560" tvg-name="England vs Pakistan | WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",England vs Pakistan | WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7853,6 +7836,22 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2108/ENG/master
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.194/hls/QQQQ.m3u8?
 
+#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW - AQ" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1490ba3f3331b1e7fea0dfbd1790bdd5:92acc11924510236bf2b78041dd68058
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vbp4lxv0zh/out/v1/156797e66b2046538c4b5f2186b7d711/cenc.mpd
+
+#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | WILLOW HD" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | WILLOW HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-id="11695" tvg-name="Top End T20 Series | FANCODE - IN" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="🔵 LIVE | WORLDWIDE EVENTS",Top End T20 Series | FANCODE - IN
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-id="11696" tvg-name="Thailand Women vs Hong Kong C. |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Thailand Women vs Hong Kong C. |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
@@ -7866,6 +7865,36 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 ok
 
 #EXTINF:-1 tvg-id="11907" tvg-name="Vietnam vs Thailand |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Vietnam vs Thailand |
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="11940" tvg-name="Al Faisaly vs Al-Fateh |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al Faisaly vs Al-Fateh |
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="11941" tvg-name="Al Diriyah vs Al-Kholood |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al Diriyah vs Al-Kholood |
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="11942" tvg-name="Vasco da Gama vs Vitoria |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/373/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Vasco da Gama vs Vitoria |
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="11943" tvg-name="Palmeiras vs Santos |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/373/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Palmeiras vs Santos |
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="11944" tvg-name="River Plate vs Independiente Santa Fe |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",River Plate vs Independiente Santa Fe |
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="11945" tvg-name="Bradford City vs Burnley |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bradford City vs Burnley |
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="11946" tvg-name="Newcastle United vs West Bromwich Albion |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Newcastle United vs West Bromwich Albion |
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="11947" tvg-name="Tottenham Hotspur vs Charlton Athletic |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Tottenham Hotspur vs Charlton Athletic |
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="11948" tvg-name="Preston North End vs Everton |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Preston North End vs Everton |
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="11949" tvg-name="Al-Ahli vs Auckland FC |" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23674/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ahli vs Auckland FC |
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 #EXTINF:-1 tvg-id="1090" tvg-name="WWE Raw | CRICFy LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="🔵 LIVE | WORLDWIDE EVENTS",WWE Raw | CRICFy LIVE
@@ -7884,25 +7913,25 @@ http://193.47.62.49/hls/ZSZSZSX.m3u8
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:32 AM 26-08-2026
+#LAST_UPDATE:10:32 AM 26-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
 #UPCOMING_COUNT:18
 
-#EXTINF:-1 tvg-id="B0HFCSWQLG" tvg-name="Top End T20 Series 2026 - 16th Match - New Zealand A vs Victoria" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.57e2da55-c27b-487d-b896-00dedc67bcbb/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 16th Match - New Zealand A vs Victoria
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1490ba3f3331b1e7fea0dfbd1790bdd5:92acc11924510236bf2b78041dd68058
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vbp4lxv0zh/out/v1/156797e66b2046538c4b5f2186b7d711/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
+#EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/19klshmltr/out/v1/194eed055f2e4e6c8ff8159d82579bbc/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/19klshmltr/out/v1/194eed055f2e4e6c8ff8159d82579bbc/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HFWMGPTF" tvg-name="Top End T20 Series 2026 - 17th Match - Hobart Hurricanes vs Adelaide Strikers Academy" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a51f56fe-8144-46d7-a39f-16f0a0f69bcd/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 17th Match - Hobart Hurricanes vs Adelaide Strikers Academy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e05176f9bbc9a3e05dcae9046059df1:cb913ff6959971a81e60d0438aaa6590
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tbeumofljq/out/v1/903ec09cb3a94af58e0b7d3e167d9c10/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
