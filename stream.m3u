@@ -6654,165 +6654,74 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="4249118_HIN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249118_53065_FAF_AMS_fc-web_1788345784081.jpg" group-title="🔸FanCode🔸| Live Events",Fazilka Falcons vs Amritsar Soormas [Hindi]
+https://in-mc-flive.fancode.com/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788440752~_GO=Generated~acl=/mumbai/4249118_hindi_hls_9d1d73f8a332252_1ta-di_h264/*~Signature=AfPHOv1Ib0x7Q9p9m3DPeLuJKVoD-6c-8Zomu7uYLMCXaQXKUnFqq4qV2GQxJeq7WtG5eqJoVRDxbnpXLRQdGyK0S-oA
+#EXTINF:-1 tvg-id="4249118_PUN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249118_53065_FAF_AMS_fc-web_1788345784081.jpg" group-title="🔸FanCode🔸| Live Events",Fazilka Falcons vs Amritsar Soormas [Punjabi]
+https://in-mc-flive.fancode.com/mumbai/4249118_punjabi_hls_f027b96d4d19253_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788440753~_GO=Generated~acl=/mumbai/4249118_punjabi_hls_f027b96d4d19253_1ta-di_h264/*~Signature=AfPHOv39U-RI28mhJtFHTPSia5pV6bu4F3MzactkYjbw2DdWQt1RYauzBlFkT3K5NEKQermXf_T5ZL1jcZY8IkfQ0C8L
+#EXTINF:-1 tvg-id="4248669_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248669_53052_MAT_ROS_fc-Web.jpg" group-title="🔸FanCode🔸| Live Events",Majees Titans vs Royal Oman Stallions [English]
+https://in-mc-flive.fancode.com/mumbai/4248669_english_hls_d3f513cab78873_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788435896~_GO=Generated~acl=/mumbai/4248669_english_hls_d3f513cab78873_1ta-di_h264/*~Signature=AfPHOv3pBiPYFVFnnvFxg0wLFP7frhJssTqj5mLDjnS_GJEFyBFKyI4MjXGxshLoH1KAwzp6cSeYP4-61puywbKArUUB
+#EXTINF:-1 tvg-id="4249063_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249063_53058_RD_HKR_fc-Web_fc-webtvbg.jpg" group-title="🔸FanCode🔸| Live Events",Rishikesh Dragons vs Herbertpur Knight Riders [English]
+https://in-mc-flive.fancode.com/mumbai/4249063_english_hls_8a490b07a618287_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788443186~_GO=Generated~acl=/mumbai/4249063_english_hls_8a490b07a618287_1ta-di_h264/*~Signature=AfPHOv3caXsyzsABr-mDKiY2K52dO8Q0DUgL6CZ11yhX8nvhZ8GokY1LkKxTzthF-fdGBo05CPs3WVdRh3cUGq7O-s4E
+#EXTINF:-1 tvg-id="4247563_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247563_53003_NDS-W_SDS-W_FC-Web.png" group-title="🔸FanCode🔸| Live Events",South Delhi Superstarz Women vs North Delhi Strikers Women [English]
+https://in-mc-flive.fancode.com/mumbai/4247563_english_hls_706b7f52a243486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788441362~_GO=Generated~acl=/mumbai/4247563_english_hls_706b7f52a243486_1ta-di_h264/*~Signature=AfPHOv3Bk5JouFPCB4VYtOI5KJ-S1XPM4LaApOU5SR8xKRisAbVvrUWyv5j9Q_K9XdT9DXERY4c_h10fMiK7uOI7EKIL
+
+# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023315/1788262585103414_ACW26_SL_vs_Indo_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788403202~acl=/*~id=46803504265950390891769555643508~hmac=31d0c5f0eab9732534191b6bba38603cf519b3b6aa8354529c9b5fb17a5f91df
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023315/1788262585103414_ACW26_SL_vs_Indo_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788403202~acl=/*~id=46803504265950390891769555643508~hmac=31d0c5f0eab9732534191b6bba38603cf519b3b6aa8354529c9b5fb17a5f91df
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023315/1788262585103414_ACW26_SL_vs_Indo_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788403202~acl=/*~id=46803504265950390891769555643508~hmac=31d0c5f0eab9732534191b6bba38603cf519b3b6aa8354529c9b5fb17a5f91df
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023315/1788262585103414_ACW26_SL_vs_Indo_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788403202~acl=/*~id=46803504265950390891769555643508~hmac=31d0c5f0eab9732534191b6bba38603cf519b3b6aa8354529c9b5fb17a5f91df
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023315/1788262585103414_ACW26_SL_vs_Indo_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788403202~acl=/*~id=46803504265950390891769555643508~hmac=31d0c5f0eab9732534191b6bba38603cf519b3b6aa8354529c9b5fb17a5f91df
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023363/1788338226315960_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788403202~acl=/*~id=46803504265950390891769555643508~hmac=31d0c5f0eab9732534191b6bba38603cf519b3b6aa8354529c9b5fb17a5f91df
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023363/1788338226315960_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788403202~acl=/*~id=46803504265950390891769555643508~hmac=31d0c5f0eab9732534191b6bba38603cf519b3b6aa8354529c9b5fb17a5f91df
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023305/1788253435543955_JPL_26_Mumbai-Kings-vs-Pune-Peshwas_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Mumbai Kings vs Pune Peshwas - 2 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788403202~acl=/*~id=46803504265950390891769555643508~hmac=31d0c5f0eab9732534191b6bba38603cf519b3b6aa8354529c9b5fb17a5f91df
+
 # ---------------=== 🔴 LIVE | JSTAR LIVE EVENTS ===-------------------
 
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS",📢 OFFICIAL ANNOUNCEMENT - @rtxcric
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS",🔴 FOR NOW, LIVE EVENTS PLAYLIST HAS BEEN STOPPED.
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS",⚠️ I STOPPED IT BECAUSE WEBSITES & APPS ARE USING MY PLAYLISTS WITHOUT CREDIT.
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS",⚡ THIS IS CAUSING TOO MUCH LOAD ON MY SERVER. THAT IS WHY I AM STOPPING.
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS",🟢 SOON I WILL LAUNCH A NEW LIVE EVENTS PLAYLIST WITH A NEW METHOD.
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS",👍 STAY TUNED! - @rtxcric
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS",-------------------------------------------
+# Playlist generated by Hotstar Extractor
+# Playlist Created By @rtxcric
+# Mode: NORMAL FHD 30 MINUTES AUTO-UPDATE
+# Generated: 2026-09-02 05:28:30 PM
 
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - For now,
-http://stopped.server/stream01.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - the Live
-http://stopped.server/stream02.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - Events Playlist
-http://stopped.server/stream03.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - have been
-http://stopped.server/stream04.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - stopped. I
-http://stopped.server/stream05.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - have stopped
-http://stopped.server/stream06.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - the playlist
-http://stopped.server/stream07.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - because some
-http://stopped.server/stream08.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - websites and
-http://stopped.server/stream09.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - apps are
-http://stopped.server/stream10.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - using my
-http://stopped.server/stream11.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - playlists, which
-http://stopped.server/stream12.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - is without
-http://stopped.server/stream13.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - credit also
-http://stopped.server/stream14.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - putting too
-http://stopped.server/stream15.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - much load
-http://stopped.server/stream16.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - on my
-http://stopped.server/stream17.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - server. That
-http://stopped.server/stream18.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - is why
-http://stopped.server/stream19.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - I am
-http://stopped.server/stream20.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - stopping. Soon
-http://stopped.server/stream21.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - I will
-http://stopped.server/stream22.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - launch a
-http://stopped.server/stream23.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - new Live
-http://stopped.server/stream24.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - Events Playlist
-http://stopped.server/stream25.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - with a
-http://stopped.server/stream26.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - new method.
-http://stopped.server/stream27.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - Stay tuned.
-http://stopped.server/stream28.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric
-http://stopped.server/stream29.m3u8
-
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH30
-http://stopped.server/stream30.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH31
-http://stopped.server/stream31.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH32
-http://stopped.server/stream32.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH33
-http://stopped.server/stream33.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH34
-http://stopped.server/stream34.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH35
-http://stopped.server/stream35.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH36
-http://stopped.server/stream36.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH37
-http://stopped.server/stream37.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH38
-http://stopped.server/stream38.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH39
-http://stopped.server/stream39.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH40
-http://stopped.server/stream40.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH41
-http://stopped.server/stream41.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH42
-http://stopped.server/stream42.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH43
-http://stopped.server/stream43.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH44
-http://stopped.server/stream44.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH45
-http://stopped.server/stream45.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH46
-http://stopped.server/stream46.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH47
-http://stopped.server/stream47.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH48
-http://stopped.server/stream48.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH49
-http://stopped.server/stream49.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH50
-http://stopped.server/stream50.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH51
-http://stopped.server/stream51.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH52
-http://stopped.server/stream52.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH53
-http://stopped.server/stream53.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH54
-http://stopped.server/stream54.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH55
-http://stopped.server/stream55.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH56
-http://stopped.server/stream56.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH57
-http://stopped.server/stream57.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH58
-http://stopped.server/stream58.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH59
-http://stopped.server/stream59.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH60
-http://stopped.server/stream60.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH61
-http://stopped.server/stream61.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH62
-http://stopped.server/stream62.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH63
-http://stopped.server/stream63.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH64
-http://stopped.server/stream64.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH65
-http://stopped.server/stream65.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH66
-http://stopped.server/stream66.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH67
-http://stopped.server/stream67.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH68
-http://stopped.server/stream68.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH69
-http://stopped.server/stream69.m3u8
-#EXTINF:-1 group-title="🔴 LIVE | JSTAR LIVE EVENTS" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH70
-http://stopped.server/stream70.m3u8
+#EXTINF:-1 tvg-id="3899782524" tvg-name="Dublin Guardians vs Rotterdam Dockers" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/3582/1788342673582-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788352110~acl=/hls/live/2123198/inallow-european-2026/eng/1540077331/15mindvrm01182901857301497f932f28499874a6d602september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0JaUhtcVFXLyy1UdfkVmngGLAAOx0i1rSILN9pkV91Hk-did=WTwX6UiupkvvTOsAp6QjUxwtl3W51i83Q4ZUfDr5VNi7-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=25.05.16.4-ut=paid-ttl=1800-type=paid-raf=1788350910-~hmac=482c3b453fa8535f759e9d14cd1452b5b255df9bae2f36c0201600a8a644c167"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1788352110~acl=/hls/live/2123198/inallow-european-2026/eng/1540077331/15mindvrm01182901857301497f932f28499874a6d602september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0JaUhtcVFXLyy1UdfkVmngGLAAOx0i1rSILN9pkV91Hk-did=WTwX6UiupkvvTOsAp6QjUxwtl3W51i83Q4ZUfDr5VNi7-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=25.05.16.4-ut=paid-ttl=1800-type=paid-raf=1788350910-~hmac=482c3b453fa8535f759e9d14cd1452b5b255df9bae2f36c0201600a8a644c167
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
+https://live15p.hotstar.com/hls/live/2123198/inallow-european-2026/eng/1540077331/15mindvrm01182901857301497f932f28499874a6d602september2026/master_ap.m3u8?a=ns&hdnea=exp=1788352110~acl=/hls/live/2123198/inallow-european-2026/eng/1540077331/15mindvrm01182901857301497f932f28499874a6d602september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0JaUhtcVFXLyy1UdfkVmngGLAAOx0i1rSILN9pkV91Hk-did=WTwX6UiupkvvTOsAp6QjUxwtl3W51i83Q4ZUfDr5VNi7-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=25.05.16.4-ut=paid-ttl=1800-type=paid-raf=1788350910-~hmac=482c3b453fa8535f759e9d14cd1452b5b255df9bae2f36c0201600a8a644c167
+#EXTINF:-1 tvg-id="1447924396" tvg-name="Kochi Blue Tigers vs Trivandrum Royals" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5415/1788260575415-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788352103~acl=/hls/live/2123084/inallow-kcl-2026/eng/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0JaUhtcVFXLyy1UdfkVmngGLAAOx0i1rSILN9pkV91Hk-did=WTwX6UiupkvvTOsAp6QjUxwtl3W51i83Q4ZUfDr5VNi7-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=24.06.16.1-ut=paid-ttl=1800-type=paid-raf=1788350903-~hmac=2c42f12a1e001ebadbd30644712eee76fd7f6c273bc7226e970d0daff9912242"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1788352103~acl=/hls/live/2123084/inallow-kcl-2026/eng/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0JaUhtcVFXLyy1UdfkVmngGLAAOx0i1rSILN9pkV91Hk-did=WTwX6UiupkvvTOsAp6QjUxwtl3W51i83Q4ZUfDr5VNi7-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=24.06.16.1-ut=paid-ttl=1800-type=paid-raf=1788350903-~hmac=2c42f12a1e001ebadbd30644712eee76fd7f6c273bc7226e970d0daff9912242
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
+https://live13p.hotstar.com/hls/live/2123084/inallow-kcl-2026/eng/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap.m3u8?a=ns&hdnea=exp=1788352103~acl=/hls/live/2123084/inallow-kcl-2026/eng/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0JaUhtcVFXLyy1UdfkVmngGLAAOx0i1rSILN9pkV91Hk-did=WTwX6UiupkvvTOsAp6QjUxwtl3W51i83Q4ZUfDr5VNi7-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=24.06.16.1-ut=paid-ttl=1800-type=paid-raf=1788350903-~hmac=2c42f12a1e001ebadbd30644712eee76fd7f6c273bc7226e970d0daff9912242
+#EXTINF:-1 tvg-id="7031236745" tvg-name="Kochi Blue Tigers vs Trivandrum Royals" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5415/1788260575415-h" group-title="🔴 LIVE | JSTAR LIVE EVENTS", MALAYALAM FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1788352103~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0JaUhtcVFXLyy1UdfkVmngGLAAOx0i1rSILN9pkV91Hk-did=WTwX6UiupkvvTOsAp6QjUxwtl3W51i83Q4ZUfDr5VNi7-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.01.04.8-ut=paid-ttl=1800-type=paid-raf=1788350903-~hmac=017a91a8e489a1257c02922ea345fc829e2d372ccbf35c26fa2dee6d1cbe5f01"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1788352103~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0JaUhtcVFXLyy1UdfkVmngGLAAOx0i1rSILN9pkV91Hk-did=WTwX6UiupkvvTOsAp6QjUxwtl3W51i83Q4ZUfDr5VNi7-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.01.04.8-ut=paid-ttl=1800-type=paid-raf=1788350903-~hmac=017a91a8e489a1257c02922ea345fc829e2d372ccbf35c26fa2dee6d1cbe5f01
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
+https://live14p.hotstar.com/hls/live/2123147/inallow-kcl-2026/mal/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap.m3u8?a=ns&hdnea=exp=1788352103~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0JaUhtcVFXLyy1UdfkVmngGLAAOx0i1rSILN9pkV91Hk-did=WTwX6UiupkvvTOsAp6QjUxwtl3W51i83Q4ZUfDr5VNi7-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.01.04.8-ut=paid-ttl=1800-type=paid-raf=1788350903-~hmac=017a91a8e489a1257c02922ea345fc829e2d372ccbf35c26fa2dee6d1cbe5f01
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
 #EXTINF:-1 tvg-id="11903" tvg-name="European T20 Premier League | WILLOW - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",European T20 Premier League | WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d4fd63a677fb3fb2cec81aba6893bc3:86afdab67b583024b92f7f58b1295fc6
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1ylx5xgker/out/v1/d2e04639c946424a931b32475bfd637a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6adfff4ab1f59be0effdbfc85e490b2c:2c7bcb9831fa6dc53cb66d980d245108
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lu8bprbafg/out/v1/470668b5e98043e6b64e91052f10bcf2/cenc.mpd
 
 #EXTINF:-1 tvg-id="11903" tvg-name="European T20 Premier League | TNT SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",European T20 Premier League | TNT SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -6824,8 +6733,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #EXTINF:-1 tvg-id="11903" tvg-name="European T20 Premier League | WILLOW - ALT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",European T20 Premier League | WILLOW - ALT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d4fd63a677fb3fb2cec81aba6893bc3:86afdab67b583024b92f7f58b1295fc6
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1ylx5xgker/out/v1/d2e04639c946424a931b32475bfd637a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6adfff4ab1f59be0effdbfc85e490b2c:2c7bcb9831fa6dc53cb66d980d245108
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lu8bprbafg/out/v1/470668b5e98043e6b64e91052f10bcf2/cenc.mpd
 
 #EXTINF:-1 tvg-id="11903" tvg-name="European T20 Premier League | TAPMAD - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",European T20 Premier League | TAPMAD - AQ
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://tapmad.com
@@ -6836,6 +6745,49 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m
 
 #EXTINF:-1 tvg-id="11903" tvg-name="European T20 Premier League | WILLOW HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",European T20 Premier League | WILLOW HD
 http://tvsen5.aynascope.net/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-id="12223" tvg-name="Sassuolo vs Frosinone | PREMIER SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sassuolo vs Frosinone | PREMIER SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="12223" tvg-name="Sassuolo vs Frosinone | D SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sassuolo vs Frosinone | D SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+
+#EXTINF:-1 tvg-id="12223" tvg-name="Sassuolo vs Frosinone | ITALIA 1 - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sassuolo vs Frosinone | ITALIA 1 - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="12223" tvg-name="Sassuolo vs Frosinone | PARAMOUNT+ HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sassuolo vs Frosinone | PARAMOUNT+ HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/55670/load-playlist?
+
+#EXTINF:-1 tvg-id="12223" tvg-name="Sassuolo vs Frosinone | ARENA PREMIUM HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sassuolo vs Frosinone | ARENA PREMIUM HD
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://iplayer.is/
+https://netanjahu.hls.st/t/703a37b34bcbd91bb9a07f6e9894469d/index.m3u8
+
+#EXTINF:-1 tvg-id="12223" tvg-name="Sassuolo vs Frosinone | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sassuolo vs Frosinone | SPORT TV HD
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://iplayer.is/
+https://netanjahu.hls.st/t/abb0f97b98fb8e4b37378373881dd72f/index.m3u8
+
+#EXTINF:-1 tvg-id="12223" tvg-name="Sassuolo vs Frosinone | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sassuolo vs Frosinone | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://iplayer.is/
+https://netanjahu.hls.st/t/db41bd0cd89da8c804aba9ff7a01539d/index.m3u8
+
+#EXTINF:-1 tvg-id="12223" tvg-name="Sassuolo vs Frosinone | HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sassuolo vs Frosinone | HD SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iframe.rumsport8.live/&Origin=https://livecdn-tc-livestream.rumsport10.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a853f66018287f1cee2af15-hd/chunks.m3u8?is_vip=false&token=1788439662-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ef44cf1d2748da9bee61f5454b182ffa
+
+#EXTINF:-1 tvg-id="12223" tvg-name="Sassuolo vs Frosinone | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sassuolo vs Frosinone | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/PTTTQQQQQQAAA.m3u8?
 
 #EXTINF:-1 tvg-id="591" tvg-name="Formula 1 | APPLE TV - AQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png" group-title="🔵 LIVE | WORLDWIDE EVENTS",Formula 1 | APPLE TV - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7127,25 +7079,6 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="12222" tvg-name="Namibia vs South Africa | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Namibia vs South Africa | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="12223" tvg-name="Sassuolo vs Frosinone | PREMIER SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sassuolo vs Frosinone | PREMIER SPORTS - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="12223" tvg-name="Sassuolo vs Frosinone | D SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sassuolo vs Frosinone | D SPORTS - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-
-#EXTINF:-1 tvg-id="12223" tvg-name="Sassuolo vs Frosinone | ITALIA 1 - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sassuolo vs Frosinone | ITALIA 1 - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
-
 #EXTINF:-1 tvg-id="12224" tvg-name="Udinese vs Venezia | PREMIER SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/328/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Udinese vs Venezia | PREMIER SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7305,18 +7238,25 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:32 PM 02-09-2026
+#LAST_UPDATE:08:32 PM 02-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
-#EXTINF:-1 tvg-id="B0HFZRHJ9L" tvg-name="European T20 Premier League 2026 - 10th Match - Dublin Guardians vs Rotterdam Dockers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8050f764-a5cf-464d-bb17-07f90e762462/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 10th Match - Dublin Guardians vs Rotterdam Dockers
+#EXTINF:-1 tvg-id="B0HG5V474X" tvg-name="European T20 Premier League 2026 - 11th Match - Belfast Wolves vs Edinburgh Castle Rockers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.06426c01-7246-467f-9280-c5c134c1b041/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 11th Match - Belfast Wolves vs Edinburgh Castle Rockers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d4fd63a677fb3fb2cec81aba6893bc3:86afdab67b583024b92f7f58b1295fc6
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1ylx5xgker/out/v1/d2e04639c946424a931b32475bfd637a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6adfff4ab1f59be0effdbfc85e490b2c:2c7bcb9831fa6dc53cb66d980d245108
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r4rb5ltcoq/out/v1/6f6bdd27406a480ea84a367721f74b1c/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HG9G57B5" tvg-name="Womens Asia Cup 2026 - 6th Match - Sri Lanka Women vs Indonesia Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.415160ff-bfe3-4bca-bfbb-fa2fe8075725/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Asia Cup 2026 - 6th Match - Sri Lanka Women vs Indonesia Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2742087a88dea969b5ece23a12ebd3d:ecf606a690163ef1f4a59bfc8ffacff3
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/m0evluvofa/out/v1/697a13ef406c4a7fab262506f1d9b3e1/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
