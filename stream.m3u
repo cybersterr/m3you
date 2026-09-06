@@ -6656,10 +6656,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4247604_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247604_53004_ESL_SEV_FC-Web.png" group-title="🔸FanCode🔸| Live Events",RCD Espanyol vs Sevilla FC [English]
-https://in-mc-flive.fancode.com/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788805977~_GO=Generated~acl=/mumbai/4247604_english_hls_c340de4f0d30211_1ta-di_h264/*~Signature=AfPHOv1l9m-oQoMCTwuYEC4P0DFPbOLjQUnTM2DSoBVWDIJmIzcf3rLxifd0-BXMF0tNe3yoq16PWjHymWF2OM70c0oM
-#EXTINF:-1 tvg-id="4248647_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248647_53017_ALM_CDZ_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Almería vs Cádiz [English]
-https://in-mc-flive.fancode.com/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788806587~_GO=Generated~acl=/mumbai/4248647_english_hls_c093a118da73866_1ta-di_h264/*~Signature=AfPHOv0pFJT8jtJfI2shVPbHEdU3uYNkIsy8GAMMv4iYoC3s4jG0Ayd4LGGCMwwV8CEOk_GgXxz5vvlnRg1EJzTBWkoN
 #EXTINF:-1 tvg-id="4248302_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CPL_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",St Kitts and Nevis Patriots vs Guyana Amazon Warriors [English]
 https://in-mc-flive.fancode.com/mumbai/4248302_english_hls_d8b35d069646185_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788805978~_GO=Generated~acl=/mumbai/4248302_english_hls_d8b35d069646185_1ta-di_h264/*~Signature=AfPHOv3vYTFRd0Bu0gRl6VpjZcFN6UKaVP73jhrkELJ3Vq1N4ny-tCRko27ebE4t4zHeSDvjGZRR4IUAmtB_tkXES4IL
 
@@ -7271,7 +7267,7 @@ http://193.47.62.41/hls/jkkkqq.m3u8?
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:32 AM 07-09-2026
+#LAST_UPDATE:03:32 AM 07-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -7282,7 +7278,7 @@ http://193.47.62.41/hls/jkkkqq.m3u8?
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=496c0620ac8432f5bb4b5172e5a390ea:95cb4176cfc7f814f15c81f8fde53cb8
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a8w6wgfr5q/out/v1/7a7423fb7cd74c78b45f5f794d977942/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a8w6wgfr5q/out/v1/7a7423fb7cd74c78b45f5f794d977942/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
