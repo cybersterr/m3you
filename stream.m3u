@@ -6656,37 +6656,153 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4249121_HIN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="🔸FanCode🔸| Live Events",Jalandhar Warriors vs Ludhiana Lions [Hindi]
-https://in-mc-flive.fancode.com/mumbai/4249121_hindi_hls_cff10ee37012784_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788959212~_GO=Generated~acl=/mumbai/4249121_hindi_hls_cff10ee37012784_1ta-di_h264/*~Signature=AWDec-ERAlRGUvSk7JsJF-VVSGKSaL-DpIs9Qq9dWFHYRQN1VT0ax_66dJCElLWfSYemQoFaV7GirAIsuMuTr7JAEwcK
-#EXTINF:-1 tvg-id="4249121_PUN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="🔸FanCode🔸| Live Events",Jalandhar Warriors vs Ludhiana Lions [Punjabi]
-https://in-mc-flive.fancode.com/mumbai/4249121_punjabi_hls_4e171f276559881_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788959212~_GO=Generated~acl=/mumbai/4249121_punjabi_hls_4e171f276559881_1ta-di_h264/*~Signature=AWDec-EesKALhwN0X0NQGLgQPnV_gCq0J9MFT7-d3Si_7dRXLDhLg4d0fqZ0kvN_FpDIeBdllbIqTp8ruLVp18NAt8ED
 #EXTINF:-1 tvg-id="4248674_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248674_53052_IAI_MAT_fc-Web.jpg" group-title="🔸FanCode🔸| Live Events",IAS Invincibles vs Majees Titans [English]
 https://in-mc-flive.fancode.com/mumbai/4248674_english_hls_a4c30037ae54337_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788949465~_GO=Generated~acl=/mumbai/4248674_english_hls_a4c30037ae54337_1ta-di_h264/*~Signature=AWDec-GS4C0n_-o30GiKENgvhiz9HlHsEVsrpFfVEAgKPHGdBRht_MEV_QaeQUwn-l_hyguRDlrugvBSE7roLsPzdc0L
-#EXTINF:-1 tvg-id="4249154_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249153_53067_KEN_SRL_FC-Web_1788856688301.jpg" group-title="🔸FanCode🔸| Live Events",Kenya vs Sierra Leone [English]
-https://in-mc-flive.fancode.com/mumbai/4249154_english_hls_41d7e2f54471178_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788952509~_GO=Generated~acl=/mumbai/4249154_english_hls_41d7e2f54471178_1ta-di_h264/*~Signature=AWDec-Gi_QusFhtDEi7eZ0JFxcWnr_INggSaKSkI1LbLyfmi8s5yVvFV7-diZP9Sc4YVK0zTpLTvsHvD5a5BbNydVqcM
-#EXTINF:-1 tvg-id="4249079_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249075_53058_SS_DK_fc-Web_fc-webtvbg.jpg" group-title="🔸FanCode🔸| Live Events",Doiwala Kings vs Selaqui Strikers [English]
-https://in-mc-flive.fancode.com/s3/77879913-bc6e-4104-a836-163a76f74b6e/index_1080p.m3u8?hdntl=Expires=1788962867~_GO=Generated~acl=/s3/77879913-bc6e-4104-a836-163a76f74b6e/*~Signature=AWDec-HSwLT71SjLvjfvQpIkHpIiNpKCTHYhcZdNdjr0gMbmyB2ZNARe6QncvHtj_I2h9KzdFRuz2za_LQiAFbNh4O4M
+#EXTINF:-1 tvg-id="4248661_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248661_53025_ALQ_AAS_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Al-Qadsiah FC vs Al-Ahli Saudi FC [English]
+https://in-mc-flive.fancode.com/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788976228~_GO=Generated~acl=/mumbai/4248661_english_hls_772041da8629089_1ta-di_h264/*~Signature=AWDec-FM8TwP-pZj9erSzJS5qVW4kp_mjz8OxR-K9uou1Qyqp-6jFx2EWqXsD6otRyUC6ngJea2mjzxAuUDfWAtdx-cP
+#EXTINF:-1 tvg-id="4248662_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248662_53025_ITT_ALF_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Al-Ittihad vs Al-Fayha FC [English]
+https://in-mc-flive.fancode.com/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788976229~_GO=Generated~acl=/mumbai/4248662_english_hls_cfae7405d99528_1ta-di_h264/*~Signature=AWDec-GFfwpJLA340VLeyg085gIVV9f9KTyD9iRNd7m90yHXSkHBUI-gwFHAO5mSY28NPRoBaRuasE0nLokip2xie9YP
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Bangladesh Women vs UAE Women - 8 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788922162~acl=/*~id=02648779596501974410237375914453~hmac=c5d95af5cb5128c4dc45a98cd5e5d334d7101143ebee5c8bb6210fd87c4419a4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Bangladesh Women vs UAE Women - 8 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788922162~acl=/*~id=02648779596501974410237375914453~hmac=c5d95af5cb5128c4dc45a98cd5e5d334d7101143ebee5c8bb6210fd87c4419a4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Bangladesh Women vs UAE Women - 8 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788922162~acl=/*~id=02648779596501974410237375914453~hmac=c5d95af5cb5128c4dc45a98cd5e5d334d7101143ebee5c8bb6210fd87c4419a4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Bangladesh Women vs UAE Women - 8 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788922162~acl=/*~id=02648779596501974410237375914453~hmac=c5d95af5cb5128c4dc45a98cd5e5d334d7101143ebee5c8bb6210fd87c4419a4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Bangladesh Women vs UAE Women - 8 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788922162~acl=/*~id=02648779596501974410237375914453~hmac=c5d95af5cb5128c4dc45a98cd5e5d334d7101143ebee5c8bb6210fd87c4419a4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023665/1788875797577152_punjabt20_ludhiana_vs_bhatinda_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Jalandhar Warriors vs Ludhiana Lions - 8 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788922162~acl=/*~id=02648779596501974410237375914453~hmac=c5d95af5cb5128c4dc45a98cd5e5d334d7101143ebee5c8bb6210fd87c4419a4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023665/1788875797577152_punjabt20_ludhiana_vs_bhatinda_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Jalandhar Warriors vs Ludhiana Lions - 8 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788922162~acl=/*~id=02648779596501974410237375914453~hmac=c5d95af5cb5128c4dc45a98cd5e5d334d7101143ebee5c8bb6210fd87c4419a4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023588/1788716274000472_UYL26_Real_Madrid_vs_Inter_Milan_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Real Madrid vs Inter - 8 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788922162~acl=/*~id=02648779596501974410237375914453~hmac=c5d95af5cb5128c4dc45a98cd5e5d334d7101143ebee5c8bb6210fd87c4419a4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788511646779822_UCL_26_MD1_Club-Brugge-vs-Aston-Villa_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Club Brugge vs Aston Villa - MD 1 - 8 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022318/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788934347~acl=/*~id=08617063784399959022692574543872~hmac=37d03a77ac3935e572d5b4c8c2eecef3922fc3e20c4ec1d7d2e3e86264414287
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513038876822_UCL_26_MD1_AEK-Athens-vs-LASK_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",AEK Athens vs LASK - MD 1 - 8 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788934347~acl=/*~id=08617063784399959022692574543872~hmac=37d03a77ac3935e572d5b4c8c2eecef3922fc3e20c4ec1d7d2e3e86264414287
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
+
+#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | WILLOW - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b805d449b07e313914788a1dd6dcf6d:72f6a2079a52d04203ef34023568d5fa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mcntcummyo/out/v1/a7a1a96ba0e845458ef0564a346a6f89/cenc.mpd
+
+#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | WILLOW - ALT" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | WILLOW - ALT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b805d449b07e313914788a1dd6dcf6d:72f6a2079a52d04203ef34023568d5fa
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mcntcummyo/out/v1/a7a1a96ba0e845458ef0564a346a6f89/cenc.mpd
+
+#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | TAMASHA - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | TAMASHA - AQ
+https://cdn05khi-n.tamashaweb.com:8087/jazzauth/wac2026-svod-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI2IDI6MjY6MzUgUE0maGFzaF92YWx1ZT1PSkdDa0NiUjFDdzY0WlVER1pRU2pnPT0mdmFsaWRtaW51dGVzPTYw
+
+#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | SonyLiv - English" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | SonyLiv - English
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7a36a3311640ce2cbce20cefdc933f6-1788876603748
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi0809/ENG/master.m3u8
+
+#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | SonyLiv - Hindi" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | SonyLiv - Hindi
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7a36a3311640ce2cbce20cefdc933f6-1788876603748
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0809/HIN/master.m3u8
+
+#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | SonyLiv - Tamil" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | SonyLiv - Tamil
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7a36a3311640ce2cbce20cefdc933f6-1788876603748
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi0809/TAM/master.m3u8
+
+#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | SonyLiv - Telugu" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | SonyLiv - Telugu
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7a36a3311640ce2cbce20cefdc933f6-1788876603748
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0809/TEL/master.m3u8
+
+#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | SonyLiv - Kannada" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | SonyLiv - Kannada
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7a36a3311640ce2cbce20cefdc933f6-1788876603748
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0809/KAN/master.m3u8
+
+#EXTINF:-1 tvg-id="12453" tvg-name="AEK Athens vs LASK | PARAMOUNT+ - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AEK Athens vs LASK | PARAMOUNT+ - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=040d9c34d4fdfdab28b224a150e9ccc2:23fba9fdd659d6e289fbd34b7d20e5b1
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pd5s7nxpsp/out/v1/b4d65ee6e59f4ab081d681bf62b8ff3c/cenc.mpd
+
+#EXTINF:-1 tvg-id="12453" tvg-name="AEK Athens vs LASK | TNT SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AEK Athens vs LASK | TNT SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="12453" tvg-name="AEK Athens vs LASK | DAZN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AEK Athens vs LASK | DAZN SPORTS HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/56056/load-playlist?
+
+#EXTINF:-1 tvg-id="12453" tvg-name="AEK Athens vs LASK | TNT SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AEK Athens vs LASK | TNT SPORTS HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream3.pro/hls/eJmauBDCIf.m3u8?
+
+#EXTINF:-1 tvg-id="12453" tvg-name="AEK Athens vs LASK | beIN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AEK Athens vs LASK | beIN SPORTS HD
+https://live.ftlcbx.com/live/74165868_1358c3754534f8e0493db6331f5e03d1_720p.m3u8?auth_key=1788901096-0-0-2c05ec143e88c8fd6c3e458095dc8c9f
+
+#EXTINF:-1 tvg-id="12453" tvg-name="AEK Athens vs LASK | HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AEK Athens vs LASK | HD SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/b6689b1e-f378-4ae7-8785-276f005a5bda.m3u8?
+
+#EXTINF:-1 tvg-id="12453" tvg-name="AEK Athens vs LASK | SonyLiv" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AEK Athens vs LASK | SonyLiv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=28315f70d4f73aaf84eb4505cedb97d1-1788883804408
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/footlive0809/ENG/master.m3u8
+
+#EXTINF:-1 tvg-id="12453" tvg-name="AEK Athens vs LASK | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AEK Athens vs LASK | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iframe.rumsport10.live/&useragent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d7707-hd/chunks.m3u8?is_vip=false&token=1788971550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-98d6864c274174bcc4b220a0d74e3174
+
+#EXTINF:-1 tvg-id="12453" tvg-name="AEK Athens vs LASK | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AEK Athens vs LASK | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.59/hls/DIII.m3u8?
+
+#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | PARAMOUNT+ - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | PARAMOUNT+ - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61ad644ab49ebeb31a40ae1e28969570:f0a7d0eab4b4e323bd4ab3125674412c
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bne5fmzjt8/out/v1/4040a72ef7f844feb02f792bf70844af/cenc.mpd
+
+#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | TNT SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | TNT SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | PARAMOUNT+ HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | PARAMOUNT+ HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/56055/load-playlist?
+
+#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | CBS NETWORK HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | CBS NETWORK HD
+https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8
+
+#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | TNT SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | TNT SPORTS HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8?
+
+#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | beIN SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | beIN SPORTS HD
+https://live1.ftlcbx.com/live/74165870_2713db398d88ee09fd8b2c85de67c76d_720p.m3u8?auth_key=1788901096-0-0-c133e8743dddc388072e247a92e35d38
+
+#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | VIX SPANISH HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | VIX SPANISH HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream5.pro/hls/377qj1h2727.m3u8?
+
+#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | HD SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/9ddf942f-b633-4eeb-a2c3-e04323b83304.m3u8?
+
+#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | SonyLiv" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | SonyLiv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=28315f70d4f73aaf84eb4505cedb97d1-1788883804408
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022318/footlive0809/ENG/master.m3u8
+
+#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://iframe.rumsport10.live/&useragent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76e5-hd/chunks.m3u8?is_vip=false&token=1788971552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d899fb1cf2ce1eb090e9092a1470b600
+
+#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.55/hls/DIIIE.m3u8?
+
+#EXTINF:-1 tvg-id="12472" tvg-name="Al-Hazem vs Al-Taawoun | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Hazem vs Al-Taawoun | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/ktttqq.m3u8?
+
+#EXTINF:-1 tvg-id="12476" tvg-name="NEC Nijmegen vs Excelsior | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",NEC Nijmegen vs Excelsior | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/ktttqqQQQQQQ.m3u8?
 
 #EXTINF:-1 tvg-id="591" tvg-name="Formula 1 | SKY Via APPLE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png" group-title="🔵 LIVE | WORLDWIDE EVENTS",Formula 1 | SKY Via APPLE TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -6961,53 +7077,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m
 #EXTINF:-1 tvg-id="11903" tvg-name="European T20 Premier League | WILLOW HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",European T20 Premier League | WILLOW HD
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | WILLOW - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b805d449b07e313914788a1dd6dcf6d:72f6a2079a52d04203ef34023568d5fa
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mcntcummyo/out/v1/a7a1a96ba0e845458ef0564a346a6f89/cenc.mpd
-
-#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | WILLOW - ALT" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | WILLOW - ALT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b805d449b07e313914788a1dd6dcf6d:72f6a2079a52d04203ef34023568d5fa
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mcntcummyo/out/v1/a7a1a96ba0e845458ef0564a346a6f89/cenc.mpd
-
-#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | T SPORTS HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | T SPORTS HD
-https://tvsen7.aynascope.net/Sports1/index.m3u8
-
-#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | SonyLiv - English" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | SonyLiv - English
-https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-
-#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | SonyLiv - Hindi" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | SonyLiv - Hindi
-https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-
-#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | SonyLiv - Tamil" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | SonyLiv - Tamil
-https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-
-#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | SonyLiv - Telugu" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | SonyLiv - Telugu
-https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-
-#EXTINF:-1 tvg-id="12268" tvg-name="Bangladesh Women vs United Arab Emirates Women | SonyLiv - Kannada" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh Women vs United Arab Emirates Women | SonyLiv - Kannada
-https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-
-#EXTINF:-1 tvg-id="12453" tvg-name="AEK Athens vs LASK | TNT SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",AEK Athens vs LASK | TNT SPORTS - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | TNT SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | TNT SPORTS - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 tvg-id="12454" tvg-name="Club Brugge KV vs Aston Villa | CBS NETWORK HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Club Brugge KV vs Aston Villa | CBS NETWORK HD
-https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8
-
 #EXTINF:-1 tvg-id="12455" tvg-name="Borussia Dortmund vs Villarreal | TNT SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Borussia Dortmund vs Villarreal | TNT SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7070,12 +7139,6 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="12470" tvg-name="SK Slavia Praha vs RC Lens | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",SK Slavia Praha vs RC Lens | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="12471" tvg-name="Al-Ettifaq vs Al Faisaly | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ettifaq vs Al Faisaly | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="12472" tvg-name="Al-Hazem vs Al-Taawoun | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Hazem vs Al-Taawoun | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
 #EXTINF:-1 tvg-id="12473" tvg-name="Al-Ittihad vs Al-Fayha | SporTV BR - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ittihad vs Al-Fayha | SporTV BR - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7097,9 +7160,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 
 #EXTINF:-1 tvg-id="12474" tvg-name="Al-Qadsiah vs Al-Ahli | SPORT TV HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Qadsiah vs Al-Ahli | SPORT TV HD
 https://tmaxapp.site/pt658svs/sporttv1.m3u8
-
-#EXTINF:-1 tvg-id="12476" tvg-name="NEC Nijmegen vs Excelsior | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",NEC Nijmegen vs Excelsior | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 #EXTINF:-1 tvg-id="12477" tvg-name="Blackburn Rovers vs Sheffield United | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Blackburn Rovers vs Sheffield United | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -7247,7 +7307,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:32 PM 08-09-2026
+#LAST_UPDATE:12:02 AM 09-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -7258,7 +7318,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b805d449b07e313914788a1dd6dcf6d:72f6a2079a52d04203ef34023568d5fa
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k8zyuwd5df/out/v1/8b4ea40bad16401585c8d604004c718c/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k8zyuwd5df/out/v1/8b4ea40bad16401585c8d604004c718c/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
