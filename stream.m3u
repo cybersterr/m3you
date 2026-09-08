@@ -6656,10 +6656,23 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4248627_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248627_53050_NEP_HK_FC-Web_1788765687310.png" group-title="🔸FanCode🔸| Live Events",Nepal vs Hong Kong, China [English]
-https://in-mc-flive.fancode.com/mumbai/4248627_english_hls_b956cf9a2c2456_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788916622~_GO=Generated~acl=/mumbai/4248627_english_hls_b956cf9a2c2456_1ta-di_h264/*~Signature=AWDec-HynkVwv6EMMgQO9kyuz6O6CJ0LszbfQP9v7pHL8Qq_RDPtVUOpOKPeurqNGt-GnIUmQb-1mzQ6RwkmZ_SjhUgH
-#EXTINF:-1 tvg-id="4248628_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248628_53050_UAE_OMA_FC-Web_1788765687290.png" group-title="🔸FanCode🔸| Live Events",United Arab Emirates vs Oman [English]
-https://in-mc-flive.fancode.com/mumbai/4248628_english_hls_a8a59adb7a21615_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788916623~_GO=Generated~acl=/mumbai/4248628_english_hls_a8a59adb7a21615_1ta-di_h264/*~Signature=AWDec-GufsG3xtyVX1fGiFMzKYvB-Lrby2D0Aeu_pD38hlhF2PF2XrvN5yiu1Q884noNb0zVO8px6uyRMBmvNnugKxsB
+#EXTINF:-1 tvg-id="4249120_HIN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg" group-title="🔸FanCode🔸| Live Events",Amritsar Soormas vs Mohali Kings [Hindi]
+https://in-mc-flive.fancode.com/mumbai/4249120_hindi_hls_4038d704a88057_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788937273~_GO=Generated~acl=/mumbai/4249120_hindi_hls_4038d704a88057_1ta-di_h264/*~Signature=AWDec-H3flrvt4djCtzzE2ETbiuxwEjxI51PGDlsSzhPmqiIqbwZhRbEnqzffOqZqti6TnYoYB3KZydn-22678nMcq0K
+#EXTINF:-1 tvg-id="4249120_PUN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg" group-title="🔸FanCode🔸| Live Events",Amritsar Soormas vs Mohali Kings [Punjabi]
+https://in-mc-flive.fancode.com/mumbai/4249120_punjabi_hls_137538a24e47136_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788937274~_GO=Generated~acl=/mumbai/4249120_punjabi_hls_137538a24e47136_1ta-di_h264/*~Signature=AWDec-HI0mgU49mjwJGRB8w1DDt2x-kUMSLSoi-jSHUaERXHXfGMEbuUeCsiquKtwHlir5874KLQtAQKvwK9Iu-wyvoO
+#EXTINF:-1 tvg-id="4249153_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249154_53067_RWA_BOT_FC-Web_1788856688246.jpg" group-title="🔸FanCode🔸| Live Events",Rwanda vs Botswana [English]
+https://in-mc-flive.fancode.com/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788937883~_GO=Generated~acl=/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/*~Signature=AWDec-GzAHKzTswVEe4iOhn9em15C_H7PnGxS48t51wOE3MEXYlikvWh9DCarNZAqBZ-4eogi8Nn0bXzCB7iigzADFsK
+#EXTINF:-1 tvg-id="4249078_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249072_53058_VD_MT_fc-Web_fc-webtvbg.jpg" group-title="🔸FanCode🔸| Live Events",Mussoorie Thunder vs Vikasnagar Dhamaka [English]
+https://in-mc-flive.fancode.com/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788943964~_GO=Generated~acl=/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/*~Signature=AWDec-Fh6G4L2Km0d6_bXCEqV3K-ZHkwlO1DBXkteFKB_Cj0jUdZqDhVtIvsqGWLIFQ6lTOunu23LgWd54NNDl7SAy8D
+#EXTINF:-1 tvg-id="4248674_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248674_53052_IAI_MAT_fc-Web.jpg" group-title="🔸FanCode🔸| Live Events",IAS Invincibles vs Majees Titans [English]
+https://in-mc-flive.fancode.com/mumbai/4248674_english_hls_a4c30037ae54337_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788949465~_GO=Generated~acl=/mumbai/4248674_english_hls_a4c30037ae54337_1ta-di_h264/*~Signature=AWDec-GS4C0n_-o30GiKENgvhiz9HlHsEVsrpFfVEAgKPHGdBRht_MEV_QaeQUwn-l_hyguRDlrugvBSE7roLsPzdc0L
+
+# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Amritsar Soormas vs Mohali Kings - 8 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788907570~acl=/*~id=38474096483010909237690662637992~hmac=8d8fc46080a21c7c8621c8ab275ced18deadcf93dbec491db828ffee88eb710f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Amritsar Soormas vs Mohali Kings - 8 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788907570~acl=/*~id=38474096483010909237690662637992~hmac=8d8fc46080a21c7c8621c8ab275ced18deadcf93dbec491db828ffee88eb710f
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7108,7 +7121,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:32 AM 08-09-2026
+#LAST_UPDATE:04:32 PM 08-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
