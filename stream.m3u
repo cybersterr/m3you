@@ -497,147 +497,147 @@ https://cloudplay-sonyliv.pages.dev/aath.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=2424
 #EXTINF:-1 tvg-id="2424" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="🎬 OTT | SUNXT",Sun Marathi
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Marathi_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=729
 #EXTINF:-1 tvg-id="729" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="🎬 OTT | SUNXT",Sun Gemini Comedy
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=684
 #EXTINF:-1 tvg-id="684" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="🎬 OTT | SUNXT",Sun Gemini Life
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=899
 #EXTINF:-1 tvg-id="899" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="🎬 OTT | SUNXT",Sun Gemini Movies HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Movies_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=898
 #EXTINF:-1 tvg-id="898" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="🎬 OTT | SUNXT",Sun Gemini Music HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Music_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=897
 #EXTINF:-1 tvg-id="897" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="🎬 OTT | SUNXT",Sun Gemini HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_TV_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=896
 #EXTINF:-1 tvg-id="896" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="🎬 OTT | SUNXT",Sun TV HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=682
 #EXTINF:-1 tvg-id="682" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="🎬 OTT | SUNXT",Sun Life
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Life_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=895
 #EXTINF:-1 tvg-id="895" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="🎬 OTT | SUNXT",Sun Music HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Music_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=676
 #EXTINF:-1 tvg-id="676" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png" group-title="🎬 OTT | SUNXT",Sun News
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_News_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=901
 #EXTINF:-1 tvg-id="901" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_HD.png" group-title="🎬 OTT | SUNXT",Sun Udaya HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=733
 #EXTINF:-1 tvg-id="733" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Comedy.png" group-title="🎬 OTT | SUNXT",Sun Udaya Comedy
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Comedy_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=678
 #EXTINF:-1 tvg-id="678" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png" group-title="🎬 OTT | SUNXT",Sun Udaya Movies
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Movies_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=744
 #EXTINF:-1 tvg-id="744" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Music.png" group-title="🎬 OTT | SUNXT",Sun Udaya Music
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Music_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=900
 #EXTINF:-1 tvg-id="900" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="🎬 OTT | SUNXT",Sun Surya HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_HD_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=1662
 #EXTINF:-1 tvg-id="1662" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="🎬 OTT | SUNXT",Sun Surya Comedy
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_Comedy_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=1754
 #EXTINF:-1 tvg-id="1754" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="🎬 OTT | SUNXT",Sun Surya Movies
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_Movies_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=747
 #EXTINF:-1 tvg-id="747" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="🎬 OTT | SUNXT",Sun Surya Music
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_Music_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=1669
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="🎬 OTT | SUNXT",Sun Bangla
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Bangla_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=3083
 #EXTINF:-1 tvg-id="3083" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sundrani_TV.png" group-title="🎬 OTT | SUNXT",Sundrani TV
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sundrani_TV_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=3088
 #EXTINF:-1 tvg-id="3088" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="🎬 OTT | SUNXT",Sun Neo HD
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789120804~exp=1789142404~acl=/*~hmac=748acadef507b0424309ef316658dc62157574ae4a5f7b1179451ca9577c78b9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1789138809~exp=1789160409~acl=/*~hmac=a15e4afc84b7d7e27cb22ab92cc16456229bc299a0a543dddce4f6b18b89806f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SUN_Neo_MOB/WDVLive/index.mpd
 
 # ---------------=== ⭕ JioTv+ ===-------------------
@@ -4366,7 +4366,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/PMC_Telugu_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="746" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",746
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Unite8_Sports_1HD/index/index.m3u8
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281311
 #EXTINF:-1 tvg-id="747" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",747
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
@@ -6656,35 +6656,27 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4249115_HIN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249115_53065_AMS_LLN_fc-web_1788345783974.jpg" group-title="🔸FanCode🔸| Live Events",Amritsar Soormas vs Ludhiana Lions [Hindi]
-https://in-mc-flive.fancode.com/mumbai/4249115_hindi_hls_033ea73a8294334_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789218105~_GO=Generated~acl=/mumbai/4249115_hindi_hls_033ea73a8294334_1ta-di_h264/*~Signature=AWDec-GluiyFyqJJDePQyUrEW_lsBAWad5eUunjtdNP7lk10Dl0nbhkRjfJjmgNfPioBGTIDGlMdXLJ0xZ_B5vlyOt4O
-#EXTINF:-1 tvg-id="4249115_PUN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249115_53065_AMS_LLN_fc-web_1788345783974.jpg" group-title="🔸FanCode🔸| Live Events",Amritsar Soormas vs Ludhiana Lions [Punjabi]
-https://in-mc-flive.fancode.com/mumbai/4249115_punjabi_hls_ae5135210630761_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789218105~_GO=Generated~acl=/mumbai/4249115_punjabi_hls_ae5135210630761_1ta-di_h264/*~Signature=AWDec-FpXoQsfS-aQzoj9NydgA3uZkeWWB8YyY42K0SmSbfbXNZRQoWpfI5o_VDS06rOja60gWsBBWVJoWwwdSYRVqgA
-#EXTINF:-1 tvg-id="4249081_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Day 1 [English]
-https://in-mc-flive.fancode.com/mumbai/4249081_english_hls_95f13267c640697_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789219319~_GO=Generated~acl=/mumbai/4249081_english_hls_95f13267c640697_1ta-di_h264/*~Signature=AWDec-GvzNPDdN9w05gsA0z1I8HqUdh0K3o4APSbxPfdSRV5SQEZTWYYM5e3jGQQ4Qt-OE-f78nDEfjo0_XkJ0bNC0kJ
-#EXTINF:-1 tvg-id="4248639_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png" group-title="🔸FanCode🔸| Live Events",Free Practice 2 [English]
-https://in-mc-flive.fancode.com/mumbai/4248639_english_hls_d9aee718d82469_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789220530~_GO=Generated~acl=/mumbai/4248639_english_hls_d9aee718d82469_1ta-di_h264/*~Signature=AWDec-FtwRuUFeo-nQWDQ26gRI0nshQ10_3VxJ8wGreq_qBVWnu4s9sg8zmmA_Oc6BHcWsoN_DrLP4trkV_TTEXl11kF
+#EXTINF:-1 tvg-id="4249132_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249132_53025_ALQ_ETT_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Al Qadisiyah vs Al-Ettifaq [English]
+https://in-mc-flive.fancode.com/mumbai/4249132_english_hls_20738d064364699_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789225988~_GO=Generated~acl=/mumbai/4249132_english_hls_20738d064364699_1ta-di_h264/*~Signature=AWDec-GuzznfpAOB-Aim6F7t1vrkhJHz9krPmtinAD3_Aets2EUT0-RO-kmHtj-esFvXLmnTOWFc0uhf6US1P-8FyiEK
+#EXTINF:-1 tvg-id="4249133_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249133_53025_AAS_HAZ_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Al-Ahli Saudi FC vs Al-Hazem FC [English]
+https://in-mc-flive.fancode.com/mumbai/4249133_english_hls_2c8b89fd5945852_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789235082~_GO=Generated~acl=/mumbai/4249133_english_hls_2c8b89fd5945852_1ta-di_h264/*~Signature=AWDec-HQYzxsas4HRqcuAKM3nxZCLURtlI3np-Ec8q-zUOGFw8qkGf1WB2_1BgzWclKrnqQfLOi7V8Ne3LzuVcGvZNcC
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789180587~acl=/*~id=51632065024934635188989980905089~hmac=ffb36c74064eb1404198519bea62e40a246c220c549e6c62df561fbe18068893
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789192144~acl=/*~id=62173133189108423393993240594344~hmac=1cf6da1abc4b0e72582184609de07e00f719bffb2cea016ca09797e5feecc941
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789180587~acl=/*~id=51632065024934635188989980905089~hmac=ffb36c74064eb1404198519bea62e40a246c220c549e6c62df561fbe18068893
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789192144~acl=/*~id=62173133189108423393993240594344~hmac=1cf6da1abc4b0e72582184609de07e00f719bffb2cea016ca09797e5feecc941
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789180587~acl=/*~id=51632065024934635188989980905089~hmac=ffb36c74064eb1404198519bea62e40a246c220c549e6c62df561fbe18068893
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789192144~acl=/*~id=62173133189108423393993240594344~hmac=1cf6da1abc4b0e72582184609de07e00f719bffb2cea016ca09797e5feecc941
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789180587~acl=/*~id=51632065024934635188989980905089~hmac=ffb36c74064eb1404198519bea62e40a246c220c549e6c62df561fbe18068893
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789192144~acl=/*~id=62173133189108423393993240594344~hmac=1cf6da1abc4b0e72582184609de07e00f719bffb2cea016ca09797e5feecc941
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789180587~acl=/*~id=51632065024934635188989980905089~hmac=ffb36c74064eb1404198519bea62e40a246c220c549e6c62df561fbe18068893
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789192144~acl=/*~id=62173133189108423393993240594344~hmac=1cf6da1abc4b0e72582184609de07e00f719bffb2cea016ca09797e5feecc941
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434963836794_eng_vs_pak_3test_D3_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 3 - 3rd Test - 11 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789180587~acl=/*~id=51632065024934635188989980905089~hmac=ffb36c74064eb1404198519bea62e40a246c220c549e6c62df561fbe18068893
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023750/1789016444203995_PT20_Amritsar-Soormas-vs-Ludhiana-Lions_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Amritsar Soormas vs Ludhiana Lions - 11 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789180587~acl=/*~id=51632065024934635188989980905089~hmac=ffb36c74064eb1404198519bea62e40a246c220c549e6c62df561fbe18068893
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023750/1789016444203995_PT20_Amritsar-Soormas-vs-Ludhiana-Lions_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Amritsar Soormas vs Ludhiana Lions - 11 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789180587~acl=/*~id=51632065024934635188989980905089~hmac=ffb36c74064eb1404198519bea62e40a246c220c549e6c62df561fbe18068893
+https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789192144~acl=/*~id=62173133189108423393993240594344~hmac=1cf6da1abc4b0e72582184609de07e00f719bffb2cea016ca09797e5feecc941
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023761/1789035259315649_DP_World_Tour_Amgen_Irish_Open_Day2_Session2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Amgen Irish Open - Day 2 - Session 2 - 11 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789180587~acl=/*~id=51632065024934635188989980905089~hmac=ffb36c74064eb1404198519bea62e40a246c220c549e6c62df561fbe18068893
+https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789192144~acl=/*~id=62173133189108423393993240594344~hmac=1cf6da1abc4b0e72582184609de07e00f719bffb2cea016ca09797e5feecc941
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7111,11 +7103,11 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:32 PM 11-09-2026
+#LAST_UPDATE:11:32 PM 11-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0HFBLHW8K" tvg-name="Pakistan tour of England 2026 - 3rd Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9b23088-fada-406a-85e6-7777582d9803/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan tour of England 2026 - 3rd Test - England vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
@@ -7124,19 +7116,12 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #KODIPROP:inputstream.adaptive.license_key=4b449e62d6400a82c000f057837d3c34:6726fe4c78a06a3861c5403c716ea96f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kbatzaazbo/out/v1/e12d4e78342c47348c272f5d5979eeec/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HFFZS6DF" tvg-name="European T20 Premier League 2026 - 21st Match - Dublin Guardians vs Edinburgh Castle Rockers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b0542c8c-66c7-45a6-a6cf-1a66bcdcbdb4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 21st Match - Dublin Guardians vs Edinburgh Castle Rockers
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f04d96a04402d8818478ece57b9475f:fedfd84ff9b4034a5d20dec45c282c0a
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gshesqbj8d/out/v1/033e15fcbff443cea9591823e64d6f76/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HC6SB18H" tvg-name="Womens Asia Cup 2026 - 2nd Semi Final - Sri Lanka Women vs Pakistan Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df23162d-6a17-4016-86c6-5844e90471a1/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Asia Cup 2026 - 2nd Semi Final - Sri Lanka Women vs Pakistan Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b8b2e5fc6b2ff6a1becfaa770e0807f:0f7f907364870c16af43744cb481f6a3
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfndy3gddh/out/v1/67564cfec34b448bb3f24c8bf11e03f1/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bfndy3gddh/out/v1/67564cfec34b448bb3f24c8bf11e03f1/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
