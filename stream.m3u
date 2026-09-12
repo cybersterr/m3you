@@ -488,158 +488,6 @@ https://cloudplay-sonyliv.pages.dev/marathi.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="🎬 OTT | SONY LIV",Sony Aath
 https://cloudplay-sonyliv.pages.dev/aath.m3u8
 
-# ---------------=== 🎬 OTT | SUNXT ===-------------------
-
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=2424
-#EXTINF:-1 tvg-id="2424" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="🎬 OTT | SUNXT",Sun Marathi
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Marathi_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=729
-#EXTINF:-1 tvg-id="729" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="🎬 OTT | SUNXT",Sun Gemini Comedy
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=684
-#EXTINF:-1 tvg-id="684" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="🎬 OTT | SUNXT",Sun Gemini Life
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=899
-#EXTINF:-1 tvg-id="899" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="🎬 OTT | SUNXT",Sun Gemini Movies HD
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Movies_HD_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=898
-#EXTINF:-1 tvg-id="898" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="🎬 OTT | SUNXT",Sun Gemini Music HD
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_Music_HD_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=897
-#EXTINF:-1 tvg-id="897" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="🎬 OTT | SUNXT",Sun Gemini HD
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Gemini_TV_HD_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=896
-#EXTINF:-1 tvg-id="896" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="🎬 OTT | SUNXT",Sun TV HD
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=682
-#EXTINF:-1 tvg-id="682" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="🎬 OTT | SUNXT",Sun Life
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Life_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=895
-#EXTINF:-1 tvg-id="895" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="🎬 OTT | SUNXT",Sun Music HD
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Music_HD_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=676
-#EXTINF:-1 tvg-id="676" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png" group-title="🎬 OTT | SUNXT",Sun News
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_News_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=901
-#EXTINF:-1 tvg-id="901" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_HD.png" group-title="🎬 OTT | SUNXT",Sun Udaya HD
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_HD_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=733
-#EXTINF:-1 tvg-id="733" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Comedy.png" group-title="🎬 OTT | SUNXT",Sun Udaya Comedy
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Comedy_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=678
-#EXTINF:-1 tvg-id="678" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png" group-title="🎬 OTT | SUNXT",Sun Udaya Movies
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Movies_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=744
-#EXTINF:-1 tvg-id="744" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Music.png" group-title="🎬 OTT | SUNXT",Sun Udaya Music
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Music_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=900
-#EXTINF:-1 tvg-id="900" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="🎬 OTT | SUNXT",Sun Surya HD
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_HD_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=1662
-#EXTINF:-1 tvg-id="1662" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="🎬 OTT | SUNXT",Sun Surya Comedy
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_Comedy_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=1754
-#EXTINF:-1 tvg-id="1754" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="🎬 OTT | SUNXT",Sun Surya Movies
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_Movies_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=747
-#EXTINF:-1 tvg-id="747" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="🎬 OTT | SUNXT",Sun Surya Music
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Surya_Music_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=1669
-#EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="🎬 OTT | SUNXT",Sun Bangla
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Bangla_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=3083
-#EXTINF:-1 tvg-id="3083" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sundrani_TV.png" group-title="🎬 OTT | SUNXT",Sundrani TV
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sundrani_TV_MOB/WDVLive/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=3088
-#EXTINF:-1 tvg-id="3088" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="🎬 OTT | SUNXT",Sun Neo HD
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1789216205~exp=1789237805~acl=/*~hmac=2cffd84a8236c825ace42c52879fd9a05fd500709a62bd8d8e76e06e77a131ca"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SUN_Neo_MOB/WDVLive/index.mpd
-
 # ---------------=== ⭕ JioTv+ ===-------------------
 
 #EXTINF:-1 tvg-id="0" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",0
@@ -6656,29 +6504,37 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4249162_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249162_53067_BOT_SRL_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Botswana vs Sierra Leone [English]
-https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249162_english_955358/ad-h264/index__1080p.m3u8?hdntl=Expires=1789298099~_GO=Generated~acl=/out/v1/ap-south-1/4249162_english_955358/ad-h264/*~Signature=AWDec-H8UFpJjEiu9xeyCc1lUOQ8llFygnDqpGbh_krBatrWcN84I9W2aT1XzBJqFy5RFcTObXVCRtU3yAt7nZGg7OAA
-#EXTINF:-1 tvg-id="4247490_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247490_52993_DER_BIR_fc-web_1786657253171.jpg" group-title="🔸FanCode🔸| Live Events",Derby County Football Club vs Birmingham City F.C. [English]
-https://in-mc-flive.fancode.com/mumbai/4247490_english_hls_b88fe841bd11167_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789298100~_GO=Generated~acl=/mumbai/4247490_english_hls_b88fe841bd11167_1ta-di_h264/*~Signature=AWDec-FYT2l8rG9fHYQTRRSDDj2xFut8wvBi_NcmXnnYjEtTc1m3ptajhAcXFiZYAws6xB1-GiMGgtdRT2g6p0I4bVgE
-#EXTINF:-1 tvg-id="4247616_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247616_53004_RAC_ALA_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Racing Club de Santander vs Deportivo Alaves [English]
-https://in-mc-flive.fancode.com/mumbai/4247616_english_hls_d932db7d0b78824_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789299313~_GO=Generated~acl=/mumbai/4247616_english_hls_d932db7d0b78824_1ta-di_h264/*~Signature=AWDec-EXzlk-B6frrmPwBs-ibNhI-l0tw7RpRykwERSM0i7OXz-lEGwaSg647ux5mqxe4e4swnKq3iqFvVVzhsTNsOoH
-#EXTINF:-1 tvg-id="4248470_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248470_53038_WHU-W_LCL_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",West Ham United Women vs London City Lionesses [English]
-https://in-mc-flive.fancode.com/mumbai/4248470_english_hls_b871a6a6fd74150_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789298706~_GO=Generated~acl=/mumbai/4248470_english_hls_b871a6a6fd74150_1ta-di_h264/*~Signature=AWDec-EEcT262nwFj1DFIvJEd-bvCCIBqepiODQhpR67ZR0dH3CJB3E1TCffz_7CkuxRXRfhSdGY6V7xQ9o-ZoNL_bcG
+#EXTINF:-1 tvg-id="4249111_HIN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="🔸FanCode🔸| Live Events",Ludhiana Lions vs Jalandhar Warriors [Hindi]
+https://in-mc-flive.fancode.com/mumbai/4249111_hindi_hls_bdd150ded315431_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789304775~_GO=Generated~acl=/mumbai/4249111_hindi_hls_bdd150ded315431_1ta-di_h264/*~Signature=AWDec-G9yN88mhPMJCsvbc1gzHMDb8_gHbXn7iFFjnQ8hx6ZtKk-6JFoMaX-Lo3f78HLwuKHm5Wm7SMSCWwesVeGe1EH
+#EXTINF:-1 tvg-id="4249111_PUN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="🔸FanCode🔸| Live Events",Ludhiana Lions vs Jalandhar Warriors [Punjabi]
+https://in-mc-flive.fancode.com/mumbai/4249111_punjabi_hls_fa36871d2932779_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789304775~_GO=Generated~acl=/mumbai/4249111_punjabi_hls_fa36871d2932779_1ta-di_h264/*~Signature=AWDec-FH4gceEy8qBRzPk7DjW7ZdySpPMLq9AUS_LQtVukJbB-7HVeKlHGn4XZQko-GEbdqWFQiabS1SVysSvPlxgaEP
+#EXTINF:-1 tvg-id="4249091_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249091_53061_TKR-W_GUY-W_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Guyana Amazon Warriors Women vs Trinbago Knight Riders Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249091_english_hls_92fe26880d4890_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789306596~_GO=Generated~acl=/mumbai/4249091_english_hls_92fe26880d4890_1ta-di_h264/*~Signature=AWDec-HqZpBD-Ln9XYz5Kd5Y-oTE-E6s04Z2bKxz7fcZ5PdXeFn9cVvy-A2JJ8oATfeShzm3xU0Kr8YEduJJZkcrhTMA
+#EXTINF:-1 tvg-id="4247491_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247491_52993_WAT_STK_fc-web_1786657253197.jpg" group-title="🔸FanCode🔸| Live Events",Watford F.C. vs Stoke City F.C. [English]
+https://in-mc-flive.fancode.com/mumbai/4247491_english_hls_103578229099957_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789307204~_GO=Generated~acl=/mumbai/4247491_english_hls_103578229099957_1ta-di_h264/*~Signature=AWDec-HSy7L5VjWT6IVlGe-Cc9zt1dLgf6yQEBTe6_LHuWSBtR48wctY0zPaxoOVDAZqJvi4yc2YxW9_ryS2zQ3liMUO
+#EXTINF:-1 tvg-id="4249134_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249134_53025_ALTW_AHS_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Al-Taawoun FC vs Al Hilal SFC [English]
+https://in-mc-flive.fancode.com/mumbai/4249134_english_hls_231aa31c7144947_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789313876~_GO=Generated~acl=/mumbai/4249134_english_hls_231aa31c7144947_1ta-di_h264/*~Signature=AWDec-HansXCjLjC0ZlrQQoipWc9-9CwVpIOxZPfNIJbJmxptI3KWmstbHDHUW3gfW0r_3yYYj_J5fhzr0Qs0TtRUvsB
+#EXTINF:-1 tvg-id="4247612_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247612_53004_ATH_ELC_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Athletic Club vs Elche CF [English]
+https://in-mc-flive.fancode.com/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315714~_GO=Generated~acl=/mumbai/4247612_english_hls_b5806e90d496718_1ta-di_h264/*~Signature=AWDec-GubuepucHui-x9oNCGZ5UX5VaLKXRRgEN6QcImCI-Os_q5fa2IsA1fH_L6_gSPF-XEPHbXfec_Zb2RnTNfmXAJ
+#EXTINF:-1 tvg-id="4249145_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249145_53017_CDZ_LAP_FC-Web_1789220877838.png" group-title="🔸FanCode🔸| Live Events",Cádiz vs Las Palmas [English]
+https://in-mc-flive.fancode.com/mumbai/4249145_english_hls_54fbd92c0a30615_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789308422~_GO=Generated~acl=/mumbai/4249145_english_hls_54fbd92c0a30615_1ta-di_h264/*~Signature=AWDec-GfkX7b69uQ4pbzSYAAQf0vgIG5eSJoiZM_CIDdiqNzYKq_Mp7V0G5s5AqqMDQ3xjU3nGlIMIf7JlKa2-x0evcL
 #EXTINF:-1 tvg-id="4249082_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Day 2 [English]
-https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789276867~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-H_kPXx79rr8_n3e0nucRubACkCOfEmK3xPNpY2O11EXtq25t7-EyQU-Bjk11nngVEj4SW38v8h5jnIuxumRY8K
-#EXTINF:-1 tvg-id="4248535_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png" group-title="🔸FanCode🔸| Live Events",San Marino GP [English]
-https://in-mc-flive.fancode.com/mumbai/4248535_english_hls_48b42c3e8942582_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789280513~_GO=Generated~acl=/mumbai/4248535_english_hls_48b42c3e8942582_1ta-di_h264/*~Signature=AWDec-ERkiTm-8xJdbxtfDKlWCge3e2i0BsROzp_RLGGFTOhZMBCTjfRSKHEqYBlh9zqLAwY-OKVJ84xpyHr7Bu1YusE
-#EXTINF:-1 tvg-id="139652_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Sprint Race [English]
-https://in-mc-flive.fancode.com/mumbai/139652_english_hls_3a38d2add898461_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789301133~_GO=Generated~acl=/mumbai/139652_english_hls_3a38d2add898461_1ta-di_h264/*~Signature=AWDec-GOka7SmuUHAMXr8zXoii7GZmYoOdzdfYEsXZjdg6Eq2TrYtKe3LoKFstTjpslumyXQNPj2XSXUS5SEHi209loD
-#EXTINF:-1 tvg-id="4248642_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png" group-title="🔸FanCode🔸| Live Events",Race 1 [English]
-https://in-mc-flive.fancode.com/mumbai/4248642_english_hls_c427f78f0822606_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789304168~_GO=Generated~acl=/mumbai/4248642_english_hls_c427f78f0822606_1ta-di_h264/*~Signature=AWDec-FBIrDxnmNMpAJF8LE--RsNts9r7upE4HcsgQB7YNXtQija2nj6vqMDntXkkp1LtcGS4pgITTSpFhescik0yaMJ
+https://in-mc-flive.fancode.com/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789305989~_GO=Generated~acl=/mumbai/4249082_english_hls_296a430a8655486_1ta-di_h264/*~Signature=AWDec-G-D2U2ko8ZC3FbTi0CQic-XBhVSH0jDjYq5s1eDB2mvr-eHa8Cdik9qtSd27rUZuVVfhtY7iduvrw1bEkNcYwF
+#EXTINF:-1 tvg-id="139744_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F3_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Feature Race 1 [English]
+https://in-mc-flive.fancode.com/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789315108~_GO=Generated~acl=/mumbai/139744_english_hls_3c02aed0d111162_1ta-di_h264/*~Signature=AWDec-F5WgpwBwq7xfKExCkKpI-oBrRExxRE5v4gUlkdRPmsTPskj7LfxxLjG6LRtChRPqic6tIVBlioY2uLXorp4NkA
+#EXTINF:-1 tvg-id="4247617_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247617_53004_OSN_ESL_FC-Web.png" group-title="🔸FanCode🔸| Live Events",CA Osasuna vs RCD Espanyol [English]
+https://in-mc-flive.fancode.com/mumbai/4247617_english_hls_22bdb535f954279_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789307205~_GO=Generated~acl=/mumbai/4247617_english_hls_22bdb535f954279_1ta-di_h264/*~Signature=AWDec-HESEZ9MBT6CTU-88JnNQS1Bhoo5NVxdqrdq1rtbhqjF8Yn98pyZsq8jbUrU5auYb-FI_eFqpCnc4w6f5o-rFcN
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789260593~acl=/*~id=60458657874177294505190484011827~hmac=76b593624f951201ea4a200e2b6d603cb6e3ac5ca8d4a941aca245e5f809f5d8
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789272117~acl=/*~id=43555235732842502163609490215910~hmac=b94b7559a2d9897a3b415810210541e9f6a78e43fa0f6ce644dfaf2bce42a279
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789260593~acl=/*~id=60458657874177294505190484011827~hmac=76b593624f951201ea4a200e2b6d603cb6e3ac5ca8d4a941aca245e5f809f5d8
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789272117~acl=/*~id=43555235732842502163609490215910~hmac=b94b7559a2d9897a3b415810210541e9f6a78e43fa0f6ce644dfaf2bce42a279
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789800024248_Hyundai-Archery-World-Cup-Final_Compound-Men-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Compound Men Elite QFs to Finals - 12 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789272117~acl=/*~id=43555235732842502163609490215910~hmac=b94b7559a2d9897a3b415810210541e9f6a78e43fa0f6ce644dfaf2bce42a279
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Amgen Irish Open - Day 3 - 12 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789272117~acl=/*~id=43555235732842502163609490215910~hmac=b94b7559a2d9897a3b415810210541e9f6a78e43fa0f6ce644dfaf2bce42a279
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7105,25 +6961,25 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 PM 12-09-2026
+#LAST_UPDATE:10:02 PM 12-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
-#UPCOMING_COUNT:16
+#UPCOMING_COUNT:15
 
-#EXTINF:-1 tvg-id="B0HFBLHW8K" tvg-name="Pakistan tour of England 2026 - 3rd Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9b23088-fada-406a-85e6-7777582d9803/8/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan tour of England 2026 - 3rd Test - England vs Pakistan
+#EXTINF:-1 tvg-id="B0HH562ZJD" tvg-name="European T20 Premier League 2026 - 23rd Match - Dublin Guardians vs Glasgow Cosmics" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.137163d6-60b1-450e-adf5-f802513ff3dc/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 23rd Match - Dublin Guardians vs Glasgow Cosmics
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=143a35fab2c5e553c1cc1936ac1fc488:9f11816687cec7221afad1492fa320ec
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tziwdkyit3/out/v1/2d48b29d83c445fabe81fb7858b14081/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HFZTK6P8" tvg-name="European T20 Premier League 2026 - 22nd Match - Belfast Wolves vs Rotterdam Dockers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.99f8e838-50fa-4bc8-816b-79a715b81bae/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 22nd Match - Belfast Wolves vs Rotterdam Dockers
+#EXTINF:-1 tvg-id="B0HF8HW9FL" tvg-name="Womens Caribbean Premier League 2026 - 4th Match - Trinbago Knight Riders Women vs Guyana Amazon Warriors Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fd23a1bb-1873-4563-b7d8-56756ac8f3ac/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Caribbean Premier League 2026 - 4th Match - Trinbago Knight Riders Women vs Guyana Amazon Warriors Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b58270b226e165048628aa8ed0006adc:d4081d990e8eac7ed6b130975bad3df8
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c0mmtkdirx/out/v1/573a77f5362e4064a3e95d0bd9b9381f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fcf5dfcd9f356b9db1e17119c30d52df:edc25ded4b149f4623c7026550134bc9
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fd56p9i0qq/out/v1/19aca7d85f6b4feebd7f4079e77bd2b7/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
