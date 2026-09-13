@@ -6502,10 +6502,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
-# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789825896248_Hyundai-Archery-World-Cup-Final_Recurve-Women-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Recurve Women Elite QFs to Finals - 14 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789378797~acl=/*~id=08435380329482269215428252528076~hmac=0142e26a9f65f1673ec70abf402f9790177c18bb527cb2a322d2c586b6d84473
+#EXTINF:-1 tvg-id="4248313_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248313_53026_BT_GUY_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Guyana Amazon Warriors vs Barbados Tridents [English]
+https://in-mc-flive.fancode.com/mumbai/4248313_english_hls_90c7cd38b338940_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789425390~_GO=Generated~acl=/mumbai/4248313_english_hls_90c7cd38b338940_1ta-di_h264/*~Signature=AWDec-ESFRkby3Pn4HRRGRcra1KtWFMSEwJjvoNSC0NmmCOnALRqqpffApi44_aDia85hgibSIPLENFkUW9x0h-KqLMH
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -6932,18 +6932,18 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 AM 14-09-2026
+#LAST_UPDATE:05:32 AM 14-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
-#UPCOMING_COUNT:8
+#UPCOMING_COUNT:7
 
-#EXTINF:-1 tvg-id="B0HG6G453X" tvg-name="Womens Caribbean Premier League 2026 - 6th Match - Guyana Amazon Warriors Women vs Barbados Tridents Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.40028c46-a3a5-4a5f-ad62-bfe5def88416/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Caribbean Premier League 2026 - 6th Match - Guyana Amazon Warriors Women vs Barbados Tridents Women
+#EXTINF:-1 tvg-id="B0HB8S9KK2" tvg-name="Caribbean Premier League 2026 - 35th Match - Barbados Tridents vs Guyana Amazon Warriors" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.11e4756e-2934-42aa-87f4-e0fe0d446983/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 35th Match - Barbados Tridents vs Guyana Amazon Warriors
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e28f700c0854c3f8cd7ddda798593bff:3f2543cc40178c87540573fb302cbc22
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3d7cq326me/out/v1/fd9665c4a0df4945ae69e83d215157d0/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=78a2ee35ebe3d529889f079d1a9c7eee:ffcd4e609f64e0fdfcfd6192f39b8257
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/o8nyyyttqm/out/v1/36b86367be03450fbf4ead4c839b97f3/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
