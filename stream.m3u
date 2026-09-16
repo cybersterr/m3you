@@ -6504,10 +6504,22 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4249167_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249167_53067_BOT_UGA_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Botswana vs Uganda [English]
-https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH
+#EXTINF:-1 tvg-id="4249168_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249168_53067_SRL_RWA_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Sierra Leone vs Rwanda [English]
+https://in-mc-flive.fancode.com/mumbai/4249168_english_hls_9ab02b931e3106_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789644140~_GO=Generated~acl=/mumbai/4249168_english_hls_9ab02b931e3106_1ta-di_h264/*~Signature=AVl424OHBnZO8nvHI17APBjYTjHV0Wu2TvdQlig6qrq0J9lWi02TWdAE1OWzq01k6oABQJ2LSkVph8w0JPu4lLcnGMAH
+#EXTINF:-1 tvg-id="4249245_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249245_53070_ADK_GGD_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Abu Dhabi Knight Riders Development vs Gulf Giants Development [English]
+https://in-mc-flive.fancode.com/mumbai/4249245_english_hls_aa9c255b7418566_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789649600~_GO=Generated~acl=/mumbai/4249245_english_hls_aa9c255b7418566_1ta-di_h264/*~Signature=AVl424Oip60gT9_ECSuYqo5GzRUxa4VKWNL9iuL2ggLT3MIUq3BgxiDRikkzM0MA5ozXY2U8TLmSuytEnadhcy4-4xsD
+#EXTINF:-1 tvg-id="4249094_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png" group-title="🔸FanCode🔸| Live Events",Barbados Tridents Women vs Guyana Amazon Warriors Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249094_english_hls_15c98ecb1454641_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789652024~_GO=Generated~acl=/mumbai/4249094_english_hls_15c98ecb1454641_1ta-di_h264/*~Signature=AVl424O3cbLtMxy27dZF7q0eUTILBUqaz8N5m1b6lg6Qa5eedCHRp4wP0T3jIQB7IDcGFPS67mtrNN41J8o62OpewlMC
+#EXTINF:-1 tvg-id="4248695_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248695_53053_PFC_VIS_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Port FC vs Vissel Kobe [English]
+https://in-mc-flive.fancode.com/mumbai/4248695_english_hls_a87abea81e84273_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789646568~_GO=Generated~acl=/mumbai/4248695_english_hls_a87abea81e84273_1ta-di_h264/*~Signature=AVl424NcVtbo2Vt2UwmRPBJqSzqGU-1CtCIIdJwdToWLMgJNvRqaCP1zoqhSCRvMISP7-pYbYSNMAFd1kkP_-94p8s8F
+#EXTINF:-1 tvg-id="4248962_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248962_53057_CV_MLV_fc-web_1789025065319.jpg" group-title="🔸FanCode🔸| Live Events",The Cong - Viettel FC vs Melbourne Victory [English]
+https://in-mc-flive.fancode.com/mumbai/4248962_english_hls_e2ce8076ed74989_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789646570~_GO=Generated~acl=/mumbai/4248962_english_hls_e2ce8076ed74989_1ta-di_h264/*~Signature=AVl424O1S0F_bOa_j6eaxnhkXxZIf34CiGyYuXujD0o5Cw8v1UIeR0SQeSZqWi6nOMqQu-IC4JkxjoWpZRjQkMZ3ysMI
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
+
+#EXTINF:-1 tvg-id="12800" tvg-name="FC Seoul vs Persib Bandung | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",FC Seoul vs Persib Bandung | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.44/hls/VTTTQQ.m3u8?
 
 #EXTINF:-1 tvg-id="591" tvg-name="Formula 1 | SKY Via APPLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",Formula 1 | SKY Via APPLE TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -6826,11 +6838,9 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="12778" tvg-name="Levante UD vs Athletic Club | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Levante UD vs Athletic Club | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="12800" tvg-name="FC Seoul vs Persib Bandung | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",FC Seoul vs Persib Bandung | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="12801" tvg-name="The Cong - Viettel vs Melbourne Victory | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",The Cong - Viettel vs Melbourne Victory | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="12801" tvg-name="The Cong - Viettel vs Melbourne Victory | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",The Cong - Viettel vs Melbourne Victory | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.44/hls/FCCCQ.m3u8?
 
 #EXTINF:-1 tvg-id="12802" tvg-name="Al Khaldiya vs Nasaf Qarshi | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al Khaldiya vs Nasaf Qarshi | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -6877,8 +6887,9 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="12816" tvg-name="Sunderland vs AZ Alkmaar | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sunderland vs AZ Alkmaar | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="12817" tvg-name="Port FC vs Vissel Kobe | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Port FC vs Vissel Kobe | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="12817" tvg-name="Port FC vs Vissel Kobe | LOW SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Port FC vs Vissel Kobe | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.44/hls/FCCCQQ.m3u8?
 
 #EXTINF:-1 tvg-id="12818" tvg-name="Atletico Mineiro vs Santos | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atletico Mineiro vs Santos | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -6907,27 +6918,29 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="12826" tvg-name="Botafogo vs Gremio | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Botafogo vs Gremio | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="12791" tvg-name="Colorado Rockies vs San Diego Padres | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Colorado Rockies vs San Diego Padres | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-https://edgestream5.pro/hls/jzabfazkbf27.m3u8?
-
-#EXTINF:-1 tvg-id="12792" tvg-name="Arizona Diamondbacks vs Miami Marlins | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Arizona Diamondbacks vs Miami Marlins | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-https://edgestream5.pro/hls/hfzljfahzcax29.m3u8?
-
-#EXTINF:-1 tvg-id="12793" tvg-name="Los Angeles Angels vs Seattle Mariners | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Los Angeles Angels vs Seattle Mariners | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-https://edgestream1.pro/hls/hefbafbakx28.m3u8?
-
 # ---------------=== 🏏 WILLOW | LIVE EVENTS ===-------------------
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 PM 16-09-2026
+#LAST_UPDATE:08:32 PM 16-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:7
+#LIVE_COUNT:2
+#UPCOMING_COUNT:5
+
+#EXTINF:-1 tvg-id="B0HGVJ53NQ" tvg-name="European T20 Premier League 2026 - 28th Match - Glasgow Cosmics vs Amsterdam Flames" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9bd716b-2554-4e39-b23b-5de7287157e0/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 28th Match - Glasgow Cosmics vs Amsterdam Flames
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72c45829112c36ea39177f661043a4d1:ba4388e2df24761496415881d73ee373
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z8ett7bmxa/out/v1/de11f96c14754e4fb2c2a10e15c79289/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H86X7D1G" tvg-name="Womens Caribbean Premier League 2026 - Play-Off -Barbados Tridents Women vs Guyana Amazon Warriors Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8131618f-d5b0-4fcd-ae11-5737a281d7b5/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Caribbean Premier League 2026 - Play-Off -Barbados Tridents Women vs Guyana Amazon Warriors Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=863be6e9b89112e9dde3ac9b9a2d19a6:2a951608542047e41ee47f35321db1fc
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/kb3jthsigm/out/v1/7961dc758db74f4dad07808037385cca/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
