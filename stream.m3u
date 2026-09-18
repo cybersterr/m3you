@@ -6502,6 +6502,16 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="4248316_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248296_53026_GUY_ABF_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Guyana Amazon Warriors vs Antigua & Barbuda Falcons [English]
+https://in-mc-flive.fancode.com/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789774469~_GO=Generated~acl=/mumbai/4248316_english_hls_bcc7e60eb7823_1ta-di_h264/*~Signature=AVl424OtaFwZJmB1VAIBblynJEJd6pcFwKa30CuWSiCgjz1J_9TTYr7ePq5H3dHx7Y78sYLnPSj-7PLnqWPIkmw-1M4H
+
+# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024067/178961947665553_Asain_games_26_QF_Sri-Lanka-vs-Malaysia_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka vs Malaysia - Quarter-Final - 18 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120306/Criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789736132~acl=/*~id=61156767846409987842738761729628~hmac=8ba5bc6545266304faa88f2e1446f6a723b45852c77f9c4fc88f981d5c969f06
+
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
 #EXTINF:-1 tvg-id="12636" tvg-name="England vs Sri Lanka | WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",England vs Sri Lanka | WILLOW - AQ
@@ -7106,18 +7116,25 @@ https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:32 AM 18-09-2026
+#LAST_UPDATE:06:32 AM 18-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:7
+#LIVE_COUNT:2
+#UPCOMING_COUNT:5
 
-#EXTINF:-1 tvg-id="B0HJJGJ86F" tvg-name="Womens Caribbean Premier League 2026 - Final - Trinbago Knight Riders Women vs Guyana Amazon Warriors Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ec57dee-e7f8-44b7-88c2-5a1ae7f50a0c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Caribbean Premier League 2026 - Final - Trinbago Knight Riders Women vs Guyana Amazon Warriors Women
+#EXTINF:-1 tvg-id="B0HF53B9NP" tvg-name="Caribbean Premier League 2026 - Qualifier 1- Guyana Amazon Warriors vs Antigua And Barbuda Falcons" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.47192df2-0f56-4030-96ad-9c84f56f7368/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - Qualifier 1- Guyana Amazon Warriors vs Antigua And Barbuda Falcons
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c69d7c5adb4a9553c8779252845b70e:ffe2bb9229136d9abd3509ca953ecbe5
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/0pazvzkvbw/out/v1/65658b6581b342da895709161387a582/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3f556ce52c9162e87e8fddb1fb41b874:a786dba73d7f1fde1cc2d2c0f051947c
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qxf3t6uovz/out/v1/0e4b5f368309487c852a212b34ea2fbf/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HF81VXDB" tvg-name="Womens Asian Games 2026 - 3rd Quarter-Final - Malaysia Women vs Sri Lanka Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c7731dc3-3271-4d69-8d3a-5838906e08c8/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Asian Games 2026 - 3rd Quarter-Final - Malaysia Women vs Sri Lanka Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f943c70883b140132ee3334d094d8ba5:8816ff77c348e508776841677e57b835
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nuld5bymbk/out/v1/67ba037880984fe3911c738cacf06329/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
