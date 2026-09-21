@@ -6757,7 +6757,20 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
+# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024405/1790017191370573_AG26_pakW_vs_bangW_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Pakistan Women vs Bangladesh Women - Bronze Medal Match - 22 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120300/AG2026_D2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790076703~acl=/*~id=16074707180501898440740691919709~hmac=eccd64d1f4426a808bd55ea53d3369d01813e773ef4d2075caa54c6019be2512
+
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
+
+#EXTINF:-1 tvg-id="13094" tvg-name="Baltimore Orioles vs Toronto Blue Jays | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Baltimore Orioles vs Toronto Blue Jays | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream2.pro/hls/dazhfiach15.m3u8?
+
+#EXTINF:-1 tvg-id="13095" tvg-name="Detroit Tigers vs Washington Nationals | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Detroit Tigers vs Washington Nationals | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream6.pro/hls/16yuitzaerghbhc16.m3u8?
 
 #EXTINF:-1 tvg-id="591" tvg-name="Formula 1 | SKY Via APPLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",Formula 1 | SKY Via APPLE TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7017,14 +7030,6 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="13093" tvg-name="Andorra vs Malta | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Andorra vs Malta | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="13094" tvg-name="Baltimore Orioles vs Toronto Blue Jays | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Baltimore Orioles vs Toronto Blue Jays | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-https://edgestream2.pro/hls/dazhfiach15.m3u8?
-
-#EXTINF:-1 tvg-id="13095" tvg-name="Detroit Tigers vs Washington Nationals | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Detroit Tigers vs Washington Nationals | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-https://edgestream6.pro/hls/16yuitzaerghbhc16.m3u8?
-
 #EXTINF:-1 tvg-id="13096" tvg-name="San Francisco Giants vs Minnesota Twins | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",San Francisco Giants vs Minnesota Twins | CRICFy LIVE
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 https://edgestream5.pro/hls/bzagLHzach19.m3u8?
@@ -7075,11 +7080,18 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:32 AM 22-09-2026
+#LAST_UPDATE:05:32 AM 22-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0HJ7VXFVN" tvg-name="Womens Asian Games 2026 - 3rd place play-off - Pakistan Women vs Bangladesh Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d81c6dab-53f0-4590-adac-c9338ccfb451/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Asian Games 2026 - 3rd place play-off - Pakistan Women vs Bangladesh Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fffbd595a239d4e97d8f4bc9704a2d76:614232c4a473ebbd72e77c860c03db2f
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k8bzrz6q6c/out/v1/3271c6590df74153a1e57c50fe47b94b/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
