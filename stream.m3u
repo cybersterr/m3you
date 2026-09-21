@@ -6683,41 +6683,75 @@ https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_inde
 https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd
 #EXTINF:-1 tvg-id="1241" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1241
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec3ba2c19dba843bbcd3bd84a0ed71d8
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Cinema_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="1242" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1242
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec8b8509ce1bcdcc063900e7a2541be4
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Cinema_HD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="1243" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1243
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Comedy/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-id="1244" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1244
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbc30ef323f66bc3624a39e4597f596f
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Abhiruchi_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="1245" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1245
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e8f330020e7b8869b6564cdafac3269
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_HD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="1246" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1246
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=971906ab152aad595c687e295d24b8aa
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telugu_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="1247" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1247
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bdf77b13e67ef1a6d31bd905f41b01
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Andhra_pradesh_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="1248" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1248
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Josh/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-id="1249" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1249
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Music/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-id="1250" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1250
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_News/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-id="1251" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1251
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f59f56dc3aea6fcbf320eef5415b76a
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Plus_MOB/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="1252" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1252
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8c1a6a02515bd611cbe9f7128962605
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Plus_HD_MOB/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="1253" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1253
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59ea2d177797c99ce8967e648bd3af4e
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Life_MOB/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="1254" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1254
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64f8083163512019e1280a3b0aefca1e
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
+#EXTINF:-1 tvg-id="1255" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1255
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a9aa7a3f69834c4f348430cc3f658bb
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
@@ -6725,29 +6759,10 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4249572_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249572_53080_KNM_BBT_fc-web_1789983233596.jpg" group-title="🔸FanCode🔸| Live Events",Keonjhar Miners vs Bhubaneshwar Tigers [English]
-https://in-mc-flive.fancode.com/mumbai/4249572_english_hls_15f8b6ee2a97748_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790067043~_GO=Generated~acl=/mumbai/4249572_english_hls_15f8b6ee2a97748_1ta-di_h264/*~Signature=AVl424PhwdyubS252pHXrbM4dn5ZlwgA9ZHtaCkfocNvgScWClSIFsnDmCulpXaItEQ-V8CDJFBX0xvfhvPkscNnF7MO
-
-# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024352/1789977683869714_AG_INDvsBAN_womens_kabbadi_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Hocke2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024352/1789977683869714_AG_INDvsBAN_womens_kabbadi_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Hocke2109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024352/1789977683869714_AG_INDvsBAN_womens_kabbadi_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Hocke2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024352/1789977683869714_AG_INDvsBAN_womens_kabbadi_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Hocke2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024352/1789977683869714_AG_INDvsBAN_womens_kabbadi_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Hocke2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932731698517_AG26_Table_Tennis_mens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India In Action - Table Tennis - 21 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932731698517_AG26_Table_Tennis_mens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India In Action - Table Tennis - 21 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2022322/AG_Strea2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932731698517_AG26_Table_Tennis_mens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India In Action - Table Tennis - 21 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2022320/AG_Strea2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932731698517_AG26_Table_Tennis_mens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India In Action - Table Tennis - 21 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2037140/AG_Strea2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
+#EXTINF:-1 tvg-id="4249573_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249573_53080_ROR_SAW_fc-web_1789983232781.jpg" group-title="🔸FanCode🔸| Live Events",Rourkela Superstars vs Sambalpur Warriors [English]
+https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA
+#EXTINF:-1 tvg-id="4249253_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249253_53070_DCD_DVD_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Dubai Capitals Development vs Desert Vipers Development [English]
+https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__1080p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7061,11 +7076,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:32 PM 21-09-2026
+#LAST_UPDATE:10:32 PM 21-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
-#UPCOMING_COUNT:19
+#UPCOMING_COUNT:20
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
