@@ -5835,7 +5835,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/zbbhakti/HLSPartner/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://jiotvmblive.cdn.jio.com/bpk-tv/zbcatun/HLSPartner/index.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/zbcategoryun/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-id="1072" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1072
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000
@@ -6757,13 +6757,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="4249573_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249573_53080_ROR_SAW_fc-web_1789983232781.jpg" group-title="🔸FanCode🔸| Live Events",Rourkela Superstars vs Sambalpur Warriors [English]
-https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249573_english_846167/ad-h264/index__1080p.m3u8?hdntl=Expires=1790085219~_GO=Generated~acl=/out/v1/ap-south-1/4249573_english_846167/ad-h264/*~Signature=AUh_zpVzGXmxwfu24n3MMAS8EpK63FiSXQq8nE1v7MCU9VBCXDF3184mHSXGV0n8KzWhUZa4frNzMSHilrnt71kzxgsA
-#EXTINF:-1 tvg-id="4249253_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249253_53070_DCD_DVD_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Dubai Capitals Development vs Desert Vipers Development [English]
-https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249253_english_26512/ad-h264/index__1080p.m3u8?hdntl=Expires=1790088853~_GO=Generated~acl=/out/v1/ap-south-1/4249253_english_26512/ad-h264/*~Signature=AUh_zpVtCqnle9aHAf6dMdxshoLzYn7aKbyLbkf3dL-R8CETnrLcc212YJjL7ZP50GdTwE0p0CvpsZi2G9mwAhCQId4N
-
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
 #EXTINF:-1 tvg-id="591" tvg-name="Formula 1 | SKY Via APPLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",Formula 1 | SKY Via APPLE TV
@@ -6894,14 +6887,18 @@ https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 http://193.47.62.44/hls/JYYYAAAA.m3u8
 
-#EXTINF:-1 tvg-id="12965" tvg-name="Los Angeles Rams vs New York Giants | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Los Angeles Rams vs New York Giants | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="12965" tvg-name="Los Angeles Rams vs New York Giants | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Los Angeles Rams vs New York Giants | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8
 
 #EXTINF:-1 tvg-id="13013" tvg-name="Japan vs India | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Japan vs India | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="13054" tvg-name="Pakistan Women vs Bangladesh Women | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan Women vs Bangladesh Women | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="13054" tvg-name="Pakistan Women vs Bangladesh Women | PTV SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan Women vs Bangladesh Women | PTV SPORTS - AQ
+https://baila-lentoo.pages.dev/nwp/373120.m3u8
+
+#EXTINF:-1 tvg-id="13054" tvg-name="Pakistan Women vs Bangladesh Women | TAMASHA PRO - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan Women vs Bangladesh Women | TAMASHA PRO - AQ
+https://cdn04khi-n.tamashaweb.com:8087/jazzauth/AG-SVOD-A-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDI6Mzg6MDIgQU0maGFzaF92YWx1ZT1IcjY1NVJWMitqejduaEZGdmpMWjhBPT0mdmFsaWRtaW51dGVzPTYw
 
 #EXTINF:-1 tvg-id="13055" tvg-name="Sri Lanka Women vs India Women | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka Women vs India Women | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -7021,14 +7018,16 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 #EXTINF:-1 tvg-id="13094" tvg-name="Baltimore Orioles vs Toronto Blue Jays | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Baltimore Orioles vs Toronto Blue Jays | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream2.pro/hls/dazhfiach15.m3u8?
 
 #EXTINF:-1 tvg-id="13095" tvg-name="Detroit Tigers vs Washington Nationals | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Detroit Tigers vs Washington Nationals | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream6.pro/hls/16yuitzaerghbhc16.m3u8?
 
 #EXTINF:-1 tvg-id="13096" tvg-name="San Francisco Giants vs Minnesota Twins | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",San Francisco Giants vs Minnesota Twins | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream5.pro/hls/bzagLHzach19.m3u8?
 
 #EXTINF:-1 tvg-id="8963" tvg-name="UFC LIVE | PARAMOUNT+ - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19906/image" group-title="🔵 LIVE | WORLDWIDE EVENTS",UFC LIVE | PARAMOUNT+ - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7076,7 +7075,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:32 PM 21-09-2026
+#LAST_UPDATE:02:32 AM 22-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
