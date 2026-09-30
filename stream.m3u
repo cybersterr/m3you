@@ -441,53 +441,6 @@ https://alex4528.site/zee5/aastha-gujarati/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/aastha-prime/manifest.m3u8
 
-# ---------------=== 🎬 OTT | SONY LIV ===-------------------
-
-#EXTINF:-1 tvg-id="SONY SAB HD.in" tvg-name="Sony Sab HD" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/LhKxf97t/sonysabhd.webp",Sony Sab HD
-https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
-#EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
-https://cloudplay-sonyliv.pages.dev/sethd.m3u8
-#EXTINF:-1 tvg-id="Sony Pal.in" tvg-name="Sony Pal" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/hjYyDb13/sonypal.webp",Sony Pal
-https://cloudplay-sonyliv.pages.dev/pal.m3u8
-#EXTINF:-1 tvg-id="Sony Wah.in" tvg-name="Sony WAH" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/HxJG9LSR/sonywah.webp",Sony Wah
-https://cloudplay-sonyliv.pages.dev/wah.m3u8
-#EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="Sony MAX" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/43JFB33w/sonymax.webp",Sony Max
-https://cloudplay-sonyliv.pages.dev/max.m3u8
-#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-name="Sony Max HD" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",Sony Max HD
-https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
-#EXTINF:-1 tvg-id="SONY MAX 2.in" tvg-name="Sony MAX2" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/vm32jdgy/sonymax2.webp",Sony Max 2
-https://cloudplay-sonyliv.pages.dev/max2.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 1.in" tvg-name="Sony Sports Ten 1" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",Sony TEN 1 SD
-https://cloudplay-sonyliv.pages.dev/ten1.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" tvg-name="Sony Sports Ten 1 HD" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",Sony TEN 1 HD
-https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 2.in" tvg-name="Sony Sports Ten 2" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/027s4b8q/sonysportsten2.webp",Sony TEN 2 SD
-https://cloudplay-sonyliv.pages.dev/ten2.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" tvg-name="Sony Sports Ten 2 HD" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",Sony TEN 2 HD
-https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3.in" tvg-name="Sony Sports Ten 3" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",Sony TEN 3 SD
-https://cloudplay-sonyliv.pages.dev/ten3.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" tvg-name="Sony Sports Ten 3 HD" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",Sony TEN 3 HD
-https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 4.in" tvg-name="Sony Sports Ten 4" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony TEN 4 SD
-https://cloudplay-sonyliv.pages.dev/ten4.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD.in" tvg-name="Sony Sports Ten 4 HD" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony TEN 4 HD
-https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 5.in" tvg-name="Sony Sports Ten 5" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",Sony TEN 5 SD
-https://cloudplay-sonyliv.pages.dev/ten5.m3u8
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-name="Sony Sports Ten 5 HD" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",Sony TEN 5 HD
-https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
-#EXTINF:-1 tvg-id="SONY YAY!.in" tvg-name="Sony Yay" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",Sony Yay
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
-#EXTINF:-1 tvg-id="SONY BBC Earth HD.in" tvg-name="Sony BBC Earth HD" group-title="🎬 OTT | SONY LIV" tvg-logo="https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",Sony BBC Earth HD
-https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="🎬 OTT | SONY LIV",Sony PIX HD
-https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
-#EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="🎬 OTT | SONY LIV",Sony Marathii
-https://cloudplay-sonyliv.pages.dev/marathi.m3u8
-#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="🎬 OTT | SONY LIV",Sony Aath
-https://cloudplay-sonyliv.pages.dev/aath.m3u8
-
 # ---------------=== ⭕ JioTv+ ===-------------------
 
 #EXTINF:-1 tvg-id="0" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",0
@@ -6757,11 +6710,33 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-# ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="13309" tvg-name="Houston Astros vs Chicago White Sox | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Houston Astros vs Chicago White Sox | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8
+#EXTINF:-1 tvg-id="4249300_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249300_53073_DEA_FFI_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Faridabad Firebirds vs Delhi Dynamos [English]
+https://in-mc-flive.fancode.com/mumbai/4249300_english_hls_10d1e7ac584062_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790839173~_GO=Generated~acl=/mumbai/4249300_english_hls_10d1e7ac584062_1ta-di_h264/*~Signature=ARxeIm8-sWrpW4w7eMnHrR5acNHX0vWIICyhVxEzS2KoRC4GS1Vz81BHseuxFlTipWg4Q4pMnwuLEIlPflTJV6evRQMI
+#EXTINF:-1 tvg-id="4250042_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Kolhan King vs Manoharpur Lions [English]
+https://in-mc-flive.fancode.com/mumbai/4250042_english_hls_66e39a398b76981_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790839176~_GO=Generated~acl=/mumbai/4250042_english_hls_66e39a398b76981_1ta-di_h264/*~Signature=ARxeIm-jVSCs-dqk71hD9Tnq_r2L3ZrAUrTIl4wp4YmxR23aZL0HTit7Ec9jr6BgiDUqeb3jT5roNvAAgQsW3Tee29EM
+#EXTINF:-1 tvg-id="4248565_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Kinoshita Group Show Court [English]
+https://in-mc-flive.fancode.com/mumbai/4248565_english_hls_7a1fef517154589_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790828270~_GO=Generated~acl=/mumbai/4248565_english_hls_7a1fef517154589_1ta-di_h264/*~Signature=ARxeIm8ZnwZyYGmjDsr3IN7CzbCIwL37_VtbG4wgSqgata4HqYNly8RVFIIhYfw5xwKHqex7ljpd8kB_AIYeR6w73kAO
+#EXTINF:-1 tvg-id="4248572_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Day 1 - World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4248572_english_hls_04053f73dc96308_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790828271~_GO=Generated~acl=/mumbai/4248572_english_hls_04053f73dc96308_1ta-di_h264/*~Signature=ARxeIm8hJGt7KIGpqvp95F5P5vsSw_mLc-0IS9Bi5XgKZ0BeCoYOjNXDFzyKRrZAtSbPkvVffKGXNLmsB_1CJT7pbSsN
+#EXTINF:-1 tvg-id="4248551_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" group-title="🔸FanCode🔸| Live Events",Day 1 - World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4248551_english_hls_e05fd7472816411_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790828271~_GO=Generated~acl=/mumbai/4248551_english_hls_e05fd7472816411_1ta-di_h264/*~Signature=ARxeIm-x2u1oNffj_0GD851j4FMceTkeMqL15GX8IZaw6G22Y3rjr3hRrPt2irg4vIsZaf0bNwi_z21nZewJp2OCWO0A
+#EXTINF:-1 tvg-id="4248558_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png" group-title="🔸FanCode🔸| Live Events",Lotus Court [English]
+https://in-mc-flive.fancode.com/mumbai/4248558_english_hls_843d472f0e50815_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790828272~_GO=Generated~acl=/mumbai/4248558_english_hls_843d472f0e50815_1ta-di_h264/*~Signature=ARxeIm-Moji-286ql74P6C1Anmr8zEVglX-AZBQAfC2RGEmitZojHbExWwVePNULlY5uW5ToDo5duop2VrREKJMIYTMN
+
+# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="🔹️SonyLiv Live🔹️",Day 12 - 30 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790799484~acl=/*~id=95601985474651282805649716338783~hmac=4f8e6c820c0f034847216c56f8e5df0bd7a0d0c4b1a2af0303f1d8ca47025120
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="🔹️SonyLiv Live🔹️",Day 12 - 30 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790799484~acl=/*~id=95601985474651282805649716338783~hmac=4f8e6c820c0f034847216c56f8e5df0bd7a0d0c4b1a2af0303f1d8ca47025120
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="🔹️SonyLiv Live🔹️",Day 12 - 30 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790799484~acl=/*~id=95601985474651282805649716338783~hmac=4f8e6c820c0f034847216c56f8e5df0bd7a0d0c4b1a2af0303f1d8ca47025120
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="🔹️SonyLiv Live🔹️",Day 12 - 30 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790799484~acl=/*~id=95601985474651282805649716338783~hmac=4f8e6c820c0f034847216c56f8e5df0bd7a0d0c4b1a2af0303f1d8ca47025120
+
+# ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
 #EXTINF:-1 tvg-id="591" tvg-name="Formula 1 | TSN SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",Formula 1 | TSN SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7090,6 +7065,10 @@ https://chatgpt.hereisman.net/playlist/57352/load-playlist?
 #EXTINF:-1 tvg-id="13308" tvg-name="Atlanta Braves vs Philadelphia Phillies | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atlanta Braves vs Philadelphia Phillies | HD QUALITY
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
 https://edgestream2.pro/hls/dazhfiach15.m3u8
+
+#EXTINF:-1 tvg-id="13309" tvg-name="Houston Astros vs Chicago White Sox | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Houston Astros vs Chicago White Sox | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8
 
 #EXTINF:-1 tvg-id="13322" tvg-name="Benin vs Mauritania | HD SERVER" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Benin vs Mauritania | HD SERVER
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
@@ -7482,7 +7461,7 @@ http://193.47.62.55/hls/TPPPAAAA.m3u8
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:02 AM 30-09-2026
+#LAST_UPDATE:02:02 PM 30-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
