@@ -6635,8 +6635,8 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4249694_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg" group-title="🔸FanCode🔸| Live Events",Zimbabwe vs Bangladesh [English]
-https://in-mc-flive.fancode.com/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792321253~_GO=Generated~acl=/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_92e3a1f2-70ec-47~Signature=AZJsJWazDda1JN-03PivhceruiMxAc3nX-JZ8PaBnr-UeQiQXFPE6jzdN4oI6SuIvoeJ2gbJOHPVOArkrrho_vBpG_sH
+#EXTINF:-1 tvg-id="4249996_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249996_53017_LAP_CAS_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Las Palmas vs Castellón [English]
+https://in-mc-flive.fancode.com/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792349124~_GO=Generated~acl=/mumbai/4249996_english_hls_a8e78e5a1f3532_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_64917411-c3a6-43~Signature=AZJsJWbjP1VWjyAzaowSKeiLaD6UtG5aDKeZSyw-MGW1cfH2IpGmdfQkiqDD8ma_OUBMHK4ZIJni7WUg1YeEbGFpUE8F
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7379,10 +7379,10 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:02 AM 18-10-2026
+#LAST_UPDATE:02:32 AM 18-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
+#LIVE_COUNT:1
 #UPCOMING_COUNT:15
 
 #EXTINF:-1 tvg-id="B0HN8KZH6R" tvg-name="ODI Tri-Nation Series in UAE 2026 - 1st Match - Bangladesh vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a80d2dde-3b77-4b77-b00a-23cb3e2d17c8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ODI Tri-Nation Series in UAE 2026 - 1st Match - Bangladesh vs Zimbabwe
@@ -7390,14 +7390,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HF49JPT3" tvg-name="West Indies tour of India 2026 - 5th T20I - India vs West Indies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93411739-3488-40b7-865f-f09383e04841/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",West Indies tour of India 2026 - 5th T20I - India vs West Indies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c21cda3aab763439e2f05489f9a73827:582de22865b044837d559884992caf4f
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1/af3ffb719dea4937aede63586796d513/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
