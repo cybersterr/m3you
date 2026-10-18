@@ -6633,6 +6633,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="4249798_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249798_53097_MR-W_HB-W_FC-Web_1791883788092.png" group-title="🔸FanCode🔸| Live Events",Hobart Hurricanes Women vs Melbourne Renegades Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249798_english_hls_709c1fbb024496_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792363953~_GO=Generated~acl=/mumbai/4249798_english_hls_709c1fbb024496_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3a40c8d9-5e16-43~Signature=AZJsJWbLv-WDD9r_RoxjfTlK0ULozoAviIjwFPuCIti9BhsFLxQPGki7kNX6Y-vWCIXpA38OQ_x9bmkOpG4oQppGsSgD
+
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
 #EXTINF:-1 tvg-id="13057" tvg-name="India vs West Indies | WILLOW - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",India vs West Indies | WILLOW - AQ
@@ -7374,7 +7379,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:32 AM 18-10-2026
+#LAST_UPDATE:06:02 AM 18-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
