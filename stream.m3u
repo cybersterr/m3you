@@ -6635,8 +6635,15 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4249798_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249798_53097_MR-W_HB-W_FC-Web_1791883788092.png" group-title="🔸FanCode🔸| Live Events",Hobart Hurricanes Women vs Melbourne Renegades Women [English]
-https://in-mc-flive.fancode.com/mumbai/4249798_english_hls_709c1fbb024496_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792363953~_GO=Generated~acl=/mumbai/4249798_english_hls_709c1fbb024496_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3a40c8d9-5e16-43~Signature=AZJsJWbLv-WDD9r_RoxjfTlK0ULozoAviIjwFPuCIti9BhsFLxQPGki7kNX6Y-vWCIXpA38OQ_x9bmkOpG4oQppGsSgD
+#EXTINF:-1 tvg-id="4249799_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249799_53097_BH-W_AS-W_FC-Web_1791883788852.png" group-title="🔸FanCode🔸| Live Events",Adelaide Strikers Women vs Brisbane Heat Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792380305~_GO=Generated~acl=/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_61b73373-123d-40~Signature=AZJsJWYFi00gi2LtUWHItr9dACR_JDd7-8VggMxus5oap3AXIx2hGW68zKKbWVab6IpGNmJbJQ1dCj7eF35JfBrBlwwH
+#EXTINF:-1 tvg-id="4249800_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249800_53097_ST-W_PS-W_FC-Web_1791883788884.png" group-title="🔸FanCode🔸| Live Events",Perth Scorchers Women vs Sydney Thunder Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792380306~_GO=Generated~acl=/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6b46a2ef-91b2-41~Signature=AZJsJWbk_Jen28lgOyEc1TiPdmCLDgjt-ucERoeT2qOIYQRklP9J3W_J6bAEfTVC1T8oM4HC-OC7AyeG0yHsHbjd6ooJ
+
+# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792341504~acl=/*~id=62102761163746827099903357129293~hmac=3afb1b835b1406d38dde14d5e8a3f2e8e6b7810bfc254089f5247e8956c2206c
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7379,7 +7386,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:02 AM 18-10-2026
+#LAST_UPDATE:10:32 AM 18-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
