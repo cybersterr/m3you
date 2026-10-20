@@ -6637,16 +6637,20 @@ https://in-mc-flive.fancode.com/mumbai/4249665_english_hls_910773056359591_1ta-d
 #EXTINF:-1 tvg-id="1256" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1256
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://in-mc-flive.fancode.com/mumbai/4249666_english_hls_b5f24432ee17869_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792539904~_GO=Generated~acl=/mumbai/4249666_english_hls_b5f24432ee17869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f7cea390-4de4-4f~Signature=ASgJGVBqagI17obaNYsgasMouHcw_CahJrseX8wq2FKtt1MMwKNr5Mzgo31XjgmB76J9W2kBnMTPqEOx-rS90-zRhxoG
+#EXTINF:-1 tvg-id="1257" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1257
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://in-mc-flive.fancode.com/mumbai/4249802_english_hls_04f2a3915058094_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792537480~_GO=Generated~acl=/mumbai/4249802_english_hls_04f2a3915058094_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8f363393-ce55-4e~Signature=ASgJGVC1gDSn5hkVxAc--hEODuHZiHtZdsSLACRdRfcrVDXMq_0OLnc_5fLYmDXcgSbU1qgkPswOyFzk744Ov1lMOyQC
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4249665_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg" group-title="🔸FanCode🔸| Live Events",Tasmania vs Victoria [English]
-https://in-mc-flive.fancode.com/mumbai/4249665_english_hls_910773056359591_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792538087~_GO=Generated~acl=/mumbai/4249665_english_hls_910773056359591_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f11340ea-5c42-41~Signature=ASgJGVC0Se10BiQeCJIKe8BiCfdk7MEqYzCJ1Jr_e-11yNrkcM6YuL-DyHh_hr3yZXJPI8bQSua7q8cqfIPF8_xrSmoL
 #EXTINF:-1 tvg-id="4249666_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg" group-title="🔸FanCode🔸| Live Events",South Australia vs Queensland [English]
 https://in-mc-flive.fancode.com/mumbai/4249666_english_hls_b5f24432ee17869_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792539904~_GO=Generated~acl=/mumbai/4249666_english_hls_b5f24432ee17869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f7cea390-4de4-4f~Signature=ASgJGVBqagI17obaNYsgasMouHcw_CahJrseX8wq2FKtt1MMwKNr5Mzgo31XjgmB76J9W2kBnMTPqEOx-rS90-zRhxoG
-#EXTINF:-1 tvg-id="4249802_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Semifinal1web.png" group-title="🔸FanCode🔸| Live Events",Adelaide Strikers Women vs Perth Scorchers Women [English]
-https://in-mc-flive.fancode.com/mumbai/4249802_english_hls_04f2a3915058094_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792537480~_GO=Generated~acl=/mumbai/4249802_english_hls_04f2a3915058094_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8f363393-ce55-4e~Signature=ASgJGVC1gDSn5hkVxAc--hEODuHZiHtZdsSLACRdRfcrVDXMq_0OLnc_5fLYmDXcgSbU1qgkPswOyFzk744Ov1lMOyQC
+#EXTINF:-1 tvg-id="4249667_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg" group-title="🔸FanCode🔸| Live Events",New South Wales vs Western Australia [English]
+https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8092749_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792548991~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8092749_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0fd2ae7-1258-41~Signature=ASgJGVAnkjN4Z6miapK5sBq-KIjhhmhiQd7VTT4P2Z6AMLeu81_sF5JEQ1I8h1PqN8ChU6kCnHX2KBCaorRbbixzJ_4J
+#EXTINF:-1 tvg-id="4249608_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="🔸FanCode🔸| Live Events",Day 2 - World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792563514~_GO=Generated~acl=/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bf9d79af-590d-4c~Signature=ASgJGVBbzn1rjyL8LkA3Kr1Oih3ShXxhm2c1o8pI7r40xfxfxtdMbjyBuyi5stZs_OURItI1G-BY-ZWNzTQfp5kjHnAH
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7076,11 +7080,18 @@ http://193.47.62.50/hls/6HHHAAAAQ.m3u8
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:32 AM 20-10-2026
+#LAST_UPDATE:01:02 PM 20-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:15
+#LIVE_COUNT:1
+#UPCOMING_COUNT:14
+
+#EXTINF:-1 tvg-id="B0HFWWJWH6" tvg-name="Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chnnxqauwu/out/v1/dfdb7db2bdf5432aacc28e53343360aa/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
