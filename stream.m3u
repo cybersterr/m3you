@@ -6635,43 +6635,77 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #EXTINF:-1 tvg-id="1257" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1257
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249616_english_hls_1cfc6b5feb21323_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792698721~_GO=Generated~acl=/mumbai/4249616_english_hls_1cfc6b5feb21323_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_86ea3497-b379-46~Signature=ASgJGVAgCiwV4PQLyjtQUcPPvhy3zByffFK4sxlBaFg-H9-CyUdD2li9I9Dq_kYydu0lrfgetls_Hupavw8euuToIEIJ
+https://in-mc-flive.fancode.com/mumbai/4249665_english_hls_910773056329761_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792711464~_GO=Generated~acl=/mumbai/4249665_english_hls_910773056329761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c1e931dc-9758-45~Signature=ASgJGVCv8yjFKIS9KcTs16MsTYY4TSHjszA48MXf8R5pxpkhhf9kmq1z1jRSo3Hv3SqhUX8R3eNGB5U6qycLzUiQUjsH
 #EXTINF:-1 tvg-id="1258" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1258
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e172cb6887761bf883aa925e173e7b67
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-#EXTINF:-1 tvg-id="1259" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1259
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fcd23f01aaef2bcf9c5cb2907f86aca
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
-#EXTINF:-1 tvg-id="1260" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1260
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+#EXTINF:-1 tvg-id="1259" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1259
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09f952780ba5b30bc222439aaa3ac09b
+#KODIPROP:inputstream.adaptive.license_key=5164e6d05164a2d65fa8fcc962aa4861
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4249665_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg" group-title="🔸FanCode🔸| Live Events",Tasmania vs Victoria [English]
-https://in-mc-flive.fancode.com/mumbai/4249665_english_hls_910773056329761_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792711464~_GO=Generated~acl=/mumbai/4249665_english_hls_910773056329761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c1e931dc-9758-45~Signature=ASgJGVCv8yjFKIS9KcTs16MsTYY4TSHjszA48MXf8R5pxpkhhf9kmq1z1jRSo3Hv3SqhUX8R3eNGB5U6qycLzUiQUjsH
+#EXTINF:-1 tvg-id="4249667_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg" group-title="🔸FanCode🔸| Live Events",New South Wales vs Western Australia [English]
+https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8021593_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792721769~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8021593_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5ba5a83b-f592-4d~Signature=ASgJGVB754BlzqlT_uSSb012RE4a4jP8Z8HX2vAVyqNIvKNxDzEsLpwzZWQfySA5K4GKch-b8kxio9yhTJGq6W0ZT5YG
+
+# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055323772141_Asian-Tour_LINK-Hong-Kong-Open_D1_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",LINK Hong Kong Open - Day 1 - 22 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_LIN2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792688137~acl=/*~id=36065334410001926695874199486925~hmac=3afbee34fc99cb8b850daeb54dc3cdc889cf6b507977a665d64f57a0971343a5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611483435924_DP-World_Genesis-Championship_D1_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Genesis Championship - Day 1 - 22 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792688137~acl=/*~id=36065334410001926695874199486925~hmac=3afbee34fc99cb8b850daeb54dc3cdc889cf6b507977a665d64f57a0971343a5
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
-#EXTINF:-1 tvg-id="14019" tvg-name="Montevideo City Torque vs Atletico Mineiro | beIN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Montevideo City Torque vs Atletico Mineiro | beIN ENGLISH - AQ
+#EXTINF:-1 tvg-id="14015" tvg-name="Palmeiras vs Fluminense | beIN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Palmeiras vs Fluminense | beIN ENGLISH - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="14019" tvg-name="Montevideo City Torque vs Atletico Mineiro | SportDigital Fussball" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Montevideo City Torque vs Atletico Mineiro | SportDigital Fussball
+#EXTINF:-1 tvg-id="14015" tvg-name="Palmeiras vs Fluminense | SportDigital Fussball" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Palmeiras vs Fluminense | SportDigital Fussball
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
+
+#EXTINF:-1 tvg-id="14021" tvg-name="Washington Wizards vs Milwaukee Bucks | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Washington Wizards vs Milwaukee Bucks | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream6.pro/hls/wfazgsqtrezu66.m3u8
+
+#EXTINF:-1 tvg-id="14022" tvg-name="Orlando Magic vs Atlanta Hawks | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Orlando Magic vs Atlanta Hawks | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream3.pro/hls/mlkijfezag65.m3u8
+
+#EXTINF:-1 tvg-id="14023" tvg-name="Miami Heat vs Minnesota Timberwolves | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Miami Heat vs Minnesota Timberwolves | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream3.pro/hls/hfsdqtaxvb67.m3u8
+
+#EXTINF:-1 tvg-id="14024" tvg-name="Toronto Raptors vs Chicago Bulls | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Toronto Raptors vs Chicago Bulls | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream3.pro/hls/zeafwqvhfe69.m3u8
+
+#EXTINF:-1 tvg-id="14025" tvg-name="Brooklyn Nets vs Charlotte Hornets | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Brooklyn Nets vs Charlotte Hornets | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8
+
+#EXTINF:-1 tvg-id="14026" tvg-name="Memphis Grizzlies vs Utah Jazz | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Memphis Grizzlies vs Utah Jazz | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8
+
+#EXTINF:-1 tvg-id="14027" tvg-name="New Orleans Pelicans vs Indiana Pacers | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",New Orleans Pelicans vs Indiana Pacers | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream3.pro/hls/ztyarueaghj71.m3u8
+
+#EXTINF:-1 tvg-id="14028" tvg-name="Houston Rockets vs Dallas Mavericks | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Houston Rockets vs Dallas Mavericks | HD QUALITY
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8
 
 #EXTINF:-1 tvg-id="591" tvg-name="Formula 1 | SKY SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",Formula 1 | SKY SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -6938,20 +6972,6 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="14009" tvg-name="New Zealand vs India | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",New Zealand vs India | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="14015" tvg-name="Palmeiras vs Fluminense | beIN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Palmeiras vs Fluminense | beIN ENGLISH - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="14015" tvg-name="Palmeiras vs Fluminense | SportDigital Fussball" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Palmeiras vs Fluminense | SportDigital Fussball
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
-
 #EXTINF:-1 tvg-id="14016" tvg-name="Al-Hazem vs Al-Fayha | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Hazem vs Al-Fayha | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
@@ -6960,38 +6980,6 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTINF:-1 tvg-id="14018" tvg-name="Al-Ahli vs Al-Khaleej | CRICFy LIVE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Ahli vs Al-Khaleej | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="14021" tvg-name="Washington Wizards vs Milwaukee Bucks | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Washington Wizards vs Milwaukee Bucks | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream6.pro/hls/wfazgsqtrezu66.m3u8
-
-#EXTINF:-1 tvg-id="14022" tvg-name="Orlando Magic vs Atlanta Hawks | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Orlando Magic vs Atlanta Hawks | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream3.pro/hls/mlkijfezag65.m3u8
-
-#EXTINF:-1 tvg-id="14023" tvg-name="Miami Heat vs Minnesota Timberwolves | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Miami Heat vs Minnesota Timberwolves | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream3.pro/hls/hfsdqtaxvb67.m3u8
-
-#EXTINF:-1 tvg-id="14024" tvg-name="Toronto Raptors vs Chicago Bulls | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Toronto Raptors vs Chicago Bulls | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream3.pro/hls/zeafwqvhfe69.m3u8
-
-#EXTINF:-1 tvg-id="14025" tvg-name="Brooklyn Nets vs Charlotte Hornets | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Brooklyn Nets vs Charlotte Hornets | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8
-
-#EXTINF:-1 tvg-id="14026" tvg-name="Memphis Grizzlies vs Utah Jazz | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Memphis Grizzlies vs Utah Jazz | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8
-
-#EXTINF:-1 tvg-id="14027" tvg-name="New Orleans Pelicans vs Indiana Pacers | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",New Orleans Pelicans vs Indiana Pacers | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream3.pro/hls/ztyarueaghj71.m3u8
-
-#EXTINF:-1 tvg-id="14028" tvg-name="Houston Rockets vs Dallas Mavericks | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Houston Rockets vs Dallas Mavericks | HD QUALITY
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8
 
 #EXTINF:-1 tvg-id="14029" tvg-name="Los Angeles Lakers vs Golden State Warriors | HD QUALITY" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Los Angeles Lakers vs Golden State Warriors | HD QUALITY
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
@@ -7405,6 +7393,20 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 http://193.47.62.55/hls/ajjjQQ.m3u8
 
+#EXTINF:-1 tvg-id="14019" tvg-name="Montevideo City Torque vs Atletico Mineiro | beIN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Montevideo City Torque vs Atletico Mineiro | beIN ENGLISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="14019" tvg-name="Montevideo City Torque vs Atletico Mineiro | SportDigital Fussball" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Montevideo City Torque vs Atletico Mineiro | SportDigital Fussball
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
+
 #EXTINF:-1 tvg-id="14020" tvg-name="Reading vs Leyton Orient | beIN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Reading vs Leyton Orient | beIN ENGLISH - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7420,7 +7422,7 @@ http://193.47.62.55/hls/ajjjQQQQ.m3u8
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:02 AM 22-10-2026
+#LAST_UPDATE:10:32 AM 22-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
