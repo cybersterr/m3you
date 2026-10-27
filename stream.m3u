@@ -6629,35 +6629,17 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #EXTINF:-1 tvg-id="1257" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1257
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4250000_english_hls_76ed4f8d9d26684_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793130651~_GO=Generated~acl=/mumbai/4250000_english_hls_76ed4f8d9d26684_1ta-di_h264/*~SessionID=122002764__68a9dd8a-0e3c-43~Signature=ATFKiJtsL0Fs-io2Gvg_bDYnDlpsKxFK2H7l3U9YdGOUiNgmZvBvf9qc0zny-Yj-HndiFFfp-yod25PJnxwzHsySEUgK
+https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793105509~acl=/*~id=95202446262689830458699592741341~hmac=7566cd3cf391d2037d0c381f046146c14370f5347ed633b6629d8b0542155d0e
 #EXTINF:-1 tvg-id="1258" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1258
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793126979~_GO=Generated~acl=/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a21_watcho_9a3bb5d0-5fad-42~Signature=ATFKiJsFFg--A2t5giv0rcSf-HpvZdCRf13hLuy9Zt6F0f0y5d4Z6EHjT5jf7cSWIy9RbfDKw7xnlJQbh9vmigkEU24B
-#EXTINF:-1 tvg-id="1259" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1259
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793094005~acl=/*~id=23552444320333942670120548886574~hmac=11d7b53d5494b1220dda6d8bde6f36a5575732420917c2a6c2d7d9e793cdf2de
-#EXTINF:-1 tvg-id="1260" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1260
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8685817c4d31f322e08940feeae2855a
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1 tvg-id="1261" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1261
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09f952780ba5b30bc222439aaa3ac09b
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-#EXTINF:-1 tvg-id="1262" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1262
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8685817c4d31f322e08940feeae2855a
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",1st Unofficial Test - Day 4 - 27 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793101270~acl=/*~id=09553728477077543166169840303843~hmac=8a52ce2e89e4f9829b7a12bdfeaeaecd5e7f662ae17f063b006b6a119369be40
+https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793110964~acl=/*~id=57659608205765368315194928106299~hmac=5836695430ea912a1ffa39d0cb6eb8a7afc423cf1c387d67d2a560b4e09640fe
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7177,7 +7159,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:32 AM 27-10-2026
+#LAST_UPDATE:08:02 AM 27-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
