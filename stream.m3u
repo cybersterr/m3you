@@ -6629,39 +6629,27 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #EXTINF:-1 tvg-id="1257" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1257
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793216374~_GO=Generated~acl=/mumbai/4249991_english_hls_94711ec75a25557_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a22_watcho_b534a7d1-9289-48~Signature=ATFKiJvzB5Jk1M9sTckBj8wSaoW7-1N3SkbG-ewUBkwXlSOnot9MzCnUMwl1NNd-IRa2JhRvpRarZ63g0odNrBos3ZkL
+https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec982209_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793231517~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec982209_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d51_watcho_00a5f443-bc42-4a~Signature=ATFKiJsDUMm7HeSc1FmXe0SE41j7fRxN7QTWnERMYBGCEzzf1i-UHwvEhswiweIoKv7WO1yLijMhrpl8eszFPfaBvocN
 #EXTINF:-1 tvg-id="1258" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1258
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72a3574c534811db5a4804695a184221
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249711_english_hls_0ae47e17b011105_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793216982~_GO=Generated~acl=/mumbai/4249711_english_hls_0ae47e17b011105_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1a3_watcho_029fd4ce-2d42-43~Signature=ATFKiJvPRNasFSTX9bxOGSXQ-MMX9nefU4XOQdBaF7sjKTQgFkPU-cJwjBIOHg05WwicAciYLxbGu_YvMfIXYMxKeJYH
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
 #EXTINF:-1 tvg-id="1259" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1259
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249629_english_hls_934d6d9fab39308_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793219407~_GO=Generated~acl=/mumbai/4249629_english_hls_934d6d9fab39308_1ta-di_h264/*~SessionID=fc-app_sportsguruand_262_watcho_aea5158c-6fbd-42~Signature=ATFKiJtHSiNbn6DnFWg-acHMYTg74JPKrzj1NKYPc0rvJH_aoe65S_z22WeBCDmFydr6NZfzMxyq6VUdgdla3lTsLTYH
-#EXTINF:-1 tvg-id="1260" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1260
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793221224~_GO=Generated~acl=/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e2d_watcho_bdedc8af-328a-46~Signature=ATFKiJs_0sy_t4PbeWN_oLEmAAo8ma7JIhA5-ZmsQnrX89zhdYJ0cneFutsVgYyXmXk_sTv0pdSm3JdPpf6RLUDbmokG
-#EXTINF:-1 tvg-id="1261" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1261
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5164e6d05164a2d65fa8fcc962aa4861
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1 tvg-id="1262" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1262
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09f952780ba5b30bc222439aaa3ac09b
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-#EXTINF:-1 tvg-id="1263" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1263
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="1260" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1260
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8685817c4d31f322e08940feeae2855a
+#KODIPROP:inputstream.adaptive.license_key=417b7577df2477d1842a4bb9eee852bc
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1 tvg-id="1264" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1264
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8685817c4d31f322e08940feeae2855a
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
+
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="4249668_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Western Australia vs South Australia [English]
+https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec982209_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793231517~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec982209_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d51_watcho_00a5f443-bc42-4a~Signature=ATFKiJsDUMm7HeSc1FmXe0SE41j7fRxN7QTWnERMYBGCEzzf1i-UHwvEhswiweIoKv7WO1yLijMhrpl8eszFPfaBvocN
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7137,7 +7125,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:02 AM 28-10-2026
+#LAST_UPDATE:08:02 AM 28-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
