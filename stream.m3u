@@ -6628,130 +6628,73 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #EXTINF:-1 tvg-id="1257" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1257
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN
+https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM
 #EXTINF:-1 tvg-id="1258" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1258
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249493_english_hls_9dd889a4e575816_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793390036~_GO=Generated~acl=/mumbai/4249493_english_hls_9dd889a4e575816_1ta-di_h264/*~SessionID=fc-app_sportsguruand_061_watcho_bbd15a75-7cf2-4e~Signature=ATFKiJuPDTq_OQiKVmtl0YJyijR_kjOrmwP0RKKNIrE8lb4T1l1fRZHb4G8_RON4SwzdSJNpoJGmUhlnyBkFMmzXf9oB
+https://in-mc-flive.fancode.com/mumbai/4250307_english_hls_37a9a212eb16184_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793405802~_GO=Generated~acl=/mumbai/4250307_english_hls_37a9a212eb16184_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a11_watcho_f715c582-51c4-4a~Signature=ATFKiJub7nqlDE7bvQOz9gM4VIhX-8ZmksF3Bv6cyIJhhGwGDIZZZzLSDKGl1ELg87qBENo2xXdfgz5imDqkjiMOfdoI
 #EXTINF:-1 tvg-id="1259" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1259
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249494_english_hls_909a072ec77130_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793390037~_GO=Generated~acl=/mumbai/4249494_english_hls_909a072ec77130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d9_watcho_02563d75-49ab-4f~Signature=ATFKiJt2MFcV6QAhmx_Da5VdqHDG6xBx02FoJChJG8MduQ8HYSYxQbsF5N6Cn2foPN5uzRveNtw3Jtde6nGElqI_Ug0G
+https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793404590~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_92b_watcho_e329347a-c11b-4b~Signature=ATFKiJsNotphON-xNhbtaDkcKvikryZa4v6tQ6BhY40OO_dcpO1kv-u-it4y1ylmem2ng5kB3r6MrGU5S_KK9YI8eREN
 #EXTINF:-1 tvg-id="1260" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1260
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea92e2f4ec746aa5e64fd9c4fc6ed3e9
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249645_english_hls_4a573c125888268_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793386397~_GO=Generated~acl=/mumbai/4249645_english_hls_4a573c125888268_1ta-di_h264/*~SessionID=fc-app_sportsguruand_08d_watcho_32064cd4-474f-42~Signature=ATFKiJvcjDHAgVzOkgc4Yhtw0pxqLiBhIlLxDk7jPISWN_ryjIxfsePaYTg1Iik3MAMV85jycsZlrhoEeRkPSlkkcioN
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
 #EXTINF:-1 tvg-id="1261" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1261
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72a3574c534811db5a4804695a184221
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249652_english_hls_99fa8a4e1b71160_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793390038~_GO=Generated~acl=/mumbai/4249652_english_hls_99fa8a4e1b71160_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2ff_watcho_49b732fd-dfc7-48~Signature=ATFKiJtB80qvgFG84rrCZhOM3k15Q9mbT9ZW0Bb2-m5J3Ldk71nrrCoynf8UI36ZNj37jYvuelGiu3TeuBuv9N7sYZ8M
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 #EXTINF:-1 tvg-id="1262" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1262
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09f952780ba5b30bc222439aaa3ac09b
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793391859~_GO=Generated~acl=/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_72a_watcho_2d6b8c4f-0a6d-46~Signature=ATFKiJvWOL_6BzE5LgF0nHEAxks2lGhdZVfWKrkOXEEauR9m6In9p6CnFIYOXD3wmFjktgN9bxahvGVJAZlmJjpUkooB
-#EXTINF:-1 tvg-id="1263" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1263
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793391860~_GO=Generated~acl=/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/*~SessionID=fc-app_sportsguruand_05c_watcho_5cb3b06c-e5db-4b~Signature=ATFKiJsaIwougZz84NIF6KJxRoe8cr7IM4lIYx3DssFZiXUe6DDLjq99xK-_0mstYk5nPDKLkXIkbwHS27Sr5UuC0IID
-#EXTINF:-1 tvg-id="1264" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1264
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4250508_english_hls_254b30342475381_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793390040~_GO=Generated~acl=/mumbai/4250508_english_hls_254b30342475381_1ta-di_h264/*~SessionID=fc-app_sportsguruand_326_watcho_9a8b589d-cac0-40~Signature=ATFKiJs784izYUfI9Ofd5QgGsB92-IWhbJHsNKNMcszCzaPTEfGmjKTBDI4S6Eg63uFD5raJdV8cixw0Dp09-Fiouk4H
-#EXTINF:-1 tvg-id="1265" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1265
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5164e6d05164a2d65fa8fcc962aa4861
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1 tvg-id="1266" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1266
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8685817c4d31f322e08940feeae2855a
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1 tvg-id="1267" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1267
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8685817c4d31f322e08940feeae2855a
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4249645_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="🔸FanCode🔸| Live Events",World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4249645_english_hls_4a573c125888268_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793386397~_GO=Generated~acl=/mumbai/4249645_english_hls_4a573c125888268_1ta-di_h264/*~SessionID=fc-app_sportsguruand_08d_watcho_32064cd4-474f-42~Signature=ATFKiJvcjDHAgVzOkgc4Yhtw0pxqLiBhIlLxDk7jPISWN_ryjIxfsePaYTg1Iik3MAMV85jycsZlrhoEeRkPSlkkcioN
-#EXTINF:-1 tvg-id="4249652_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="🔸FanCode🔸| Live Events",IWB Court 1 [English]
-https://in-mc-flive.fancode.com/mumbai/4249652_english_hls_99fa8a4e1b71160_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793390038~_GO=Generated~acl=/mumbai/4249652_english_hls_99fa8a4e1b71160_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2ff_watcho_49b732fd-dfc7-48~Signature=ATFKiJtB80qvgFG84rrCZhOM3k15Q9mbT9ZW0Bb2-m5J3Ldk71nrrCoynf8UI36ZNj37jYvuelGiu3TeuBuv9N7sYZ8M
-#EXTINF:-1 tvg-id="4250508_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png" group-title="🔸FanCode🔸| Live Events",Day 1 [English]
-https://in-mc-flive.fancode.com/mumbai/4250508_english_hls_254b30342475381_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793390040~_GO=Generated~acl=/mumbai/4250508_english_hls_254b30342475381_1ta-di_h264/*~SessionID=fc-app_sportsguruand_326_watcho_9a8b589d-cac0-40~Signature=ATFKiJs784izYUfI9Ofd5QgGsB92-IWhbJHsNKNMcszCzaPTEfGmjKTBDI4S6Eg63uFD5raJdV8cixw0Dp09-Fiouk4H
+#EXTINF:-1 tvg-id="4249668_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Western Australia vs South Australia [English]
+https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793404590~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_92b_watcho_e329347a-c11b-4b~Signature=ATFKiJsNotphON-xNhbtaDkcKvikryZa4v6tQ6BhY40OO_dcpO1kv-u-it4y1ylmem2ng5kB3r6MrGU5S_KK9YI8eREN
+#EXTINF:-1 tvg-id="4249669_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Tasmania vs New South Wales [English]
+https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM
+#EXTINF:-1 tvg-id="4250308_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250308_53120_BAN_SCO_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Bangladesh vs Scotland [English]
+https://in-mc-flive.fancode.com/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793410038~_GO=Generated~acl=/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/*~SessionID=fc-app_sportsguruand_07f_watcho_459e94ee-8db0-4e~Signature=ATFKiJv_B7LXpMgSbn5Ccho4eT0b9KAJw1bcC-3m8UE6SVkeNY7f8i4oZAp8bCF0sAelexPPnyHc-ZPyKpksHFnvaWYI
+#EXTINF:-1 tvg-id="4250309_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250309_53120_PAK_UAE_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Pakistan vs United Arab Emirates [English]
+https://in-mc-flive.fancode.com/mumbai/4250309_english_hls_72f2079fa216468_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793413671~_GO=Generated~acl=/mumbai/4250309_english_hls_72f2079fa216468_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c6a_watcho_66af9ac3-dfa9-4b~Signature=ATFKiJt0PCeRKLbxzXp1ciiUgtrHRBznoGSziVEPEj-o4Oycu6Cj0KjBLXdACQW-GNCZdtt7fdUkjbCzVLD7Kmi9FWEB
+#EXTINF:-1 tvg-id="139981_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 1 [English]
+https://in-mc-flive.fancode.com/mumbai/139981_english_hls_dc18e2235392788_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793407617~_GO=Generated~acl=/mumbai/139981_english_hls_dc18e2235392788_1ta-di_h264/*~SessionID=fc-app_sportsguruand_915_watcho_8cb7816c-8d49-44~Signature=ATFKiJtCpzPKzmpUPNSrjJzQ_BP3GkYM1Abusiarfl41use6mahrGGChsTCyUdao2PANJVTNdJGSmX6p6yfnGhBGjYEN
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
-#EXTINF:-1 tvg-id="14378" tvg-name="Fiorentina vs Atalanta | beIN ENGLISH - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Fiorentina vs Atalanta | beIN ENGLISH - AQ
+#EXTINF:-1 tvg-id="14374" tvg-name="Atletico Mineiro vs Cruzeiro | PREMIER SPORTS - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atletico Mineiro vs Cruzeiro | PREMIER SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-id="14378" tvg-name="Fiorentina vs Atalanta | SPORT 1 CZ - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Fiorentina vs Atalanta | SPORT 1 CZ - AQ
+#EXTINF:-1 tvg-id="14374" tvg-name="Atletico Mineiro vs Cruzeiro | PREMIERE BR - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atletico Mineiro vs Cruzeiro | PREMIERE BR - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="14380" tvg-name="Al-Nassr vs Al-Kholood | FOX DEPORTES - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Nassr vs Al-Kholood | FOX DEPORTES - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
-#EXTINF:-1 tvg-id="14380" tvg-name="Al-Nassr vs Al-Kholood | SporTV BR - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Nassr vs Al-Kholood | SporTV BR - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2357a3e2fe6f07c42c00ee9eec769a27:061d7a73d6f4b13160e3d9fdbc154a0a
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/orhlovwjv8/out/v1/3fbdf8c3ec6743d085d32dace1764176/cenc.mpd
-
-#EXTINF:-1 tvg-id="14380" tvg-name="Al-Nassr vs Al-Kholood | SportDigital FussBall" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Nassr vs Al-Kholood | SportDigital FussBall
+#EXTINF:-1 tvg-id="14374" tvg-name="Atletico Mineiro vs Cruzeiro | SportDigital Fussball" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atletico Mineiro vs Cruzeiro | SportDigital Fussball
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
 
-#EXTINF:-1 tvg-id="14380" tvg-name="Al-Nassr vs Al-Kholood | FOX SOCCER+ HD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Nassr vs Al-Kholood | FOX SOCCER+ HD
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58839/load-playlist?
-
-#EXTINF:-1 tvg-id="14380" tvg-name="Al-Nassr vs Al-Kholood | LOW SERVER" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Nassr vs Al-Kholood | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-http://193.47.62.50/hls/GTTTTAA.m3u8
-
-#EXTINF:-1 tvg-id="14381" tvg-name="Al-Riyadh vs Al-Qadsiah | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Riyadh vs Al-Qadsiah | CRICFy LIVE
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8
-
-#EXTINF:-1 tvg-id="14381" tvg-name="Al-Riyadh vs Al-Qadsiah | LOW SERVER" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Riyadh vs Al-Qadsiah | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-http://193.47.62.50/hls/GTTTTAAA.m3u8
-
-#EXTINF:-1 tvg-id="14382" tvg-name="Everton vs Newcastle United | beIN ENGLISH - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Everton vs Newcastle United | beIN ENGLISH - AQ
+#EXTINF:-1 tvg-id="14375" tvg-name="Vasco da Gama vs Flamengo | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Vasco da Gama vs Flamengo | CRICFy LIVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="14382" tvg-name="Everton vs Newcastle United | CBS SPORTS - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Everton vs Newcastle United | CBS SPORTS - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
-#EXTINF:-1 tvg-id="14383" tvg-name="FK Austria Wien vs Juventus | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",FK Austria Wien vs Juventus | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-http://193.47.62.41/hls/jmmmA.m3u8
-
-#EXTINF:-1 tvg-id="14384" tvg-name="Paris FC vs BK Hacken FF | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Paris FC vs BK Hacken FF | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-http://193.47.62.41/hls/jmmmAA.m3u8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
 
 #EXTINF:-1 tvg-id="591" tvg-name="Formula 1 | TSN SPORTS - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",Formula 1 | TSN SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7147,34 +7090,6 @@ https://baila-lentoo.pages.dev/all-sp/809382.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 https://dai-fancode.pages.dev/mumbai/4250387_english_hls_b7a3c2c35c92425_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="14374" tvg-name="Atletico Mineiro vs Cruzeiro | PREMIER SPORTS - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atletico Mineiro vs Cruzeiro | PREMIER SPORTS - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="14374" tvg-name="Atletico Mineiro vs Cruzeiro | PREMIERE BR - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atletico Mineiro vs Cruzeiro | PREMIERE BR - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-
-#EXTINF:-1 tvg-id="14374" tvg-name="Atletico Mineiro vs Cruzeiro | SportDigital Fussball" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Atletico Mineiro vs Cruzeiro | SportDigital Fussball
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
-
-#EXTINF:-1 tvg-id="14375" tvg-name="Vasco da Gama vs Flamengo | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Vasco da Gama vs Flamengo | CRICFy LIVE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
-
 #EXTINF:-1 tvg-id="14376" tvg-name="Gremio vs Athletico | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Gremio vs Athletico | CRICFy LIVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7235,15 +7150,98 @@ https://chatgpt.hereisman.net/playlist/58838/load-playlist?
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 http://193.47.62.41/hls/jmmm.m3u8
 
+#EXTINF:-1 tvg-id="14378" tvg-name="Fiorentina vs Atalanta | beIN ENGLISH - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Fiorentina vs Atalanta | beIN ENGLISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+
+#EXTINF:-1 tvg-id="14378" tvg-name="Fiorentina vs Atalanta | SPORT 1 CZ - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Fiorentina vs Atalanta | SPORT 1 CZ - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="14380" tvg-name="Al-Nassr vs Al-Kholood | FOX DEPORTES - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Nassr vs Al-Kholood | FOX DEPORTES - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="14380" tvg-name="Al-Nassr vs Al-Kholood | SporTV BR - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Nassr vs Al-Kholood | SporTV BR - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2357a3e2fe6f07c42c00ee9eec769a27:061d7a73d6f4b13160e3d9fdbc154a0a
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/orhlovwjv8/out/v1/3fbdf8c3ec6743d085d32dace1764176/cenc.mpd
+
+#EXTINF:-1 tvg-id="14380" tvg-name="Al-Nassr vs Al-Kholood | SportDigital FussBall" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Nassr vs Al-Kholood | SportDigital FussBall
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="14380" tvg-name="Al-Nassr vs Al-Kholood | FOX SOCCER+ HD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Nassr vs Al-Kholood | FOX SOCCER+ HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58839/load-playlist?
+
+#EXTINF:-1 tvg-id="14380" tvg-name="Al-Nassr vs Al-Kholood | LOW SERVER" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Nassr vs Al-Kholood | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+http://193.47.62.50/hls/GTTTTAA.m3u8
+
+#EXTINF:-1 tvg-id="14381" tvg-name="Al-Riyadh vs Al-Qadsiah | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Riyadh vs Al-Qadsiah | CRICFy LIVE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8
+
+#EXTINF:-1 tvg-id="14381" tvg-name="Al-Riyadh vs Al-Qadsiah | LOW SERVER" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Al-Riyadh vs Al-Qadsiah | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+http://193.47.62.50/hls/GTTTTAAA.m3u8
+
+#EXTINF:-1 tvg-id="14382" tvg-name="Everton vs Newcastle United | beIN ENGLISH - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Everton vs Newcastle United | beIN ENGLISH - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="14382" tvg-name="Everton vs Newcastle United | CBS SPORTS - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Everton vs Newcastle United | CBS SPORTS - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="14383" tvg-name="FK Austria Wien vs Juventus | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",FK Austria Wien vs Juventus | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+http://193.47.62.41/hls/jmmmA.m3u8
+
+#EXTINF:-1 tvg-id="14384" tvg-name="Paris FC vs BK Hacken FF | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Paris FC vs BK Hacken FF | CRICFy LIVE
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+http://193.47.62.41/hls/jmmmAA.m3u8
+
 # ---------------=== 🏏 WILLOW | LIVE EVENTS ===-------------------
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:32 AM 30-10-2026
+#LAST_UPDATE:07:32 AM 30-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
+
+#EXTINF:-1 tvg-id="B0HM4SBRL6" tvg-name="Hong Kong Sixes 2026 - 1st Match - Australia vs Hong Kong, China" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.812c8599-8c97-4a8d-8fff-9a44cafdcd21/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 1st Match - Australia vs Hong Kong, China
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f724cf13d135bee75e357780d1610060:7ce9d4c6df5638bbcb18926bf2a6bb4f
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/40puk0pr1m/out/v1/2b9a98a7b2b34546ae3730e22558228b/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HHDW6R2J" tvg-name="Hong Kong Sixes 2026 - 2nd Match - Bangladesh vs Scotland" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4a3ea43d-67e2-4286-a490-85f7d461ab3d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 2nd Match - Bangladesh vs Scotland
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d81afd2cba994811b8521b0b02b26fae:d39df73c89b21af29b2224d26d46b9c0
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w7dccsq19h/out/v1/f8eb3aaa7e954a01a9d0eefe0d988650/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
