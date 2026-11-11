@@ -4117,19 +4117,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/PMC_Telugu_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="748" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",748
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=373312
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
 #EXTINF:-1 tvg-id="749" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",749
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=372989
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 #EXTINF:-1 tvg-id="750" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",750
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-http://tv.cloudcdn.me/live.ts?channelId=134096&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
 #EXTINF:-1 tvg-id="751" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",751
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-http://tv.cloudcdn.me/live.ts?channelId=134125&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 #EXTINF:-1 tvg-id="752" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",752
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02feac8a999bd06bf4059bf33411749
@@ -6631,93 +6631,50 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #EXTINF:-1 tvg-id="1258" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1258
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ
+https://in-mc-flive.fancode.com/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794512810~_GO=Generated~acl=/mumbai/4249502_english_hls_48fc18419e65622_1ta-di_h264/*~SessionID=bb8c4461700575b6d0a7f29e98f915b4_playbox_d76743fd-2ed6-4f~Signature=AbO9Bjj-BIrZDTzvckznOQUM35_riYRItvnEtKK2QbeM_zjRJd_RGJ0HBMsteH8e11PVTdXJOHAa6MDexndiD8OnCYEK
 #EXTINF:-1 tvg-id="1259" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1259
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5164e6d05164a2d65fa8fcc962aa4861
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4250584_english_hls_c1701137e188329_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794484335~_GO=Generated~acl=/mumbai/4250584_english_hls_c1701137e188329_1ta-di_h264/*~SessionID=35d31f4cf463b5cc003da57a0a7ccd0e_playbox_8b9277dd-8c1e-40~Signature=AbO9Bjg6y10LuHqZQxYjhcI28KWipSLLjhG9pbI3xNx9FnJL5rhCAMtyBebiCxUe2oMkfODUufmaE4ectGJKC41UPvMO
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-id="1260" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1260
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a51c5c164f9a6b0ae751afeec7f85052
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
-#EXTINF:-1 tvg-id="1261" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1261
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27ae4995704be63440c0dcb001b2abbd
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
-#EXTINF:-1 tvg-id="1262" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1262
+#EXTINF:-1 tvg-id="1261" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1261
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8685817c4d31f322e08940feeae2855a
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1 tvg-id="1263" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1263
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4743d779da68303948a6e7e18fc77056
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/siet7wbiya/out/v1/a5482739bd194c0ca1cd0e7af78d402a/cenc.mpd
-
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="4250208_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png" group-title="🔸FanCode🔸| Live Events",West Indies A vs England Lions [English]
-https://in-mc-flive.fancode.com/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ
-#EXTINF:-1 tvg-id="4250584_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4250584_english_hls_c1701137e188329_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794484335~_GO=Generated~acl=/mumbai/4250584_english_hls_c1701137e188329_1ta-di_h264/*~SessionID=35d31f4cf463b5cc003da57a0a7ccd0e_playbox_8b9277dd-8c1e-40~Signature=AbO9Bjg6y10LuHqZQxYjhcI28KWipSLLjhG9pbI3xNx9FnJL5rhCAMtyBebiCxUe2oMkfODUufmaE4ectGJKC41UPvMO
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
-#EXTINF:-1 tvg-id="14559" tvg-name="Pakistan vs Sri Lanka | WILLOW - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan vs Sri Lanka | WILLOW - AQ
+#EXTINF:-1 tvg-id="14622" tvg-name="Abu Dhabi T10 League | WILLOW - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abu Dhabi T10 League | WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd
 
-#EXTINF:-1 tvg-id="14559" tvg-name="Pakistan vs Sri Lanka | WILLOW - ALT" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan vs Sri Lanka | WILLOW - ALT
+#EXTINF:-1 tvg-id="14622" tvg-name="Abu Dhabi T10 League | PREMIER SPORTS - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abu Dhabi T10 League | PREMIER SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
-
-#EXTINF:-1 tvg-id="14559" tvg-name="Pakistan vs Sri Lanka | TAPMAD - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan vs Sri Lanka | TAPMAD - AQ
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tapmad.com/
-https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-
-#EXTINF:-1 tvg-id="14559" tvg-name="Pakistan vs Sri Lanka | PTV SPORTS HD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan vs Sri Lanka | PTV SPORTS HD
-https://live.msnetworks.net/ptv-sports/master.m3u8
-
-#EXTINF:-1 tvg-id="14559" tvg-name="Pakistan vs Sri Lanka | TAPMAD HD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan vs Sri Lanka | TAPMAD HD
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-
-#EXTINF:-1 tvg-id="14559" tvg-name="Pakistan vs Sri Lanka | LOW SERVER" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan vs Sri Lanka | LOW SERVER
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-http://193.47.62.44/hls/D222AWX.m3u8
-
-#EXTINF:-1 tvg-id="14848" tvg-name="Perth Scorchers Women vs Sydney Thunder Women | WILLOW - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Perth Scorchers Women vs Sydney Thunder Women | WILLOW - AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21ef535c5597589225d278308c2a5c93:a4a38ac31294c388aaec39cab4aae93a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd
-
-#EXTINF:-1 tvg-id="14848" tvg-name="Perth Scorchers Women vs Sydney Thunder Women | SKY CRICKET - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Perth Scorchers Women vs Sydney Thunder Women | SKY CRICKET - AQ
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-
-#EXTINF:-1 tvg-id="14848" tvg-name="Perth Scorchers Women vs Sydney Thunder Women | WILLOW - ALT" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Perth Scorchers Women vs Sydney Thunder Women | WILLOW - ALT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21ef535c5597589225d278308c2a5c93:a4a38ac31294c388aaec39cab4aae93a
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd
-
-#EXTINF:-1 tvg-id="14848" tvg-name="Perth Scorchers Women vs Sydney Thunder Women | TAPMAD - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Perth Scorchers Women vs Sydney Thunder Women | TAPMAD - AQ
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://tapmad.com/
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8?
-
-#EXTINF:-1 tvg-id="14848" tvg-name="Perth Scorchers Women vs Sydney Thunder Women | WILLOW HD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Perth Scorchers Women vs Sydney Thunder Women | WILLOW HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="14622" tvg-name="Abu Dhabi T10 League | WILLOW - ALT" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abu Dhabi T10 League | WILLOW - ALT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd
+
+#EXTINF:-1 tvg-id="14622" tvg-name="Abu Dhabi T10 League | A SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abu Dhabi T10 League | A SPORTS HD
+https://live.msnetworks.net/a-sports/master.m3u8
+
+#EXTINF:-1 tvg-id="14622" tvg-name="Abu Dhabi T10 League | MYCO HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abu Dhabi T10 League | MYCO HD
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://myco.io/
+https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="591" tvg-name="Formula 1 | SKY Via APPLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="🔵 LIVE | WORLDWIDE EVENTS",Formula 1 | SKY Via APPLE TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -6983,42 +6940,33 @@ http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&exten
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 https://dai-fancode.pages.dev/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="14622" tvg-name="Abu Dhabi T10 League | WILLOW - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abu Dhabi T10 League | WILLOW - AQ
+#EXTINF:-1 tvg-id="14559" tvg-name="Pakistan vs Sri Lanka | WILLOW - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan vs Sri Lanka | WILLOW - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c86f21d47ee98bfb22dfd0284f42c25f:ed0504f6bc8dae781fcb2e4520e858a9
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/matrf5qsgb/out/v1/820fd242a0db4693bff1ead95eeea258/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
 
-#EXTINF:-1 tvg-id="14622" tvg-name="Abu Dhabi T10 League | PREMIER SPORTS - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abu Dhabi T10 League | PREMIER SPORTS - AQ
+#EXTINF:-1 tvg-id="14559" tvg-name="Pakistan vs Sri Lanka | WILLOW - ALT" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan vs Sri Lanka | WILLOW - ALT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
 
-#EXTINF:-1 tvg-id="14622" tvg-name="Abu Dhabi T10 League | WILLOW - ALT" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abu Dhabi T10 League | WILLOW - ALT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c86f21d47ee98bfb22dfd0284f42c25f:ed0504f6bc8dae781fcb2e4520e858a9
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/matrf5qsgb/out/v1/820fd242a0db4693bff1ead95eeea258/cenc.mpd
+#EXTINF:-1 tvg-id="14559" tvg-name="Pakistan vs Sri Lanka | TAPMAD - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan vs Sri Lanka | TAPMAD - AQ
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tapmad.com/
+https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 
-#EXTINF:-1 tvg-id="14622" tvg-name="Abu Dhabi T10 League | MYCO LIVE HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abu Dhabi T10 League | MYCO LIVE HD
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://myco.io/
-https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8
+#EXTINF:-1 tvg-id="14559" tvg-name="Pakistan vs Sri Lanka | PTV SPORTS HD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan vs Sri Lanka | PTV SPORTS HD
+https://live.msnetworks.net/ptv-sports/master.m3u8
 
-#EXTINF:-1 tvg-id="14622" tvg-name="Abu Dhabi T10 League | A SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Abu Dhabi T10 League | A SPORTS HD
-https://live.msnetworks.net/a-sports/master.m3u8
+#EXTINF:-1 tvg-id="14559" tvg-name="Pakistan vs Sri Lanka | TAPMAD HD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan vs Sri Lanka | TAPMAD HD
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="14559" tvg-name="Pakistan vs Sri Lanka | LOW SERVER" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan vs Sri Lanka | LOW SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+http://193.47.62.44/hls/D222AWX.m3u8
 
 #EXTINF:-1 tvg-id="14822" tvg-name="Australia vs England | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Australia vs England | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="14825" tvg-name="Bangladesh vs Sri Lanka | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh vs Sri Lanka | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="14826" tvg-name="India vs Maldives | HD SERVER" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",India vs Maldives | HD SERVER
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="14827" tvg-name="Vietnam vs Chinese Taipei | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Vietnam vs Chinese Taipei | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 #EXTINF:-1 tvg-id="14828" tvg-name="New Zealand vs India | PRIME ENG - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",New Zealand vs India | PRIME ENG - AQ
@@ -7129,29 +7077,30 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="14871" tvg-name="Pakistan Under-19 vs Bangladesh Under-19 | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan Under-19 vs Bangladesh Under-19 | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
+#EXTINF:-1 tvg-id="14825" tvg-name="Bangladesh vs Sri Lanka | T SPORTS HD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh vs Sri Lanka | T SPORTS HD
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+http://80.97.161.64/m/soccer/manifest.spf?exp=2109765797&t=2978f9a1d6277b1a5a4d74966ddcadca&e=.m3u8?
+
+#EXTINF:-1 tvg-id="14825" tvg-name="Bangladesh vs Sri Lanka | HD SERVER" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh vs Sri Lanka | HD SERVER
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel14.m3u8?
+
+#EXTINF:-1 tvg-id="14825" tvg-name="Bangladesh vs Sri Lanka | MYCO - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh vs Sri Lanka | MYCO - AQ
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://myco.io/
+https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8
+
+#EXTINF:-1 tvg-id="14825" tvg-name="Bangladesh vs Sri Lanka | T SPORTS SD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Bangladesh vs Sri Lanka | T SPORTS SD
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+
 # ---------------=== 🏏 WILLOW | LIVE EVENTS ===-------------------
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:02 PM 11-11-2026
+#LAST_UPDATE:04:32 AM 12-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:33
-
-#EXTINF:-1 tvg-id="B0HMKZKJRB" tvg-name="Abu Dhabi T10 League 2026 - 11th Match - Royal Desert Champions vs UAE Bulls" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9f427b08-4bc4-4879-8330-9c2af53d7b8f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Abu Dhabi T10 League 2026 - 11th Match - Royal Desert Champions vs UAE Bulls
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/siet7wbiya/out/v1/a5482739bd194c0ca1cd0e7af78d402a/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HPNLCP8R" tvg-name="Abu Dhabi T10 League 2026 - 12th Match - Arabian Aces vs Yas Lions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.363eb94d-8820-42f4-ace2-e0f4f2e563ec/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Abu Dhabi T10 League 2026 - 12th Match - Arabian Aces vs Yas Lions
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b216a3745f860134be797b632e0b8a3c:05a3b678efdb24c2f54904708eae13b0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lflcstppvz/out/v1/a6629c2750854c71861461f7c134f0c5/cenc.mpd
+#LIVE_COUNT:0
+#UPCOMING_COUNT:35
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
