@@ -4125,11 +4125,11 @@ https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=372989
 #EXTINF:-1 tvg-id="750" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",750
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=373312
+http://tv.cloudcdn.me/live.ts?channelId=134096&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="751" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",751
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=372989
+http://tv.cloudcdn.me/live.ts?channelId=134125&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1 tvg-id="752" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",752
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02feac8a999bd06bf4059bf33411749
@@ -6630,41 +6630,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 #EXTINF:-1 tvg-id="1258" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1258
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c6b047893630a19cb091bde4cd660f3
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249671_english_hls_4ea963994d30090_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794439473~_GO=Generated~acl=/mumbai/4249671_english_hls_4ea963994d30090_1ta-di_h264/*~SessionID=62d205fe15efd2d99b49d22effd0f8ec_playbox_a953302f-4a83-47~Signature=AbO9BjjQSkk2v1PdrykevWQ0HEz7Qs8lqDbW3QBrrifLN9EB4LfILtIYCqLY-mhszldGjvOkSdCuojzUqEnKDrla3OgN
-#EXTINF:-1 tvg-id="1259" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1259
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249672_english_hls_774ea9bc0e36342_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794439474~_GO=Generated~acl=/mumbai/4249672_english_hls_774ea9bc0e36342_1ta-di_h264/*~SessionID=9db1e7bf46f68959c43c490f57b4b372_playbox_60c8685e-6604-4b~Signature=AbO9BjiWxEVomN_Plign6jGd02T9tJ5mne_TXLAun_D1xG2uqpyhDVBzWbYXxmWKvlRxrMTnohDhCMMaipzdoBwvzmgG
-#EXTINF:-1 tvg-id="1260" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1260
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249673_english_hls_1f70f8c9aa29270_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794441292~_GO=Generated~acl=/mumbai/4249673_english_hls_1f70f8c9aa29270_1ta-di_h264/*~SessionID=67d179ce3a51ec681a210437a480ae56_playbox_22d338fe-53e7-47~Signature=AbO9Bji-M6FCycA1f3qYQjJ6GugplRsIggPF4_cJsMt4EvAaX5R6qiw3YcmEOdLgZ0aEtt1cS740aLOjOpfECfs4B6oM
-#EXTINF:-1 tvg-id="1261" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1261
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794444323~_GO=Generated~acl=/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/*~SessionID=6cfae2e3e798e15ecc99e125cda52b32_playbox_7b8130ca-b971-42~Signature=AbO9BjiEc4u7ZFXfP6qMAD3JbrvbltckiBYsYS8yomwheX8yOl-yOwoPe_V-Bb4mE2H8GYsgMzWUTQl-UB2JKqujH4wE
-#EXTINF:-1 tvg-id="1262" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1262
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d67e3b3dbe99e6693a56295e54d313e0
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://ABDTF4AAAAAAAAAMJX6U2XZHRJH7X.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBz7dBhpq83hdA2pjbG91ZGZyb250AngoZmlkOjAxYTFjNzBlLTJkZTUtNzI1NC1iYWE2LTg4MWM0YjhiNmY3YRkBOKEFoQJ4My9jYzNycHNxcXRrL291dC92MS9jNjZmMjM0NzE1NDE0MzQ0YTA1MmNmMjlmMzkwMTZjZFgg8FbQn9a0S2PF8qPdnnVayKbCnvybKuDfwptvYDPwHkI/CMH/f6038b88aa69447da4a3e793b671fb13/v1/dash/791992545818/imdb_amagi_amzn1_dv_live_csid_6336badc-8cb2-43b0-8106-8e7dfe05ae41_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/cc3rpsqqtk/out/v1/c66f234715414344a052cf29f39016cd/de126b07-78e0-4661-890c-075278c8af6f-cenc.mpd?aws.sessionId=7c57ed8e-f10f-458e-a46a-39c91212ff26
-#EXTINF:-1 tvg-id="1263" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1263
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=417b7577df2477d1842a4bb9eee852bc
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
-
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="4249671_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249671_53087_NSW_SAU_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",New South Wales vs South Australia [English]
-https://in-mc-flive.fancode.com/mumbai/4249671_english_hls_4ea963994d30090_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794439473~_GO=Generated~acl=/mumbai/4249671_english_hls_4ea963994d30090_1ta-di_h264/*~SessionID=62d205fe15efd2d99b49d22effd0f8ec_playbox_a953302f-4a83-47~Signature=AbO9BjjQSkk2v1PdrykevWQ0HEz7Qs8lqDbW3QBrrifLN9EB4LfILtIYCqLY-mhszldGjvOkSdCuojzUqEnKDrla3OgN
-#EXTINF:-1 tvg-id="4249672_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249672_53087_VCT_WAU_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Victoria vs Western Australia [English]
-https://in-mc-flive.fancode.com/mumbai/4249672_english_hls_774ea9bc0e36342_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794439474~_GO=Generated~acl=/mumbai/4249672_english_hls_774ea9bc0e36342_1ta-di_h264/*~SessionID=9db1e7bf46f68959c43c490f57b4b372_playbox_60c8685e-6604-4b~Signature=AbO9BjiWxEVomN_Plign6jGd02T9tJ5mne_TXLAun_D1xG2uqpyhDVBzWbYXxmWKvlRxrMTnohDhCMMaipzdoBwvzmgG
-#EXTINF:-1 tvg-id="4249673_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249673_53087_QUN_TAS_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Queensland vs Tasmania [English]
-https://in-mc-flive.fancode.com/mumbai/4249673_english_hls_1f70f8c9aa29270_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794441292~_GO=Generated~acl=/mumbai/4249673_english_hls_1f70f8c9aa29270_1ta-di_h264/*~SessionID=67d179ce3a51ec681a210437a480ae56_playbox_22d338fe-53e7-47~Signature=AbO9Bji-M6FCycA1f3qYQjJ6GugplRsIggPF4_cJsMt4EvAaX5R6qiw3YcmEOdLgZ0aEtt1cS740aLOjOpfECfs4B6oM
-#EXTINF:-1 tvg-id="4250613_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/2_web.png" group-title="🔸FanCode🔸| Live Events",DET vs LAGC [English]
-https://in-mc-flive.fancode.com/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794444323~_GO=Generated~acl=/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/*~SessionID=6cfae2e3e798e15ecc99e125cda52b32_playbox_7b8130ca-b971-42~Signature=AbO9BjiEc4u7ZFXfP6qMAD3JbrvbltckiBYsYS8yomwheX8yOl-yOwoPe_V-Bb4mE2H8GYsgMzWUTQl-UB2JKqujH4wE
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7165,11 +7133,18 @@ https://live2.jorvakstreamcache.com/live/channel19.m3u8?
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:02 AM 11-11-2026
+#LAST_UPDATE:01:32 PM 11-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0HLVY22CY" tvg-name="Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c65dfbd7-e120-4b1a-ac5c-60c3981498b0/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
