@@ -6631,40 +6631,57 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #EXTINF:-1 tvg-id="1258" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1258
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249671_english_hls_4ea963994d87979_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794526147~_GO=Generated~acl=/mumbai/4249671_english_hls_4ea963994d87979_1ta-di_h264/*~SessionID=ccbacd5639be80abf69e40cb6145c24f_playbox_9515085d-0759-43~Signature=AbO9BjhJdluRqlLGbNwkhoq2xzcn4UEn401agEIgfdGgHBmZrrT7z8b1XVUXnJHJdqYavacuiojwJnAqBHongizgJ7YB
+https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794551600~_GO=Generated~acl=/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/*~SessionID=20fde653298ae09b1231e2c94877ae9f_playbox_845100cd-5fdc-46~Signature=AbO9BjgfyL-FpZ7spkiG2wk2QQTC6UB2OHU7ZKlNcQy4HU3FoWFjTUucHLaPgIbX7QFpbRGK2lYv32eBx3NUFzpDLlIG
 #EXTINF:-1 tvg-id="1259" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1259
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249672_english_hls_774ea9bc0e81073_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794526149~_GO=Generated~acl=/mumbai/4249672_english_hls_774ea9bc0e81073_1ta-di_h264/*~SessionID=879e7eefb8d1182fa213a5fa2c39dafb_playbox_2546a83e-10b6-4d~Signature=AbO9BjjZYlbTu5JUzSuoFKIeYBu5nKlKjj9QaT9jYPPfFgkh6muaqg5u4ePRqORvLeLYo5vFSCAmajiC0FCVpszJXvQH
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794523410~acl=/*~id=84727482344903831639989239291032~hmac=787eaf0ad610eca33c34c33cb874690565f03968cbcff6073a3272d68c73a664
 #EXTINF:-1 tvg-id="1260" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1260
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4249673_english_hls_1f70f8c9aa48087_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794526150~_GO=Generated~acl=/mumbai/4249673_english_hls_1f70f8c9aa48087_1ta-di_h264/*~SessionID=6b54bff05cd412c2e06edab2b2d1cc25_playbox_606bd489-4ca9-4d~Signature=AbO9BjiAtJlhKU8Pu5jqVj2TKR4fOXLNyKKt6yNSI4poPHODJoFKucracjtW3PffJrs7KJ7G1ywMy1YuoK2AiIveukkH
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794523410~acl=/*~id=84727482344903831639989239291032~hmac=787eaf0ad610eca33c34c33cb874690565f03968cbcff6073a3272d68c73a664
 #EXTINF:-1 tvg-id="1261" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1261
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/4250630_english_hls_742058ec5a9416_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794527365~_GO=Generated~acl=/mumbai/4250630_english_hls_742058ec5a9416_1ta-di_h264/*~SessionID=3c43b9a0a3ba7e14797bd4ed52b843dc_playbox_1e715eb9-6991-4f~Signature=AbO9BjjwM1gjKTUuQzywe44isxDj4T6mTEB7TSfCq7JT2NYvSiwbtxTrkh8FUtqVEOwGdWjJkhBk90vFAb-xNt35kDkK
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794523410~acl=/*~id=84727482344903831639989239291032~hmac=787eaf0ad610eca33c34c33cb874690565f03968cbcff6073a3272d68c73a664
 #EXTINF:-1 tvg-id="1262" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1262
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72a3574c534811db5a4804695a184221
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794523410~acl=/*~id=84727482344903831639989239291032~hmac=787eaf0ad610eca33c34c33cb874690565f03968cbcff6073a3272d68c73a664
 #EXTINF:-1 tvg-id="1263" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1263
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea92e2f4ec746aa5e64fd9c4fc6ed3e9
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794523410~acl=/*~id=84727482344903831639989239291032~hmac=787eaf0ad610eca33c34c33cb874690565f03968cbcff6073a3272d68c73a664
+#EXTINF:-1 tvg-id="1264" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1264
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-id="1265" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1265
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8993f991655c84eb324bad2c1c551cc1
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dgcuvppny7/out/v1/bdda2132bb0d48b58073099204524d19/cenc.mpd
+#EXTINF:-1 tvg-id="1266" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1266
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=890f27ce6531575d09365c95c7557cd8
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x5af8ecwsh/out/v1/c37f1ecce4214502960ae5c0367154ff/cenc.mpd
+#EXTINF:-1 tvg-id="1267" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1267
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd4f90a2703266be6aea6b6d01274a07
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd
+#EXTINF:-1 tvg-id="1268" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1268
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1f3cc38fbff104bfdacd0dcd07d0900
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4249671_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249671_53087_NSW_SAU_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",New South Wales vs South Australia [English]
-https://in-mc-flive.fancode.com/mumbai/4249671_english_hls_4ea963994d87979_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794526147~_GO=Generated~acl=/mumbai/4249671_english_hls_4ea963994d87979_1ta-di_h264/*~SessionID=ccbacd5639be80abf69e40cb6145c24f_playbox_9515085d-0759-43~Signature=AbO9BjhJdluRqlLGbNwkhoq2xzcn4UEn401agEIgfdGgHBmZrrT7z8b1XVUXnJHJdqYavacuiojwJnAqBHongizgJ7YB
-#EXTINF:-1 tvg-id="4249672_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249672_53087_VCT_WAU_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Victoria vs Western Australia [English]
-https://in-mc-flive.fancode.com/mumbai/4249672_english_hls_774ea9bc0e81073_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794526149~_GO=Generated~acl=/mumbai/4249672_english_hls_774ea9bc0e81073_1ta-di_h264/*~SessionID=879e7eefb8d1182fa213a5fa2c39dafb_playbox_2546a83e-10b6-4d~Signature=AbO9BjjZYlbTu5JUzSuoFKIeYBu5nKlKjj9QaT9jYPPfFgkh6muaqg5u4ePRqORvLeLYo5vFSCAmajiC0FCVpszJXvQH
-#EXTINF:-1 tvg-id="4249673_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249673_53087_QUN_TAS_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Queensland vs Tasmania [English]
-https://in-mc-flive.fancode.com/mumbai/4249673_english_hls_1f70f8c9aa48087_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794526150~_GO=Generated~acl=/mumbai/4249673_english_hls_1f70f8c9aa48087_1ta-di_h264/*~SessionID=6b54bff05cd412c2e06edab2b2d1cc25_playbox_606bd489-4ca9-4d~Signature=AbO9BjiAtJlhKU8Pu5jqVj2TKR4fOXLNyKKt6yNSI4poPHODJoFKucracjtW3PffJrs7KJ7G1ywMy1YuoK2AiIveukkH
-#EXTINF:-1 tvg-id="4250630_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Masters_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Round of 16 [English]
-https://in-mc-flive.fancode.com/mumbai/4250630_english_hls_742058ec5a9416_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794527365~_GO=Generated~acl=/mumbai/4250630_english_hls_742058ec5a9416_1ta-di_h264/*~SessionID=3c43b9a0a3ba7e14797bd4ed52b843dc_playbox_1e715eb9-6991-4f~Signature=AbO9BjjwM1gjKTUuQzywe44isxDj4T6mTEB7TSfCq7JT2NYvSiwbtxTrkh8FUtqVEOwGdWjJkhBk90vFAb-xNt35kDkK
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",DP World Tour Champinship, Dubai - Day 1 - 12 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794526475~acl=/*~id=46707132389115392559114012807990~hmac=d9b6235ac5bb489aaf8d86183cbcc031b7db3cf345efb54eea6dab6396658bca
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7095,15 +7112,77 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-id="14871" tvg-name="Pakistan Under-19 vs Bangladesh Under-19 | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan Under-19 vs Bangladesh Under-19 | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
+#EXTINF:-1 tvg-id="14872" tvg-name="Calvo Sotelo Puertollano vs Albacete Balompie | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Calvo Sotelo Puertollano vs Albacete Balompie | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14873" tvg-name="CD Tarancon vs Levante UD | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",CD Tarancon vs Levante UD | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14874" tvg-name="CDA Navalcarnero vs Real Betis | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",CDA Navalcarnero vs Real Betis | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14875" tvg-name="Equatorial Guinea vs Zimbabwe | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Equatorial Guinea vs Zimbabwe | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14876" tvg-name="Benin vs Central African Republic | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Benin vs Central African Republic | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14877" tvg-name="Cameroon vs Namibia | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Cameroon vs Namibia | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14878" tvg-name="Cote dIvoire vs Gambia | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Cote dIvoire vs Gambia | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14879" tvg-name="Senegal vs Sudan | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Senegal vs Sudan | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14880" tvg-name="Futbol Club Barcelona vs Arsenal | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Futbol Club Barcelona vs Arsenal | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14881" tvg-name="Benfica vs FK Austria Wien | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Benfica vs FK Austria Wien | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14882" tvg-name="Melbourne Stars Women vs Brisbane Heat Women | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Melbourne Stars Women vs Brisbane Heat Women | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14883" tvg-name="Melbourne Renegades Women vs Sydney Sixers Women | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Melbourne Renegades Women vs Sydney Sixers Women | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14884" tvg-name="Sri Lanka Women vs Ireland Women | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Sri Lanka Women vs Ireland Women | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14885" tvg-name="Papua New Guinea Women vs Scotland Women | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Papua New Guinea Women vs Scotland Women | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14886" tvg-name="Netherlands Women vs Thailand Women | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Netherlands Women vs Thailand Women | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="14887" tvg-name="Pakistan Women vs Bangladesh Women | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Pakistan Women vs Bangladesh Women | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
 # ---------------=== 🏏 WILLOW | LIVE EVENTS ===-------------------
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:02 AM 12-11-2026
+#LAST_UPDATE:05:32 PM 12-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:35
+#LIVE_COUNT:2
+#UPCOMING_COUNT:33
+
+#EXTINF:-1 tvg-id="B0HMBL7QDV" tvg-name="ACC Mens U19 Asia Cup 2026 - 2nd Semi-Final - Afghanistan U19 vs India U19" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f36e20ef-0d9d-4b4c-a211-e4b498523418/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens U19 Asia Cup 2026 - 2nd Semi-Final - Afghanistan U19 vs India U19
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69b4f7d5d85ff47192fce27c107246f7:8993f991655c84eb324bad2c1c551cc1
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/dgcuvppny7/out/v1/bdda2132bb0d48b58073099204524d19/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HKHKVS63" tvg-name="Womens Big Bash League 2026 - 20th Match - Melbourne Renegades Women vs Sydney Sixers Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20e548a6-8e23-47de-95f7-2fa353fafd79/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 20th Match - Melbourne Renegades Women vs Sydney Sixers Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
