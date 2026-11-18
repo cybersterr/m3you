@@ -6628,65 +6628,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 #EXTINF:-1 tvg-id="1258" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1258
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=417b7577df2477d1842a4bb9eee852bc
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
 #EXTINF:-1 tvg-id="1259" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1259
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72a3574c534811db5a4804695a184221
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d
-#EXTINF:-1 tvg-id="1260" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1260
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d
-#EXTINF:-1 tvg-id="1261" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1261
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d
-#EXTINF:-1 tvg-id="1262" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1262
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d
-#EXTINF:-1 tvg-id="1263" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1263
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d
-#EXTINF:-1 tvg-id="1264" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1264
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d
-#EXTINF:-1 tvg-id="1265" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1265
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794986052~acl=/*~id=94065917567144459926240907239802~hmac=ae891d140053510fec44f130a910574ba0bc776ab4b8b617882b4656f9f5ae7d
-#EXTINF:-1 tvg-id="1266" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1266
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27ae4995704be63440c0dcb001b2abbd
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-#EXTINF:-1 tvg-id="1267" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1267
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8685817c4d31f322e08940feeae2855a
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-
-# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027861/1793276874509801_UNL26_MD6_Wales_vs_Portugal_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Wales vs Portugal - 18 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987265~acl=/*~id=03114466377499523843932550037684~hmac=22f24a357e594e9430da0e5c42e85b4035eec74fea00a07a9b9173c517f4cda4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027760/1793276088016324_UNL26_MD6_Denmark_vs_Norway_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Denmark vs Norway - 18 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987265~acl=/*~id=03114466377499523843932550037684~hmac=22f24a357e594e9430da0e5c42e85b4035eec74fea00a07a9b9173c517f4cda4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027838/1793278288283702_UNL26_MD6_Poland_vs_Sweden_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Poland vs Sweden - 18 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987265~acl=/*~id=03114466377499523843932550037684~hmac=22f24a357e594e9430da0e5c42e85b4035eec74fea00a07a9b9173c517f4cda4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027786/1793277383846311_UNL26_MD6_Hungary_vs_Northern_Ireland_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Hungary vs Northern Ireland - 18 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987265~acl=/*~id=03114466377499523843932550037684~hmac=22f24a357e594e9430da0e5c42e85b4035eec74fea00a07a9b9173c517f4cda4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027800/1793274260999331_UNL26_MD6_Israel_vs_Austria_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Israel vs Austria - 18 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987265~acl=/*~id=03114466377499523843932550037684~hmac=22f24a357e594e9430da0e5c42e85b4035eec74fea00a07a9b9173c517f4cda4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027750/179327471209337_UNL26_MD6_Bosnia_and_Herzegovina_vs_Romania_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Bosnia and Herzegovina vs Romania - 18 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987265~acl=/*~id=03114466377499523843932550037684~hmac=22f24a357e594e9430da0e5c42e85b4035eec74fea00a07a9b9173c517f4cda4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027856/1793275459151772_UNL26_MD6_Ukraine_vs_Georgia_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ukraine vs Georgia - 18 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987265~acl=/*~id=03114466377499523843932550037684~hmac=22f24a357e594e9430da0e5c42e85b4035eec74fea00a07a9b9173c517f4cda4
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027853/1793278711572629_UNL26_MD6_Republic_of_Ireland_vs_Kosovo_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Republic of Ireland vs Kosovo - 18 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987265~acl=/*~id=03114466377499523843932550037684~hmac=22f24a357e594e9430da0e5c42e85b4035eec74fea00a07a9b9173c517f4cda4
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -6906,9 +6855,6 @@ https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_lrh-8003
 #EXTINF:-1 tvg-id="14888" tvg-name="New Zealand vs India | SONY GLOBAL" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",New Zealand vs India | SONY GLOBAL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794750655~acl=/*~id=45577059795063177253236564546996~hmac=b42a889d2ecc0257653da73fdff76e700727ea5be1aa165a20877b8e09094342
-
-#EXTINF:-1 tvg-id="15005" tvg-name="Argentina vs Costa Rica | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Argentina vs Costa Rica | CRICFy LIVE
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 #EXTINF:-1 tvg-id="1090" tvg-name="WWE Raw | CRICFy LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="🔵 LIVE | WORLDWIDE EVENTS",WWE Raw | CRICFy LIVE
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
@@ -7325,6 +7271,9 @@ https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mp
 #EXTINF:-1 tvg-id="15004" tvg-name="Singapore vs Brazil | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Singapore vs Brazil | CRICFy LIVE
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
+#EXTINF:-1 tvg-id="15005" tvg-name="Argentina vs Costa Rica | CRICFy LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Argentina vs Costa Rica | CRICFy LIVE
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
 #EXTINF:-1 tvg-id="15010" tvg-name="Canada vs Guatemala | TSN SPORTS - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark" group-title="🔵 LIVE | WORLDWIDE EVENTS",Canada vs Guatemala | TSN SPORTS - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7343,7 +7292,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:32 AM 18-11-2026
+#LAST_UPDATE:07:32 AM 18-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
