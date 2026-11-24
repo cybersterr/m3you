@@ -6634,41 +6634,105 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #EXTINF:-1 tvg-id="1259" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1259
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://fancode-9n4.pages.dev/fancode/4249674/playlist.m3u8
+https://fancode-9n4.pages.dev/fancode/4250651/playlist.m3u8
 #EXTINF:-1 tvg-id="1260" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1260
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://fancode-9n4.pages.dev/fancode/4249676/playlist.m3u8
+https://fancode-9n4.pages.dev/fancode/4250644/playlist.m3u8
 #EXTINF:-1 tvg-id="1261" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1261
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72a3574c534811db5a4804695a184221
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
+https://fancode-9n4.pages.dev/fancode/4251142/playlist.m3u8
 #EXTINF:-1 tvg-id="1262" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1262
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea92e2f4ec746aa5e64fd9c4fc6ed3e9
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
+https://fancode-9n4.pages.dev/fancode/4250955/playlist.m3u8
 #EXTINF:-1 tvg-id="1263" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1263
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e172cb6887761bf883aa925e173e7b67
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+https://fancode-9n4.pages.dev/fancode/4248752/playlist.m3u8
+#EXTINF:-1 tvg-id="1264" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1264
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://fancode-9n4.pages.dev/fancode/4248753/playlist.m3u8
+#EXTINF:-1 tvg-id="1265" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1265
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://fancode-9n4.pages.dev/fancode/4248754/playlist.m3u8
+#EXTINF:-1 tvg-id="1266" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1266
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795560434~acl=/*~id=31362023181445834462961773336791~hmac=94c656dba0fc7ae4c8502fc11065f873a8aa8b9d63556893ce79096847385afc
+#EXTINF:-1 tvg-id="1267" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1267
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795560434~acl=/*~id=31362023181445834462961773336791~hmac=94c656dba0fc7ae4c8502fc11065f873a8aa8b9d63556893ce79096847385afc
+#EXTINF:-1 tvg-id="1268" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1268
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795560434~acl=/*~id=31362023181445834462961773336791~hmac=94c656dba0fc7ae4c8502fc11065f873a8aa8b9d63556893ce79096847385afc
+#EXTINF:-1 tvg-id="1269" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1269
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795560434~acl=/*~id=31362023181445834462961773336791~hmac=94c656dba0fc7ae4c8502fc11065f873a8aa8b9d63556893ce79096847385afc
+#EXTINF:-1 tvg-id="1270" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1270
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795560434~acl=/*~id=31362023181445834462961773336791~hmac=94c656dba0fc7ae4c8502fc11065f873a8aa8b9d63556893ce79096847385afc
+#EXTINF:-1 tvg-id="1271" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1271
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795560434~acl=/*~id=31362023181445834462961773336791~hmac=94c656dba0fc7ae4c8502fc11065f873a8aa8b9d63556893ce79096847385afc
+#EXTINF:-1 tvg-id="1272" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1272
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-id="1273" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1273
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a99a15ba3e7e0494e8544b1cd08d9a73
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd
+#EXTINF:-1 tvg-id="1274" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1274
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02b0a91443f3b8682dd08912875eeb61
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ukbxjoenei/out/v1/4be7a815cf3d46b8bf88aa6a6a3c3780/cenc.mpd
+#EXTINF:-1 tvg-id="1275" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1275
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=574547fdae92793f4630b65dade01761
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hfkzscud13/out/v1/c61a8389b4b34857a53bc23cd2d139d8/cenc.mpd
+#EXTINF:-1 tvg-id="1276" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1276
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db72f4347277225954d7170f0ec6992f
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cpluchqnel/out/v1/b454036d1fb346c39492bd2a166920bd/cenc.mpd
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India A vs UAE - 24 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795559208~acl=/*~id=42321483940508509878716213282981~hmac=1a962d1d396b91252677e1f89844773b84ae2a1b10653a12d67eeeb5474ac2e3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India A vs UAE - 24 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795559208~acl=/*~id=42321483940508509878716213282981~hmac=1a962d1d396b91252677e1f89844773b84ae2a1b10653a12d67eeeb5474ac2e3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India A vs UAE - 24 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795559208~acl=/*~id=42321483940508509878716213282981~hmac=1a962d1d396b91252677e1f89844773b84ae2a1b10653a12d67eeeb5474ac2e3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India A vs UAE - 24 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795559208~acl=/*~id=42321483940508509878716213282981~hmac=1a962d1d396b91252677e1f89844773b84ae2a1b10653a12d67eeeb5474ac2e3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",India A vs UAE - 24 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795559208~acl=/*~id=42321483940508509878716213282981~hmac=1a962d1d396b91252677e1f89844773b84ae2a1b10653a12d67eeeb5474ac2e3
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Pakistan A vs Nepal - 24 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795559208~acl=/*~id=42321483940508509878716213282981~hmac=1a962d1d396b91252677e1f89844773b84ae2a1b10653a12d67eeeb5474ac2e3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Borussia Dortmund - 25 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795596259~acl=/*~id=80185621907098383765278926373335~hmac=a668a9d851a1d6a348a19e4c4378e4ebed07394b5f76d9af05336912dd4e3f0a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Borussia Dortmund - 25 Nov 2026 [HIN]
+https://sonyeventsglobal.akamaized.net/hls/live/2018458/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795596259~acl=/*~id=80185621907098383765278926373335~hmac=a668a9d851a1d6a348a19e4c4378e4ebed07394b5f76d9af05336912dd4e3f0a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Borussia Dortmund - 25 Nov 2026 [TAM]
+https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795596259~acl=/*~id=80185621907098383765278926373335~hmac=a668a9d851a1d6a348a19e4c4378e4ebed07394b5f76d9af05336912dd4e3f0a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Borussia Dortmund - 25 Nov 2026 [TEL]
+https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795596259~acl=/*~id=80185621907098383765278926373335~hmac=a668a9d851a1d6a348a19e4c4378e4ebed07394b5f76d9af05336912dd4e3f0a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Arsenal vs Borussia Dortmund - 25 Nov 2026 [KAN]
+https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795596259~acl=/*~id=80185621907098383765278926373335~hmac=a668a9d851a1d6a348a19e4c4378e4ebed07394b5f76d9af05336912dd4e3f0a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795318910325444_UCL26_MD5_Man_City_vs_Napoli_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Manchester City vs Napoli - 25 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795596259~acl=/*~id=80185621907098383765278926373335~hmac=a668a9d851a1d6a348a19e4c4378e4ebed07394b5f76d9af05336912dd4e3f0a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795315004894444_UCL26_MD5_Real_Madrid_vs_PSV_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Real Madrid vs PSV Eindhoven - 25 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795596259~acl=/*~id=80185621907098383765278926373335~hmac=a668a9d851a1d6a348a19e4c4378e4ebed07394b5f76d9af05336912dd4e3f0a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795330600882198_UCL26_MD5_Como_vs_Athens_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Como 1907 vs AEK Athens - 25 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795596259~acl=/*~id=80185621907098383765278926373335~hmac=a668a9d851a1d6a348a19e4c4378e4ebed07394b5f76d9af05336912dd4e3f0a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795326333966198_UCL26_MD5_RB_Leipzig_vs_RC_Lens_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",RB Leipzig vs RC Lens - 25 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795596259~acl=/*~id=80185621907098383765278926373335~hmac=a668a9d851a1d6a348a19e4c4378e4ebed07394b5f76d9af05336912dd4e3f0a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320669674444_UCL26_MD5_Feyenoord_vs_Porto_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Feyenoord vs FC Porto - 25 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795596259~acl=/*~id=80185621907098383765278926373335~hmac=a668a9d851a1d6a348a19e4c4378e4ebed07394b5f76d9af05336912dd4e3f0a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795330176307198_UCL26_MD5_Bratislava_vs_Real_Betis_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Slovan Bratislava vs Real Betis - 25 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795596259~acl=/*~id=80185621907098383765278926373335~hmac=a668a9d851a1d6a348a19e4c4378e4ebed07394b5f76d9af05336912dd4e3f0a
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7325,39 +7389,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:04:02 PM 24-11-2026
+#LAST_UPDATE:02:32 AM 25-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
-#UPCOMING_COUNT:31
-
-#EXTINF:-1 tvg-id="B0HR6PG192" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7ce31cd4-075b-478e-a281-f98d632e52d5/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HQPR4M9Q" tvg-name="Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97eae418-93c7-40e2-b2d6-6a81327b83bc/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HQZR6RMB" tvg-name="England tour of Australia 2026 - 2nd T20I - Australia vs England" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.83a636a1-69f6-454e-8272-5fd9a24b1035/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",England tour of Australia 2026 - 2nd T20I - Australia vs England
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HQSF5H26" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 12th Match - Pakistan A vs Nepal" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6809d671-91b4-4588-8ca5-e7338d98cf95/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens Asia Cup Rising Stars 2026 - 12th Match - Pakistan A vs Nepal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac685b471a4e1d6c4be3fe7429595d9d:db72f4347277225954d7170f0ec6992f
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cpluchqnel/out/v1/b454036d1fb346c39492bd2a166920bd/cenc.mpd
+#LIVE_COUNT:0
+#UPCOMING_COUNT:35
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
