@@ -6634,25 +6634,42 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #EXTINF:-1 tvg-id="1259" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1259
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://fancode-9n4.pages.dev/fancode/4249674/playlist.m3u8
+https://fancode-9n4.pages.dev/fancode/4250651/playlist.m3u8
 #EXTINF:-1 tvg-id="1260" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1260
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://fancode-9n4.pages.dev/fancode/4249675/playlist.m3u8
+https://fancode-9n4.pages.dev/fancode/4251054/playlist.m3u8
 #EXTINF:-1 tvg-id="1261" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1261
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://fancode-9n4.pages.dev/fancode/4249676/playlist.m3u8
+https://fancode-9n4.pages.dev/fancode/4249025/playlist.m3u8
 #EXTINF:-1 tvg-id="1262" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1262
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://fancode-9n4.pages.dev/fancode/4249026/playlist.m3u8
+#EXTINF:-1 tvg-id="1263" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1263
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://fancode-9n4.pages.dev/fancode/4249017/playlist.m3u8
+#EXTINF:-1 tvg-id="1264" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1264
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795658651~acl=/*~id=84075051428794604164355977659203~hmac=f5974e44038aa5e32311162099b26ecef775512945a9de35490bc3d9dd0f3b49
+#EXTINF:-1 tvg-id="1265" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1265
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27ae4995704be63440c0dcb001b2abbd
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-
-# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029562/1795243348812330_UYL26_MD5_Sporting_CP_vs_ManUnited_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sporting CP vs Manchester United - 25 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795656830~acl=/*~id=54580525332449956328218595756401~hmac=d35e2db7dbd01e3da0c733f4fca78c1f7c414b4d273da1b6dcecce5dd3173393
+#EXTINF:-1 tvg-id="1266" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1266
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a51c5c164f9a6b0ae751afeec7f85052
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
+#EXTINF:-1 tvg-id="1267" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1267
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9584b37353992c00415eac1ae42cb3df
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/23pcq587cm/out/v1/ee8c4d2ac4094688a867f0d1a76aef2b/cenc.mpd
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7309,18 +7326,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:32 PM 25-11-2026
+#LAST_UPDATE:04:32 AM 26-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
-
-#EXTINF:-1 tvg-id="B0HQPR4M9Q" tvg-name="Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97eae418-93c7-40e2-b2d6-6a81327b83bc/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd
+#LIVE_COUNT:0
+#UPCOMING_COUNT:20
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
