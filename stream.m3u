@@ -6482,80 +6482,78 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #EXTINF:-1 tvg-id="1259" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1259
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-vod.fancode.com/mumbai/4251056_english_hls_012c5e0d0159881_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795865750~acl=/*~id=88530894674767780768539672770704~hmac=8d78f3998ef0e9e794480c83bbf57cb370bee421c2b9c3a5a2b7162993ef6d43
 #EXTINF:-1 tvg-id="1260" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1260
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-vod.fancode.com/mumbai/4250912_english_hls_ec5b6fa4b856063_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795865750~acl=/*~id=88530894674767780768539672770704~hmac=8d78f3998ef0e9e794480c83bbf57cb370bee421c2b9c3a5a2b7162993ef6d43
 #EXTINF:-1 tvg-id="1261" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1261
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-vod.fancode.com/mumbai/4250969_english_hls_b5ac3c348099958_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795865750~acl=/*~id=88530894674767780768539672770704~hmac=8d78f3998ef0e9e794480c83bbf57cb370bee421c2b9c3a5a2b7162993ef6d43
 #EXTINF:-1 tvg-id="1262" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1262
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-vod.fancode.com/mumbai/4250887_english_hls_b929dd0f7222378_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795865750~acl=/*~id=88530894674767780768539672770704~hmac=8d78f3998ef0e9e794480c83bbf57cb370bee421c2b9c3a5a2b7162993ef6d43
 #EXTINF:-1 tvg-id="1263" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1263
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://in-mc-flive.fancode.com/mumbai/139659_english_dash_74009_1drmta-di_h264/index.mpd
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795865750~acl=/*~id=88530894674767780768539672770704~hmac=8d78f3998ef0e9e794480c83bbf57cb370bee421c2b9c3a5a2b7162993ef6d43
 #EXTINF:-1 tvg-id="1264" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1264
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54970af54043cdb9b4d26d5087bb664c
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795836069~acl=/*~id=69228928762625469725156334546345~hmac=c8fc44011192832d68f7ab7acb446c831f02c2a828b7bb25fc38c47b8d69e2a3
+https://ABDJH7DAAAAAAAAMFZV74IP6JOEUI.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprHYw5BhprCcW5A2pjbG91ZGZyb250AngoZmlkOjAxYTIxZTJjLTVkMzEtNzc0MS05NjgzLTBiNWY0Mjc5YTQ4YRkBOKEFoQJ4My9ncW1hc2JwcXZhL291dC92MS82MjQzNGE0MzE2YzQ0NmRiOGUwZDE0NGM0NzM0NWNkNlgg9UnIYEg8fTyC7IhWIwgqJhoGID71tWqCpwaQ-6p89A4/PDX/4a232dd16b634b44ad339a8f4ed17dd6/v1/dash/396202602859/tnf_amzn1_dv_live_csid_8bec13d5-c5c4-4866-a09c-82c212a1a273_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/gqmasbpqva/out/v1/62434a4316c446db8e0d144c47345cd6/f3b57dcf-5832-4ff7-8f96-69595bb6a78e-cenc.mpd?aws.sessionId=8d669d63-f71b-4c6f-8026-1ae0d6ab6627
 #EXTINF:-1 tvg-id="1265" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1265
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f22e996f6bd18b571e3f9d25167a0526
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795836069~acl=/*~id=69228928762625469725156334546345~hmac=c8fc44011192832d68f7ab7acb446c831f02c2a828b7bb25fc38c47b8d69e2a3
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/evewsh19eb/out/v1/5ff67c8e84a148ac8407bbf1269b2049/cenc.mpd
 #EXTINF:-1 tvg-id="1266" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1266
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b127454380d8fffc3acd12575b2b4adb
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795836069~acl=/*~id=69228928762625469725156334546345~hmac=c8fc44011192832d68f7ab7acb446c831f02c2a828b7bb25fc38c47b8d69e2a3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
 #EXTINF:-1 tvg-id="1267" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1267
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=417b7577df2477d1842a4bb9eee852bc
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
-#EXTINF:-1 tvg-id="1268" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1268
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=37683aadc75b1450efa82d62c647984d
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd
-#EXTINF:-1 tvg-id="1269" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1269
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d66e0d80ca9ac6ad8b8c230a97f74b4
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd
-#EXTINF:-1 tvg-id="1270" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1270
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27ae4995704be63440c0dcb001b2abbd
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-#EXTINF:-1 tvg-id="1271" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1271
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e172cb6887761bf883aa925e173e7b67
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
-#EXTINF:-1 tvg-id="1272" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1272
+#EXTINF:-1 tvg-id="1268" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1268
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53ea1027d2bf2893a552cf15bc0366de
+#KODIPROP:inputstream.adaptive.license_key=27ae4995704be63440c0dcb001b2abbd
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://ABBIU5PAAAAAAAAMBE5Z7AUNKUNQU.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprHT7cBhprCXhcA2pjbG91ZGZyb250AngoZmlkOjAxYTIxY2ZlLTI4ZTMtNzMzZi1hNTZjLWM1ZThiNDUwNGEzNRkBOKEFoQJ4My93am0ycGI3Zm54L291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggBv7czO5FpIlnFdt4o8t158KOkuuuP_7erQDMM3RymBM/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/wjm2pb7fnx/out/v1/8197c8e055c94a868623653ac55c10bf/1d53ff1f-b806-4579-ba71-a20b2c9c2841-cenc.mpd?aws.sessionId=7149a5bb-27f1-4681-b26a-64a8bb34f162
-#EXTINF:-1 tvg-id="1273" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1273
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+#EXTINF:-1 tvg-id="1269" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1269
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b748836c71e6a4ca68ef5b5652db6247
+#KODIPROP:inputstream.adaptive.license_key=b757a6777c811bd3744a7cb4a722116b
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-id="1274" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1274
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd
+#EXTINF:-1 tvg-id="1270" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1270
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=343e96a54fc9a8649ab4448993ebad54
+#KODIPROP:inputstream.adaptive.license_key=9fcd23f01aaef2bcf9c5cb2907f86aca
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/syx49vqdrr/out/v1/909eab72dfa945a08debe81846c5b78f/cenc.mpd
-#EXTINF:-1 tvg-id="1275" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1275
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+#EXTINF:-1 tvg-id="1271" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",1271
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86e7bd926119ff53f5eda7457afd8ee3
+#KODIPROP:inputstream.adaptive.license_key=bd2b00bce574c33af46d0538937b3ac3
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
+
+# ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 28 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795884035~acl=/*~id=48447427914756402716166808118689~hmac=d47822f99e8ba5bd8301a436b0f992ecba5094bf4c9b7990d8e2ac9c3e5883da
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 28 Nov 2026 [HIN]
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795884035~acl=/*~id=48447427914756402716166808118689~hmac=d47822f99e8ba5bd8301a436b0f992ecba5094bf4c9b7990d8e2ac9c3e5883da
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 28 Nov 2026 [TAM]
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795884035~acl=/*~id=48447427914756402716166808118689~hmac=d47822f99e8ba5bd8301a436b0f992ecba5094bf4c9b7990d8e2ac9c3e5883da
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 28 Nov 2026 [TEL]
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795884035~acl=/*~id=48447427914756402716166808118689~hmac=d47822f99e8ba5bd8301a436b0f992ecba5094bf4c9b7990d8e2ac9c3e5883da
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 28 Nov 2026 [KAN]
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795884035~acl=/*~id=48447427914756402716166808118689~hmac=d47822f99e8ba5bd8301a436b0f992ecba5094bf4c9b7990d8e2ac9c3e5883da
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694818521427_AO_wildcard_playoffs_2027_Womens_and_Mens_Singles_Final_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's & Women's Singles - Final - 28 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795884035~acl=/*~id=48447427914756402716166808118689~hmac=d47822f99e8ba5bd8301a436b0f992ecba5094bf4c9b7990d8e2ac9c3e5883da
 
 # ---------------=== 🔵 LIVE | WORLDWIDE EVENTS ===-------------------
 
@@ -7212,7 +7210,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 
 #EXTM3U
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:02 AM 28-11-2026
+#LAST_UPDATE:10:02 AM 28-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -7223,7 +7221,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a03ae3c3066640296a041f319d528b8:b757a6777c811bd3744a7cb4a722116b
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HL52VQCV" tvg-name="Womens Big Bash League 2026 - 37th Match - Melbourne Renegades Women vs Melbourne Stars Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.14fd1b72-e146-4349-a891-1771b3aad0ff/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 37th Match - Melbourne Renegades Women vs Melbourne Stars Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1cf31ab4b238c9c0bd1a653cd5d4918:a2471af5b035199c2e739085143062d4
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/29zmikjvfd/out/v1/67d74da2234e44aa9154e4d90eb2d83f/cenc.mpd
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
